@@ -27,9 +27,16 @@ const CONFIG = {
     },
     production: {
       name: 'Production',
-      data: 'https://balatrobench-prod.b-cdn.net' // CDN data
+      // Self-hosted fork: data is served from this site (site/benchmarks/).
+      // Versions in the manifest can point elsewhere with a "data" URL
+      // (e.g. the upstream BalatroBench CDN for the original leaderboard).
+      data: '.'
     }
   },
+
+  // Upstream BalatroBench CDN (CORS-enabled). The community page and the
+  // original leaderboard versions are loaded from here.
+  upstreamData: 'https://balatrobench-prod.b-cdn.net',
 
   // Get current environment
   getCurrent() {

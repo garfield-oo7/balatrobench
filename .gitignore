@@ -244,6 +244,8 @@ dist-ssr
 *.sw?
 .playwright-mcp
 benchmarks*
+# Self-hosted fork: leaderboard data served by GitHub Pages
+!site/benchmarks/
 test-results
 .envrc
 BENCHMARKS_DATA.md

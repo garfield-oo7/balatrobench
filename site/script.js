@@ -350,6 +350,13 @@ let PAGE_TYPE = null; // 'main' or 'community'
 
 // Data source configuration - using CONFIG from config.js
 const DATA_BASE_URL = window.CONFIG ? window.CONFIG.getData() : '';
+// Community strategies are not self-hosted; they come from the upstream CDN
+const STRATEGIES_DATA_BASE_URL = window.CONFIG && window.CONFIG.upstreamData
+  ? window.CONFIG.upstreamData
+  : DATA_BASE_URL;
+// Per-version data base URLs from the manifest ("data" field); versions
+// without one are served from DATA_BASE_URL
+const VERSION_DATA_BASE_URLS = {};
 const IS_DEV = window.CONFIG ? window.CONFIG.environment === 'development' : false;
 
 /**
@@ -442,16 +449,18 @@ function buildRequestBasePath(basePath, vendor, model, runId, requestId, strateg
 // Get data paths based on page type and version
 function getDataPaths(version, vendor = 'openai', model = 'gpt-oss-20b') {
   if (PAGE_TYPE === 'community') {
+    const base = STRATEGIES_DATA_BASE_URL;
     return {
-      manifestPath: `${DATA_BASE_URL}/benchmarks/strategies/manifest.json`,
-      leaderboardPath: `${DATA_BASE_URL}/benchmarks/strategies/${version}/${vendor}/${model}/leaderboard.json`,
-      detailBasePath: `${DATA_BASE_URL}/benchmarks/strategies/${version}/${vendor}/${model}`
+      manifestPath: `${base}/benchmarks/strategies/manifest.json`,
+      leaderboardPath: `${base}/benchmarks/strategies/${version}/${vendor}/${model}/leaderboard.json`,
+      detailBasePath: `${base}/benchmarks/strategies/${version}/${vendor}/${model}`
     };
   } else {
+    const base = VERSION_DATA_BASE_URLS[version] ?? DATA_BASE_URL;
     return {
       manifestPath: `${DATA_BASE_URL}/benchmarks/models/manifest.json`,
-      leaderboardPath: `${DATA_BASE_URL}/benchmarks/models/${version}/default/leaderboard.json`,
-      detailBasePath: `${DATA_BASE_URL}/benchmarks/models/${version}/default`
+      leaderboardPath: `${base}/benchmarks/models/${version}/default/leaderboard.json`,
+      detailBasePath: `${base}/benchmarks/models/${version}/default`
     };
   }
 }
@@ -1821,6 +1830,9 @@ async function loadVersionManifest(manifestPath) {
 
   const data = await response.json();
   const versions = data.versions || [];
+  versions.forEach(v => {
+    if (v.data) VERSION_DATA_BASE_URLS[v.version] = v.data;
+  });
 
   // Set DEFAULT_BENCHMARK_VERSION to the latest version (required)
   const latestVersion = versions.find(v => v.latest);
