@@ -1,0 +1,6 @@
+I'm aiming for 20000 with 4 hands and 4 discards, looking at my hand of S_Q, H_Q (Lucky), S_T, H_9, C_7, S_3, C_3, D_3. With the Smeared Joker treating Hearts/Diamonds as one suit and Spades/Clubs as another, I notice five black cards—S_Q, S_T, C_7, S_3, C_3—form a flush, while the red cards are H_Q, H_9, D_3.
+
+Calculating the black flush: chips add up to 23 plus the level 5 flush base of 95, giving 118 chips, with mult around 12 base plus Even Steven's +4 for the ten plus Supernova's scaling from hands played, landing near 42 total mult—so roughly 4956 score, which falls short of 20000 alone. The red cards don't have enough for a flush, and the three 3s as a Three of a Kind only scores around 59×5, much weaker. So my best bet is the black flush, and across four hands at roughly 5000 each, with Supernova's mult climbing each play, I might just reach 20000—I need to think about how discards could boost the black flush's chip total further.
+
+Since the 3s pair isn't part of the flush anyway, I'll discard H_Q, H_9, and D_3 to try drawing black replacements, keeping S_Q, S_T, and C_7. Discarding is essentially free since only hands earn money, so I'll use this discard before playing the flush.
+

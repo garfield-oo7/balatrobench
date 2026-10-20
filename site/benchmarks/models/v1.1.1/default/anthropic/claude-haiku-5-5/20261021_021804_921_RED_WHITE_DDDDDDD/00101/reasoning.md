@@ -1,0 +1,6 @@
+I'm looking at my current hand with two debuffed cards (H_Q and H_7, likely from a hearts debuff), aiming for 22000 points with 4 hands and 3 discards remaining, while weighing my joker setup — Scary Face, Crafty and Droll boosting flush chips/mult, Acrobat tripling the final hand, and Abstract scaling mult with joker count.
+
+I notice I have exactly 5 diamonds (D_T, D_9, D_7, D_3, D_2) forming a natural flush worth 21 chips of card value, which combined with flush level bonuses, Crafty's +80, and Droll/Abstract mult gives roughly 211 chips × 39 mult ≈ 8229 points. I'm weighing whether to play this flush now toward the 22000 total or save it for the final hand where Acrobat's X3 multiplier would make it far more valuable, factoring in how many points I'd still need from remaining hands either way.
+
+Rather than trying to engineer another flush through discards, the simplest path is just playing this 5-diamond flush immediately for the 8229, since it's already a complete scoring hand and the deck's remaining diamond count is uncertain anyway. That leaves three more hands to cover the remaining ~13771 points, which feels achievable with another decent flush or two plus the Acrobat bonus on the final hand.
+

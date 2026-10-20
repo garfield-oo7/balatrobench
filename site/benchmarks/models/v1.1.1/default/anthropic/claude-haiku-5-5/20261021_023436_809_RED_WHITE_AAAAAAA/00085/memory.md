@@ -1,0 +1,40 @@
+# Memory & Previous Actions
+
+
+## Recent Decision History
+
+Here is a list of your recent decisions (from oldest to newest):
+
+
+**1.** `buy({'pack': 1, 'reasoning': "Jokers are full and Acrobat/To Do List don't fit cleanly. Flush is my proven hand (Crafty Joker synergy), so a Celestial Pack ($4) to level Flush or another hand is the best use of money. Leaves $4."})` - 
+
+**2.** `pack({'card': 0, 'reasoning': "No Flush planet offered. Earth levels Full House (65/6 -> 90/8), the strongest base gain here (vs Saturn 30/4 -> 60/7 on Straight). Full House also pairs with Zany Joker (trips) and the pair-scoring jokers, so it's a useful fallback alongside Flush."})` - 
+
+**3.** `next_round({'reasoning': "Can't afford any useful item at $4 (Acrobat $6, pack $6, voucher $10, reroll $5). Joker slots are full, so To Do List would require selling a working joker. Keeping the $4 and advancing to the next blind."})` - 
+
+**4.** `discard({'cards': [1, 2, 3, 4], 'reasoning': 'Hand has four hearts (H_A, H_6, H_4, H_3) and no pair. Crafty Joker gives +80 chips on any Flush, and Flush is my most-played hand. Discarding the four off-suit cards (S_Q, C_J, D_T, S_7) to draw toward a fifth heart. Target is 10000 with 4 hands, so I need a strong flush.'})` - 
+
+**5.** `play({'cards': [0, 4, 5, 6, 7], 'reasoning': 'Five hearts (H_A, H_8, H_6, H_4, H_3) make a Flush. Crafty Joker gives +80 chips, Odd Todd scores A and 3 (+62 chips), Even Steven scores 8, 6, 4 (+12 mult). Estimated: (50+32+80+62) × (6+12) = 224 × 18 = 4032. This is my best available hand with the current cards, and I have 3 more hands to reach 10000.'})` - 
+
+**6.** `discard({'cards': [0, 4, 5, 1, 2], 'reasoning': "Only C_A, S_T, C_9 are visible and none form a strong hand. Four cards are face down, so I can't evaluate them. Discarding the visible cards plus two face-down cards cycles toward a Flush (Crafty Joker +80) while keeping the rest of the hand open."})` - 
+
+**7.** `discard({'cards': [1, 3, 4, 5, 6], 'reasoning': "Current visible cards (S_J, S_8, D_4, D_3) don't make a strong hand, and four cards are face down. Target is 10000 with 3 hands left and I need about 5968 more, so I need a Flush (Crafty Joker +80). I'm keeping the two visible spades and the one unknown card (7), and discarding the two off-suit visible cards plus three face-down cards to dig for spades. Most new draws will be face up (The Wheel only hits about 1 in 7)."})` - 
+
+**8.** `play({'cards': [1, 2, 3, 5, 6], 'reasoning': 'Five spades (S_K, S_J, S_9, S_8, S_4) make a Flush. Estimated score: chips 50 + card values 41 + Crafty Joker 80 + Scary Face (K, J) 60 + Odd Todd (9) 31 = 262; mult 6 + Even Steven (8, 4) 8 = 14; total ≈ 3668. That brings me to about 7700, leaving 2 hands for the remaining ~2300. The face-down cards are not needed for this hand.'})` - 
+
+**9.** `discard({'cards': [0, 1, 2, 3, 4], 'reasoning': "Need 2300 more chips with 2 hands left. Current visible cards (D_A, D_Q, S_T) don't form anything useful, and the face-down cards are unknown. The only made hand is a pair of 3s (S_3, C_3, about 280 points with Odd Todd), which won't be enough alone. I'll keep the pair plus face-down card 7 and discard the other five to dig for a stronger hand (trips, two pair, or flush). This is the last discard."})` - 
+
+**10.** `play({'cards': [1, 2, 3, 4], 'reasoning': "No discards left and only 2 hands remain. The only made hand I can see is Two Pair: S_7, D_7, S_3, C_3. Odd Todd scores all four (7, 7, 3, 3) for +124 chips, so this should be about (20 + 20 + 124) × 2 ≈ 328. The face-down cards are unknown, so I'm not risking them. This is the best available scoring play, and it helps close the gap to 10000."})` - 
+
+
+
+## Strategic Context
+
+Based on your recent actions, consider:
+- How your decisions are building towards a cohesive strategy
+- Whether your current approach is working or needs adjustment
+- Patterns in your play that might need to change
+
+
+
+

@@ -1,0 +1,10 @@
+[
+  {
+    "id": "toolu_012pQ5wVpNANAuKBoRzvRCQj",
+    "function": {
+      "arguments": "{\"joker\": 0}",
+      "name": "sell"
+    },
+    "type": "function"
+  }
+]

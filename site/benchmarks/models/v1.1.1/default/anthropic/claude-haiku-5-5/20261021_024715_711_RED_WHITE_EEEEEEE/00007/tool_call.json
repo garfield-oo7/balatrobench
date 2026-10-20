@@ -1,0 +1,10 @@
+[
+  {
+    "id": "toolu_01XztoThhEBWBZkvoLkJ3kpx",
+    "function": {
+      "arguments": "{\"pack\": 0}",
+      "name": "buy"
+    },
+    "type": "function"
+  }
+]

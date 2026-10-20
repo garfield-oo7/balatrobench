@@ -1,0 +1,4 @@
+Looking at the Psychic's hand, I notice the Smeared Joker groups hearts with diamonds and spades with clubs as single suits. That means S_Q, S_7, C_7, S_6, S_5 all count as the same black suit — a five-card flush using Q, 7, 7, 6, 5.
+
+Calculating the score: base flush chips (10+Q+7+7+6+5=10+10+7+7+6+5=35... actually chips total 70) times mult 4 gives 280, then Even Steven adds +4 mult for the even-ranked 6, bringing mult to 8 for 560. Jolly Joker then checks whether the played hand contains a pair — since the flush includes two 7s, it does, adding +8 mult for a total mult of 16, giving 70×16 = 1120 chips, comfortably clearing the 600 target. I'm now locking in that the discard should be the black flush (S_Q, S_7, C_7, S_6, S_5 at indices 1,4,5,6,7), since the hearts only give three cards and can't match this score.
+

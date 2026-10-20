@@ -1,0 +1,10 @@
+[
+  {
+    "id": "toolu_015ukRWpCkV9eTZgijfyabTJ",
+    "function": {
+      "arguments": "{\"jokers\": [0, 1, 2, 4, 3]}",
+      "name": "rearrange"
+    },
+    "type": "function"
+  }
+]

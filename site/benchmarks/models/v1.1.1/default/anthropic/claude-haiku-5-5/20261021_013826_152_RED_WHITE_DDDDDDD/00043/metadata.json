@@ -1,0 +1,11 @@
+{
+  "id": "request-00043",
+  "status": "success",
+  "provider": "Anthropic",
+  "tokens_in": 20423,
+  "tokens_out": 629,
+  "time_ms": 4762,
+  "cost_in": 0.00052697,
+  "cost_out": 0.0003145,
+  "cost_total": 0.00084147
+}

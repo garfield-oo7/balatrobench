@@ -1,0 +1,4 @@
+Facing the Hook boss blind, which discards 2 random cards after each played hand, I'm evaluating my options with this hand. Playing the pair of Jacks scores 64, though I'm also weighing whether to play the pair plus extra cards just to cycle through my hand, keeping in mind the Hook's discards are random and not something I can control.
+
+I'm considering using the Venus consumable to upgrade Three of a Kind even though I don't have trips yet, since it's free and I'd rather use it now than let it sit idle — boosting it to Level 2 would give 50 chips and 5 mult, pairing nicely with Zany Joker's bonus for trips. I'm then thinking through a discard strategy: keep the Jack pair and maybe the King, discard the rest, and hope to draw a third Jack from the remaining two in the deck across my five new cards, running rough odds on that happening.
+

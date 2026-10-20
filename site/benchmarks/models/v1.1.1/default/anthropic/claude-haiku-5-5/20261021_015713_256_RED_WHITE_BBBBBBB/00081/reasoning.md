@@ -1,0 +1,6 @@
+I need 1112 more points with 2 hands and no discards left. Looking at my hand, the live cards are the spade King, Queen, Jack, Five, Two plus the Club Six, and since Smeared treats spades and clubs as the same suit, I've got a strong flush potential here.
+
+Playing S_K, S_Q, S_J, C_6, S_5 gives a flush with base chips around 35 plus card values totaling 41, and Sock and Buskin's retrigger on face cards adds another 30 chips, landing around 106 chips. For mult, I'd have base 4 plus Abstract Joker's bonus from five jokers (+15), plus Raised Fist doubling based on my lowest held card — if I keep H_7, D_6, and S_2, the lowest is 2, adding +4, bringing total mult to roughly 23.
+
+But swapping which card I play changes things: if I play S_2 in the flush instead of C_6, my held cards become H_7, D_6, C_6, making the lowest held card a 6 instead of 2, which boosts Raised Fist's mult to +12 instead of +4. That version scores chips around 102 and mult around 31, giving roughly 3162 — clearly better than the ~2438 from the other combo. I'm confirming H_7 is debuffed under the Smeared Joker rule treating hearts as diamonds, so it can't be used in the flush, and the Purple seal on S_2 doesn't matter since it only triggers on discard. I'll go with playing indices 0,1,2,7,6 — K,Q,J,S_2,S_5 — since it yields the higher score.
+

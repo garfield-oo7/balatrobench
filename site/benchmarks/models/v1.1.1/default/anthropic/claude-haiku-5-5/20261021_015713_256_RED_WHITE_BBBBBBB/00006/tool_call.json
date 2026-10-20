@@ -1,0 +1,10 @@
+[
+  {
+    "id": "toolu_01Rk13KSenqnTrdSYsazoRUg",
+    "function": {
+      "arguments": "{\"card\": 1}",
+      "name": "buy"
+    },
+    "type": "function"
+  }
+]
