@@ -1607,7 +1607,10 @@ async function loadAndRenderRequest(state, prefetch = false) {
     const [reasoning, toolcall, strategyMd, gamestateMd, memoryMd, metadata] = await Promise.all([
       fetchTextSafe(`${runBase}/reasoning.md`),
       fetchJsonSafe(`${runBase}/tool_call.json`),
-      fetchTextSafe(`${runBase}/strategy.md`),
+      // Compacted runs store one strategy.md per run (identical for every
+      // request) instead of one per request
+      fetchTextSafe(`${runBase}/strategy.md`).then(text =>
+        text ?? fetchTextSafe(`${runBase.slice(0, runBase.lastIndexOf('/'))}/strategy.md`)),
       fetchTextSafe(`${runBase}/gamestate.md`),
       fetchTextSafe(`${runBase}/memory.md`),
       fetchJsonSafe(`${runBase}/metadata.json`)
