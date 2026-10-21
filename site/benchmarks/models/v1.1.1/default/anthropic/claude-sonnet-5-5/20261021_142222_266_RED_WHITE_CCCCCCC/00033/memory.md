@@ -1,0 +1,40 @@
+# Memory & Previous Actions
+
+
+## Recent Decision History
+
+Here is a list of your recent decisions (from oldest to newest):
+
+
+**1.** `discard({'cards': [1, 2, 4, 6], 'reasoning': 'Keep four diamonds (A,7,4,2), discard debuffed hearts and the 5 of spades to draw for a diamond flush.'})` - 
+
+**2.** `play({'cards': [0, 2, 3, 5, 7], 'reasoning': 'Diamond flush A,Q,7,4,2 holding the 3 for Raised Fist; about 690, enough to clear.'})` - 
+
+**3.** `buy({'card': 1, 'reasoning': 'Cheap mult joker, slots open.'})` - 
+
+**4.** `buy({'pack': 0, 'reasoning': 'Cheap celestial pack to level a hand (Flush).'})` - 
+
+**5.** `pack({'card': 0, 'reasoning': 'Mercury levels Pair, the most commonly played and easiest hand to make.'})` - 
+
+**6.** `next_round({'reasoning': "Only $2; can't afford anything. Move on."})` - 
+
+**7.** `discard({'cards': [0, 3, 6, 7], 'reasoning': 'Keep four diamonds (J,9,6,5) and draw for a flush.'})` - 
+
+**8.** `discard({'cards': [0, 1, 6, 7], 'reasoning': 'Keep four diamonds J,9,6,5 and draw for a flush.'})` - 
+
+**9.** `play({'cards': [1, 2, 4, 5, 6], 'reasoning': 'Diamond flush J,9,6,5,3, holding the 2 for Raised Fist.'})` - 
+
+**10.** `play({'cards': [4, 5], 'reasoning': 'Play pair of 7s; Raised Fist uses held 2 (+4 mult). Score ≈ (25+14)*(3+4+3 spade)=~390 → likely clears 256 needed.'})` - 
+
+
+
+## Strategic Context
+
+Based on your recent actions, consider:
+- How your decisions are building towards a cohesive strategy
+- Whether your current approach is working or needs adjustment
+- Patterns in your play that might need to change
+
+
+
+

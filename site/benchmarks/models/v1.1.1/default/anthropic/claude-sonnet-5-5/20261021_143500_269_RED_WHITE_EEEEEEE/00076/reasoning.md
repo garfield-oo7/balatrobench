@@ -1,0 +1,1 @@
+Uranus levels Two Pair, which I've played 13 times and is my main hand. It also boosts Supernova's count-based scaling.

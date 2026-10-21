@@ -1,0 +1,1 @@
+None of these planets level Flush, which is my main hand, so I'm skipping.

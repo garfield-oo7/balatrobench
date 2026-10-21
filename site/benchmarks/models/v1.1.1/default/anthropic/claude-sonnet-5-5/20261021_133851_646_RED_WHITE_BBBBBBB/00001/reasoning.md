@@ -1,0 +1,1 @@
+Keep the pair of 6s plus the 7, and draw 5 new cards.

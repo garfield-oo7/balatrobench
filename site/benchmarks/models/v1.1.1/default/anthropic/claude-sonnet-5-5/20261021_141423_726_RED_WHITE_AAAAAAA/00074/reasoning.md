@@ -1,0 +1,1 @@
+Uranus boosts Two Pair, which Mad Joker supports; it's the most usable of the three planets.

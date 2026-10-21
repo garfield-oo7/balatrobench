@@ -1,0 +1,1 @@
+Can't afford anything useful; proceed.

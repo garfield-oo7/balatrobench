@@ -1,0 +1,1 @@
+Two Pair is played often and has Mad Joker support, so Uranus is the best choice here.

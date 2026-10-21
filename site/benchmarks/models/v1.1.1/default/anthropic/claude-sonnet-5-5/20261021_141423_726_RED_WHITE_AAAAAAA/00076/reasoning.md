@@ -1,0 +1,1 @@
+Acrobat gives X3 mult on final hand; fills the open joker slot.

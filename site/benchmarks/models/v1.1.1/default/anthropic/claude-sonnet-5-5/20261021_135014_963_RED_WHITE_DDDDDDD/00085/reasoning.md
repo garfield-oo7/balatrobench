@@ -1,0 +1,1 @@
+Money is low and the jokers are full. Nothing in the shop helps, so I'm moving on.

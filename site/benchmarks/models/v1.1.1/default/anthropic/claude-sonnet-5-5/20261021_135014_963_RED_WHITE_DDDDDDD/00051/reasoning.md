@@ -1,0 +1,1 @@
+No Jupiter in the pack. None of these planets level my main hand (Flush), so I'm skipping and keeping the consumable slot free.

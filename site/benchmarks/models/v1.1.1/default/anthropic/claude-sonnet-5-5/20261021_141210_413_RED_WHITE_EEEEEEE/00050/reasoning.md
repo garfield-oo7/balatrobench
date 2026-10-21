@@ -1,0 +1,1 @@
+Uranus levels Two Pair, my frequently played hand (7 times) and Supernova scales with plays. Pair-containing jokers work with it too.

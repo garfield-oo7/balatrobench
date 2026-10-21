@@ -1,0 +1,1 @@
+Planet cards level up hands (likely Jupiter or Neptune for flush); consumable slots are empty.

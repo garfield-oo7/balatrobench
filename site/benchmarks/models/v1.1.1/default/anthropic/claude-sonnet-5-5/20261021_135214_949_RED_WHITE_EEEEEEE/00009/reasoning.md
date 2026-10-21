@@ -1,0 +1,1 @@
+Jolly Joker: cheap +8 Mult for pair-containing hands, works with two pair, trips and full house.

@@ -1,0 +1,1 @@
+Convert K♠, K♦ and 8♣ to Hearts so the hand has a Heart flush with the existing K♥, 6♥ and 2♥. Flush is the main hand type.

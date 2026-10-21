@@ -1,0 +1,1 @@
+Arcana pack for suit-change/enhancement tarots to support flush strategy.

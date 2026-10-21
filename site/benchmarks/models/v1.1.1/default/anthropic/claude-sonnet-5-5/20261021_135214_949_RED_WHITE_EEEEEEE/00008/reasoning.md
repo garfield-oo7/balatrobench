@@ -1,0 +1,1 @@
+Three tens with Even Steven: (30+30)*(3+12)=900, enough to beat the 450 blind.

@@ -1,0 +1,1 @@
+Keep J,T,9,9,8 for straight draw (Q or 7) and a pair of 9s fallback.

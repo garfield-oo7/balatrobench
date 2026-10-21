@@ -1,0 +1,1 @@
+Two Pair KK44 triggers Mad Joker, Spare Trousers, Scary Face and Photograph. Should clear the blind.

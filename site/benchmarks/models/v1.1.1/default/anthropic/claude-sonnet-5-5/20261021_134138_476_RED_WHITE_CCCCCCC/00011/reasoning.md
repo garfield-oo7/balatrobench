@@ -1,0 +1,1 @@
+Trips of Tens: 180 points.

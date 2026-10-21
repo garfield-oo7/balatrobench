@@ -1,0 +1,1 @@
+Jumbo celestial pack to level Pair/Two Pair/Full House.

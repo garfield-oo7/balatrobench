@@ -1,0 +1,1 @@
+Jupiter levels Flush, my main hand (played 19 times, Supernova scales it).

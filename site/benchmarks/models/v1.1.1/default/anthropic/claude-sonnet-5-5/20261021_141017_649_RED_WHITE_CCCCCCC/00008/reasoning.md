@@ -1,0 +1,1 @@
+Two pair K's and T's, plus J to cycle.

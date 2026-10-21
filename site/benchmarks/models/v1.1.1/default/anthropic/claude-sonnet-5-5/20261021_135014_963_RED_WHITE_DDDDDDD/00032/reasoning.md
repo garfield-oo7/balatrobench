@@ -1,0 +1,1 @@
+Only $2 and joker slots full; nothing affordable. Proceed.

@@ -1,0 +1,1 @@
+Uranus levels Two Pair, which is our main hand with Mad Joker. Flush is already at level 4.

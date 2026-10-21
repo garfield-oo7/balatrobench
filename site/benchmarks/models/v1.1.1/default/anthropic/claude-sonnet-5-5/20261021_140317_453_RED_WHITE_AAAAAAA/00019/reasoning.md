@@ -1,0 +1,1 @@
+Keep four clubs (A,7,3,2) to chase a flush with Crafty Joker.

@@ -1,0 +1,1 @@
+To Do List gives cheap income/joker; pair hands are easy.

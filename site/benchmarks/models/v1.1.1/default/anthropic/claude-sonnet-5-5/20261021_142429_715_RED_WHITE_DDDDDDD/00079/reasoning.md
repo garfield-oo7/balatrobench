@@ -1,0 +1,1 @@
+Celestial pack may give Jupiter/other levels for flush strategy.

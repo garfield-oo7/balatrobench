@@ -1,0 +1,4 @@
+I still need 9906 more chips with only two hands and no discards left. Since hearts are debuffed and I have no pairs, my only non-debuffed cards are the ace of clubs, ten of diamonds, and four of diamonds, so I'm weighing a high-card play around the ace of clubs to maximize scoring with whatever mult boosts like Swashbuckler are active.
+
+Running the numbers: an ace-based high card with Odd Todd's bonus gives roughly 47 chips at 11 mult, totaling around 517 - nowhere near enough. Instead I'm considering a full flush of hearts: even though those cards don't score chips individually, Crafty and Droll still trigger off the flush type, giving (110+80) chips times (14+10+10) mult, around 6460 - a much stronger play. I'll go with the heart flush and reassess what's needed from the next hand afterward.
+

@@ -1,0 +1,1 @@
+Adding any card triggers Hologram; pick the 5 of Hearts.

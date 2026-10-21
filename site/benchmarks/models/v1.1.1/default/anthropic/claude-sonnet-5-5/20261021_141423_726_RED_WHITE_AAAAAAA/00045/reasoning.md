@@ -1,0 +1,1 @@
+Convert K, 8, 6 of clubs to Hearts, making a heart flush with 7H and 4H. It keeps Scary Face and Even Steven value.

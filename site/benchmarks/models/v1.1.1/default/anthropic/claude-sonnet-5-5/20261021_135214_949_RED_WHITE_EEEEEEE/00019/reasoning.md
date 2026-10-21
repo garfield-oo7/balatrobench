@@ -1,0 +1,1 @@
+Emperor creates 2 random Tarots; I have 2 empty consumable slots, so it gives the most value.

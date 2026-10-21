@@ -1,0 +1,1 @@
+Level up Three of a Kind to pair with Zany Joker.

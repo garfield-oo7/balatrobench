@@ -1,0 +1,1 @@
+Play pair of 7s with extra cards to cycle.

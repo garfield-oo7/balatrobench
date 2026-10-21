@@ -1,0 +1,1 @@
+Money is low and slots are full. Save it and move on.

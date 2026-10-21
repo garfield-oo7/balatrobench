@@ -1,0 +1,4 @@
+With only one hand and four discards left, I need 577 more points. Looking at my hand, I notice it's evenly split between red and black cards, which suggests going for a flush by discarding the mismatched colors and keeping either the four red or four black cards to draw into a scoring flush.
+
+But checking the math, a basic flush without multiplier jokers only reaches around 300, not enough. Three of a kind looks much stronger with my Zany joker — I already have a pair of Queens and a pair of Aces, so if I could turn one more card into a Queen or Ace, trips would push well past 577. The Death card lets me convert one card into another, so I'm working out which card to sacrifice and which to duplicate, but I need to figure out the correct left-to-right ordering for the conversion based on hand position, since the mechanic converts the left-positioned card into the right-positioned one.
+

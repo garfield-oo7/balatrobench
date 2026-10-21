@@ -1,0 +1,1 @@
+Emperor creates 2 random tarots (consumable slots empty), more value than the situational Lovers or Sun.

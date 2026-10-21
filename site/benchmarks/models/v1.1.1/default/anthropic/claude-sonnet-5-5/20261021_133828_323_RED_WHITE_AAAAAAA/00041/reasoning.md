@@ -1,0 +1,1 @@
+Jokers are full, so I'll buy an Arcana pack for a useful Tarot.

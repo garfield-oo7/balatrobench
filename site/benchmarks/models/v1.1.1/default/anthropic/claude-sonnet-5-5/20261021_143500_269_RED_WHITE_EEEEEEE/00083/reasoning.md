@@ -1,0 +1,1 @@
+Can't afford packs; jokers full. Keep money for interest.

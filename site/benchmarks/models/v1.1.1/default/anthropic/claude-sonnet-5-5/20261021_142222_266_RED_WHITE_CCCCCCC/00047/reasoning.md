@@ -1,0 +1,1 @@
+Hand has 3 spades (9,8,6) plus K spade; Moon would make clubs... better: convert hearts/others to Spades? Not available. Moon on non-spade cards J,T hearts and Q club? Clubs: K,Q clubs already; converting J,T hearts to clubs gives 4 clubs (K,Q,J,T) for flush; Retarget.

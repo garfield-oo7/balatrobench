@@ -1,0 +1,1 @@
+Smiley Face gives solid +5 mult on face cards, works with Even Steven.

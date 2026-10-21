@@ -1,0 +1,1 @@
+The Fool should recreate the last Tarot or Planet card I used, most likely Uranus, which levels up Two Pair. I have free consumable slots.

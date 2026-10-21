@@ -1,0 +1,1 @@
+Justice makes the J of Diamonds a Glass card (X2 Mult). It's a face card, so it also works with Scary Face and Photograph. Judgement can't be used because the Joker slots are full, and The Moon isn't useful here.

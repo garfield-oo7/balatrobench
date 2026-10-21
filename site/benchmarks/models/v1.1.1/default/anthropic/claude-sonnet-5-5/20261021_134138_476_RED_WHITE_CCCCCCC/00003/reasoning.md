@@ -1,0 +1,1 @@
+Keep the pair of Tens and the Ace, and draw 5 cards looking for trips or two pair.

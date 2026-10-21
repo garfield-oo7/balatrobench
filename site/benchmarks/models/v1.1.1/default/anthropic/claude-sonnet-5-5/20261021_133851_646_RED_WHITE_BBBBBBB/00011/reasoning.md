@@ -1,0 +1,1 @@
+Play pair of Kings, with Hologram x1.25. Keep J pair for later.

@@ -1,0 +1,1 @@
+Emperor creates 2 tarots (consumable slots are empty), giving more value.

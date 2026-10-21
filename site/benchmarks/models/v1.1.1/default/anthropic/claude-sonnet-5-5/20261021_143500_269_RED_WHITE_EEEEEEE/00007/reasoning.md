@@ -1,0 +1,1 @@
+Smiley Face gives +5 Mult for each face card played. It's a solid early mult joker. Smeared Joker isn't useful for this deck yet.

@@ -1,0 +1,1 @@
+Pair of 7s scores 48, which clears the 4 points still needed.

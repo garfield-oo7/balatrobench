@@ -1,0 +1,1 @@
+Saturn levels Straight, which pairs with Crazy Joker. It's our main hand.

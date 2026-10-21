@@ -1,0 +1,785 @@
+{
+  "generated_at": 1792565208,
+  "model": {
+    "vendor": "anthropic",
+    "name": "claude-sonnet-5-5"
+  },
+  "strategy": {
+    "name": "Default",
+    "key": "default",
+    "description": "The default BalatroLLM strategy",
+    "author": "BalatroLLM",
+    "version": "1.0.0",
+    "tags": [
+      "conservative",
+      "financial"
+    ]
+  },
+  "runs": [
+    {
+      "id": "20261021_141959_189_RED_WHITE_BBBBBBB",
+      "model": {
+        "vendor": "anthropic",
+        "name": "claude-sonnet-5-5"
+      },
+      "strategy": {
+        "name": "Default",
+        "key": "default",
+        "description": "The default BalatroLLM strategy",
+        "author": "BalatroLLM",
+        "version": "1.0.0",
+        "tags": [
+          "conservative",
+          "financial"
+        ]
+      },
+      "config": {
+        "seed": "BBBBBBB",
+        "deck": "RED",
+        "stake": "WHITE"
+      },
+      "run_won": false,
+      "run_completed": true,
+      "final_ante": 2,
+      "final_round": 6,
+      "providers": [
+        [
+          "Anthropic",
+          48
+        ]
+      ],
+      "stats": {
+        "calls_total": 48,
+        "calls_success": 48,
+        "calls_error": 0,
+        "calls_failed": 0,
+        "tokens_in_total": 981573,
+        "tokens_out_total": 14037,
+        "tokens_in_avg": 20449.4375,
+        "tokens_out_avg": 292.4375,
+        "tokens_in_std": 420.5082490272932,
+        "tokens_out_std": 185.10846805807807,
+        "time_total_ms": 193792,
+        "time_avg_ms": 4037.3333333333335,
+        "time_std_ms": 2046.2496710597309,
+        "cost_total": 0.5125776,
+        "cost_avg": 0.0106787,
+        "cost_std": 0.0020308085979978832
+      }
+    },
+    {
+      "id": "20261021_143500_269_RED_WHITE_EEEEEEE",
+      "model": {
+        "vendor": "anthropic",
+        "name": "claude-sonnet-5-5"
+      },
+      "strategy": {
+        "name": "Default",
+        "key": "default",
+        "description": "The default BalatroLLM strategy",
+        "author": "BalatroLLM",
+        "version": "1.0.0",
+        "tags": [
+          "conservative",
+          "financial"
+        ]
+      },
+      "config": {
+        "seed": "EEEEEEE",
+        "deck": "RED",
+        "stake": "WHITE"
+      },
+      "run_won": false,
+      "run_completed": true,
+      "final_ante": 6,
+      "final_round": 17,
+      "providers": [
+        [
+          "Anthropic",
+          120
+        ]
+      ],
+      "stats": {
+        "calls_total": 120,
+        "calls_success": 119,
+        "calls_error": 0,
+        "calls_failed": 1,
+        "tokens_in_total": 2463148,
+        "tokens_out_total": 35914,
+        "tokens_in_avg": 20526.233333333334,
+        "tokens_out_avg": 299.28333333333336,
+        "tokens_in_std": 486.16544082682566,
+        "tokens_out_std": 227.23423606317706,
+        "time_total_ms": 507163,
+        "time_avg_ms": 4226.358333333334,
+        "time_std_ms": 2715.4721049701743,
+        "cost_total": 1.3175482,
+        "cost_avg": 0.010979568333333333,
+        "cost_std": 0.002445339340716888
+      }
+    },
+    {
+      "id": "20261021_135214_949_RED_WHITE_EEEEEEE",
+      "model": {
+        "vendor": "anthropic",
+        "name": "claude-sonnet-5-5"
+      },
+      "strategy": {
+        "name": "Default",
+        "key": "default",
+        "description": "The default BalatroLLM strategy",
+        "author": "BalatroLLM",
+        "version": "1.0.0",
+        "tags": [
+          "conservative",
+          "financial"
+        ]
+      },
+      "config": {
+        "seed": "EEEEEEE",
+        "deck": "RED",
+        "stake": "WHITE"
+      },
+      "run_won": false,
+      "run_completed": true,
+      "final_ante": 6,
+      "final_round": 17,
+      "providers": [
+        [
+          "Anthropic",
+          115
+        ]
+      ],
+      "stats": {
+        "calls_total": 115,
+        "calls_success": 111,
+        "calls_error": 0,
+        "calls_failed": 4,
+        "tokens_in_total": 2367110,
+        "tokens_out_total": 34125,
+        "tokens_in_avg": 20583.565217391304,
+        "tokens_out_avg": 296.7391304347826,
+        "tokens_in_std": 490.0266575354315,
+        "tokens_out_std": 209.68669556622527,
+        "time_total_ms": 504491,
+        "time_avg_ms": 4386.878260869566,
+        "time_std_ms": 2646.270941783982,
+        "cost_total": 1.2712102,
+        "cost_avg": 0.011054001739130435,
+        "cost_std": 0.0022952661652781434
+      }
+    },
+    {
+      "id": "20261021_142222_266_RED_WHITE_CCCCCCC",
+      "model": {
+        "vendor": "anthropic",
+        "name": "claude-sonnet-5-5"
+      },
+      "strategy": {
+        "name": "Default",
+        "key": "default",
+        "description": "The default BalatroLLM strategy",
+        "author": "BalatroLLM",
+        "version": "1.0.0",
+        "tags": [
+          "conservative",
+          "financial"
+        ]
+      },
+      "config": {
+        "seed": "CCCCCCC",
+        "deck": "RED",
+        "stake": "WHITE"
+      },
+      "run_won": false,
+      "run_completed": true,
+      "final_ante": 5,
+      "final_round": 15,
+      "providers": [
+        [
+          "Anthropic",
+          144
+        ]
+      ],
+      "stats": {
+        "calls_total": 144,
+        "calls_success": 140,
+        "calls_error": 0,
+        "calls_failed": 4,
+        "tokens_in_total": 2978287,
+        "tokens_out_total": 44258,
+        "tokens_in_avg": 20682.54861111111,
+        "tokens_out_avg": 307.34722222222223,
+        "tokens_in_std": 409.88355552396416,
+        "tokens_out_std": 194.52140729063188,
+        "time_total_ms": 645669,
+        "time_avg_ms": 4483.8125,
+        "time_std_ms": 2369.098595122012,
+        "cost_total": 1.6266352,
+        "cost_avg": 0.011296077777777778,
+        "cost_std": 0.0021268209536144528
+      }
+    },
+    {
+      "id": "20261021_140317_453_RED_WHITE_AAAAAAA",
+      "model": {
+        "vendor": "anthropic",
+        "name": "claude-sonnet-5-5"
+      },
+      "strategy": {
+        "name": "Default",
+        "key": "default",
+        "description": "The default BalatroLLM strategy",
+        "author": "BalatroLLM",
+        "version": "1.0.0",
+        "tags": [
+          "conservative",
+          "financial"
+        ]
+      },
+      "config": {
+        "seed": "AAAAAAA",
+        "deck": "RED",
+        "stake": "WHITE"
+      },
+      "run_won": false,
+      "run_completed": true,
+      "final_ante": 4,
+      "final_round": 12,
+      "providers": [
+        [
+          "Anthropic",
+          80
+        ]
+      ],
+      "stats": {
+        "calls_total": 80,
+        "calls_success": 79,
+        "calls_error": 0,
+        "calls_failed": 1,
+        "tokens_in_total": 1642210,
+        "tokens_out_total": 20296,
+        "tokens_in_avg": 20527.625,
+        "tokens_out_avg": 253.7,
+        "tokens_in_std": 471.9218819447005,
+        "tokens_out_std": 170.7203205482618,
+        "time_total_ms": 291573,
+        "time_avg_ms": 3644.6625,
+        "time_std_ms": 1767.162374920721,
+        "cost_total": 0.839407,
+        "cost_avg": 0.010492587500000001,
+        "cost_std": 0.0018860406524992368
+      }
+    },
+    {
+      "id": "20261021_134138_476_RED_WHITE_CCCCCCC",
+      "model": {
+        "vendor": "anthropic",
+        "name": "claude-sonnet-5-5"
+      },
+      "strategy": {
+        "name": "Default",
+        "key": "default",
+        "description": "The default BalatroLLM strategy",
+        "author": "BalatroLLM",
+        "version": "1.0.0",
+        "tags": [
+          "conservative",
+          "financial"
+        ]
+      },
+      "config": {
+        "seed": "CCCCCCC",
+        "deck": "RED",
+        "stake": "WHITE"
+      },
+      "run_won": false,
+      "run_completed": true,
+      "final_ante": 4,
+      "final_round": 11,
+      "providers": [
+        [
+          "Anthropic",
+          90
+        ]
+      ],
+      "stats": {
+        "calls_total": 90,
+        "calls_success": 87,
+        "calls_error": 0,
+        "calls_failed": 3,
+        "tokens_in_total": 1852276,
+        "tokens_out_total": 27199,
+        "tokens_in_avg": 20580.844444444443,
+        "tokens_out_avg": 302.2111111111111,
+        "tokens_in_std": 421.60892766892084,
+        "tokens_out_std": 223.2363837308414,
+        "time_total_ms": 374521,
+        "time_avg_ms": 4161.344444444445,
+        "time_std_ms": 2598.9928090700832,
+        "cost_total": 0.9928333,
+        "cost_avg": 0.01103148111111111,
+        "cost_std": 0.0024213570199278357
+      }
+    },
+    {
+      "id": "20261021_141017_649_RED_WHITE_CCCCCCC",
+      "model": {
+        "vendor": "anthropic",
+        "name": "claude-sonnet-5-5"
+      },
+      "strategy": {
+        "name": "Default",
+        "key": "default",
+        "description": "The default BalatroLLM strategy",
+        "author": "BalatroLLM",
+        "version": "1.0.0",
+        "tags": [
+          "conservative",
+          "financial"
+        ]
+      },
+      "config": {
+        "seed": "CCCCCCC",
+        "deck": "RED",
+        "stake": "WHITE"
+      },
+      "run_won": false,
+      "run_completed": true,
+      "final_ante": 1,
+      "final_round": 2,
+      "providers": [
+        [
+          "Anthropic",
+          14
+        ]
+      ],
+      "stats": {
+        "calls_total": 14,
+        "calls_success": 14,
+        "calls_error": 0,
+        "calls_failed": 0,
+        "tokens_in_total": 282349,
+        "tokens_out_total": 3201,
+        "tokens_in_avg": 20167.785714285714,
+        "tokens_out_avg": 228.64285714285714,
+        "tokens_in_std": 441.0522694597596,
+        "tokens_out_std": 94.29708139937078,
+        "time_total_ms": 46253,
+        "time_avg_ms": 3303.785714285714,
+        "time_std_ms": 1234.2560000366107,
+        "cost_total": 0.1327147,
+        "cost_avg": 0.009479621428571427,
+        "cost_std": 0.001294579113177223
+      }
+    },
+    {
+      "id": "20261021_141423_726_RED_WHITE_AAAAAAA",
+      "model": {
+        "vendor": "anthropic",
+        "name": "claude-sonnet-5-5"
+      },
+      "strategy": {
+        "name": "Default",
+        "key": "default",
+        "description": "The default BalatroLLM strategy",
+        "author": "BalatroLLM",
+        "version": "1.0.0",
+        "tags": [
+          "conservative",
+          "financial"
+        ]
+      },
+      "config": {
+        "seed": "AAAAAAA",
+        "deck": "RED",
+        "stake": "WHITE"
+      },
+      "run_won": false,
+      "run_completed": true,
+      "final_ante": 4,
+      "final_round": 12,
+      "providers": [
+        [
+          "Anthropic",
+          87
+        ]
+      ],
+      "stats": {
+        "calls_total": 87,
+        "calls_success": 85,
+        "calls_error": 0,
+        "calls_failed": 2,
+        "tokens_in_total": 1784444,
+        "tokens_out_total": 23738,
+        "tokens_in_avg": 20510.850574712644,
+        "tokens_out_avg": 272.85057471264366,
+        "tokens_in_std": 474.2881699032045,
+        "tokens_out_std": 188.97400637885403,
+        "time_total_ms": 348021,
+        "time_avg_ms": 4000.2413793103447,
+        "time_std_ms": 2255.627061608044,
+        "cost_total": 0.9295597,
+        "cost_avg": 0.010684594252873563,
+        "cost_std": 0.002096228389072296
+      }
+    },
+    {
+      "id": "20261021_141134_381_RED_WHITE_DDDDDDD",
+      "model": {
+        "vendor": "anthropic",
+        "name": "claude-sonnet-5-5"
+      },
+      "strategy": {
+        "name": "Default",
+        "key": "default",
+        "description": "The default BalatroLLM strategy",
+        "author": "BalatroLLM",
+        "version": "1.0.0",
+        "tags": [
+          "conservative",
+          "financial"
+        ]
+      },
+      "config": {
+        "seed": "DDDDDDD",
+        "deck": "RED",
+        "stake": "WHITE"
+      },
+      "run_won": false,
+      "run_completed": true,
+      "final_ante": 2,
+      "final_round": 6,
+      "providers": [
+        [
+          "Anthropic",
+          34
+        ]
+      ],
+      "stats": {
+        "calls_total": 34,
+        "calls_success": 33,
+        "calls_error": 0,
+        "calls_failed": 1,
+        "tokens_in_total": 695352,
+        "tokens_out_total": 8293,
+        "tokens_in_avg": 20451.529411764706,
+        "tokens_out_avg": 243.91176470588235,
+        "tokens_in_std": 479.4482457167359,
+        "tokens_out_std": 168.92913480116516,
+        "time_total_ms": 113577,
+        "time_avg_ms": 3340.5,
+        "time_std_ms": 1864.2129259645567,
+        "cost_total": 0.3480132,
+        "cost_avg": 0.010235682352941177,
+        "cost_std": 0.0019236287864772645
+      }
+    },
+    {
+      "id": "20261021_142429_715_RED_WHITE_DDDDDDD",
+      "model": {
+        "vendor": "anthropic",
+        "name": "claude-sonnet-5-5"
+      },
+      "strategy": {
+        "name": "Default",
+        "key": "default",
+        "description": "The default BalatroLLM strategy",
+        "author": "BalatroLLM",
+        "version": "1.0.0",
+        "tags": [
+          "conservative",
+          "financial"
+        ]
+      },
+      "config": {
+        "seed": "DDDDDDD",
+        "deck": "RED",
+        "stake": "WHITE"
+      },
+      "run_won": false,
+      "run_completed": true,
+      "final_ante": 5,
+      "final_round": 15,
+      "providers": [
+        [
+          "Anthropic",
+          107
+        ]
+      ],
+      "stats": {
+        "calls_total": 107,
+        "calls_success": 107,
+        "calls_error": 0,
+        "calls_failed": 0,
+        "tokens_in_total": 2202331,
+        "tokens_out_total": 28133,
+        "tokens_in_avg": 20582.532710280375,
+        "tokens_out_avg": 262.9252336448598,
+        "tokens_in_std": 456.53699177978973,
+        "tokens_out_std": 169.7361826946358,
+        "time_total_ms": 469495,
+        "time_avg_ms": 4387.803738317757,
+        "time_std_ms": 6648.270360166822,
+        "cost_total": 1.1454028,
+        "cost_avg": 0.010704699065420561,
+        "cost_std": 0.0018419643312105557
+      }
+    },
+    {
+      "id": "20261021_140342_492_RED_WHITE_BBBBBBB",
+      "model": {
+        "vendor": "anthropic",
+        "name": "claude-sonnet-5-5"
+      },
+      "strategy": {
+        "name": "Default",
+        "key": "default",
+        "description": "The default BalatroLLM strategy",
+        "author": "BalatroLLM",
+        "version": "1.0.0",
+        "tags": [
+          "conservative",
+          "financial"
+        ]
+      },
+      "config": {
+        "seed": "BBBBBBB",
+        "deck": "RED",
+        "stake": "WHITE"
+      },
+      "run_won": false,
+      "run_completed": true,
+      "final_ante": 3,
+      "final_round": 9,
+      "providers": [
+        [
+          "Anthropic",
+          82
+        ]
+      ],
+      "stats": {
+        "calls_total": 82,
+        "calls_success": 80,
+        "calls_error": 0,
+        "calls_failed": 2,
+        "tokens_in_total": 1687054,
+        "tokens_out_total": 24524,
+        "tokens_in_avg": 20573.829268292684,
+        "tokens_out_avg": 299.0731707317073,
+        "tokens_in_std": 456.8147855188072,
+        "tokens_out_std": 204.8222222516247,
+        "time_total_ms": 382509,
+        "time_avg_ms": 4664.743902439024,
+        "time_std_ms": 2704.7431717193335,
+        "cost_total": 0.9040143,
+        "cost_avg": 0.011024564634146342,
+        "cost_std": 0.0022485658447916187
+      }
+    },
+    {
+      "id": "20261021_141210_413_RED_WHITE_EEEEEEE",
+      "model": {
+        "vendor": "anthropic",
+        "name": "claude-sonnet-5-5"
+      },
+      "strategy": {
+        "name": "Default",
+        "key": "default",
+        "description": "The default BalatroLLM strategy",
+        "author": "BalatroLLM",
+        "version": "1.0.0",
+        "tags": [
+          "conservative",
+          "financial"
+        ]
+      },
+      "config": {
+        "seed": "EEEEEEE",
+        "deck": "RED",
+        "stake": "WHITE"
+      },
+      "run_won": false,
+      "run_completed": true,
+      "final_ante": 4,
+      "final_round": 12,
+      "providers": [
+        [
+          "Anthropic",
+          83
+        ]
+      ],
+      "stats": {
+        "calls_total": 83,
+        "calls_success": 83,
+        "calls_error": 0,
+        "calls_failed": 0,
+        "tokens_in_total": 1702919,
+        "tokens_out_total": 23763,
+        "tokens_in_avg": 20517.09638554217,
+        "tokens_out_avg": 286.30120481927713,
+        "tokens_in_std": 469.68530238816214,
+        "tokens_out_std": 290.973669705603,
+        "time_total_ms": 334572,
+        "time_avg_ms": 4030.987951807229,
+        "time_std_ms": 3174.1104246163127,
+        "cost_total": 0.8969743,
+        "cost_avg": 0.010806919277108433,
+        "cost_std": 0.0030488007847331903
+      }
+    },
+    {
+      "id": "20261021_135014_963_RED_WHITE_DDDDDDD",
+      "model": {
+        "vendor": "anthropic",
+        "name": "claude-sonnet-5-5"
+      },
+      "strategy": {
+        "name": "Default",
+        "key": "default",
+        "description": "The default BalatroLLM strategy",
+        "author": "BalatroLLM",
+        "version": "1.0.0",
+        "tags": [
+          "conservative",
+          "financial"
+        ]
+      },
+      "config": {
+        "seed": "DDDDDDD",
+        "deck": "RED",
+        "stake": "WHITE"
+      },
+      "run_won": false,
+      "run_completed": true,
+      "final_ante": 7,
+      "final_round": 19,
+      "providers": [
+        [
+          "Anthropic",
+          131
+        ]
+      ],
+      "stats": {
+        "calls_total": 131,
+        "calls_success": 131,
+        "calls_error": 0,
+        "calls_failed": 0,
+        "tokens_in_total": 2696366,
+        "tokens_out_total": 32431,
+        "tokens_in_avg": 20582.946564885497,
+        "tokens_out_avg": 247.5648854961832,
+        "tokens_in_std": 439.6123171959777,
+        "tokens_out_std": 147.47219290620083,
+        "time_total_ms": 579193,
+        "time_avg_ms": 4421.320610687023,
+        "time_std_ms": 6310.722074090895,
+        "cost_total": 1.3812306,
+        "cost_avg": 0.01054374503816794,
+        "cost_std": 0.0015939102092369592
+      }
+    },
+    {
+      "id": "20261021_133828_323_RED_WHITE_AAAAAAA",
+      "model": {
+        "vendor": "anthropic",
+        "name": "claude-sonnet-5-5"
+      },
+      "strategy": {
+        "name": "Default",
+        "key": "default",
+        "description": "The default BalatroLLM strategy",
+        "author": "BalatroLLM",
+        "version": "1.0.0",
+        "tags": [
+          "conservative",
+          "financial"
+        ]
+      },
+      "config": {
+        "seed": "AAAAAAA",
+        "deck": "RED",
+        "stake": "WHITE"
+      },
+      "run_won": false,
+      "run_completed": true,
+      "final_ante": 6,
+      "final_round": 18,
+      "providers": [
+        [
+          "Anthropic",
+          142
+        ]
+      ],
+      "stats": {
+        "calls_total": 142,
+        "calls_success": 140,
+        "calls_error": 0,
+        "calls_failed": 2,
+        "tokens_in_total": 2930095,
+        "tokens_out_total": 43911,
+        "tokens_in_avg": 20634.471830985916,
+        "tokens_out_avg": 309.2323943661972,
+        "tokens_in_std": 416.4862592756429,
+        "tokens_out_std": 205.51159707377832,
+        "time_total_ms": 601989,
+        "time_avg_ms": 4239.359154929577,
+        "time_std_ms": 2352.5949497846996,
+        "cost_total": 1.7209413,
+        "cost_avg": 0.012119304929577464,
+        "cost_std": 0.005835162660137181
+      }
+    },
+    {
+      "id": "20261021_133851_646_RED_WHITE_BBBBBBB",
+      "model": {
+        "vendor": "anthropic",
+        "name": "claude-sonnet-5-5"
+      },
+      "strategy": {
+        "name": "Default",
+        "key": "default",
+        "description": "The default BalatroLLM strategy",
+        "author": "BalatroLLM",
+        "version": "1.0.0",
+        "tags": [
+          "conservative",
+          "financial"
+        ]
+      },
+      "config": {
+        "seed": "BBBBBBB",
+        "deck": "RED",
+        "stake": "WHITE"
+      },
+      "run_won": false,
+      "run_completed": true,
+      "final_ante": 2,
+      "final_round": 4,
+      "providers": [
+        [
+          "Anthropic",
+          32
+        ]
+      ],
+      "stats": {
+        "calls_total": 32,
+        "calls_success": 31,
+        "calls_error": 0,
+        "calls_failed": 1,
+        "tokens_in_total": 650689,
+        "tokens_out_total": 8213,
+        "tokens_in_avg": 20334.03125,
+        "tokens_out_avg": 256.65625,
+        "tokens_in_std": 479.25779205976403,
+        "tokens_out_std": 151.81771951810308,
+        "time_total_ms": 107016,
+        "time_avg_ms": 3344.25,
+        "time_std_ms": 1586.4198484272285,
+        "cost_total": 0.3234885,
+        "cost_avg": 0.010109015625,
+        "cost_std": 0.0017229964688540334
+      }
+    }
+  ]
+}

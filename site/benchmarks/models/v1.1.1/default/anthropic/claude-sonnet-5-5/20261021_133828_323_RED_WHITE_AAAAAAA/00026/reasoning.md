@@ -1,0 +1,1 @@
+High Priestess for $3 gives 2 planets.

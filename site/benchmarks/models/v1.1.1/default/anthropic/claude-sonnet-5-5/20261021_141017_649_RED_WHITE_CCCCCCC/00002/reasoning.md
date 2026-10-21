@@ -1,0 +1,1 @@
+Keep two pair 4s and 3s, draw 4 cards hoping for a full house.

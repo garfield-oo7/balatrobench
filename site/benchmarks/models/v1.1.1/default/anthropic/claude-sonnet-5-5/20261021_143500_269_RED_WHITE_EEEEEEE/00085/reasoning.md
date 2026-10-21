@@ -1,0 +1,1 @@
+Straight J-T-9-8-7 using the mult-enhanced 9 of spades. Triggers Crazy Joker, Smiley Face on the Jack and Even Steven on the 10 and 8.

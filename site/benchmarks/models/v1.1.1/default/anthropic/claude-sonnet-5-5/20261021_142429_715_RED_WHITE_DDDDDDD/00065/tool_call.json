@@ -1,0 +1,10 @@
+[
+  {
+    "id": "toolu_011RyWHV9auEUmB9erJNCBqd",
+    "function": {
+      "arguments": "{\"cards\": [0, 1, 2, 5, 6]}",
+      "name": "play"
+    },
+    "type": "function"
+  }
+]

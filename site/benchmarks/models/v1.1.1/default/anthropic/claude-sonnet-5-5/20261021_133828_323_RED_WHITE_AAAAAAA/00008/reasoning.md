@@ -1,0 +1,1 @@
+Keep four clubs (9,7,6,4) to draw into a flush.

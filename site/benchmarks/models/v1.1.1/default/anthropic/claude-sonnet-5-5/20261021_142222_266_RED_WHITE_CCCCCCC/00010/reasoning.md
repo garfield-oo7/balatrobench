@@ -1,0 +1,1 @@
+Pair of kings with A, Q, J cycling (they might form a straight attempt later); score pair now.

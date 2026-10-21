@@ -1,0 +1,1 @@
+Ace of Clubs is a high-value card. Clubs are fine for flush builds, and aces add chips.

@@ -1,0 +1,1 @@
+Cards are face down and unknown; cycle to draw visible cards while keeping discards plentiful.

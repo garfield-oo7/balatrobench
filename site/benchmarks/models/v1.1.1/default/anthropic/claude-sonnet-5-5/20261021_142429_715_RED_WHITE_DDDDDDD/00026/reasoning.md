@@ -1,0 +1,1 @@
+Hold the four clubs (A,K,Q,8,4 = five clubs!). Actually C_A, C_K, C_Q, C_8, C_4 are already a flush, so this is a mistake; discarding is not needed.

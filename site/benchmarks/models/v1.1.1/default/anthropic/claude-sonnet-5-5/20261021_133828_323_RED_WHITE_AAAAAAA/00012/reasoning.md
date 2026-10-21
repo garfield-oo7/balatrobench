@@ -1,0 +1,1 @@
+Scary Face gives chips for cheap.

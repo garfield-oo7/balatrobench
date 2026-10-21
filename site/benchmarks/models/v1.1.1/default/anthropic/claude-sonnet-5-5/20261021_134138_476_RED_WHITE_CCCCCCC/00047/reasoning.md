@@ -1,0 +1,1 @@
+Only $1; can't afford anything. Proceed.

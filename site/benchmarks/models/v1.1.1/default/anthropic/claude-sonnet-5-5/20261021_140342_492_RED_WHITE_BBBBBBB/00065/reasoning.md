@@ -1,0 +1,1 @@
+Mercury cheap, but pair rarely used... Actually flush is main; skip? Using $3 for Pair level is low value.

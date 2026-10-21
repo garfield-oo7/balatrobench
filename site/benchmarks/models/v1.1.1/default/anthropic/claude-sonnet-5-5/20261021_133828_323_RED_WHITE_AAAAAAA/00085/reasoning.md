@@ -1,0 +1,1 @@
+Photograph gives X2 mult with face cards, fits Scary Face.

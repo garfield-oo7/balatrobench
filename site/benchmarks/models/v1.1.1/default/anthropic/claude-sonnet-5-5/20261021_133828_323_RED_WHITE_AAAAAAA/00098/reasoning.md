@@ -1,0 +1,1 @@
+Uranus levels up Two Pair, which is the core hand for Mad Joker and Spare Trousers.

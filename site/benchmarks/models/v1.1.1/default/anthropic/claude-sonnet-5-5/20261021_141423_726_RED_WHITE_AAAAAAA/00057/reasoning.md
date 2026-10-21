@@ -1,0 +1,1 @@
+Flush is the main hand, so Jupiter levels it up.

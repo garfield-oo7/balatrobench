@@ -1,0 +1,1 @@
+Straight Flush contains a flush, so it triggers Crafty and Droll, and Neptune gives it a big level-up. No Jupiter is on offer.

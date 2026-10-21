@@ -1,0 +1,1 @@
+Jokers are full and the shop items are marginal. Keep $9 for interest.

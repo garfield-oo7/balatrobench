@@ -1,0 +1,1 @@
+Not enough money for useful purchases; joker slots full. Move on.

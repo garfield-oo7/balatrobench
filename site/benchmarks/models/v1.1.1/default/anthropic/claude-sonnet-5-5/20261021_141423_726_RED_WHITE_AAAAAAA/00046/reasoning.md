@@ -1,0 +1,1 @@
+The hand is mostly hearts: K, 8, 7, 6, 4. Death could turn a card into a heart, but The Empress is the safer pick. It makes two cards Mult Cards. I'm targeting K of H and 8 of H. Both are hearts, and both score with Scary Face or Even Steven.

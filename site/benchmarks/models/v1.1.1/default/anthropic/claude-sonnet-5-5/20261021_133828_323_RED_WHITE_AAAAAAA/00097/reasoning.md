@@ -1,0 +1,1 @@
+Money is above the interest cap. A Jumbo Celestial pack levels up a hand, such as Flush or Two Pair.

@@ -1,0 +1,1 @@
+Club flush with Crafty Joker, ~990 points, enough to beat 800.

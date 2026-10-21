@@ -1,0 +1,1 @@
+Keep 3s and 2s for two pair/full house chances, draw 4.

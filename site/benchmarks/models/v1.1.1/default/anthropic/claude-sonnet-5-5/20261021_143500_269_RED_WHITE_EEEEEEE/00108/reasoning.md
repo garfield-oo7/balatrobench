@@ -1,0 +1,1 @@
+Straight 8-7-6-5-4 triggers Crazy Joker and Even Steven on 8, 6 and 4.

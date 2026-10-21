@@ -1,0 +1,1 @@
+Play pair of 9s with junk cards to cycle; Jolly + Supernova give mult.

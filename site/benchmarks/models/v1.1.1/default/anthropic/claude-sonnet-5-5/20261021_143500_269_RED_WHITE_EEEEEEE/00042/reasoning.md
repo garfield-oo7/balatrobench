@@ -1,0 +1,1 @@
+Jumbo celestial pack, 5 planets to choose from; level Two Pair/Pair/Straight.

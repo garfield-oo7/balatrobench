@@ -1,0 +1,1 @@
+Supernova scales with Pair plays, which is my most played hand. It costs $5, which is all my money, but I have no empty joker slot.

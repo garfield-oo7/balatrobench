@@ -1,0 +1,1 @@
+Neither joker is strong for my build and my joker slots are full. Selling a joker to make room would waste money.

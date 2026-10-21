@@ -1,0 +1,1 @@
+Droll Joker pairs with Crafty Joker for flushes; cheap +10 mult.

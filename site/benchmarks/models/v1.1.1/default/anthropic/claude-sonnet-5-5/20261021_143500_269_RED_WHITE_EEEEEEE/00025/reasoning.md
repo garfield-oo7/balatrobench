@@ -1,0 +1,1 @@
+Supernova scales with Two Pair plays (played 6 times), good mult for $5.

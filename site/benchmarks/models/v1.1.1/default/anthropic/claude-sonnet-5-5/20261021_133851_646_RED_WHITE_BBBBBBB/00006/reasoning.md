@@ -1,0 +1,1 @@
+Hologram gives scaling xMult as playing cards are added to the deck, and it's a strong first joker.

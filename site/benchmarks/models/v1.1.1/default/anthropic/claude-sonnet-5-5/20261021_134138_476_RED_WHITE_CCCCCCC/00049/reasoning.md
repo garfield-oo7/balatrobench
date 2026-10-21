@@ -1,0 +1,1 @@
+Diamond flush K,J,T,7,5 with Raised Fist holding the 3 (or 6).

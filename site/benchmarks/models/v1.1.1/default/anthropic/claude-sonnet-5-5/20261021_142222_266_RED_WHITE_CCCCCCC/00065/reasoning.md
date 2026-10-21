@@ -1,0 +1,1 @@
+Jumbo Celestial: Jupiter likely for flush, our main hand. Consumable slots are full, but packs' planets are used immediately.

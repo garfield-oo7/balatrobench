@@ -1,0 +1,1 @@
+Keep A, T, 7, 7 pair; draw for trips/two pair.

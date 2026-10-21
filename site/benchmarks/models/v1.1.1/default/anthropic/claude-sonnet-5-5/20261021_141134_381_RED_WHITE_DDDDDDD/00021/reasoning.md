@@ -1,0 +1,1 @@
+Spade flush with all jokers, ~970 points, beats 800.

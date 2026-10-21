@@ -1,0 +1,1 @@
+Take 6D for extra rank copies toward trips (Zany) and slightly higher chips.

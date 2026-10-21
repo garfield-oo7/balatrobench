@@ -1,0 +1,1 @@
+The Fool recreates the last Tarot or Planet used, which was Mercury. That levels up Pair, my main hand, and I have a free consumable slot for it.

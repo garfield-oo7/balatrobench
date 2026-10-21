@@ -1,0 +1,1 @@
+Keep four clubs (A,7,3,2) and draw for a fifth club to make a flush.

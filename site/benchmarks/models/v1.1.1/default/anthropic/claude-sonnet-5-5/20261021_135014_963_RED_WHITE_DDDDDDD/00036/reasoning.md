@@ -1,0 +1,1 @@
+Ace of Spades: odd rank gives +31 chips with Odd Todd; spades are good for flush building.

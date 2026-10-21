@@ -1,0 +1,1 @@
+Nothing worthwhile; keep the money for interest.

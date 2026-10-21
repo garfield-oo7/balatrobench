@@ -1,0 +1,1 @@
+Four spades held (A, J, T, 7); discard the rest to draw for a flush.

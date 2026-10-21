@@ -1,0 +1,1 @@
+Slots full and money is low, so I'm saving it and moving on.

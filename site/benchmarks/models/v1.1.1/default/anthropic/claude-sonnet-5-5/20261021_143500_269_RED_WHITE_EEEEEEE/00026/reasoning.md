@@ -1,0 +1,1 @@
+Cheap arcana pack for useful tarots; consumable slot has room for one.

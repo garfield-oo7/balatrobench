@@ -1,0 +1,1 @@
+Cheap chips joker for face cards, fills a slot.

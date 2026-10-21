@@ -1,0 +1,1 @@
+Crafty Joker gives +80 chips on flush, and I've already played a flush. It's more reliable than Spare Trousers, which needs Two Pair.

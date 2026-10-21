@@ -1,0 +1,1 @@
+Supernova scales with hand plays (two pair played often); fills last joker slot for $5.

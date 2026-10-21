@@ -1,0 +1,1 @@
+Slots full; Walkie Talkie is marginal. Keep money for interest.

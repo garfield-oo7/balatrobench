@@ -1,0 +1,1 @@
+Jumbo Buffoon pack may offer a better joker; but slots are full... skip? Actually can't hold more.

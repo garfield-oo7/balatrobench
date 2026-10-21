@@ -1,0 +1,1 @@
+Keep Q,Q,J pair of queens; draw for trips/two pair/full house with Zany.

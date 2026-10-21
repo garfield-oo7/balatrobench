@@ -1,0 +1,1 @@
+The Emperor creates 2 more Tarot cards, and I have room for both. In a Mega pack I can still take another card afterward.

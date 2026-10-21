@@ -1,0 +1,1 @@
+Even Steven gives solid mult; fills last joker slot.

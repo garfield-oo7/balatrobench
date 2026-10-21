@@ -1,0 +1,1 @@
+Standard pack could add useful cards (face cards/seals) for $4.

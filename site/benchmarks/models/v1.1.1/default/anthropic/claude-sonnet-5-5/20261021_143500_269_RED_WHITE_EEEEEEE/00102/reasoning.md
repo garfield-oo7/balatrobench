@@ -1,0 +1,1 @@
+Joker slots are full, and neither joker is clearly better than my current ones. I'd rather not sell one, so I'm skipping.

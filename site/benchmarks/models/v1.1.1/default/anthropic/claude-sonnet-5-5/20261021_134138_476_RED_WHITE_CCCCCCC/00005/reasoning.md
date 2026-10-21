@@ -1,0 +1,1 @@
+Pair of 8s scores 52, enough to pass 300.

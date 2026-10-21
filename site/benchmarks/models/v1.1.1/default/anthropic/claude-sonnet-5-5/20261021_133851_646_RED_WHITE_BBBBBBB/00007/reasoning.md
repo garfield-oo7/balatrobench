@@ -1,0 +1,1 @@
+Standard pack adds a playing card, which triggers Hologram's xMult gain.

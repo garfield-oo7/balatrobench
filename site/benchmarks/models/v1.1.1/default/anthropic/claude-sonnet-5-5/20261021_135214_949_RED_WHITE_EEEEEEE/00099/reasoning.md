@@ -1,0 +1,1 @@
+Nothing clearly worth buying with slots full; keep money.

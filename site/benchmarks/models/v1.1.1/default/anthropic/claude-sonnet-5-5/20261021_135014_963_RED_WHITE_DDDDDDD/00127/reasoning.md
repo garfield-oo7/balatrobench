@@ -1,0 +1,1 @@
+Club flush A,K,J,9,5 with max joker triggers.

@@ -1,0 +1,40 @@
+# Memory & Previous Actions
+
+
+## Recent Decision History
+
+Here is a list of your recent decisions (from oldest to newest):
+
+
+**1.** `discard({'cards': [2, 6], 'reasoning': 'Throw away known junk to draw more cards and look for flush/full house.'})` - 
+
+**2.** `discard({'cards': [0, 2, 6], 'reasoning': 'Redraw known weak cards to find a flush or two pair for the final X3 hand.'})` - 
+
+**3.** `play({'cards': [0, 2, 4, 5, 7], 'reasoning': 'Play the five unknown face-down cards, which were kept earlier, hoping they form a flush or two pair. This also cycles cards for the final X3 hand.'})` - 
+
+**4.** `play({'cards': [1, 2, 3, 4], 'reasoning': 'Two pair Q/7 with Mad Joker, Spare Trousers, Scary Face and Acrobat X3 should be ~10k.'})` - 
+
+**5.** `use({'consumable': 0, 'reasoning': 'Free the slot'})` - 
+
+**6.** `buy({'pack': 0, 'reasoning': 'Plenty of money; Jumbo Arcana may give useful tarots.'})` - 
+
+**7.** `pack({'card': 0, 'targets': [1, 2], 'reasoning': "Empress makes Q of S and Q of C into Mult cards. They're face cards that work with Scary Face and with pair or two pair hands."})` - 
+
+**8.** `sell({'joker': 3, 'reasoning': 'Swap for Photograph x2'})` - 
+
+**9.** `buy({'card': 0, 'reasoning': 'Photograph gives X2 mult with face cards, fits Scary Face.'})` - 
+
+**10.** `buy({'pack': 0, 'reasoning': 'Cheap Arcana pack, money well above the interest cap.'})` - 
+
+
+
+## Strategic Context
+
+Based on your recent actions, consider:
+- How your decisions are building towards a cohesive strategy
+- Whether your current approach is working or needs adjustment
+- Patterns in your play that might need to change
+
+
+
+

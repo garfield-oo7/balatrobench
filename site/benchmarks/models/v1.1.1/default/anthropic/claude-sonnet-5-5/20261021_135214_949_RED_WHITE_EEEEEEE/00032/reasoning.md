@@ -1,0 +1,1 @@
+Planet card, likely Uranus/Mercury helps pair hands.

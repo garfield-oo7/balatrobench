@@ -1,0 +1,1 @@
+Queen is a face card, so it triggers Smiley Face and adds to my pair-based hands.

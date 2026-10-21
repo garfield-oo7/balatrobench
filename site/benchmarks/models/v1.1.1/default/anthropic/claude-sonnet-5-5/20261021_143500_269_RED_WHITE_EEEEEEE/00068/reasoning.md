@@ -1,0 +1,1 @@
+Mega Celestial: level up hands (two pair/pair/straight) for 2 picks.

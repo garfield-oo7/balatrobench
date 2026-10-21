@@ -1,0 +1,1 @@
+Supernova scales with pair/two pair play; fills the open joker slot.

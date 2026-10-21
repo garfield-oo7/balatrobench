@@ -1,0 +1,1 @@
+Straight 5-9 scores ~260, finishing the blind.

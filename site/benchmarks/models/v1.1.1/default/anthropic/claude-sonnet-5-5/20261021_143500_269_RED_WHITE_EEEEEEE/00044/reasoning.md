@@ -1,0 +1,1 @@
+Only $4 and jokers are full; Splash doesn't clearly beat current jokers. Save money and proceed.

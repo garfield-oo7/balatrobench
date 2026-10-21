@@ -1,0 +1,1 @@
+Pair of aces with Jolly: (10+22)*(2+8)=320; keeps discards.

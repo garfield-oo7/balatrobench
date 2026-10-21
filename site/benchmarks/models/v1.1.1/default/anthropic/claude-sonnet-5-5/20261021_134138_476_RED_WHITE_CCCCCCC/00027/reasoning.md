@@ -1,0 +1,1 @@
+Pair of 7s; Raised Fist uses held 2. Need 256 more; pair of 7s with spade gives a decent score.

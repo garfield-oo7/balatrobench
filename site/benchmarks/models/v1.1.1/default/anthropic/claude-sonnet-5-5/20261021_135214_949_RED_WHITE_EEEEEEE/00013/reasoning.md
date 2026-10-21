@@ -1,0 +1,1 @@
+Uranus levels Two Pair, our most played hand, and it works with Jolly Joker.

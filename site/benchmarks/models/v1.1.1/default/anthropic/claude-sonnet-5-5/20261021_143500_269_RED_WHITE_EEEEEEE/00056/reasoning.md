@@ -1,0 +1,1 @@
+9 of Spades is useful for straights and is a neutral addition to the deck. The 3 would be an even-rank card for Even Steven, but the 9 fits straights better. The K is a face card for Smiley Face. I'm taking the 9 because straights are the main hand.

@@ -1,0 +1,1 @@
+Face card J synergizes with Smiley Face and helps pairs/straights.

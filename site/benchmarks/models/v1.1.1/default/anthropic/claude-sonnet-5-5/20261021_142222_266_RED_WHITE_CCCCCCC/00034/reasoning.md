@@ -1,0 +1,1 @@
+Flush is our main hand, but there's no Jupiter here. Of the three, Earth (Full House) and Neptune (Straight Flush) are the options. Uranus helps Two Pair, which we've played often. Neptune is rarely playable. Earth gives +2 mult, and Full House shows up less often than Two Pair. I'm taking Uranus, since we play Two Pair and Pair.

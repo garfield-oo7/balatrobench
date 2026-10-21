@@ -1,0 +1,1 @@
+Jokers full, nothing helpful; keep money.

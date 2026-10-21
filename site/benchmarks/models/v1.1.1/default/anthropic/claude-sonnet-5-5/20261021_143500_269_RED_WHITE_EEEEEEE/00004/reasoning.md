@@ -1,0 +1,1 @@
+Two pair 7s and 3s scores about 80, which is more than the 38 needed.

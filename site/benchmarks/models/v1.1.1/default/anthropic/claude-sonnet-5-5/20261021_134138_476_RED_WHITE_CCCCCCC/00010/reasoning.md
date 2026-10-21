@@ -1,0 +1,1 @@
+Two pair K and J, with the 3 as an extra card to cycle.

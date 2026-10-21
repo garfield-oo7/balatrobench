@@ -1,0 +1,1 @@
+Keep pair of 6s, Ace and 7; draw for trips/two pair

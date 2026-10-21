@@ -1,0 +1,1 @@
+The Star is the most useful pick and the targets are harmless. Hearts become Diamonds, which makes no real difference, but I have nothing better to do with it. I'm taking it rather than skipping because The Chariot and The Devil don't fit my scoring either.

@@ -1,0 +1,1 @@
+Venus levels Three of a Kind, which is easy to hit and also triggers Jolly Joker, since trips contain a pair.

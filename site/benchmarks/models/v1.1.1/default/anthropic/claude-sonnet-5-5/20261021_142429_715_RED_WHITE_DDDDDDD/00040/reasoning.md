@@ -1,0 +1,1 @@
+Flush is our main hand with Crafty and Droll Jokers, so Jupiter is the best pick.

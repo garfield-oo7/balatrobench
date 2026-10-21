@@ -1,0 +1,1 @@
+Hand is stuck at 8 cards after the earlier discard, so I'll play the pair of aces for points.

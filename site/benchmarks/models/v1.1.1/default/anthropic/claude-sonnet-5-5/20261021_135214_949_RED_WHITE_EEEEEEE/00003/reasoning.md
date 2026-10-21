@@ -1,0 +1,1 @@
+Heart flush scores 260, enough to beat the blind.

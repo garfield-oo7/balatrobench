@@ -1,0 +1,1 @@
+Hermit doubles money, but I have little. Other options need targeting and don't help much. Tower is already held. The Hermit is the only mildly useful pick; skipping is nearly equal.

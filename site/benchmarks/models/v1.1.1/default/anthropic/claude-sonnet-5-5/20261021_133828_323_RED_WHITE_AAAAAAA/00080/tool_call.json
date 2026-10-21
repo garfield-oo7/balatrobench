@@ -1,0 +1,10 @@
+[
+  {
+    "id": "toolu_01N8MuwWuD96EWpPUBrqvyZ9",
+    "function": {
+      "arguments": "{\"consumable\": 0}",
+      "name": "use"
+    },
+    "type": "function"
+  }
+]

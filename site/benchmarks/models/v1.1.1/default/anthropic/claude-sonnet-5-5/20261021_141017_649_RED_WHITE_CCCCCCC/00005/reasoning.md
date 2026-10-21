@@ -1,0 +1,1 @@
+Red Card gives scaling mult when packs are skipped; Splash has little use without a build. Red Card is the better pick.

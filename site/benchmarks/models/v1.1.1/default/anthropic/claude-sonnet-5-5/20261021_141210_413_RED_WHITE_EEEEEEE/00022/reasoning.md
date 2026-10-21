@@ -1,0 +1,1 @@
+Strength on J->Q and 9->T. Makes a Queen (face, pairs with the Q of Spades) and a Ten (even rank), which is mildly useful. Keeps my consumable slot free.

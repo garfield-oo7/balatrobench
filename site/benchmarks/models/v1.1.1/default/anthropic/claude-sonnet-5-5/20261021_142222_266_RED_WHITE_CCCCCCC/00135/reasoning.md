@@ -1,0 +1,1 @@
+Joker slots are full and I only have $5, so I'm saving money and moving on.

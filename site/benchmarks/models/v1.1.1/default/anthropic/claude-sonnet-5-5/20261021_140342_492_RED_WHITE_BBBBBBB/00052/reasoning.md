@@ -1,0 +1,1 @@
+Sock and Buskin retriggers face cards; fills last joker slot, helps scoring.

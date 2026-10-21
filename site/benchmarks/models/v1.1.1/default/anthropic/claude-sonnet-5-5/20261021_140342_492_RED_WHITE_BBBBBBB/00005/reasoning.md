@@ -1,0 +1,1 @@
+Hologram is weak without deck additions. Certificate adds a sealed card every round, which grows the deck and gives steady value.

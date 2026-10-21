@@ -1,0 +1,1 @@
+Three 6s (three of a kind) easily covers the 5 points needed.

@@ -1,0 +1,1 @@
+Jupiter levels up Flush, which is our main hand with Crafty Joker.

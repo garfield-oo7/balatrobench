@@ -1,0 +1,1 @@
+None of the three cards is enhanced, so it barely matters. The 8 of clubs is the highest rank and gives slightly more chips for pairs.

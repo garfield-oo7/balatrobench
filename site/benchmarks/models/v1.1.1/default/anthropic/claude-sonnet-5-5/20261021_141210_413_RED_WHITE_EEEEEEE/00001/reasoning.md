@@ -1,0 +1,1 @@
+Keep QQ and 55, draw for full house/trips

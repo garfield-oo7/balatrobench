@@ -1,0 +1,1 @@
+Two pair 9s and 7s (+Jolly mult; Pair contained). Even Steven doesn't apply to 9/7, but this is the best scoring option.

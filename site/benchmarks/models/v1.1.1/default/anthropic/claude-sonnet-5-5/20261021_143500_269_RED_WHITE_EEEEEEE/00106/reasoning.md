@@ -1,0 +1,1 @@
+J T 9 7 6 isn't a straight (8 missing). Need a better option. Playing anyway is weak, so discard instead.

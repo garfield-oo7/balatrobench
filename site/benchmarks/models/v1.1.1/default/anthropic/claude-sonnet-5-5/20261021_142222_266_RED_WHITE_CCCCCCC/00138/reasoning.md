@@ -1,0 +1,1 @@
+Keep spades A,T,4,2 for a spade flush; discard the debuffed club and the hearts, then draw 4.

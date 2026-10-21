@@ -1,0 +1,1 @@
+Full House Ks and 3s, ~2300 points, clears the blind.

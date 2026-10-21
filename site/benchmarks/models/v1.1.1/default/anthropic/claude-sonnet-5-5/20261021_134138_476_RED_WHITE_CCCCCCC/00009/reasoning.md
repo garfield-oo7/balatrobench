@@ -1,0 +1,1 @@
+Pair of 7s plus two low cards to cycle

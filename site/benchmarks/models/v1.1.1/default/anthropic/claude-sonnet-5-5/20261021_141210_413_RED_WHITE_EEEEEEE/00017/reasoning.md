@@ -1,0 +1,1 @@
+Two pair QQ77 with Smiley and Jolly: about 1080, enough for the 800 target.

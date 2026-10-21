@@ -1,0 +1,1 @@
+Pair of tens scores about 180 with Raised Fist from the held 2, which is more than the 40 needed.

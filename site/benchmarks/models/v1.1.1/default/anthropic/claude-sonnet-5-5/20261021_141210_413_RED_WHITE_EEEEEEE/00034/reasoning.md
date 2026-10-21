@@ -1,0 +1,1 @@
+Jokers are full and neither option fits the pair build. Selling a working joker would lose value.

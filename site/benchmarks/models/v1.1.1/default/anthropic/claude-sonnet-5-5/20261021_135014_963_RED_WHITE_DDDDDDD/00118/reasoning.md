@@ -1,0 +1,1 @@
+Club flush K,9,8,7,6 triggers all jokers.

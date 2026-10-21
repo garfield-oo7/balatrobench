@@ -1,0 +1,1 @@
+Jupiter levels Flush, my second most-played hand, which is already level 2. It's the most useful of the remaining planets.

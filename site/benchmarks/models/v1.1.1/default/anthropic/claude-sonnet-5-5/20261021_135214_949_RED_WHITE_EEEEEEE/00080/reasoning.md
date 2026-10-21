@@ -1,0 +1,1 @@
+Joker slots are full and money is low. Nothing worth buying, so I'm moving on.

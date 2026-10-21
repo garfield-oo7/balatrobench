@@ -1,0 +1,1 @@
+Ancient Joker gives X1.5 mult for a suit; fills the last joker slot and adds multiplicative scaling.

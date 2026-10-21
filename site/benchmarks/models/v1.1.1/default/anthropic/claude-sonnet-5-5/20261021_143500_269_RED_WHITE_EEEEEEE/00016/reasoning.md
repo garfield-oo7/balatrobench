@@ -1,0 +1,1 @@
+King is a face card, which triggers Smiley Face, and it can also make pairs for Jolly Joker.

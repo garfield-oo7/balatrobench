@@ -1,0 +1,1 @@
+Keep Q,Q,J; draw for trips/two pair.

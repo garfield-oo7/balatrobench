@@ -1,0 +1,1 @@
+High Priestess gives up to 2 planets; with empty consumable slots, could include Jupiter to level Flush.

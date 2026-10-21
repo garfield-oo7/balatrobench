@@ -1,0 +1,1 @@
+Jokers full; keep $17 for interest rather than a gamble on a spectral pack.

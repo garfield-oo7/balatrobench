@@ -1,0 +1,1 @@
+Two pair Q and 5, with the 2 as a cycling card.

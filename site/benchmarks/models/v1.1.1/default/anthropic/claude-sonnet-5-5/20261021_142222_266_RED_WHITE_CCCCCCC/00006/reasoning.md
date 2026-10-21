@@ -1,0 +1,1 @@
+Red Card is a scaling mult joker, and I can grow it by skipping packs. Splash doesn't help much with the hands I'm playing.

@@ -1,0 +1,1 @@
+Keep A,A,K,T spades (pair of aces/flush potential); discard low cards to draw.

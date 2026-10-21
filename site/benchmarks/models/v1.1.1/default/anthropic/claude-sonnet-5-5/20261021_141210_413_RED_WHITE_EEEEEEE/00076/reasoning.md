@@ -1,0 +1,1 @@
+Mercury levels Pair (played often, Jolly Joker, two pair also contains pair). Saturn is not offered here, so Mercury is the best fit.

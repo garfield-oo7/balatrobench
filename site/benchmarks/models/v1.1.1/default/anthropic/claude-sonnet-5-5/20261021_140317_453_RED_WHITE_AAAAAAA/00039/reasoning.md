@@ -1,0 +1,1 @@
+Blue Seal on the Ace gives a planet card for my last played hand each round it is held in hand. This is a permanent benefit.

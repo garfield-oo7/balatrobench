@@ -1,0 +1,1 @@
+Keep four diamonds A,9,8,7 and draw for a fifth diamond to make a flush.

@@ -1,0 +1,1 @@
+Take a 5 to add a pair option for pairs/trips; marginal but fine.

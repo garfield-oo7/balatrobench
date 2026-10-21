@@ -1,0 +1,1 @@
+Acrobat X3 mult on final hand; we have a free slot and plenty of money.

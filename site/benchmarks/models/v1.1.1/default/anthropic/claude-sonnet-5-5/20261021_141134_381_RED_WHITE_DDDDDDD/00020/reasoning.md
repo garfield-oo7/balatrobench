@@ -1,0 +1,1 @@
+Keep 5 spades (K,J,7,6,4) -- that's already a flush! Actually spades: K,J,7,6,4 = flush. Play instead.

@@ -1,0 +1,1 @@
+Keep 7-6-5-4 for straight draw (8 or 3), also may pair up.

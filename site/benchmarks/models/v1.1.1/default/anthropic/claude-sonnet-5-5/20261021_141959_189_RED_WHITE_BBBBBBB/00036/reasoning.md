@@ -1,0 +1,1 @@
+Keep two pair 9s and 5s; draw for full house/trips.

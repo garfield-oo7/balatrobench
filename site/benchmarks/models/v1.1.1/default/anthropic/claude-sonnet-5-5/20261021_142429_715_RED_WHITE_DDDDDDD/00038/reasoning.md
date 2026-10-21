@@ -1,0 +1,1 @@
+Diamond flush J,T,8,7,3 triggers Crafty, Droll, Scary Face and Odd Todd for roughly 3400, enough to clear the 2000 blind.

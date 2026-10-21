@@ -1,0 +1,1 @@
+Keep clubs A,K,Q,8 (indices 0,2,3,6); discard D_A, S_T, S_9, C_4 to draw for another club (C_4 is a club, but discarding it too gives more draws? keep a 5th slot) .

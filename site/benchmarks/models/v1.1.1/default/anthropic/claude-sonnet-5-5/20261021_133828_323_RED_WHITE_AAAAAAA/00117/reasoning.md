@@ -1,0 +1,1 @@
+Uranus levels up Two Pair, which is the hand our Jokers are built around.

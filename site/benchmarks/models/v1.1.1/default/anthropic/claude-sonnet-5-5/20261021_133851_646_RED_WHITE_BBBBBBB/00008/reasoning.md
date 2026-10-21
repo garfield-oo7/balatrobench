@@ -1,0 +1,1 @@
+Adding any card triggers Hologram; the Ten has the highest chip value.

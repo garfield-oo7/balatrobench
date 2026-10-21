@@ -1,0 +1,1 @@
+Keep diamonds A,K,J,5,3 — four... actually discard non-diamonds to draw for a flush with diamonds (A,K,J,5,3 already 5 diamonds). 

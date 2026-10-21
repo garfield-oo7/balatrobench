@@ -1,0 +1,1 @@
+Smeared Joker makes flushes easier, and flush is my main hand.

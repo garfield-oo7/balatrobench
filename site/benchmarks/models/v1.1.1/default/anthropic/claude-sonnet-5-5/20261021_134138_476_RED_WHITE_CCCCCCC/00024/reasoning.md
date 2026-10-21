@@ -1,0 +1,1 @@
+Keep 4 diamonds, dig for flush.

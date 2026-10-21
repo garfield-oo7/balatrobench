@@ -1,0 +1,1 @@
+Use High Priestess to get planets (need room: Tower occupies one slot, High Priestess frees its own slot when used).

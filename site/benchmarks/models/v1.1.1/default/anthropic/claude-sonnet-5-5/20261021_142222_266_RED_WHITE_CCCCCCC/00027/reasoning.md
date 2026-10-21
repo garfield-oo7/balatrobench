@@ -1,0 +1,1 @@
+Mercury levels Pair, the most commonly played and easiest hand to make.

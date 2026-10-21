@@ -1,0 +1,1 @@
+Keep spades A, 8, 3 and dig for a spade flush (Crafty Joker +80).

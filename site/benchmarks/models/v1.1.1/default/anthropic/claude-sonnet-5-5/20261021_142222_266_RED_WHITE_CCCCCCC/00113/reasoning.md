@@ -1,0 +1,1 @@
+Mercury levels Pair, my second most played hand. The pack has no Flush planet.

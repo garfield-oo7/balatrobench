@@ -1,0 +1,1 @@
+Joker slots are full, and neither joker clearly beats my current ones. Selling a joker to make room would lose money.

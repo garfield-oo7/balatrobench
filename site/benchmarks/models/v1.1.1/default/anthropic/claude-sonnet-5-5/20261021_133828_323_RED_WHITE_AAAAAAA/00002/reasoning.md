@@ -1,0 +1,1 @@
+Cheap joker with mult for two pair.

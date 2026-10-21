@@ -1,0 +1,1 @@
+Celestial pack for $4 levels a hand, likely Two Pair/Straight.

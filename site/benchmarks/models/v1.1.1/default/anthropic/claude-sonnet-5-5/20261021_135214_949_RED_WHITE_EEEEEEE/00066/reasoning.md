@@ -1,0 +1,1 @@
+Mega Celestial: pick 2 planets to level up hands (hopefully Two Pair/Pair/Straight).

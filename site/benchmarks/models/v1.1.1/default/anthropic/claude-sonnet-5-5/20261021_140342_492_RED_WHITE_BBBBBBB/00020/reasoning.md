@@ -1,0 +1,1 @@
+Ten of diamonds adds highest chip value card; all diamonds are similar, take it.

@@ -1,0 +1,1 @@
+Wild card helps flushes with any suit.

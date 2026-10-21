@@ -1,0 +1,1 @@
+Splash is cheap and helps pairs score more cards; fills the last joker slot.

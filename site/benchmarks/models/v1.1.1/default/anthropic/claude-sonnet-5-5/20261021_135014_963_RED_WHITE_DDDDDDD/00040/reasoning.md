@@ -1,0 +1,1 @@
+Diamond flush J,T,9,8,3 with all flush jokers; far exceeds 2000.

@@ -1,0 +1,1 @@
+Pair of aces for points; need 230 more. Ace pair = (10+22)*2=64. Keeps clubs for flush draw.

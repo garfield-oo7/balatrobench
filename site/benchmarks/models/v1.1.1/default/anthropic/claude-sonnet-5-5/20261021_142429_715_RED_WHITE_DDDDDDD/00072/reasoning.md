@@ -1,0 +1,1 @@
+Wheel of Fortune: free chance at a Joker edition; Judgement unusable with full slots.

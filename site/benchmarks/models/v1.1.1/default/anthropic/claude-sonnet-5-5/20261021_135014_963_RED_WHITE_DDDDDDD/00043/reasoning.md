@@ -1,0 +1,1 @@
+Jupiter levels Flush, my main hand with multiple flush jokers.
