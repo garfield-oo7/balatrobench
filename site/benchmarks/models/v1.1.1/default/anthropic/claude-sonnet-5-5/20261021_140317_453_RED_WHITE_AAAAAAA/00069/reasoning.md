@@ -1,0 +1,1 @@
+Acrobat x3 mult on final hand, fills open slot.

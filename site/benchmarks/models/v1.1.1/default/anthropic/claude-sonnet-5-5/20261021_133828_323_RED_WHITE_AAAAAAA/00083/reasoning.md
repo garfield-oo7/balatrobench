@@ -1,0 +1,1 @@
+Empress makes Q of S and Q of C into Mult cards. They're face cards that work with Scary Face and with pair or two pair hands.

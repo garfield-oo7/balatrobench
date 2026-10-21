@@ -1,0 +1,1 @@
+Swashbuckler gives +11 Mult now, which is better than Ride the Bus. The joker slots are full, so I'd need to sell Ride the Bus to take it. Taking it may force a replacement prompt, but the added mult is worth it.

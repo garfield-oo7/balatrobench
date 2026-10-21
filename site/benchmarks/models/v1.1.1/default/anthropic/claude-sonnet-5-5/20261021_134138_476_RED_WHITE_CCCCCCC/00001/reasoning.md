@@ -1,0 +1,1 @@
+Two pair 9s and 6s, plus the Ace as an extra card to cycle

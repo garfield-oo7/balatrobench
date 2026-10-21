@@ -1,0 +1,1 @@
+Celestial pack cheap, can level Flush/Two Pair.

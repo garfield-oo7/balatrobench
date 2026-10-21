@@ -1,0 +1,1 @@
+Jokers full and the shop offers nothing better than what I have. Keep the money for interest.

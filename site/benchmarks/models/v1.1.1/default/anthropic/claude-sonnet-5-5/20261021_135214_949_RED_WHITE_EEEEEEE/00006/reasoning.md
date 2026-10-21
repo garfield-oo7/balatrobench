@@ -1,0 +1,1 @@
+Smiley Face gives +5 Mult per scored face card. It's a solid early mult joker, and Smeared Joker is less reliable.

@@ -1,0 +1,1 @@
+Pair is my main hand; Mercury levels it up.

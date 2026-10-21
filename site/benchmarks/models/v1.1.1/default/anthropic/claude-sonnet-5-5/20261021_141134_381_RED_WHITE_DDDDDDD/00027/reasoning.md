@@ -1,0 +1,1 @@
+Jumbo Buffoon pack may offer a better joker; can replace weak Ride the Bus.

@@ -1,0 +1,1 @@
+None of these planets help the Flush build, and I have an Earth in my consumable slot. Skipping.

@@ -1,0 +1,1 @@
+Hand is face down; discard blind to draw visible cards.

@@ -1,0 +1,1 @@
+Club straight flush A-K-Q-J-T with all flush jokers; far exceeds 1200.

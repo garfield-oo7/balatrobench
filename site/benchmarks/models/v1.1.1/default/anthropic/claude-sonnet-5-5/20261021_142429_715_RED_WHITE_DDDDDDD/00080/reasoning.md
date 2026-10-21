@@ -1,0 +1,1 @@
+None of these planets (Mars, Pluto, Venus) help the flush build. Their hand types (Four of a Kind, High Card, Three of a Kind) aren't ones I play, so I'm skipping the pack.

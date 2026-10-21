@@ -1,0 +1,1 @@
+Keep K,Q,J,T for a straight draw (9 or A completes it).

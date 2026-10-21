@@ -1,0 +1,1 @@
+King of Spades: a high-value card that also triggers Wrathful Joker. Spades also help with flushes.

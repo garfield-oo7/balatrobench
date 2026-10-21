@@ -1,0 +1,1 @@
+Club flush A,T,7,4,3 with Crafty Joker: (50+35+80)*6 = 990 > 800.

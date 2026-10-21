@@ -1,0 +1,1 @@
+Keep clubs A,K,Q,8 and dig for a fifth club for a flush.

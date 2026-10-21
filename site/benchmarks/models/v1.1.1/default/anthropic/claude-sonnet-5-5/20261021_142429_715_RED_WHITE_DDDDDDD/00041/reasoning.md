@@ -1,0 +1,1 @@
+Jokers full; keep $9 for interest rather than spend on marginal items.

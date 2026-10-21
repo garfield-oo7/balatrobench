@@ -1,0 +1,1 @@
+Odd Todd gives chips cheaply; fills a joker slot.

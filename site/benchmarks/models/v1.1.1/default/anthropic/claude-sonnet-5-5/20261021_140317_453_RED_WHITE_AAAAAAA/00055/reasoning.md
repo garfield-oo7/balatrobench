@@ -1,0 +1,1 @@
+Jupiter levels Flush, which is my most played hand and is supported by Crafty Joker.

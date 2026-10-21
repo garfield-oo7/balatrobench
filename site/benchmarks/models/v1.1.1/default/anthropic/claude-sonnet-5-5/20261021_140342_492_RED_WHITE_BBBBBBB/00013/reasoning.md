@@ -1,0 +1,1 @@
+Pair of aces scores ~64, enough to beat the blind, and may trigger To Do List.

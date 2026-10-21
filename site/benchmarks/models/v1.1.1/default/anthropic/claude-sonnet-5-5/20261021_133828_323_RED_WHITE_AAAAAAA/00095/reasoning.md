@@ -1,0 +1,1 @@
+Money is $38, well above the interest cap. A Jumbo Buffoon pack may have a better joker than one of my weaker ones.

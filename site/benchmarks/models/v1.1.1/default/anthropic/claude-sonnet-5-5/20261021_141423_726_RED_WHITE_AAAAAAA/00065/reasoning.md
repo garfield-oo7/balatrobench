@@ -1,0 +1,1 @@
+Joker slots full; save money for interest.

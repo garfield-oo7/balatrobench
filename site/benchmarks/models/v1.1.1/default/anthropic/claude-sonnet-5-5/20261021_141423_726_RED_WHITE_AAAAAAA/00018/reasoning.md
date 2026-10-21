@@ -1,0 +1,1 @@
+None of Pluto, Mercury or Uranus is Jupiter, so none levels Flush, my main hand. Uranus would help Two Pair with Mad Joker, but Two Pair isn't my plan. I'm skipping the pack.

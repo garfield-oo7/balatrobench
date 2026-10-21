@@ -1,0 +1,1 @@
+Mega Celestial: two planet upgrades; I have $25 so can afford it and keep interest.

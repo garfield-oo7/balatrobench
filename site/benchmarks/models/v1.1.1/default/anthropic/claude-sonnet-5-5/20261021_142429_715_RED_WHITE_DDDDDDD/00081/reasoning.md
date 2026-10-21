@@ -1,0 +1,1 @@
+Joker slots are full and nothing here helps the flush build. I'm saving $19 for interest.

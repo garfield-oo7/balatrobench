@@ -1,0 +1,1 @@
+Only $3; the shop has nothing affordable that beats my current jokers, and my joker slots are full.

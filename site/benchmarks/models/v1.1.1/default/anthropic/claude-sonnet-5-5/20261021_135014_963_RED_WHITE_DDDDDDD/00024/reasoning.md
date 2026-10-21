@@ -1,0 +1,1 @@
+Droll Joker adds +10 Mult on flush, synergy with flush build.

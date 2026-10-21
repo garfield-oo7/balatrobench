@@ -1,0 +1,1 @@
+Can't afford anything else; but $2 only. Skip.

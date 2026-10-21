@@ -1,0 +1,1 @@
+Play pair of 7s; Raised Fist uses held 2 (+4 mult). Score ≈ (25+14)*(3+4+3 spade)=~390 → likely clears 256 needed.

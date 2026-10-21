@@ -1,0 +1,1 @@
+Slots are full. Replacing a current joker would mean selling it at a loss, and none of these clearly beats my flush-focused set.

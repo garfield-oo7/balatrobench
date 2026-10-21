@@ -1,0 +1,1 @@
+Judgement needs an open joker slot, and all 5 are full, so it can't be used here. Skipping it.

@@ -1,0 +1,1 @@
+Spectral pack for a possible strong effect; $10 available.

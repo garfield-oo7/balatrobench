@@ -1,0 +1,1 @@
+Convert 9H, 4S, 3S to Clubs to build a club-heavy deck for flushes.

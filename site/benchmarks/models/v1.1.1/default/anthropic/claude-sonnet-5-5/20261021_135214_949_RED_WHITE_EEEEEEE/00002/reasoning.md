@@ -1,0 +1,1 @@
+Two pair T and 8, plus J as a cycled card

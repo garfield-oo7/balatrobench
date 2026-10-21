@@ -1,0 +1,1 @@
+None of these match the pair-based build, so I'm taking Earth. Full House contains a pair, so Jolly Joker still triggers, and Three of a Kind and Full House are the most likely hands to level up.

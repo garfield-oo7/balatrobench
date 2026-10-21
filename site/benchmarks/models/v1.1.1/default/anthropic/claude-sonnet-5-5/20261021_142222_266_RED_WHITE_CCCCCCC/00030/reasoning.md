@@ -1,0 +1,1 @@
+Keep four diamonds J,9,6,5 and draw for a flush.

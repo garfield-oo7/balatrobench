@@ -1,0 +1,1 @@
+Ten of Spades is a face-value card (10) that works with Smeared flushes and straights; it's the best chip value here.

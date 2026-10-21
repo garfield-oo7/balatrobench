@@ -1,0 +1,1 @@
+Low on money; nothing useful affordable. Proceed.

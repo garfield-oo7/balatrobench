@@ -1,0 +1,1 @@
+Cheap planet; levels Full House, which Splash can support. Keeps money low but fine.

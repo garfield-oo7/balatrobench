@@ -1,0 +1,1 @@
+Two pair T/T and 6/6 with the Ace as an extra card to cycle.

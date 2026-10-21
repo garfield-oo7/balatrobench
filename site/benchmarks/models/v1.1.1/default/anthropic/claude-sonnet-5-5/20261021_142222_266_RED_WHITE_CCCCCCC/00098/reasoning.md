@@ -1,0 +1,1 @@
+Flush of diamonds A,8,8,6,4 — wait 8H is heart; need check. Using D_A, D_8, D_6, D_4 plus H_8 is not a flush; better to play the pair of 8s plus extras? Playing flush attempt invalid, so see below.

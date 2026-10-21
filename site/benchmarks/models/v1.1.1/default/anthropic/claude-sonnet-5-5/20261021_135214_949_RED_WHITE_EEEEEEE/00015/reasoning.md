@@ -1,0 +1,1 @@
+King of Diamonds is a face card, so it triggers Smiley Face (+5 Mult). It also adds a pair/two-pair option.

@@ -1,0 +1,1 @@
+No Jupiter in the pack. None of these planets help the Flush build, so I'm keeping the consumable slot free.

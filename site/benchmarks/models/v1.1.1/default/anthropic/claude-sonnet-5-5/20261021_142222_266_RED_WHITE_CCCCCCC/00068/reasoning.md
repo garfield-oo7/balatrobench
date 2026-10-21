@@ -1,0 +1,1 @@
+Gros Michel gives +15 Mult, strong for flush build; open slot.

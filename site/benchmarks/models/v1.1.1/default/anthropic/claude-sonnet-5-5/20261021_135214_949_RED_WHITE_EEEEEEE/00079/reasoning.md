@@ -1,0 +1,1 @@
+Scholar is cheap, but the joker slots are full, so this probably fails.

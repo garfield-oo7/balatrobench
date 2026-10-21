@@ -1,0 +1,1 @@
+Joker slots are full and nothing in the shop helps. Director's Cut isn't worth $10, so I'm keeping my money for interest.

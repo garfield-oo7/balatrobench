@@ -1,0 +1,1 @@
+Jokers full, low money; save and proceed.

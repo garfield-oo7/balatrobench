@@ -1,0 +1,1 @@
+Cheap +12 mult joker; fills slot, helps with trips.

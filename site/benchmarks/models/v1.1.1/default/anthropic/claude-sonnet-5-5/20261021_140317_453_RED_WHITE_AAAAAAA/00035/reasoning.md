@@ -1,0 +1,1 @@
+Cycle junk cards while first hand is face down; seek better hand.

@@ -1,0 +1,1 @@
+Keep four hearts (8,7,6,5) and draw for a fifth heart to make a flush.

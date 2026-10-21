@@ -1,0 +1,1 @@
+No Jupiter in the pack. Uranus levels Two Pair, which synergizes with Mad Joker.

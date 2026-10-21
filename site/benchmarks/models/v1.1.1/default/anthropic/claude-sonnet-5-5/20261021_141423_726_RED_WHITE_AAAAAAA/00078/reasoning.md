@@ -1,0 +1,1 @@
+None of these help much: Ouija cuts hand size, Sigil is random, and Medium and Talisman are marginal. Skipping.

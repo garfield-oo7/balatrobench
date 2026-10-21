@@ -1,0 +1,1 @@
+Celestial pack for $4; planets are used immediately, so they don't need a free consumable slot. Upgrades a hand.

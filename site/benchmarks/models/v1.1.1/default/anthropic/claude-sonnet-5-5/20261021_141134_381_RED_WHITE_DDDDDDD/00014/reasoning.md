@@ -1,0 +1,1 @@
+Ride the Bus: mult joker; but face cards from Scary Face... still fill slot with mult. Flush plays can avoid faces.

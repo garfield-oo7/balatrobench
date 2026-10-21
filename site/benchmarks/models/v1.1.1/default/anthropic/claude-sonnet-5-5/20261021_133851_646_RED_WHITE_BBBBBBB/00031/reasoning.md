@@ -1,0 +1,1 @@
+Two pair K K 2 2 plus the Ace to cycle an extra card.

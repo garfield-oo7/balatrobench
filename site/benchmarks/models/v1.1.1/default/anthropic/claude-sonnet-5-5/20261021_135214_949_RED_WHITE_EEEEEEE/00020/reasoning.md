@@ -1,0 +1,1 @@
+Only $4; can't afford anything useful. Consumable slots full, joker slot has room for Judgement during a round... keep moving.

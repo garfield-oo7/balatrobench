@@ -1,0 +1,1 @@
+Joker slots are full, so I can't take a joker without selling one. I'm skipping the pack.

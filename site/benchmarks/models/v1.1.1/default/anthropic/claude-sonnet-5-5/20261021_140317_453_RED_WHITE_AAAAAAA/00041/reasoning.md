@@ -1,0 +1,1 @@
+Joker slots are full and money is low; save money and move on.

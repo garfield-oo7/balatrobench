@@ -1,0 +1,4 @@
+I'm looking at my current hand with a pair of kings and other spades, trying to figure out scoring options to hit 5800 with three hands and one discard left. A pair of kings with Scary Face bonuses only gets me to around 180, which isn't nearly enough, so I'm considering whether a spade-heavy hand with the ace, kings, and queen could work better.
+
+I'm eyeing a potential flush since I have four spades already — discarding the non-spade cards and the two unknown facedown cards gives me the best shot at drawing a fifth spade, since there are still about nine spades left in the remaining deck. With Crafty bonuses, chip values, and Scary Face stacking on the face cards, a completed flush could push toward 1560 before multipliers, and with the final hand tripled by Acrobat I might reach close to 4700 — tight, but worth pursuing. I've decided to discard the 8, 3, and the two unknown cards to maximize my draw toward the flush.
+

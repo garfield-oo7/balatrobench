@@ -1,0 +1,1 @@
+Gold Seal on the Ace for money when it scores.

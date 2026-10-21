@@ -1,0 +1,4 @@
+With 9044 points and needing 11000, I'm 1956 short with two hands and four discards remaining. Looking at my hand, I'm considering playing the pair of 7s, calculating chips from the 7s plus kicker cards, multiplied by the base mult plus the jolly joker bonus and supernova's scaling based on how many times I've played pairs this run.
+
+Scoring this out, it lands around 700 - not nearly enough. I'm remembering two pair scored closer to 4400 earlier with supernova stacking higher. A straight looks much more promising: I already have A, K, Q, J and just need a 10, which would give huge chips and a mult boosted by smiley faces on the three face cards, supernova, and even steven - pushing the total to roughly 8200. So my plan is to discard the 8, 7, 7, and 2, keeping A-K-Q-J, and try to draw into that 10 across my remaining discards, giving me a solid shot given four tens left in the deck.
+

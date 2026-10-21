@@ -1,0 +1,1 @@
+Zany Joker is cheap +12 Mult for three of a kind, and I have $4 and an open slot.

@@ -1,0 +1,1 @@
+Two pair KK and 66 with Even Steven, Smiley, Jolly; the lucky K may proc. Hand shows the 6 of H and 6 of D, so the pair is complete. I am adding a 5th card for cycling.

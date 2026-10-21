@@ -1,0 +1,1 @@
+Two pair Q and 5, plus the 6 as a cycled card

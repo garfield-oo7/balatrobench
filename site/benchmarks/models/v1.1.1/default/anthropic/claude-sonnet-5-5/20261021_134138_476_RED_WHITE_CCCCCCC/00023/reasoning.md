@@ -1,0 +1,1 @@
+Only $3, can't afford much; proceed.

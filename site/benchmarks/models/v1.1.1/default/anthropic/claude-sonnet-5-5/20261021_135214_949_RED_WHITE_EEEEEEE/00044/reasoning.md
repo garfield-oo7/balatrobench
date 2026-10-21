@@ -1,0 +1,1 @@
+Jumbo Celestial pack: level up Two Pair/Pair/Straight.

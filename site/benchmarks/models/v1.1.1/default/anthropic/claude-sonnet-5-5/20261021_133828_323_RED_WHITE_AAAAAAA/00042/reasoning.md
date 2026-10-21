@@ -1,0 +1,1 @@
+Bonus cards on two Kings add chips; Judgement is unusable with full jokers.

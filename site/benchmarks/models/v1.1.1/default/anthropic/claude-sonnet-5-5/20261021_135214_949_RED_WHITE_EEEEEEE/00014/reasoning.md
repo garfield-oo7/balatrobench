@@ -1,0 +1,1 @@
+Standard pack for $4 to add cards; leaves $2.

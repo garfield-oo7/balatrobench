@@ -1,0 +1,1 @@
+Flush of hearts available, scores 288.

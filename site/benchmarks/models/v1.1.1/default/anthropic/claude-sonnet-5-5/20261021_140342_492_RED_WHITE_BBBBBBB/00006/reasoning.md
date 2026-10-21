@@ -1,0 +1,1 @@
+To Do List gives money and a joker slot's worth of scoring is minimal, but cheap; actually need scoring joker. Still, it's the only joker available.

@@ -1,0 +1,1 @@
+Lots of money; Jumbo Arcana for useful tarots.

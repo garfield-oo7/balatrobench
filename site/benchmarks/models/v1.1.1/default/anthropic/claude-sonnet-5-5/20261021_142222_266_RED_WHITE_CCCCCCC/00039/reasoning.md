@@ -1,0 +1,1 @@
+The Idol is a decent joker, but I have 4/5 slots and $5, so I can't afford the $6 price. Skipping it.

@@ -1,0 +1,1 @@
+Create 2 planet cards for hand upgrades (consumable slots: will have room after using).

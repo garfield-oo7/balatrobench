@@ -1,0 +1,1 @@
+Consumable slots are full, so The High Priestess has no room. Judgement would also fail with 5/5 jokers. The Hierophant needs targets, and it's weak. The Wheel of Fortune is usable now, with a 1 in 4 chance of an edition on a random Joker. Taking The Wheel of Fortune.

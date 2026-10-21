@@ -1,0 +1,1 @@
+Keep T,T,6,6 two pair; draw for full house.

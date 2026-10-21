@@ -1,0 +1,1 @@
+Keep three hearts (J,T,8) and draw for a heart flush; Raised Fist lowest card also matters little.

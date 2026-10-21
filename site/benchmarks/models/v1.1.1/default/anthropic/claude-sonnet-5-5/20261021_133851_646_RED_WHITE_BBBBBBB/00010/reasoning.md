@@ -1,0 +1,1 @@
+Keep 8,7,6 of hearts/spades for a straight draw; discard A, T, 3, 3, 2.

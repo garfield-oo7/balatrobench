@@ -1,0 +1,1 @@
+Free random Joker with an open slot.

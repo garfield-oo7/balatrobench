@@ -1,0 +1,1 @@
+Pair is my most played hand (4 times), so Mercury is the best upgrade.

@@ -1,0 +1,1 @@
+Can't afford anything useful with $2; move on.

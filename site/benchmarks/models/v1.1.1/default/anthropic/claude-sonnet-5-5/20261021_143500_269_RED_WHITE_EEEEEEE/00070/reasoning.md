@@ -1,0 +1,1 @@
+Mercury levels Pair, which Jolly Joker and Two Pair both contain. Pair is the most relevant hand available.

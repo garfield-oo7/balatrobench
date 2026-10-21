@@ -1,0 +1,1 @@
+Two pair 4s and 3s, plus J to cycle an extra card

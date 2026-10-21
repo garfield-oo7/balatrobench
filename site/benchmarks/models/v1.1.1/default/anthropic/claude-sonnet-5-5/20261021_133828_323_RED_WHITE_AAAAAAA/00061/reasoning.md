@@ -1,0 +1,1 @@
+Full House contains Two Pair so it triggers Mad Joker and Spare Trousers; Earth gives a bigger boost (+2 mult, +25 chips) to a hand we play often.

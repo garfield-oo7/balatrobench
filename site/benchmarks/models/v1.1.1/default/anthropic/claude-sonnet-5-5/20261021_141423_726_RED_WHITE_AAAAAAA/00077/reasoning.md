@@ -1,0 +1,1 @@
+Jumbo spectral pack for a chance at strong spectral cards.

@@ -1,0 +1,1 @@
+Venus is cheap and boosts Three of a Kind, which works with Zany Joker.

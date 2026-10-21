@@ -1,0 +1,1 @@
+Keep 8,6,5 hearts (8H,6H,5H) plus draw toward heart flush/straight; discard K, J, 8C, 7D.

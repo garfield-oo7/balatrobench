@@ -1,0 +1,1 @@
+Crafty Joker gives +80 chips on flush, which is easy to hit and fits the flush plays so far. Wrathful Joker's +3 Mult only applies to Spades.

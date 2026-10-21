@@ -1,0 +1,1 @@
+Swashbuckler adds +mult cheaply; open slot.

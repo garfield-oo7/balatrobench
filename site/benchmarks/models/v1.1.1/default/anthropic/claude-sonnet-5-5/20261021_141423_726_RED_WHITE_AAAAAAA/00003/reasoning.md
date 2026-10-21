@@ -1,0 +1,1 @@
+Open joker slots; a Buffoon pack gives a choice of jokers for $4.

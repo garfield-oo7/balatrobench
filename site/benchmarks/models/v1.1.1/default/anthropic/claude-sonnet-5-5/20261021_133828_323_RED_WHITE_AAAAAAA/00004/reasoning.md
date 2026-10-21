@@ -1,0 +1,1 @@
+Spare Trousers scales Mult with Two Pair and synergizes with Mad Joker. Crafty Joker's flush bonus is good, but I'm already committed to Two Pair.

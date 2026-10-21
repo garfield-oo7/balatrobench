@@ -1,0 +1,1 @@
+Walkie Talkie is cheap, but the joker slots are full. I'll skip this and save money instead.

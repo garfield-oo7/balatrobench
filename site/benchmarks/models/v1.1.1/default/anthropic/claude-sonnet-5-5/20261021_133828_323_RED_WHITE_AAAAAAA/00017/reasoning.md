@@ -1,0 +1,1 @@
+Keep 7-6-5 for straight draw (need 4,8 / 8,9 etc); discard K, Q, 3, 2... actually keep 3? Drawing 4 new cards.

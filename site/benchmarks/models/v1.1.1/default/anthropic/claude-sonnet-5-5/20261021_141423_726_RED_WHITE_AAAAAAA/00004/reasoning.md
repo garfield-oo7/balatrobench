@@ -1,0 +1,1 @@
+Crafty Joker gives +80 chips on flush, and flushes are easy to build. Spare Trousers pairs with Mad Joker, but two pair is less reliable and slower to scale.

@@ -1,0 +1,1 @@
+Jokers full and nothing clearly better; keep $18 for interest.

@@ -1,0 +1,1 @@
+Keep three clubs (Q,7,5) and draw for a flush with Crafty Joker.

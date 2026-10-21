@@ -1,0 +1,1 @@
+Use High Priestess for free planets (room available).

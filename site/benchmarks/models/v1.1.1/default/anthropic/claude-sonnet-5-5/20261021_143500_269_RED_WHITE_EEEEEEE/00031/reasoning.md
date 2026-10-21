@@ -1,0 +1,1 @@
+Neither joker beats my current ones; slots are full.

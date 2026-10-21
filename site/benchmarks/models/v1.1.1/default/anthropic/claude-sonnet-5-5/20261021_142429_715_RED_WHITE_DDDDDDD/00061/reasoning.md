@@ -1,0 +1,1 @@
+Jokers full; nothing worth buying. Keep money for interest.

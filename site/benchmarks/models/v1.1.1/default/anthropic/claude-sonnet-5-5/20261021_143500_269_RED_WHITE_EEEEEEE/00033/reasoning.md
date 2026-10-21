@@ -1,0 +1,1 @@
+Saturn levels Straight, which Crazy Joker supports. Uranus isn't in the pack, so this is the best available option.

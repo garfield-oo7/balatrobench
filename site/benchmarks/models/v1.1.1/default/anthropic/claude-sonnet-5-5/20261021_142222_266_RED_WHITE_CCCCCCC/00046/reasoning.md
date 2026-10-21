@@ -1,0 +1,1 @@
+Mega Arcana gives 2 tarots; useful for deck improvement. Keeps $14.

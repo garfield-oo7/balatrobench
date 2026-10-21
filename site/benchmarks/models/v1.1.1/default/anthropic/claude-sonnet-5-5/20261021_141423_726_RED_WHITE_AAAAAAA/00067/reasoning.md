@@ -1,0 +1,1 @@
+Keep spades K,Q,8,7 and draw for a fifth spade to make a flush.

@@ -1,0 +1,1 @@
+Mercury levels Pair, which Jolly Joker supports and is easy to play.

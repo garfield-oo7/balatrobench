@@ -1,0 +1,1 @@
+5 of Diamonds adds a suited, odd-rank card that works with Odd Todd and flushes.

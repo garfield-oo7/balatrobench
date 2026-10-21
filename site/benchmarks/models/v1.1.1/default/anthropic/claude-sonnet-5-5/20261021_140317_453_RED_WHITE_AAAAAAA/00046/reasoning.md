@@ -1,0 +1,1 @@
+Two pair Aces and Tens with Mad Joker and Even Steven, about 1700 points, clears the blind.

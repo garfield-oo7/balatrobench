@@ -1,0 +1,1 @@
+Little money; joker slots full. Proceed.

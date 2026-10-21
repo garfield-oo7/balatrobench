@@ -1,0 +1,1 @@
+Two pair is the best available hand.

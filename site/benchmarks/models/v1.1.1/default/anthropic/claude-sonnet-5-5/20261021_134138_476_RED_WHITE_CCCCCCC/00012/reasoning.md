@@ -1,0 +1,1 @@
+Broadway straight A-K-Q-J-T scores about 324, enough to clear the blind.

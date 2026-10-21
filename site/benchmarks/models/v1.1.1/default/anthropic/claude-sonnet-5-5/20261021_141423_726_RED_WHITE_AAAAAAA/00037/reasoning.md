@@ -1,0 +1,1 @@
+Arcana pack for $4 may give useful tarot (e.g., suit changes); keeps $8 for interest.

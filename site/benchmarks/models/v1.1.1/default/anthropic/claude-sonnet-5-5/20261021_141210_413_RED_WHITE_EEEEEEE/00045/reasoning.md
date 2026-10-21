@@ -1,0 +1,1 @@
+Mercury levels up Pair, my most played hand. Jolly Joker and Supernova both work with Pair.

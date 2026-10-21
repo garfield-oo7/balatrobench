@@ -1,0 +1,1 @@
+Buffoon pack may offer a better joker; can replace a weak one.

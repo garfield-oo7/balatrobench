@@ -1,0 +1,1 @@
+Jupiter levels Flush, which Crafty Joker supports.

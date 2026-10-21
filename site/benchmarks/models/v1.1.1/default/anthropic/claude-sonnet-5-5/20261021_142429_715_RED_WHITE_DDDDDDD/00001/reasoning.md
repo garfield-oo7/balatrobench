@@ -1,0 +1,1 @@
+Heart flush available immediately: ~288 points.

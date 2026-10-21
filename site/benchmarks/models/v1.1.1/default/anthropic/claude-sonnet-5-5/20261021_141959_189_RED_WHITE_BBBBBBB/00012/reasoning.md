@@ -1,0 +1,1 @@
+Trip Queens score 180, enough to pass 450.

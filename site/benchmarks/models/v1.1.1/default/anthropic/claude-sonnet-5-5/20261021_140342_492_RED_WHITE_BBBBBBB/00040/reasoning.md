@@ -1,0 +1,1 @@
+Black flush via Smeared Joker: 9,9,8,5,4.

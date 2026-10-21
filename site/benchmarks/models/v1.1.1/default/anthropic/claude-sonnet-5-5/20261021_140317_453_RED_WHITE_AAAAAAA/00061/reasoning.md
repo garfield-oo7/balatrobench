@@ -1,0 +1,1 @@
+Free up slot for celestial pack; Pluto is minor.

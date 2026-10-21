@@ -1,0 +1,1 @@
+Keep 4 diamonds (J,9,6,5) and dig for the 5th diamond for a flush.

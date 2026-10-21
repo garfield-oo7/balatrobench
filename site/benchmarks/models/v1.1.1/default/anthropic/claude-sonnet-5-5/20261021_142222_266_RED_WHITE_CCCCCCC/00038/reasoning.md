@@ -1,0 +1,1 @@
+To Do List is cheap and flush is our main hand; pays $4 when the hand matches.

@@ -1,0 +1,1 @@
+Flush of diamonds: A, Q, T, 7, 6

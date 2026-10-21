@@ -1,0 +1,1 @@
+Standard pack could give face cards/pairs; cheap, money above interest cap.

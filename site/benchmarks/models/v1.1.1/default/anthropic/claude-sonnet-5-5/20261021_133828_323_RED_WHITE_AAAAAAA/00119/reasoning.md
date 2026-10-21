@@ -1,0 +1,1 @@
+Full House contains Two Pair so it triggers Mad Joker and Spare Trousers, and Earth boosts its base score.

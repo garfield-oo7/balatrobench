@@ -1,0 +1,1 @@
+Supernova scales with Flush/Pair plays; fills last joker slot.

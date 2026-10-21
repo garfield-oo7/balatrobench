@@ -1,0 +1,1 @@
+Hologram needs card additions, which are rare for us. Certificate adds a sealed card every round, which also thickens the deck. It gives steady value (Red/Gold/Blue/Purple seals), so I'm taking it.

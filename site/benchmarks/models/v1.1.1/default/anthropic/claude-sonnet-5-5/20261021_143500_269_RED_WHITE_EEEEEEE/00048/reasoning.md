@@ -1,0 +1,1 @@
+Steel card gives x1.5 Mult while held in hand. Apply it to the Ace, which usually stays in hand for Two Pair.

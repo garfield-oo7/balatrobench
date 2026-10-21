@@ -1,0 +1,1 @@
+Saturn levels Straight, which is a main scoring hand with Crazy Joker.

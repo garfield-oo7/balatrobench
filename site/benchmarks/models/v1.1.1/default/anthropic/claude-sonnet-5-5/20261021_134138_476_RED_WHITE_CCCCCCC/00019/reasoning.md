@@ -1,0 +1,1 @@
+Hearts debuffed doesn't matter here. Keep clubs K, J, 4 and the 4 of diamonds; discard the rest to dig for a flush or pair.

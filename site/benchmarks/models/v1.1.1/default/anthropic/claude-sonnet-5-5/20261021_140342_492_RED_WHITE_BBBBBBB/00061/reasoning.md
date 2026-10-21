@@ -1,0 +1,1 @@
+Jumbo Arcana for tarots; consumable slots are full, but tarots are used immediately.

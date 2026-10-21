@@ -1,0 +1,1 @@
+Play pair of 4s with extra cards to cycle; even 4s give mult.

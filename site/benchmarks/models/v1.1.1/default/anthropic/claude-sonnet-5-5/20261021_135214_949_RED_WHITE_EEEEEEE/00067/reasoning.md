@@ -1,0 +1,1 @@
+Saturn boosts Straight, which works with Crazy Joker and is already my leveled hand. I'll take Mercury next.

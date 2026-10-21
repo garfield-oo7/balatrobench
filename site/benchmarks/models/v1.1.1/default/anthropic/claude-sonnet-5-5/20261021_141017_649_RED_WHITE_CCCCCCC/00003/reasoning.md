@@ -1,0 +1,1 @@
+Full house 4s over 3s: 232 points, enough to clear the 300 target.

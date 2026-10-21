@@ -1,0 +1,1 @@
+Keep pair of 6s plus A and Q, and draw 4 cards looking for trips or two pair.

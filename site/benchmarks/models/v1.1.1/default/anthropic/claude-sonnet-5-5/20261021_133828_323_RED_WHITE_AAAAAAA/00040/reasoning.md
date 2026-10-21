@@ -1,0 +1,1 @@
+Walkie Talkie is cheap, but my joker slots are full. I need to sell a joker first.

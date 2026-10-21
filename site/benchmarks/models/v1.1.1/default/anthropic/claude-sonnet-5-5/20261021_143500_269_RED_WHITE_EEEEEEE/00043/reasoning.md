@@ -1,0 +1,1 @@
+Uranus levels Two Pair, my most played hand, and it works with Jolly Joker, Even Steven and Supernova.

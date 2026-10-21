@@ -1,0 +1,1 @@
+Mercury levels Pair, which triggers Jolly Joker and is also contained in the Two Pair I play often. Pair and Two Pair are my main hands.

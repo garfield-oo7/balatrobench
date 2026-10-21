@@ -1,0 +1,1 @@
+Convert D_A, H_Q, D_4 to Spades to give 7 spades in hand for a guaranteed flush and a spade-heavy deck.

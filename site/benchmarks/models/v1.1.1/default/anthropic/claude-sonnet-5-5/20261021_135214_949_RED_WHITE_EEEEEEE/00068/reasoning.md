@@ -1,0 +1,1 @@
+Mercury levels Pair, which Jolly Joker triggers and which is contained in Two Pair, Full House and Three of a Kind hands. Pair is among my most-used hand types.

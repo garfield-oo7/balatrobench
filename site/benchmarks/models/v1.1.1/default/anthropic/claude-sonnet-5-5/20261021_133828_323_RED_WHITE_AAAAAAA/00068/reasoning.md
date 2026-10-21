@@ -1,0 +1,1 @@
+Full House contains Two Pair and triggers our Two Pair jokers, so Earth is the best level-up for this build.

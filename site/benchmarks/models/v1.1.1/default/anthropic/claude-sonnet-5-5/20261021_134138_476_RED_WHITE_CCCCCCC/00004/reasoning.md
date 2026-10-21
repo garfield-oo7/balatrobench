@@ -1,0 +1,1 @@
+Two pair Kings and Tens; the Ace is an extra card that cycles.

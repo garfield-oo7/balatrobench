@@ -1,0 +1,1 @@
+Jumbo Celestial: level up hands (Flush/Straight) for $6, keeping $5.

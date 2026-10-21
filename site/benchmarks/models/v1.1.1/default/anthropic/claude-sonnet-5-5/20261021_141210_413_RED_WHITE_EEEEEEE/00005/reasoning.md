@@ -1,0 +1,1 @@
+Pair of 7s scores 48, enough to pass 300.

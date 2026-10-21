@@ -1,0 +1,1 @@
+Crafty Joker gives +80 chips on flushes, which are easy to build, and it beats Wrathful Joker's +3 Mult per Spade.

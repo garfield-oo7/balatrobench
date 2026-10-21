@@ -1,0 +1,1 @@
+Heart flush K,J,9,8,3 with Scary Face, Even Steven and Holo should score about 3000, which clears 1200.

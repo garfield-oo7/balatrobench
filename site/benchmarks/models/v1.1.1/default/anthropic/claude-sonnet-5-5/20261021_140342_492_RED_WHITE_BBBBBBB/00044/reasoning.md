@@ -1,0 +1,1 @@
+Jupiter levels up Flush, our main hand (Smeared Joker and To Do List both favor flushes).

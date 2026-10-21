@@ -1,0 +1,1 @@
+Cheap +80 chips for Two Pair, a common hand.

@@ -1,0 +1,1 @@
+No Jupiter available. Earth gives the biggest bump (+2 Mult, +25 chips) to Full House, which can also score with the flat chip jokers.

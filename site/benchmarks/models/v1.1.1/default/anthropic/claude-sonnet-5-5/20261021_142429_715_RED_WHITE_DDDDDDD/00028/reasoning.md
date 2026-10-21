@@ -1,0 +1,1 @@
+Jumbo Buffoon pack may offer better joker; $7 enough. Slots full though, could replace weak one.

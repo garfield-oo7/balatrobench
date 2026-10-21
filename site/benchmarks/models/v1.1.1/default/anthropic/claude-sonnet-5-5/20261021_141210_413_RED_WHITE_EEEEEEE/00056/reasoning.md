@@ -1,0 +1,1 @@
+Steel King held in hand gives x1.5 each round; The Chariot is a solid pick. Consumable slot has 1 free.

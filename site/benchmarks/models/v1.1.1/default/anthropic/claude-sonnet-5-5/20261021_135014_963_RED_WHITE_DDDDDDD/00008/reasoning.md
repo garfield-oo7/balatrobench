@@ -1,0 +1,1 @@
+The hand has two spades after the last discard, so I'm keeping A, 3 and 8 of spades. That means discarding the other five cards to dig for a spade flush. Crafty Joker gives +80 chips on a flush.

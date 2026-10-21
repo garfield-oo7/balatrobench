@@ -1,0 +1,1 @@
+Only $3; Gros Michel costs $5. Keep money and move on.

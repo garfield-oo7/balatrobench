@@ -1,0 +1,1 @@
+Diamond flush: A, Q, 8, 6, 4 of diamonds. Ancient Joker's current suit is unknown, but the flush triggers Crafty and Droll either way.

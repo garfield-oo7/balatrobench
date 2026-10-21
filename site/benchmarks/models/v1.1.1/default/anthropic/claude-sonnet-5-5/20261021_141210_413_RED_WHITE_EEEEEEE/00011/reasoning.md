@@ -1,0 +1,1 @@
+Jolly Joker cheap +8 mult for pairs

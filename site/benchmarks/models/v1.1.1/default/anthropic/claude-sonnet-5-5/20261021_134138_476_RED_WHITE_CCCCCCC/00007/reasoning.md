@@ -1,0 +1,1 @@
+Red Card gives scaling mult by skipping packs; Splash is weak for now. Take Red Card as a first joker.

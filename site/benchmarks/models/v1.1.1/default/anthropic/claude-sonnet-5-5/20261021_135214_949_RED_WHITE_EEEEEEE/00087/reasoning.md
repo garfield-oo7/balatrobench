@@ -1,0 +1,1 @@
+Mercury is the only planet here that helps hands I play (Pair, which works with Jolly Joker).

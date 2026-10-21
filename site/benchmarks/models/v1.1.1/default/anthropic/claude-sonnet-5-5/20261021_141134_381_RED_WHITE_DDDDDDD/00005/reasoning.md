@@ -1,0 +1,1 @@
+Crafty Joker gives +80 chips on flush; flush is easy and we've already played one. It's better than Wrathful Joker's spade-only mult.

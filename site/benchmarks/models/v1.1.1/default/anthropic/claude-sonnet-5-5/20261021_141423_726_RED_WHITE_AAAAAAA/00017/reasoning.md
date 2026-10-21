@@ -1,0 +1,1 @@
+Planet card to level up hands; flush is my main hand and the pack is cheap.

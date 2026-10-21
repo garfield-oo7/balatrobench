@@ -1,0 +1,4 @@
+I'm looking at my current hand with two jacks, two tens, and a nine, with four hands and two discards remaining toward a tough 10000 target. I'm calculating that a two pair of jacks and tens would give me around 140 chips with a base multiplier of 3, trying to figure out if that's enough or if I need a better combination.
+
+Working through the math, two pair gets me to roughly 1540 with even steven bonuses, but hitting 10000 in four hands seems unlikely that way even with the acrobat tripling the final hand. I'm thinking it's better to discard the nine and the unknown face-down cards to chase a full house instead—a JJJTT full house could score around 180 chips with a much higher multiplier near 24, pushing the score to over 4000 per hand, which is far more promising. I decide to discard the nine plus the three face-down cards and keep the jacks and tens, hoping to draw into trips.
+

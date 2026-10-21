@@ -1,0 +1,1 @@
+Spectral pack with lots of money; chance for strong upgrades.

@@ -1,0 +1,1 @@
+Earth levels Full House, which I've played and which works well with Scary Face; a good option here. Flush/Straight planets aren't offered.

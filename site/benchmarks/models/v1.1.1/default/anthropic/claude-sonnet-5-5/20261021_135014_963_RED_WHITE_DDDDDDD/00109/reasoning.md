@@ -1,0 +1,1 @@
+Diamond flush K,J,9,8,2 triggers all jokers.

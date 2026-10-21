@@ -1,0 +1,1 @@
+Straight 5-9 easily clears the remaining 12 points.

@@ -1,0 +1,1 @@
+Droll Joker gives +10 Mult on Flush, our main hand. It's a good fit, but slots are full, so I'm taking it anyway and will need to replace a weak joker. Shoot the Moon is weaker. The pack is Mega, so I may be able to pick more than one card.

@@ -1,0 +1,1 @@
+Cheap +8 mult for pair hands

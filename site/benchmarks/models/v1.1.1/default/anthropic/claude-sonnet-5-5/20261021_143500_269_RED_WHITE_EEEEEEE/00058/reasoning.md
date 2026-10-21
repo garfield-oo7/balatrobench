@@ -1,0 +1,1 @@
+10 is an even rank for Even Steven, gives more chips, and is useful for straights.

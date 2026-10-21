@@ -1,0 +1,1 @@
+Keep 3s and 2s, draw 4 for a full house chance.

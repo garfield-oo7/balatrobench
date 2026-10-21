@@ -1,0 +1,1 @@
+Saturn levels Straight, which has Crazy Joker support and is already level 3. No Uranus is available for Two Pair.

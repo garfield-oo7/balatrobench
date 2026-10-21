@@ -1,0 +1,1 @@
+King of Clubs is a face card, which works with Smiley Face and is useful for straights (Q-K).

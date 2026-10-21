@@ -1,0 +1,1 @@
+Best available hand is two pair 8s and 7s.

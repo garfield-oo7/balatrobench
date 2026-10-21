@@ -1,0 +1,1 @@
+Joker slots are full and the only shop joker (Seltzer) is a marginal upgrade. I'm keeping my money and moving on.

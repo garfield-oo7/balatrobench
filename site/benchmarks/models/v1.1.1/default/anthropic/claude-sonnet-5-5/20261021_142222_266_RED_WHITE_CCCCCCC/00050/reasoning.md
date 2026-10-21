@@ -1,0 +1,1 @@
+Nothing worthwhile; consumable slots full, jokers full. Save money.

@@ -1,0 +1,1 @@
+Cards are hidden; play 5 to cycle and reveal the rest of the deck, since only the first hand is face down.

@@ -1,0 +1,1 @@
+Free slot; level Two Pair.

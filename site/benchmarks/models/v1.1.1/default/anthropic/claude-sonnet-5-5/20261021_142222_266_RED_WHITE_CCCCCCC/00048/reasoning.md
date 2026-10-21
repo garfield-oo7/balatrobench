@@ -1,0 +1,1 @@
+The Emperor creates 2 random Tarots, and I have 2 empty consumable slots. That's more value than the other options.

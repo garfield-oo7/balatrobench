@@ -1,0 +1,1 @@
+Uranus levels up Two Pair, which I've played most often and which triggers Jolly Joker.

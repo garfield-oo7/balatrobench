@@ -1,0 +1,1 @@
+Jokers full; save money for interest. Nothing compelling to buy.

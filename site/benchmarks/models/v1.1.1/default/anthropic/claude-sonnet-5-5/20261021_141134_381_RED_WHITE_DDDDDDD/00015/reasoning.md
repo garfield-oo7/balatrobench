@@ -1,0 +1,1 @@
+Jumbo Celestial: level up Flush (our main hand) hopefully; $6 exactly.

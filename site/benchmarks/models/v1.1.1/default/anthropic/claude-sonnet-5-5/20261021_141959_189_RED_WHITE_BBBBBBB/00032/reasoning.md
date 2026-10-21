@@ -1,0 +1,1 @@
+Empress makes Mult cards; better to target the 9 and 7... pick 2 cards for +4 mult each.

@@ -1,0 +1,1 @@
+Club flush, ~11k score, well above the 899 needed.

@@ -1,0 +1,1 @@
+Jokers full; keep $27 for max interest. Nothing compelling to buy.

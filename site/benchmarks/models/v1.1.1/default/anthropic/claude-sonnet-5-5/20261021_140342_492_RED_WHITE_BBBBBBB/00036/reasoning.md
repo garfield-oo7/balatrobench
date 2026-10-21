@@ -1,0 +1,1 @@
+Empress makes Mult cards on the Ace of Hearts and Jack of Clubs, which are likely to be played in flushes.

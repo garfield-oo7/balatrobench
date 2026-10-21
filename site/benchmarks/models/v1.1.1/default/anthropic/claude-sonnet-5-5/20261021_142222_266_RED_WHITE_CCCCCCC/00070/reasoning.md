@@ -1,0 +1,1 @@
+Pair is the hand I play most after flush, and I've played it 4 times. Mercury is also the cheapest upgrade. There's no Jupiter in this pack.

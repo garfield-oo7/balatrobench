@@ -1,0 +1,1 @@
+Jumbo celestial pack gives a choice of planets to level up pair/two pair/trips hands.
