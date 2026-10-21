@@ -1,0 +1,40 @@
+# Memory & Previous Actions
+
+
+## Recent Decision History
+
+Here is a list of your recent decisions (from oldest to newest):
+
+
+**1.** `play({'cards': [0, 2, 4, 5, 6], 'reasoning': 'Five Hearts (H_A, H_8, H_7, H_6, H_3) make a Flush. The Goad is not active on this blind. Estimated score: Flush base 80 chips and 10 mult, plus card values 35, plus Odd Todd on A, 7, 3 (+93 chips), plus Crafty (+80 chips). Mult: 10 + 4 from the Mult-enhanced Ace + Droll (+10) + Abstract (+15 with 5 jokers). That gives roughly (288) x 39 = about 11,200. This is the best scoring option available, and I still have 3 hands left to cover the remaining ~5,300.'})` - 
+
+**2.** `discard({'cards': [4, 5, 6, 7], 'reasoning': "I hold a Queen pair (H_Q, C_Q) and a Ten pair (C_T, D_T). Two Pair with both Queens gets Scary Face bonuses. The four off-plan cards (C_9, H_8, D_5, H_2) are weak, so I'm discarding them to chase a third Queen or Ten for a Full House or Trips, while keeping the pairs. I still have 2 discards after this one."})` - 
+
+**3.** `discard({'cards': [1, 3, 4, 5, 6], 'reasoning': "Current hand has no made hand worth much (best is Two Pair ~2000). I need about 5,073 more points over 3 hands, which requires a strong Flush. I hold only two Hearts (H_Q, H_J, the H_J has Mult enhancement), so I'm discarding the five off-suit cards (C_Q, C_T, D_T, D_8, D_7) to draw for Hearts. Keeping S_6 as the filler card. I have 2 discards left after this."})` - 
+
+**4.** `discard({'cards': [2, 4, 6, 7], 'reasoning': "I need about 5,073 more points over 3 hands, and a Heart Flush is the only realistic way to get there with Crafty, Droll, and Abstract. I hold 4 Hearts (H_Q, H_J with Mult, H_7, H_4). I'm discarding the four non-Hearts (D_9, S_6, S_2, S_2) to draw 4 cards and chase a fifth Heart. This is my last discard."})` - 
+
+**5.** `play({'cards': [0, 1, 2, 3, 4], 'reasoning': "Five Hearts (Q, J, J, 9, 7) make a Flush. Keeping H_7 and H_9 instead of H_4 gives more card value and triggers Odd Todd on 9 and 7. Scary Face triggers on Q and both J's, and the two Mult-enhanced Jacks add +8 Mult. Estimate: chips 80 + 46 + 90 + 62 + 80 (Crafty) = 358; mult 10 + 8 + 10 (Droll) + 15 (Abstract) = 43; 358 x 43 ≈ 15,400. With the 11,427 already scored, this clears the 16,500 target."})` - 
+
+**6.** `buy({'pack': 0, 'reasoning': 'Standard Pack ($4) adds a playing card to the deck; I want more Hearts for the Heart Flush plan (Crafty, Droll, Abstract all trigger on flushes). Joker slots are full so Superposition is not an option, and Reroll Surplus at $10 saves little. Keeping ~$10 for interest.'})` - 
+
+**7.** `pack({'skip': True, 'reasoning': 'None of the cards are Hearts, so adding any of them dilutes my Heart Flush deck. Skipping keeps the deck density intact and preserves money for interest.'})` - 
+
+**8.** `buy({'pack': 0, 'reasoning': 'Flush is my committed scoring hand (Crafty, Droll, Abstract all trigger on it). Jumbo Celestial Pack ($6) gives a choice of 5 planets; I will take Jupiter (Flush +2 mult, +15 chips) if offered, or otherwise the best Flush-relevant option. Losing ~$2 of interest is worth the direct scoring gain with 3 antes-worth of blinds left.'})` - 
+
+**9.** `pack({'card': 4, 'reasoning': 'No Flush planet is offered. Taking Earth costs nothing (empty consumable slots) and levels Full House, which can still appear in my deck, so it is free value over skipping.'})` - 
+
+**10.** `next_round({'reasoning': "Nothing worth buying with $4: joker slots are full (Superposition can't be added), The Tower would stone a card and dilute the Heart Flush deck, and reroll ($5) and Reroll Surplus ($10) are unaffordable. Keeping the money and advancing to the next blind."})` - 
+
+
+
+## Strategic Context
+
+Based on your recent actions, consider:
+- How your decisions are building towards a cohesive strategy
+- Whether your current approach is working or needs adjustment
+- Patterns in your play that might need to change
+
+
+
+

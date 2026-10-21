@@ -1,0 +1,6 @@
+With score 3451 and 11000 needed, I'm checking my hand of H_A, H_K, H_8, S_7, H_6, S_5, S_3, H_3. The smeared joker makes hearts/diamonds one suit and spades/clubs another, and I notice I actually have five hearts already — A, K, 8, 6, 3 — giving me a natural flush.
+
+Now I'm working through the scoring: flush level 4 gives 80 chips and 10 mult, plus the card values (A=11, K=10, 8, 6, 3) adding to 38 chips, totaling 118 before bonuses. The red seal on the Ace retriggers it, adding another 11 chips to reach 129. Since K is a face card, I'm accounting for Smiley (+5 mult), Sock retriggering the King, and Photograph's X2 mult on the first face card scored — working out that mult builds to around 25 base, then +10 from the doubled Smiley trigger, before applying the Photograph multiplier.
+
+Factoring joker order (Smeared, Sock, Abstract, Smiley, Photograph), I get additive mult of 35 before the X2 from Photograph, landing at 70 total mult. Chips end up near 139 with the King's retrigger included, giving roughly 139 × 70 ≈ 9730 points — plenty to clear the 11000 threshold when added to the current 3451, especially since there's no glass or mult enhancement complicating things here. I'll go ahead and play cards 0,1,2,4,7.
+

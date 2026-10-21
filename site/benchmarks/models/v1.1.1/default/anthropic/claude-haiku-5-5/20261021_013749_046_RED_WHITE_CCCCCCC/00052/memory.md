@@ -1,0 +1,40 @@
+# Memory & Previous Actions
+
+
+## Recent Decision History
+
+Here is a list of your recent decisions (from oldest to newest):
+
+
+**1.** `discard({'cards': [2, 3, 4, 5], 'reasoning': "The Arm lowers the played hand's level by 1, so Full House (base level 4) plays at level 3, roughly 90 chips x 8 mult before cards. Flush and Four of a Kind are weaker here, and Mars doesn't help because Arm cancels its level-up. I'm keeping Q_H, Q_C, 4_C, 4_D (two pair, with a full house in reach) and discarding 9D, 8D, 6C, 5D. Any of the 4 outs (Q_S, Q_D, 4_S, 4_H) makes a full house, about a 67% chance on this draw."})` - 
+
+**2.** `discard({'cards': [0, 1, 4, 7], 'reasoning': "The Arm lowers the played hand's level, and the 1600 target needs a big hand. Holding the pairs Q-Q and 4-4 gives a Full House path: a Full House at effective Level 3 scores roughly 90 chips and 8 mult before cards, about 1000 with a triple. Discarding A, K, 7, 2 draws 4 cards. Four outs (two Queens, two 4s) give about a 67% chance of a Full House."})` - 
+
+**3.** `discard({'cards': [0, 3, 4, 7], 'reasoning': "Current hand is only Two Pair (Q-Q, 4-4), worth about 96 with The Arm. Full House is the only hand that can approach 1600 here (Level 4 drops to Level 3 under The Arm, about 90 chips x 8 mult before cards). I'm keeping Q_H, Q_C, 4_C, 4_D and discarding K_S, 9_C, 8_C, 3_D to draw 4 cards. Any Queen or Four completes a Full House, and I still have 4 hands and 1 discard left."})` - 
+
+**4.** `discard({'cards': [0, 3, 4, 7], 'reasoning': 'Holding Q_H, Q_C, 4_C, 4_D (two pair). Under The Arm, Full House plays at Level 3 (about 90 chips x 8 mult before cards), which is the only hand that can approach 1600. Discarding A_D, T_H, 9_C, 3_S draws 4 cards. Any Queen or 4 (4 outs) completes a Full House. This is my last discard, and I have 4 hands left.'})` - 
+
+**5.** `play({'cards': [0, 1, 5, 6, 7], 'reasoning': "No discards left, so I must play. Two Pair (Q-Q, 4-4) is the best scoring hand available (~96 with The Arm, which can't drop Level 1 below 1). Adding H_3 as an unscored fifth card cycles one more card toward a Full House, the only hand that can approach 1600 in the remaining hands."})` - 
+
+**6.** `play({'cards': [3, 4, 5, 6, 7], 'reasoning': "No discards left, so I must play. Two Pair (7-7 and 6-6) is the best available hand. The Arm can't drop Two Pair below Level 1. Score is about (7+7+6+6+20) x (2+3 from Wrathful on S_6) = 46 x 5 = 230. S_5 rides along unscored to cycle one more card toward a better hand in the remaining 3 hands."})` - 
+
+**7.** `play({'cards': [1, 2, 5, 6, 7], 'reasoning': 'Target is 1600 with only 326 scored, 2 hands and 0 discards left. The Arm drops my hand level, so no strong hand is available. The best scoring option is a pair of Kings (about 60 points). Playing 5 cards cycles the most cards toward a better draw, with the unscored Ace, Jack and Ten kept in hand.'})` - 
+
+**8.** `play({'cards': [0, 1, 2, 3, 4], 'reasoning': 'Full House (A-A, J-J-J) is the best option. The Arm drops Full House from Level 4 to Level 3, giving about 90 chips and 8 mult. Cards add 52 chips, for 142 total. Wrathful Joker adds +3 mult for each Spade (S_A and S_J), so mult is 14. Score is about 142 x 14 = 1988, which takes me from 386 to about 2374, past the 1600 target.'})` - 
+
+**9.** `next_round({'reasoning': "Nothing in the shop meaningfully improves my Full House / Flush plan at a reasonable price. Superposition needs Ace + Straight, The Tower is weak, Clearance Sale at $10 would wipe my savings and lose interest, and Mega Arcana at $8 is poor value. I'll keep $13 for interest and wait for a stronger Joker."})` - 
+
+**10.** `discard({'cards': [4, 5, 6, 7], 'reasoning': 'Holding S_K, D_K, S_J, D_J (two pair with both Spades for Wrathful Joker). Discarding D_T, C_8, D_7, H_5 to draw 4 cards hunting for a third King or Jack to make a Full House (Level 4, about 90 chips x 8 mult, plus Wrathful bonus). Only 4 outs, but the discard is nearly free and the two-pair fallback still scores.'})` - 
+
+
+
+## Strategic Context
+
+Based on your recent actions, consider:
+- How your decisions are building towards a cohesive strategy
+- Whether your current approach is working or needs adjustment
+- Patterns in your play that might need to change
+
+
+
+

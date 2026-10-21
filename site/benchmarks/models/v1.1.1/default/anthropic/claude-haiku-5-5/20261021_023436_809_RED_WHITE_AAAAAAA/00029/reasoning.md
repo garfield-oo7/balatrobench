@@ -1,0 +1,2 @@
+With $9 I'm weighing the shop options: Half Joker, Saturn, the pricier reroll I can't afford, plus the buffoon and standard packs. Since I have one free joker slot and I'm building a flush strategy, Saturn levels straights not flushes, and Half Joker's bonus only helps with 3-or-fewer card plays, which doesn't fit my 5-card flush hands—so neither seems like a great pickup compared to checking the buffoon pack.
+

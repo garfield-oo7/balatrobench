@@ -1,0 +1,6 @@
+I have 8 cards including A, J, T, 9, 3 of hearts, plus a 9 of clubs with a gold seal, an 8 of spades, and a 4 of diamonds. With the Smeared Joker making hearts and diamonds count as one suit group, I'm counting how many cards qualify toward a flush - the four hearts plus the diamond 4 give me five cards in that suit group.
+
+Now I'm calculating the flush score: base chips plus each card's value, factoring in the red seal retrigger on the ace, the Sock and Buskin retrigger on the jack (a face card), and the mult enhancement on the 9. I'm working through the chip total (35 base plus the card values, with retriggers adding the ace and jack values twice) and the +4 mult from the enhanced 9, then considering Raised Fist's effect based on the lowest-ranked card remaining in hand after these five are played.
+
+With held cards being 9, 8, and 4, Raised Fist adds +8 mult from the lowest card, giving a total mult of 16 (4 base + 4 from the 9 enhancement + 8 from Raised Fist), so the flush scores 99 × 16 = 1584 chips against a 2000 target — not quite enough on its own, but leaving three more hands to make up the remaining 416 should be easy, so I'll just go ahead and play this flush using cards at indices 0,1,2,3,7 rather than trying to optimize further with a discard.
+

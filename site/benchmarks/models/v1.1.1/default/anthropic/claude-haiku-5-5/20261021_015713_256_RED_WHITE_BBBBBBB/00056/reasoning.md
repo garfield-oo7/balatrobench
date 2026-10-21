@@ -1,0 +1,4 @@
+Looking at my hand of King of Spades, King of Clubs, Queen of Hearts, nine of Clubs, eight of Spades, four of Diamonds, three of Clubs, and two of Spades, I need 2000 points with 1188 so far, three hands and four discards left. With the Smeared Joker treating spades/clubs as one suit and hearts/diamonds as another, I'm counting six black cards: King of Spades, King of Clubs, nine of Clubs, eight of Spades, three of Clubs, and two of Spades.
+
+I'm comparing two ways to play a black flush of five cards — keeping the three in hand so Raised Fist boosts mult based on the lowest held card. Playing King, King, nine, eight, two (holding Queen, four, three) gives roughly 74 chips and mult 10 for about 740 points, which beats playing King, King, nine, eight, three (holding the two) for about 600 — so the first option looks stronger, though I'm also weighing the purple seal on the two of spades and whether discarding it might trigger a tarot card.
+

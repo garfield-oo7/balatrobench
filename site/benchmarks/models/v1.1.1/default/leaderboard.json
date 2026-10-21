@@ -1,0 +1,45 @@
+{
+  "generated_at": 1792523212,
+  "strategy": {
+    "name": "Default",
+    "key": "default",
+    "description": "The default BalatroLLM strategy",
+    "author": "BalatroLLM",
+    "version": "1.0.0",
+    "tags": [
+      "conservative",
+      "financial"
+    ]
+  },
+  "entries": [
+    {
+      "run_count": 15,
+      "run_wins": 0,
+      "run_completed": 15,
+      "avg_round": 11.733333333333333,
+      "std_round": 4.876571785686373,
+      "stats": {
+        "calls_total": 1315,
+        "calls_success": 1307,
+        "calls_error": 0,
+        "calls_failed": 8,
+        "tokens_in_total": 28089282,
+        "tokens_out_total": 1177605,
+        "tokens_in_avg": 21360.67072243346,
+        "tokens_out_avg": 895.5171102661596,
+        "tokens_in_std": 597.3990049355889,
+        "tokens_out_std": 480.3950036025727,
+        "time_total_ms": 8680415,
+        "time_avg_ms": 6601.0760456273765,
+        "time_std_ms": 4083.502683320351,
+        "cost_total": 1.341592735,
+        "cost_avg": 0.0010202226121673005,
+        "cost_std": 0.00026937385920010754
+      },
+      "model": {
+        "vendor": "anthropic",
+        "name": "claude-haiku-5-5"
+      }
+    }
+  ]
+}

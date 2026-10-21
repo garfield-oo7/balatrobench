@@ -1,0 +1,10 @@
+[
+  {
+    "id": "toolu_01DPYtpEBJyNYYENZXnuXH1J",
+    "function": {
+      "arguments": "{\"voucher\": 0}",
+      "name": "buy"
+    },
+    "type": "function"
+  }
+]

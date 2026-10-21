@@ -1,0 +1,6 @@
+I've got four clubs in hand (ace, king, nine, three) and just need one more to complete a flush, but with Flint halving the base chips, the payout would be weaker than usual—around 17 chips and 2 mult at level 1. With 3 hands and 2 discards left, needing 4895 more points, I'm weighing whether chasing this flush is worth it.
+
+Checking the pair of nines instead: 40 base chips and 4 mult at level 3, halved to 20/2, plus Jolly Joker adding mult for pairs—still seems weak compared to what's needed. A full house would help more but requires rebuilding most of the hand, and realistically hitting 4895 across just 3 hands looks nearly impossible, so I'm leaning toward maximizing whatever score I can get rather than chasing an unreachable target, possibly by completing the flush since the card values could add decent chips even with the halved base.
+
+I'm settling on the flush plan: keep the four clubs in hand (ace, king, nine, three of clubs) and discard the other four non-club cards, drawing to try to complete the flush. With roughly 9 clubs left among about 35 unseen cards, pulling at least one club in four draws gives something like a 61% chance, which is good enough odds to commit to this line.
+

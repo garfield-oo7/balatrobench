@@ -1,0 +1,6 @@
+Looking at my current hand with S_K, H_9, S_8, S_6, C_3, C_4, C_3, D_2 against The Mouth boss, I'm checking what happened with the Death consumable I used earlier and now I have The Chariot available as a Steel card option. I need to work out my best play for this round 15, aiming toward the 22000 target.
+
+With 4 hands and 5 discards available, and Banner giving +30 chips per unused discard, I'm running the numbers on scoring a pair of 3s versus other options — it only gets me to around 4525, nowhere close to 22000. The hand is weak overall, so I'm considering whether building toward a flush using my three spades (K, 8, 6) is more realistic, even though discarding reduces my Banner bonus. I'm leaning toward keeping the spades and discarding the rest to chase a flush or straight flush combo.
+
+Even optimizing for a flush with Holo, Swashbuckler, Scary Face, and Ancient Joker bonuses, I'm only estimating around 7560 per hand, which still falls short of 22000 across all my attempts. A full house via the pair of 3s seems equally unlikely to close the gap, so I'm accepting that hitting the target may not be fully achievable and focusing on maximizing expected value instead — discarding non-spade cards to chase the flush seems like the best shot.
+

@@ -1,0 +1,6 @@
+With the smeared joker making hearts and diamonds count as the same suit, I'm counting six red cards against two black ones, so I can build a five-card flush by choosing among H_6, H_5, D_5, D_4, H_3, and D_2.
+
+Checking the scoring: flush base at Level 5 gives 95 chips and 12 mult, plus Even Steven adds mult for each even rank (6, 4, 2), and Supernova stacks mult based on how many times I've played a flush this run — this would be play number 18, adding +18 mult. I also need to check if Jolly's pair bonus applies, since dropping D_2 leaves H_6, H_5, D_5, D_4, H_3, which contains a 5-5 pair, qualifying for the +8 mult bonus, while also keeping both even ranks 6 and 4 for Even Steven. I'm weighing this against needing roughly 6281 more chips across the remaining hands.
+
+Comparing combinations B (dropping H_3) yields 22 chips, triggers Jolly's pair bonus plus all three even ranks (6,4,2) for +12 mult, totaling 50 mult and 117 chips for 5850 points — the best option. Combination C (dropping D_5) loses the pair bonus and only scores 4830, so B wins clearly, landing me close to but just short of the 11000 target, leaving a small, easily achievable gap for the remaining two hands. I decide against discarding first since the risk isn't worth the marginal upside, and settle on playing hand B using cards H_6, H_5, D_5, D_4, and D_2.
+

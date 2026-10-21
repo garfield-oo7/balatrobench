@@ -1,0 +1,785 @@
+{
+  "generated_at": 1792523212,
+  "model": {
+    "vendor": "anthropic",
+    "name": "claude-haiku-5-5"
+  },
+  "strategy": {
+    "name": "Default",
+    "key": "default",
+    "description": "The default BalatroLLM strategy",
+    "author": "BalatroLLM",
+    "version": "1.0.0",
+    "tags": [
+      "conservative",
+      "financial"
+    ]
+  },
+  "runs": [
+    {
+      "id": "20261021_014708_800_RED_WHITE_EEEEEEE",
+      "model": {
+        "vendor": "anthropic",
+        "name": "claude-haiku-5-5"
+      },
+      "strategy": {
+        "name": "Default",
+        "key": "default",
+        "description": "The default BalatroLLM strategy",
+        "author": "BalatroLLM",
+        "version": "1.0.0",
+        "tags": [
+          "conservative",
+          "financial"
+        ]
+      },
+      "config": {
+        "seed": "EEEEEEE",
+        "deck": "RED",
+        "stake": "WHITE"
+      },
+      "run_won": false,
+      "run_completed": true,
+      "final_ante": 4,
+      "final_round": 11,
+      "providers": [
+        [
+          "Anthropic",
+          67
+        ]
+      ],
+      "stats": {
+        "calls_total": 67,
+        "calls_success": 66,
+        "calls_error": 0,
+        "calls_failed": 1,
+        "tokens_in_total": 1430381,
+        "tokens_out_total": 61477,
+        "tokens_in_avg": 21348.97014925373,
+        "tokens_out_avg": 917.5671641791045,
+        "tokens_in_std": 599.6957807075703,
+        "tokens_out_std": 521.784415713262,
+        "time_total_ms": 480321,
+        "time_avg_ms": 7168.9701492537315,
+        "time_std_ms": 3981.8097338611233,
+        "cost_total": 0.06859612,
+        "cost_avg": 0.0010238226865671642,
+        "cost_std": 0.0002847614989860712
+      }
+    },
+    {
+      "id": "20261021_021804_921_RED_WHITE_DDDDDDD",
+      "model": {
+        "vendor": "anthropic",
+        "name": "claude-haiku-5-5"
+      },
+      "strategy": {
+        "name": "Default",
+        "key": "default",
+        "description": "The default BalatroLLM strategy",
+        "author": "BalatroLLM",
+        "version": "1.0.0",
+        "tags": [
+          "conservative",
+          "financial"
+        ]
+      },
+      "config": {
+        "seed": "DDDDDDD",
+        "deck": "RED",
+        "stake": "WHITE"
+      },
+      "run_won": false,
+      "run_completed": true,
+      "final_ante": 6,
+      "final_round": 17,
+      "providers": [
+        [
+          "Anthropic",
+          128
+        ]
+      ],
+      "stats": {
+        "calls_total": 128,
+        "calls_success": 128,
+        "calls_error": 0,
+        "calls_failed": 0,
+        "tokens_in_total": 2731217,
+        "tokens_out_total": 109174,
+        "tokens_in_avg": 21337.6328125,
+        "tokens_out_avg": 852.921875,
+        "tokens_in_std": 538.0708010535029,
+        "tokens_out_std": 416.73692317787703,
+        "time_total_ms": 784450,
+        "time_avg_ms": 6128.515625,
+        "time_std_ms": 2230.8825307253783,
+        "cost_total": 0.12703894000000002,
+        "cost_avg": 0.0009924917187500001,
+        "cost_std": 0.00022766527026582605
+      }
+    },
+    {
+      "id": "20261021_020902_436_RED_WHITE_CCCCCCC",
+      "model": {
+        "vendor": "anthropic",
+        "name": "claude-haiku-5-5"
+      },
+      "strategy": {
+        "name": "Default",
+        "key": "default",
+        "description": "The default BalatroLLM strategy",
+        "author": "BalatroLLM",
+        "version": "1.0.0",
+        "tags": [
+          "conservative",
+          "financial"
+        ]
+      },
+      "config": {
+        "seed": "CCCCCCC",
+        "deck": "RED",
+        "stake": "WHITE"
+      },
+      "run_won": false,
+      "run_completed": true,
+      "final_ante": 3,
+      "final_round": 8,
+      "providers": [
+        [
+          "Anthropic",
+          66
+        ]
+      ],
+      "stats": {
+        "calls_total": 66,
+        "calls_success": 66,
+        "calls_error": 0,
+        "calls_failed": 0,
+        "tokens_in_total": 1402209,
+        "tokens_out_total": 55469,
+        "tokens_in_avg": 21245.590909090908,
+        "tokens_out_avg": 840.439393939394,
+        "tokens_in_std": 538.833668563521,
+        "tokens_out_std": 379.0020145587976,
+        "time_total_ms": 430600,
+        "time_avg_ms": 6524.242424242424,
+        "time_std_ms": 2070.536943073954,
+        "cost_total": 0.06433237,
+        "cost_avg": 0.0009747328787878788,
+        "cost_std": 0.0002043976217516704
+      }
+    },
+    {
+      "id": "20261021_015222_645_RED_WHITE_AAAAAAA",
+      "model": {
+        "vendor": "anthropic",
+        "name": "claude-haiku-5-5"
+      },
+      "strategy": {
+        "name": "Default",
+        "key": "default",
+        "description": "The default BalatroLLM strategy",
+        "author": "BalatroLLM",
+        "version": "1.0.0",
+        "tags": [
+          "conservative",
+          "financial"
+        ]
+      },
+      "config": {
+        "seed": "AAAAAAA",
+        "deck": "RED",
+        "stake": "WHITE"
+      },
+      "run_won": false,
+      "run_completed": true,
+      "final_ante": 6,
+      "final_round": 18,
+      "providers": [
+        [
+          "Anthropic",
+          111
+        ]
+      ],
+      "stats": {
+        "calls_total": 111,
+        "calls_success": 111,
+        "calls_error": 0,
+        "calls_failed": 0,
+        "tokens_in_total": 2392558,
+        "tokens_out_total": 113530,
+        "tokens_in_avg": 21554.576576576575,
+        "tokens_out_avg": 1022.7927927927927,
+        "tokens_in_std": 652.006295975591,
+        "tokens_out_std": 613.9523984674606,
+        "time_total_ms": 793028,
+        "time_avg_ms": 7144.396396396396,
+        "time_std_ms": 3354.051737767809,
+        "cost_total": 0.12200112,
+        "cost_avg": 0.0010991091891891893,
+        "cost_std": 0.0003305601374530404
+      }
+    },
+    {
+      "id": "20261021_013749_046_RED_WHITE_CCCCCCC",
+      "model": {
+        "vendor": "anthropic",
+        "name": "claude-haiku-5-5"
+      },
+      "strategy": {
+        "name": "Default",
+        "key": "default",
+        "description": "The default BalatroLLM strategy",
+        "author": "BalatroLLM",
+        "version": "1.0.0",
+        "tags": [
+          "conservative",
+          "financial"
+        ]
+      },
+      "config": {
+        "seed": "CCCCCCC",
+        "deck": "RED",
+        "stake": "WHITE"
+      },
+      "run_won": false,
+      "run_completed": true,
+      "final_ante": 3,
+      "final_round": 8,
+      "providers": [
+        [
+          "Anthropic",
+          66
+        ]
+      ],
+      "stats": {
+        "calls_total": 66,
+        "calls_success": 64,
+        "calls_error": 0,
+        "calls_failed": 2,
+        "tokens_in_total": 1401724,
+        "tokens_out_total": 62674,
+        "tokens_in_avg": 21238.242424242424,
+        "tokens_out_avg": 949.6060606060606,
+        "tokens_in_std": 581.8990147811418,
+        "tokens_out_std": 493.729352169256,
+        "time_total_ms": 451797,
+        "time_avg_ms": 6845.409090909091,
+        "time_std_ms": 2606.3795400887047,
+        "cost_total": 0.06788169,
+        "cost_avg": 0.0010285104545454545,
+        "cost_std": 0.0002693820293499796
+      }
+    },
+    {
+      "id": "20261021_012713_998_RED_WHITE_BBBBBBB",
+      "model": {
+        "vendor": "anthropic",
+        "name": "claude-haiku-5-5"
+      },
+      "strategy": {
+        "name": "Default",
+        "key": "default",
+        "description": "The default BalatroLLM strategy",
+        "author": "BalatroLLM",
+        "version": "1.0.0",
+        "tags": [
+          "conservative",
+          "financial"
+        ]
+      },
+      "config": {
+        "seed": "BBBBBBB",
+        "deck": "RED",
+        "stake": "WHITE"
+      },
+      "run_won": false,
+      "run_completed": true,
+      "final_ante": 3,
+      "final_round": 9,
+      "providers": [
+        [
+          "Anthropic",
+          76
+        ]
+      ],
+      "stats": {
+        "calls_total": 76,
+        "calls_success": 76,
+        "calls_error": 0,
+        "calls_failed": 0,
+        "tokens_in_total": 1630246,
+        "tokens_out_total": 77745,
+        "tokens_in_avg": 21450.605263157893,
+        "tokens_out_avg": 1022.9605263157895,
+        "tokens_in_std": 573.1399847378153,
+        "tokens_out_std": 583.3584247736429,
+        "time_total_ms": 546098,
+        "time_avg_ms": 7185.5,
+        "time_std_ms": 3008.9724336834106,
+        "cost_total": 0.08245414,
+        "cost_avg": 0.001084922894736842,
+        "cost_std": 0.0003089771217800903
+      }
+    },
+    {
+      "id": "20261021_024523_750_RED_WHITE_CCCCCCC",
+      "model": {
+        "vendor": "anthropic",
+        "name": "claude-haiku-5-5"
+      },
+      "strategy": {
+        "name": "Default",
+        "key": "default",
+        "description": "The default BalatroLLM strategy",
+        "author": "BalatroLLM",
+        "version": "1.0.0",
+        "tags": [
+          "conservative",
+          "financial"
+        ]
+      },
+      "config": {
+        "seed": "CCCCCCC",
+        "deck": "RED",
+        "stake": "WHITE"
+      },
+      "run_won": false,
+      "run_completed": true,
+      "final_ante": 1,
+      "final_round": 2,
+      "providers": [
+        [
+          "Anthropic",
+          15
+        ]
+      ],
+      "stats": {
+        "calls_total": 15,
+        "calls_success": 15,
+        "calls_error": 0,
+        "calls_failed": 0,
+        "tokens_in_total": 309375,
+        "tokens_out_total": 9364,
+        "tokens_in_avg": 20625.0,
+        "tokens_out_avg": 624.2666666666667,
+        "tokens_in_std": 635.99752919556,
+        "tokens_out_std": 193.30710823774197,
+        "time_total_ms": 77532,
+        "time_avg_ms": 5168.8,
+        "time_std_ms": 1408.059211417312,
+        "cost_total": 0.01206749,
+        "cost_avg": 0.0008044993333333333,
+        "cost_std": 0.00012812283026548428
+      }
+    },
+    {
+      "id": "20261021_022303_410_RED_WHITE_EEEEEEE",
+      "model": {
+        "vendor": "anthropic",
+        "name": "claude-haiku-5-5"
+      },
+      "strategy": {
+        "name": "Default",
+        "key": "default",
+        "description": "The default BalatroLLM strategy",
+        "author": "BalatroLLM",
+        "version": "1.0.0",
+        "tags": [
+          "conservative",
+          "financial"
+        ]
+      },
+      "config": {
+        "seed": "EEEEEEE",
+        "deck": "RED",
+        "stake": "WHITE"
+      },
+      "run_won": false,
+      "run_completed": true,
+      "final_ante": 5,
+      "final_round": 15,
+      "providers": [
+        [
+          "Anthropic",
+          96
+        ]
+      ],
+      "stats": {
+        "calls_total": 96,
+        "calls_success": 95,
+        "calls_error": 0,
+        "calls_failed": 1,
+        "tokens_in_total": 2053390,
+        "tokens_out_total": 80454,
+        "tokens_in_avg": 21389.479166666668,
+        "tokens_out_avg": 838.0625,
+        "tokens_in_std": 614.1278622081487,
+        "tokens_out_std": 477.1144585725184,
+        "time_total_ms": 575286,
+        "time_avg_ms": 5992.5625,
+        "time_std_ms": 2557.2615897005717,
+        "cost_total": 0.09515638,
+        "cost_avg": 0.0009912122916666667,
+        "cost_std": 0.00025332132344215016
+      }
+    },
+    {
+      "id": "20261021_024532_577_RED_WHITE_DDDDDDD",
+      "model": {
+        "vendor": "anthropic",
+        "name": "claude-haiku-5-5"
+      },
+      "strategy": {
+        "name": "Default",
+        "key": "default",
+        "description": "The default BalatroLLM strategy",
+        "author": "BalatroLLM",
+        "version": "1.0.0",
+        "tags": [
+          "conservative",
+          "financial"
+        ]
+      },
+      "config": {
+        "seed": "DDDDDDD",
+        "deck": "RED",
+        "stake": "WHITE"
+      },
+      "run_won": false,
+      "run_completed": true,
+      "final_ante": 2,
+      "final_round": 6,
+      "providers": [
+        [
+          "Anthropic",
+          32
+        ]
+      ],
+      "stats": {
+        "calls_total": 32,
+        "calls_success": 32,
+        "calls_error": 0,
+        "calls_failed": 0,
+        "tokens_in_total": 674748,
+        "tokens_out_total": 21152,
+        "tokens_in_avg": 21085.875,
+        "tokens_out_avg": 661.0,
+        "tokens_in_std": 692.6649215518187,
+        "tokens_out_std": 347.9530001632126,
+        "time_total_ms": 173715,
+        "time_avg_ms": 5428.59375,
+        "time_std_ms": 2572.137906544332,
+        "cost_total": 0.02782063,
+        "cost_avg": 0.0008693946875,
+        "cost_std": 0.00020048170585004597
+      }
+    },
+    {
+      "id": "20261021_024715_711_RED_WHITE_EEEEEEE",
+      "model": {
+        "vendor": "anthropic",
+        "name": "claude-haiku-5-5"
+      },
+      "strategy": {
+        "name": "Default",
+        "key": "default",
+        "description": "The default BalatroLLM strategy",
+        "author": "BalatroLLM",
+        "version": "1.0.0",
+        "tags": [
+          "conservative",
+          "financial"
+        ]
+      },
+      "config": {
+        "seed": "EEEEEEE",
+        "deck": "RED",
+        "stake": "WHITE"
+      },
+      "run_won": false,
+      "run_completed": true,
+      "final_ante": 6,
+      "final_round": 17,
+      "providers": [
+        [
+          "Anthropic",
+          130
+        ]
+      ],
+      "stats": {
+        "calls_total": 130,
+        "calls_success": 129,
+        "calls_error": 0,
+        "calls_failed": 1,
+        "tokens_in_total": 2785441,
+        "tokens_out_total": 115999,
+        "tokens_in_avg": 21426.46923076923,
+        "tokens_out_avg": 892.3,
+        "tokens_in_std": 573.6512214334742,
+        "tokens_out_std": 457.5600888230101,
+        "time_total_ms": 943456,
+        "time_avg_ms": 7257.3538461538465,
+        "time_std_ms": 10071.245098934618,
+        "cost_total": 0.13276641,
+        "cost_avg": 0.001021280076923077,
+        "cost_std": 0.0002436815341411601
+      }
+    },
+    {
+      "id": "20261021_013826_152_RED_WHITE_DDDDDDD",
+      "model": {
+        "vendor": "anthropic",
+        "name": "claude-haiku-5-5"
+      },
+      "strategy": {
+        "name": "Default",
+        "key": "default",
+        "description": "The default BalatroLLM strategy",
+        "author": "BalatroLLM",
+        "version": "1.0.0",
+        "tags": [
+          "conservative",
+          "financial"
+        ]
+      },
+      "config": {
+        "seed": "DDDDDDD",
+        "deck": "RED",
+        "stake": "WHITE"
+      },
+      "run_won": false,
+      "run_completed": true,
+      "final_ante": 5,
+      "final_round": 15,
+      "providers": [
+        [
+          "Anthropic",
+          107
+        ]
+      ],
+      "stats": {
+        "calls_total": 107,
+        "calls_success": 107,
+        "calls_error": 0,
+        "calls_failed": 0,
+        "tokens_in_total": 2280006,
+        "tokens_out_total": 89987,
+        "tokens_in_avg": 21308.467289719625,
+        "tokens_out_avg": 841.0,
+        "tokens_in_std": 576.7432527393112,
+        "tokens_out_std": 460.71812280313577,
+        "time_total_ms": 655714,
+        "time_avg_ms": 6128.1682242990655,
+        "time_std_ms": 2415.450911012079,
+        "cost_total": 0.10544209,
+        "cost_avg": 0.000985440093457944,
+        "cost_std": 0.0002446644350653364
+      }
+    },
+    {
+      "id": "20261021_023436_809_RED_WHITE_AAAAAAA",
+      "model": {
+        "vendor": "anthropic",
+        "name": "claude-haiku-5-5"
+      },
+      "strategy": {
+        "name": "Default",
+        "key": "default",
+        "description": "The default BalatroLLM strategy",
+        "author": "BalatroLLM",
+        "version": "1.0.0",
+        "tags": [
+          "conservative",
+          "financial"
+        ]
+      },
+      "config": {
+        "seed": "AAAAAAA",
+        "deck": "RED",
+        "stake": "WHITE"
+      },
+      "run_won": false,
+      "run_completed": true,
+      "final_ante": 4,
+      "final_round": 12,
+      "providers": [
+        [
+          "Anthropic",
+          85
+        ]
+      ],
+      "stats": {
+        "calls_total": 85,
+        "calls_success": 84,
+        "calls_error": 0,
+        "calls_failed": 1,
+        "tokens_in_total": 1805937,
+        "tokens_out_total": 70059,
+        "tokens_in_avg": 21246.317647058822,
+        "tokens_out_avg": 824.2235294117647,
+        "tokens_in_std": 622.2335002646038,
+        "tokens_out_std": 483.3965240253346,
+        "time_total_ms": 505235,
+        "time_avg_ms": 5943.941176470588,
+        "time_std_ms": 2511.8761644528217,
+        "cost_total": 0.08263497,
+        "cost_avg": 0.0009721761176470588,
+        "cost_std": 0.0002600598644043975
+      }
+    },
+    {
+      "id": "20261021_023533_440_RED_WHITE_BBBBBBB",
+      "model": {
+        "vendor": "anthropic",
+        "name": "claude-haiku-5-5"
+      },
+      "strategy": {
+        "name": "Default",
+        "key": "default",
+        "description": "The default BalatroLLM strategy",
+        "author": "BalatroLLM",
+        "version": "1.0.0",
+        "tags": [
+          "conservative",
+          "financial"
+        ]
+      },
+      "config": {
+        "seed": "BBBBBBB",
+        "deck": "RED",
+        "stake": "WHITE"
+      },
+      "run_won": false,
+      "run_completed": true,
+      "final_ante": 3,
+      "final_round": 8,
+      "providers": [
+        [
+          "Anthropic",
+          74
+        ]
+      ],
+      "stats": {
+        "calls_total": 74,
+        "calls_success": 74,
+        "calls_error": 0,
+        "calls_failed": 0,
+        "tokens_in_total": 1576479,
+        "tokens_out_total": 67161,
+        "tokens_in_avg": 21303.77027027027,
+        "tokens_out_avg": 907.581081081081,
+        "tokens_in_std": 547.1588021045388,
+        "tokens_out_std": 388.26967773812834,
+        "time_total_ms": 483318,
+        "time_avg_ms": 6531.324324324324,
+        "time_std_ms": 2093.837612654655,
+        "cost_total": 0.0750249,
+        "cost_avg": 0.0010138500000000002,
+        "cost_std": 0.00021305763021253383
+      }
+    },
+    {
+      "id": "20261021_015713_256_RED_WHITE_BBBBBBB",
+      "model": {
+        "vendor": "anthropic",
+        "name": "claude-haiku-5-5"
+      },
+      "strategy": {
+        "name": "Default",
+        "key": "default",
+        "description": "The default BalatroLLM strategy",
+        "author": "BalatroLLM",
+        "version": "1.0.0",
+        "tags": [
+          "conservative",
+          "financial"
+        ]
+      },
+      "config": {
+        "seed": "BBBBBBB",
+        "deck": "RED",
+        "stake": "WHITE"
+      },
+      "run_won": false,
+      "run_completed": true,
+      "final_ante": 6,
+      "final_round": 18,
+      "providers": [
+        [
+          "Anthropic",
+          179
+        ]
+      ],
+      "stats": {
+        "calls_total": 179,
+        "calls_success": 178,
+        "calls_error": 0,
+        "calls_failed": 1,
+        "tokens_in_total": 3847062,
+        "tokens_out_total": 174339,
+        "tokens_in_avg": 21491.96648044693,
+        "tokens_out_avg": 973.9608938547486,
+        "tokens_in_std": 533.4626436111103,
+        "tokens_out_std": 490.8103064210084,
+        "time_total_ms": 1266351,
+        "time_avg_ms": 7074.586592178771,
+        "time_std_ms": 2811.065885461152,
+        "cost_total": 0.19114338,
+        "cost_avg": 0.0010678401117318436,
+        "cost_std": 0.00025868441673984225
+      }
+    },
+    {
+      "id": "20261021_012652_106_RED_WHITE_AAAAAAA",
+      "model": {
+        "vendor": "anthropic",
+        "name": "claude-haiku-5-5"
+      },
+      "strategy": {
+        "name": "Default",
+        "key": "default",
+        "description": "The default BalatroLLM strategy",
+        "author": "BalatroLLM",
+        "version": "1.0.0",
+        "tags": [
+          "conservative",
+          "financial"
+        ]
+      },
+      "config": {
+        "seed": "AAAAAAA",
+        "deck": "RED",
+        "stake": "WHITE"
+      },
+      "run_won": false,
+      "run_completed": true,
+      "final_ante": 4,
+      "final_round": 12,
+      "providers": [
+        [
+          "Anthropic",
+          83
+        ]
+      ],
+      "stats": {
+        "calls_total": 83,
+        "calls_success": 82,
+        "calls_error": 0,
+        "calls_failed": 1,
+        "tokens_in_total": 1768509,
+        "tokens_out_total": 69021,
+        "tokens_in_avg": 21307.33734939759,
+        "tokens_out_avg": 831.5783132530121,
+        "tokens_in_std": 645.6502541323601,
+        "tokens_out_std": 399.00810311723967,
+        "time_total_ms": 513514,
+        "time_avg_ms": 6186.915662650603,
+        "time_std_ms": 2172.96431342869,
+        "cost_total": 0.087232105,
+        "cost_avg": 0.00105098921686747,
+        "cost_std": 0.0003620283260002087
+      }
+    }
+  ]
+}

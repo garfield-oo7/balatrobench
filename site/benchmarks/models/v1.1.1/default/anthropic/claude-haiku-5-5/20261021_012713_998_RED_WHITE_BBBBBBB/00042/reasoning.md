@@ -1,0 +1,10 @@
+Looking at my hand against The Arm boss blind, which knocks the played hand's level down before scoring, with target 1600 over 4 hands and 4 discards. I notice I have three 3s (hearts, clubs, diamonds) forming a three of a kind, which at level 1 gives 30 chips and 3 mult.
+
+Checking Zany Joker's +12 mult bonus on three of a kind pushes this to 15 mult, and with the two scoring cards added, (30+9)*15 = 585 chips. I also test a flush option using the red cards (hearts and diamonds counting together with Smeared Joker), but since Arm drops Flush from level 2 to level 1, it only yields 35 chips and 4 mult, totaling (31+35)*4 = 264 -- clearly worse than the three of a kind play. I rule out full house and two pair as unavailable, concluding three of a kind at 585 per hand is my best bet, and I'm now calculating whether three hands of this can reach the 1600 target.
+
+Since Arm only reduces each hand type's level once before hitting floor, repeated three-of-a-kind plays stay steady at 585 each. I consider discarding non-trip cards to chase a full house or four of a kind by keeping the three 3s and drawing five new cards from the remaining 44-card deck, estimating the odds of pairing into a full house or drawing the last 3 for quads (roughly 11% for the single remaining 3).
+
+For four of a kind, zany bonus applies since it contains a three-of-a-kind, giving (12+60)×(7+12)=1368 chips — better than trips alone. But full house is even stronger: Clever Joker's +80 chips for containing two pair pushes something like K K 3 3 3 to 149 chips × 16 mult = 2384, far outclassing four of a kind. So the better plan is to aim for a full house by keeping the trip 3s and drawing to pair up one of the other ranks, since none of K, T, 9, 6, 5 currently pair with each other.
+
+Estimating the odds: with 15 cards among the remaining 44 matching those unpaired ranks, there's roughly a 91% chance at least one of 5 drawn cards forms a pair, and multiple discard rounds improve those odds further. So I'll discard the five non-3 cards (K, T, 9, 6, 5) and hope the redraw pairs one of them up to complete the full house.
+

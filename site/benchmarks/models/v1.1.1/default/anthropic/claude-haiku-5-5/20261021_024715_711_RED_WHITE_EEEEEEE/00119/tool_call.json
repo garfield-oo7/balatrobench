@@ -1,0 +1,10 @@
+[
+  {
+    "id": "toolu_01W7NACuCLnLhbLQn3TRmAMy",
+    "function": {
+      "arguments": "{\"card\": 1}",
+      "name": "pack"
+    },
+    "type": "function"
+  }
+]

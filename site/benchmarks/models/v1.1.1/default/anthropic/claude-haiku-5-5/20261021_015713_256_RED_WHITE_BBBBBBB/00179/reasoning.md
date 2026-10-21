@@ -1,0 +1,4 @@
+One hand left, no discards, needing 7385 more points to hit 40000. I'm looking at my current hand: debuffed 8s of hearts and clubs, a diamond 8, a debuffed lucky 6 of clubs, a gold seal 6 of diamonds, a 4 of clubs, 3 of diamonds, and a mult-enhanced 2 of clubs, keeping in mind the pillar debuff affects cards already played this Ante.
+
+Checking pairs - only diamond 8 and diamond 6 are live, no actual pairs survive the debuffs. A flush doesn't work either since Smeared Joker groups red/black suits but my diamonds and clubs still split into different groups. Even maximizing with the Abstract Joker's mult bonus and other jokers, a high card play with the diamond 8 only nets around 391 points - nowhere close to the 7385 I need, so this round appears unwinnable regardless of how I play this final hand.
+

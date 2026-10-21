@@ -1,0 +1,4 @@
+I'm looking at my hand against the boss blind target of 22000, noting the Smeared Joker treats hearts/diamonds as one suit and spades/clubs as another, so I'm counting six red cards versus two black cards to figure out the best scoring combination.
+
+Playing a flush with Ace of Hearts, Ace of Diamonds, 8 of Hearts, 5 of Diamonds, and 4 of Diamonds gives chips around 134 once I add in the flush level bonus, with mult boosted by Supernova scaling with flush plays plus Even Steven bonuses from the 8 and 4, landing near a score of 5762. Comparing alternate card combinations, this selection beats swapping in the 3 of Diamonds instead of the 5, so I'll stick with it, though hitting 22000 across four hands at roughly 5762 each feels tight and I'm wondering how the Fish's face-down redraw mechanic will affect my remaining hands.
+
