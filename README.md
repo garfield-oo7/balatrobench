@@ -14,6 +14,9 @@
 
 ---
 
+> [!IMPORTANT]
+> **This is an independent fork** of [coder/balatrobench](https://github.com/coder/balatrobench), not run by the BalatroBench maintainers. The site shows the original v1.0.8 leaderboard (loaded unchanged from the BalatroBench CDN) next to independent runs of newer models, added through one pull request per model. See the site's About page for the run conditions.
+
 BalatroBench is a benchmark analysis tool and leaderboard for [BalatroLLM](https://github.com/coder/balatrollm) runs. It processes game data and generates interactive leaderboards comparing LLM models and strategies playing [Balatro](https://www.playbalatro.com/).
 
 > [!NOTE]

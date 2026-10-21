@@ -1,0 +1,10 @@
+{
+  "versions": [
+    {
+      "version": "v1.0.8",
+      "label": "v1.0.8 (BalatroBench)",
+      "latest": true,
+      "data": "https://balatrobench-prod.b-cdn.net"
+    }
+  ]
+}

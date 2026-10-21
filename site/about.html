@@ -296,6 +296,37 @@
 
       <div
         class="bg-white dark:bg-zinc-800 rounded-lg shadow-lg dark:shadow-2xl dark:ring-1 dark:ring-white/5 p-8 mb-8">
+        <h2 class="text-2xl font-bold text-zinc-800 dark:text-zinc-100 mb-4">About this fork</h2>
+        <div class="text-zinc-600 dark:text-zinc-300 leading-relaxed space-y-3">
+          <p>
+            This is an independent fork of
+            <a href="https://github.com/coder/balatrobench" class="text-blue-600 dark:text-blue-400 hover:underline">BalatroBench</a>,
+            maintained at
+            <a href="https://github.com/garfield-oo7/balatrobench" class="text-blue-600 dark:text-blue-400 hover:underline">garfield-oo7/balatrobench</a>.
+            It is not run by the BalatroBench maintainers.
+          </p>
+          <p>
+            <strong>v1.0.8 (BalatroBench)</strong> is the original leaderboard, loaded unchanged from the
+            BalatroBench CDN. Other versions are independent runs added through pull requests in this fork,
+            one per model, under the main leaderboard's conditions: the <code>default</code> strategy,
+            RED deck, WHITE stake, 15 games (seeds AAAAAAA to EEEEEEE, 3 runs each), medium reasoning.
+          </p>
+          <p>Differences from the original runs, so results can be read in context:</p>
+          <ul class="list-disc pl-6 space-y-1">
+            <li>BalatroLLM with OpenAI Responses and Anthropic Messages API support
+              (<a href="https://github.com/coder/balatrollm/pull/88" class="text-blue-600 dark:text-blue-400 hover:underline">coder/balatrollm#88</a>);
+              models are called directly through the OpenAI and Anthropic APIs instead of OpenRouter.</li>
+            <li>Cost is estimated from the providers' published per-token prices (these APIs report none).</li>
+            <li>Games run on a Balatro profile with the whole collection unlocked, each in a fresh game
+              instance (avoiding <a href="https://github.com/coder/balatrobot/issues/232" class="text-blue-600 dark:text-blue-400 hover:underline">coder/balatrobot#232</a>).
+              <a href="https://github.com/coder/balatrobot/issues/231" class="text-blue-600 dark:text-blue-400 hover:underline">coder/balatrobot#231</a>
+              (cash-out timing) affects all versions, including the original.</li>
+          </ul>
+        </div>
+      </div>
+
+      <div
+        class="bg-white dark:bg-zinc-800 rounded-lg shadow-lg dark:shadow-2xl dark:ring-1 dark:ring-white/5 p-8 mb-8">
         <h2 class="text-2xl font-bold text-zinc-800 dark:text-zinc-100 mb-4">Related Projects</h2>
         <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
           <a href="https://github.com/coder/balatrobot"
