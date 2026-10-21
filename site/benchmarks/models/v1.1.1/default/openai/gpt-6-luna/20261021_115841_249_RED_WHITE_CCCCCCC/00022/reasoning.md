@@ -1,0 +1,1 @@
+With only $1, neither the $8 Mega Arcana Pack nor the $10 voucher is affordable, and rerolling costs $5. Leave the shop and skip the booster pack to gain another +3 Mult from Red Card; continue building around flushes and Spade scoring, and try to avoid discards next round so Delayed Gratification can pay.

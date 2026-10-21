@@ -1,0 +1,1 @@
+Buy Splash for $3. It improves every played hand by scoring all five played cards, adding substantial rank chips and triggering Even Steven for any extra even-rank cards; this is especially useful alongside the Pair/Two Pair/Full House engine. Spending down to $2 also ensures Vagabond's $4-or-less Tarot generation is active next round.

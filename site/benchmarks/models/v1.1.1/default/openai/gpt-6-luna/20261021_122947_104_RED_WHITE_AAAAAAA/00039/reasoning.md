@@ -1,0 +1,1 @@
+Play the Queens and Tens as Two Pair to activate Mad Joker’s +10 Mult; the two scored Spades also trigger Ancient Joker’s ×1.5 Mult twice. Holographic Runner adds +10 Mult, and Half Joker is sacrificed because scoring Two Pair is far stronger than a small-hand Pair. Include the fifth card as an unscored kicker to cycle an extra card while keeping the Two Pair.

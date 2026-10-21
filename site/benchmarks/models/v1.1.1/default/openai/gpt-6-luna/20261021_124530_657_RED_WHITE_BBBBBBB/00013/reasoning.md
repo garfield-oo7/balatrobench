@@ -1,0 +1,1 @@
+Buy Zany Joker for $4 as a strong early scoring boost. Its +12 Mult triggers on Three of a Kind and Full House hands, giving a useful payoff for the trips/full-house route already available from our pair-heavy draws; Venus would only improve Three of a Kind's base stats and is less broadly impactful. Keep the remaining $3 rather than spending on the low-value Standard Pack.

@@ -1,0 +1,1 @@
+There is no made pair or straight, so take a high-card score while cycling five cards to maximize the chance of finding a Two Pair for Mad Joker. The Ace scores as the high card; keeping Q-J-T in hand preserves a useful straight-drawing sequence, while the discarded low cards and Ace are replaced.

@@ -1,0 +1,1 @@
+Cycle the three non-diamond cards while preserving the five-card Diamond Flush (D_J, D_9, D_8, D_3, D_2) intact. This small High Card also scores the Bonus Ace; I can keep cycling newly drawn non-core cards until one hand remains, then use the Flush as Acrobat’s final hand for the ×3 Mult bonus.

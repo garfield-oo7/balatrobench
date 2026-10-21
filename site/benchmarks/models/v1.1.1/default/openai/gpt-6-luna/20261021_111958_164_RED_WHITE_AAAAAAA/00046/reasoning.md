@@ -1,0 +1,1 @@
+Play the Queen pair in three cards to activate Half Joker while cycling the low-value 2. The scored Spade Queen also triggers Ancient Joker; this should add roughly 990 chips, leaving only a small amount to clear the blind, with five hands still available.

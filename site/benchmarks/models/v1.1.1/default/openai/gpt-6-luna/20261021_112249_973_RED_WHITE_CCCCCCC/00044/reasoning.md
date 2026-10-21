@@ -1,0 +1,1 @@
+With only two hands left and 896 points still needed, cycle the pair and off-suit cards while preserving both Diamonds and both Spades. A draw of three cards in either suit can make a Flush; a Spade Flush is especially valuable because Wrathful Joker adds +3 Mult for each scored Spade. This is a higher-upside line than playing the weak pair of Sevens.

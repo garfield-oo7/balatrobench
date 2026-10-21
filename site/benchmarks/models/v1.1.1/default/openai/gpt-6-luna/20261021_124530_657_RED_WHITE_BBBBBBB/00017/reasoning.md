@@ -1,0 +1,1 @@
+Keep the pair of Jacks plus K-Q-T, preserving both the Zany-supported chance to draw a third Jack and a four-rank straight setup. Cycle the low 8, 6, and 3 first rather than playing a weak pair into The Hook, which would randomly remove two of the useful cards left in hand.

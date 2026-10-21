@@ -1,0 +1,1 @@
+Keep the three Clubs (including the Steel King) and discard all five off-suit cards to maximize the chance of drawing two or more Clubs for the level-5 Flush engine. A Flush activates Crafty and Droll plus the accumulated Supernova Mult; save the play until we have the strongest available hand, since the Boss Hook removes two random cards after each played hand.

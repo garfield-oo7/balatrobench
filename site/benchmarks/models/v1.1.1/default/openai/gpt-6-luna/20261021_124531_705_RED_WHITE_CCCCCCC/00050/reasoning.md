@@ -1,0 +1,1 @@
+Play the two pair (Tens and threes) with the Queen kicker. Splash makes all five selected cards score, so the Queen adds useful card chips even though it is not part of the two-pair pattern. This is the strongest immediate scoring play and cycles the full five-card limit; the two Diamonds also trigger Rough Gem.

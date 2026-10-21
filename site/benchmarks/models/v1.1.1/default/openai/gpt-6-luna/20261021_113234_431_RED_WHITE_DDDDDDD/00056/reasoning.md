@@ -1,0 +1,1 @@
+The Joker row is full, and Blue Joker's +104 Chips is a major reliable scoring upgrade for every hand that can help meet Ante 4's rising blind targets. Sell Golden Joker to make room; sacrificing its $4 end-of-round income is worthwhile for a substantial survival improvement, while preserving both Flush synergies, Abstract, and Acrobat.

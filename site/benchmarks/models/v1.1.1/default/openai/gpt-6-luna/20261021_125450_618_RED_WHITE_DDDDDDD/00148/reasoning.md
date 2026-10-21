@@ -1,0 +1,1 @@
+Play the five highest-value Clubs as a Flush. This is the established Level 5 scoring hand and triggers Droll’s +10 Mult, Abstract’s +15 Mult, Blue Joker’s Chips, and Ancient Joker repeatedly if Clubs are its active suit. It is substantially better than the available pair or straight draws, and preserves the two Queens and other cards for subsequent hands.

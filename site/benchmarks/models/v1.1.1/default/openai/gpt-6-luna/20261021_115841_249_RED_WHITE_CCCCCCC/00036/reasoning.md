@@ -1,0 +1,1 @@
+Play the five Diamonds as a Flush, the strongest hand available and the active To Do List target. The Flush base plus their rank chips, Red Card's +3 Mult, and the likely To Do List payout give the best immediate scoring and economy; the off-suit Spades cannot form a stronger scored hand.

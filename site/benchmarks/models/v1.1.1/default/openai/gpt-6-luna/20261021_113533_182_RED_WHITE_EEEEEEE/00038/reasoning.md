@@ -1,0 +1,1 @@
+Nothing in the shop is affordable: High Priestess costs $3 and Director's Cut costs $10, while rerolling is also out of reach. Keep Justice to apply its Glass enhancement to a high-value card when the next hand is available. Staying at $1 also keeps Vagabond active throughout the next blind, so advance without spending or selling anything.

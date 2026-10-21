@@ -1,0 +1,1 @@
+Open the Arcana Pack for $4: the established Flush engine already has strong scoring, so Mercury’s Pair upgrade is off-strategy, while a Tarot could improve the deck through suit conversion, enhancements, or money. Spending leaves $5, preserving the current interest tier, and Golden Joker will help rebuild the bankroll.

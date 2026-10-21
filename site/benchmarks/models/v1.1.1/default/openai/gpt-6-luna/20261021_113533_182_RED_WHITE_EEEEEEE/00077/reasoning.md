@@ -1,0 +1,1 @@
+Use The Hermit now to double $8 to $16 and free a consumable slot. This bankrolls the valuable Mega Celestial Pack plus the Arcana Pack while still allowing me to finish at $4 for Vagabond's Tarot generation next blind.

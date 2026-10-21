@@ -1,0 +1,1 @@
+Take Uranus to further upgrade the established Level 8 Two Pair engine. Two Pair is heavily supported by Mad Joker (+10 Mult), is already Level 8, and has been the run’s most-played hand; its +20 chips and +1 Mult apply reliably, whereas the other planets improve less-used hand types.

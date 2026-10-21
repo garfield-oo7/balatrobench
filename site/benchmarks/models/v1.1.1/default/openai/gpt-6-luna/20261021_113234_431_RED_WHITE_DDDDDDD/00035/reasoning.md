@@ -1,0 +1,1 @@
+Play the five Spades as a Flush, which activates both Crafty Joker (+80 Chips) and Droll Joker (+10 Mult). This is the final hand, so Acrobat then multiplies the resulting Mult by 3; the odd-rank 9 and 3 also trigger Odd Todd, and Hiker adds its accumulated card Chips. This should comfortably exceed the remaining 1,264 points.

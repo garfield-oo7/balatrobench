@@ -1,0 +1,1 @@
+The Jumbo Celestial pack offers five Planet choices, making it the best chance to find Jupiter and level Flush, my most-played hand and the natural fit for Wrathful Joker. It costs only $4, leaving enough money to stay at the $25 interest threshold after other useful purchases.

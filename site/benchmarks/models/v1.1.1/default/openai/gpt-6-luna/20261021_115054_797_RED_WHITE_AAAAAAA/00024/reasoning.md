@@ -1,0 +1,1 @@
+Play the King as High Card: it scores its rank, triggers Scary Face for +30 chips, and benefits from Runner’s +10 Mult, for roughly (5 + 10 + 30) × 11 = 495 chips. This substantially beats scoring the low pair of threes (~192). Cycle the King and four unpaired cards, while retaining the Ace and pair of threes for follow-up hands.

@@ -1,0 +1,1 @@
+Play the two off-suit cards as a low-impact setup hand while preserving all six Diamonds, so the Flush is guaranteed for the final hand. The remaining two hands can include one more setup and then a Flush boosted by Acrobat’s ×3 Mult; the final Flush with Crafty, Droll, Blue Joker, Abstract, and both Mult-enhanced Diamonds should clear the remaining target.

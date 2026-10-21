@@ -1,0 +1,1 @@
+Play the pair of Nines with the Ace, Six, and Two as the three extra cards. Splash makes all five cards score; the Six and Two each trigger Even Steven for +4 Mult, while Jolly Joker adds +8 for the Pair and Supernova adds +3 from the three previous Pair plays. This is substantially stronger than the available flush and cycles five cards toward the next hand.

@@ -1,0 +1,1 @@
+Clearance Sale is a strong permanent early-run economy upgrade, and with $13 it is affordable without sacrificing any of the four scoring Jokers. The ongoing 25% discount should make future shops and packs more efficient; I can then assess the discounted Celestial Pack for a useful hand-level upgrade.

@@ -1,0 +1,1 @@
+Take Uranus to upgrade the established Two Pair line from level 3 to level 4, adding +20 chips and +1 mult to a hand played frequently and supported by Clever Joker's +80 chips. This is more immediately useful than a Flush or Four of a Kind planet that lacks joker support.

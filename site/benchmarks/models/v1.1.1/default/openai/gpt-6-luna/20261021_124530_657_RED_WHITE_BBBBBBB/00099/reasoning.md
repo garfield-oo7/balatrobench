@@ -1,0 +1,1 @@
+Play the four off-suit cards to score a High Card with the Queen, triggering Smiley Face, Mystic Summit, and Raised Fist while cycling them out. This preserves all four Clubs (including the Gold-Seal Six) and the King, setting up a likely Club flush on the next draw; the hand should score roughly 850 toward the 7,500 target.

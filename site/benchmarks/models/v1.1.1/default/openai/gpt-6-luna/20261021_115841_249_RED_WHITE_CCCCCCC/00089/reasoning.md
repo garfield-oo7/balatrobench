@@ -1,0 +1,1 @@
+Play the five-Spade Flush (K♠, 10♠, 5♠, 3♠, 2♠). Flush is level 3 and adds +8 base Mult; Supernova and Red Card add +17 more, Wrathful Joker adds +15 for the five Spades, and the 5♠ Mult enhancement contributes another +4. This easily clears the remaining 1,873 points while using one hand.

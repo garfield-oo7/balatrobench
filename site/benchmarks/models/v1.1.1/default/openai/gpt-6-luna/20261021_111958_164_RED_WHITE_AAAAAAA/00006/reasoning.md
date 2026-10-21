@@ -1,0 +1,1 @@
+Play the available 3–7 Straight for about 220 chips, substantially more than the lone pair and enough to make strong progress toward the 450 target. Include five cards so the play also cycles the unused duplicate 7 while preserving the current straight's scoring cards.

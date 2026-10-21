@@ -1,0 +1,1 @@
+Play the pair of Sixes for a scoring hand while cycling five cards, retaining K-J-T as a useful straight/flush core and another chance at a pair. The Glass Six scores with Seltzer’s active retrigger, giving this modest Pair some extra value; save the unplayed cards for stronger Two Pair opportunities that activate Mad Joker.

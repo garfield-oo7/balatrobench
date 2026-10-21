@@ -1,0 +1,1 @@
+Take The Emperor: both consumable slots are open, so it can generate two additional Tarots for useful money, enhancements, or deck manipulation. Temperance guarantees $8, but cash is not shown and prior decisions suggest preserving interest; The World would add a flush route that is less supported than the established Level 5 Two Pair/Clever Joker engine.

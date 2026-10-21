@@ -1,0 +1,1 @@
+With no pairs, trips, flush, or straight available, a High Card is the best possible hand. Play only H_A so Half Joker's +20 Mult still applies (it triggers on up to 3 cards), along with Swashbuckler's +11 and Ancient Joker's ×1.5 for the scored Heart. This maximizes the hand's score; playing extra cards would not add scored card value or improve the joker effects.

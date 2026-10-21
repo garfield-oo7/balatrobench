@@ -1,0 +1,1 @@
+Choose Saturn to further strengthen Straight, already at Level 3 and strongly supported by Crazy Joker’s +12 Mult. The upgrade adds +30 Chips and +3 Mult, creating a powerful alternate scoring hand while beginning to build Supernova’s Straight count; this is more valuable than pushing the established Two Pair line by taking Mercury for Pair.

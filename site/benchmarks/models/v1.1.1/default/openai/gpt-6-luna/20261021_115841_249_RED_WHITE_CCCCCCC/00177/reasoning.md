@@ -1,0 +1,1 @@
+Buy Droll Joker for $3: the run is clearly built around Level-6 Flushes, so its reliable +10 Mult directly strengthens the primary scoring hand and fits the open fifth Joker slot. This is a much better immediate scoring upgrade than Walkie Talkie, whose rank-specific bonuses are less consistent.

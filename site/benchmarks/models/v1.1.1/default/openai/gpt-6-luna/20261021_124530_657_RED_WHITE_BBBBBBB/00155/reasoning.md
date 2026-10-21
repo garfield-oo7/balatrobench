@@ -1,0 +1,1 @@
+Take The Empress and enhance the two Ten of Clubs. Ten pairs/trips are a strong, recurring scoring set in this hand, and Mult Cards add +4 Mult each whenever scored; this also complements the established Two Pair/Three of a Kind play patterns. The Gold Card is only economy, while Wild/Death/Strength are less directly useful to the current scoring engine.

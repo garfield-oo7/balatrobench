@@ -1,0 +1,1 @@
+Play the three Nines as a Three of a Kind, including the Glass 9, and add the Stone card for its guaranteed +50 chips. Mystic Summit is active with zero discards, and Ramen's ×2 multiplier has not decayed; the Glass card adds another ×2. The Queen is an unscored fifth card, so it won't trigger Photograph, but including it maximizes card cycling without reducing this hand's score.

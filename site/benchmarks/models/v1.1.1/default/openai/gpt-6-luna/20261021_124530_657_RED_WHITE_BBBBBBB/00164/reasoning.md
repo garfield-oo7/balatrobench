@@ -1,0 +1,1 @@
+Free a slot for Mad Joker by selling Troubadour, the least essential scoring piece. Burglar already supplies ample hands and guarantees zero discards, keeping Mystic Summit active; losing Troubadour’s extra hand size is an acceptable trade for +10 Mult on the dominant Level 7 Two Pair hand.

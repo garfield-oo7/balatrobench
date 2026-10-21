@@ -1,0 +1,1 @@
+Buy Scary Face for $4 as a reliable early scoring upgrade: face cards scored in future hands add +30 chips, and they can still contribute when the hand is a Flush that triggers Crafty Joker's +80 chips. This is preferable to spending nearly all available cash on a random Spectral pack with potentially costly downsides; it also leaves $1 saved.

@@ -1,0 +1,1 @@
+Take The Hierophant and enhance the 8♣ and 6♣. Both are even ranks, so they already trigger Even Steven when scored; Bonus adds +30 chips to each scored card and supports the compact Pair/Three-of-a-Kind hands favored by Half Joker and Zany. Judgement cannot produce a Joker with all five slots occupied, while suit conversion offers less synergy with the current scoring core.

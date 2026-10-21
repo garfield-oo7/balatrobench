@@ -1,0 +1,1 @@
+Buy Photograph for $4: its ×2 Mult on the first scored face card complements Smiley Face's +5 Mult and is especially valuable with a scoring hand containing face cards. Burglar removes all discards, so Mystic Summit's +15 Mult is reliably active. The purchase leaves $25, preserving maximum interest; Photograph enters after the additive Jokers, which is a good scoring order.

@@ -1,0 +1,1 @@
+Buy Mystic Summit for $4 as a strong fifth Joker: +15 Mult is substantial and can support both Two Pair (Clever Joker) and Three of a Kind (Zany Joker) once discards are exhausted. Its condition is controllable, and keeping $13 preserves a healthy reserve for interest and future shops; the pack and reroll are less reliable investments.

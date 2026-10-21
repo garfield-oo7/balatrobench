@@ -1,0 +1,1 @@
+I have $0, so Neptune, Wasteful, the pack, and a reroll are all unaffordable. Neptune upgrades only the rare Straight Flush, while the current build is centered on Flushes with Crafty Joker and reliable chip support from Scary Face and Odd Todd. Keep the existing jokers and advance without spending.

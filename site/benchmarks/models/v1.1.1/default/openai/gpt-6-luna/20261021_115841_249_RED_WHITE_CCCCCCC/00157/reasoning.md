@@ -1,0 +1,1 @@
+Skip the $2 Earth because Full House is not the established scoring plan; Flush is Level 6 and gains no meaningful benefit from this off-strategy planet. Magic Trick costs $7 and only unlocks playing-card purchases without offering an immediate scoring upgrade. Preserve $34 for the Seed Money interest cap and retain Bootstraps at +12 Mult.

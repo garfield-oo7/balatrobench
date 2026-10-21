@@ -1,0 +1,1 @@
+Buy the affordable Celestial Pack for $4: a Planet upgrade is a permanent scoring improvement and can benefit the already-used Two Pair, Flush, or Three of a Kind hands. The Mega Arcana Pack is unaffordable, and preserving the remaining dollar is better than spending on a reroll or voucher we cannot afford.

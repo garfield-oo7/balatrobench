@@ -1,0 +1,1 @@
+With $0, the $3 High Priestess, $6 Arcana Pack, and $10 voucher are unaffordable, and rerolling is also out of reach. Selling a useful Joker for only $2–$3 would not enable a purchase and would weaken the established scoring package. Keep Mad Joker, Zany Joker, Scary Face, Even Steven, and Burglar, then advance to the next blind.

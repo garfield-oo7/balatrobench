@@ -1,0 +1,1 @@
+Play the three 4s as Three of a Kind. This activates Zany Joker (+12 Mult), Half Joker (+20 Mult for playing three cards), and Even Steven (+12 Mult from the three scored even-rank cards). The trips should score comfortably above the 310 points still needed to clear the blind, while leaving the other cards unplayed.

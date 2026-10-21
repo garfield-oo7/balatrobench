@@ -1,0 +1,1 @@
+Skip both Standard Packs to gain +6 Mult on Red Card, a direct and reliable boost to scoring while preserving $29 and the maximum interest threshold. Earth only levels Full House, which is not part of our Flush/Two Pair plan, and the standard packs add uncertain deck cards without improving current synergy.

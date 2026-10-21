@@ -1,0 +1,1 @@
+Discard the lone off-suit 10♣ while preserving all five Spades, which already form a Level-6 Flush and include both A♠ cards for The Idol. This uses the final discard to activate Mystic Summit's +15 Mult for the coming flush; the replacement cannot disrupt the five-card flush core.

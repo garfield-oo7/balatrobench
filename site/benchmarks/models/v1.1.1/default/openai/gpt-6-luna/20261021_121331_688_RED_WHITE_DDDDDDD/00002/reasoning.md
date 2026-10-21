@@ -1,0 +1,1 @@
+Only 12 chips remain to clear the 300 target. A single Ace as High Card should add at least 16 chips, so use the minimum possible hand and preserve the remaining hands for end-of-round payout.

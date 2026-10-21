@@ -1,0 +1,1 @@
+Play the available Aces-and-Kings Two Pair to trigger the Level 6 hand and Mad Joker’s +10 Mult. Put an Ace first so Hanging Chad retriggers a scoring card; use the fifth slot on the Jack to cycle it while keeping the Steel Three and Gold Three held for their benefits. Save Acrobat’s ×3 for the final hand.

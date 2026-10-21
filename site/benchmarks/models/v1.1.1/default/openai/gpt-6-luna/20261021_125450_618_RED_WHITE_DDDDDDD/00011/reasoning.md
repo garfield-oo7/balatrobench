@@ -1,0 +1,1 @@
+Take Acrobat for its powerful ×3 Mult on the final hand of each round. The current scoring build already prefers Flushes, where all five played cards score, so Splash would add little to the existing Flush plan; Acrobat adds a major multiplicative boost that can help finish a blind when saved for the last hand.

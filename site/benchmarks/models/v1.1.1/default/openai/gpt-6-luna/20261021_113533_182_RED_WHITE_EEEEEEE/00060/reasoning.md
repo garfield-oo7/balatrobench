@@ -1,0 +1,1 @@
+Buy Ride the Bus for $6, leaving $3 so Vagabond remains active next round. It offers repeatable mult scaling by avoiding scored face cards, which fits playing Two Pair/Pair with non-face scoring cards alongside Supernova and Jolly Joker. Preserve The Hermit for a later cash boost and the Justice Glass card for a useful scoring target during play.

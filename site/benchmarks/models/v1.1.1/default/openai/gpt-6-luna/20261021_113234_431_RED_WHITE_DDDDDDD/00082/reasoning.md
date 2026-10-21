@@ -1,0 +1,1 @@
+Take Mars for the strongest available backup-hand upgrade: it raises Four of a Kind by +30 Chips and +3 Mult, a larger scoring gain than Venus's Three of a Kind upgrade. Neither Planet supports the established Flush engine directly, so prioritize Mars's greater payoff if a four-of-a-kind appears.

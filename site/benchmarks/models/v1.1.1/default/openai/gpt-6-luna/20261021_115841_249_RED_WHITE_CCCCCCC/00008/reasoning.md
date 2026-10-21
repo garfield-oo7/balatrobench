@@ -1,0 +1,1 @@
+Play the pair of Sevens for a reliable 48 points while cycling the two low Spades with them. This preserves the Ace, King, Jack, and Ten as a useful straight-draw core and draws four replacements; scoring now is preferable to spending a discard with no points.

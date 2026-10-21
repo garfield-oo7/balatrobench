@@ -1,0 +1,1 @@
+Skip both booster packs to trigger Red Card's scaling, ideally gaining +6 Mult while preserving $7 for interest and future scoring Joker purchases. The available Mars upgrades Four of a Kind, which has not been our winning hand, and the other Joker costs more than we can afford; buying a pack would sacrifice money without a reliable payoff.

@@ -1,0 +1,1 @@
+Free the weakest scoring slot: Swashbuckler currently adds only +6 Mult, while the other Jokers give stronger pair/trips bonuses, Raised Fist, and +15 from Mystic Summit. Burglar's +3 hands is powerful, and removing all discards makes Mystic Summit's +15 Mult active from the very first hand. The $1 sale leaves plenty of money above the $25 interest threshold.

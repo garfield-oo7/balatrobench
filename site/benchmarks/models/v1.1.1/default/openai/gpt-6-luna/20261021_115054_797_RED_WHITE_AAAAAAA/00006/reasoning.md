@@ -1,0 +1,1 @@
+There is no made pair or five-card straight. Play the Ace as a High Card while cycling the low 7-4 cards, preserving K-Q-J in hand to retain a possible 10-J-Q-K-A straight draw. This scores a little while using a hand to replace five weak cards, and Burglar gives us plenty of hands for the 450-chip blind.

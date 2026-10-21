@@ -1,0 +1,1 @@
+At $3, the only affordable option is the Standard Pack, which adds a random playing card and is unlikely to improve the current scoring engine; spending all cash also delays reaching the $5 interest threshold. The Jumbo Celestial Pack and Riff-raff are each $4, so preserve money and advance with the four synergistic Jokers intact.

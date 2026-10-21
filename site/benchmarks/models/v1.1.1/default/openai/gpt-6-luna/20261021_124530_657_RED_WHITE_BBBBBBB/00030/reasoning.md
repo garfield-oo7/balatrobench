@@ -1,0 +1,1 @@
+Buy Clever Joker for $4. Two Pair has already been one of the most-played hand types this run, so its unconditional +80 Chips provides reliable scoring alongside Zany Joker's Three of a Kind bonus. It fits in an open Joker slot and leaves $1; the packs and voucher are unaffordable or weaker immediate investments.

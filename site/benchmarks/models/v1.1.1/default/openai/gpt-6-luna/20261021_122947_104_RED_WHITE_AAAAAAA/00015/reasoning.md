@@ -1,0 +1,1 @@
+Play the Ace-through-Ten straight (A-K-Q-J-T). All five cards score, including four face cards that trigger Scary Face for +120 chips. This is a strong straight and should comfortably clear the remaining blind target in one hand; playing the 5 and 2 would break this made hand.

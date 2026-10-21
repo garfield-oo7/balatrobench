@@ -1,0 +1,1 @@
+The blind is only 750 points from being cleared. Play the pair of Fives and cycle three otherwise unneeded cards; keep the Steel C_K in hand so its held-card ×1.5 Mult bonus applies. Abstract's +15 Mult and Blue Joker's +50 Chips should make even this pair comfortably exceed the remaining target, without relying on debuffed Spades or needing the Flush Jokers.

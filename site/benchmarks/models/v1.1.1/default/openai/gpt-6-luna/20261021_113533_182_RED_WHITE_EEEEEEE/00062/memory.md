@@ -1,0 +1,40 @@
+# Memory & Previous Actions
+
+
+## Recent Decision History
+
+Here is a list of your recent decisions (from oldest to newest):
+
+
+**1.** `sell({'joker': 3, 'reasoning': "Sell Crazy Joker for $2: straight has not been part of this run's scoring plan, while the Pair/Two Pair/Full House engine is already supported by Jolly Joker and Supernova. The extra money allows replacing this dead slot with Splash, which will score otherwise unscored cards and trigger more Even Steven bonuses."})` - 
+
+**2.** `buy({'card': 1, 'reasoning': "Buy Splash for $3. It improves every played hand by scoring all five played cards, adding substantial rank chips and triggering Even Steven for any extra even-rank cards; this is especially useful alongside the Pair/Two Pair/Full House engine. Spending down to $2 also ensures Vagabond's $4-or-less Tarot generation is active next round."})` - 
+
+**3.** `next_round({'reasoning': 'Leave the shop without buying. Drunkard and the Standard Pack are both unaffordable at $2, and selling a scoring Joker just to fund the extra discard would weaken the engine. Most importantly, keeping Vagabond at $4 or less should generate Tarots as we play hands next round, so preserve it and the current cash.'})` - 
+
+**4.** `play({'cards': [0, 1, 5, 6, 7], 'reasoning': 'Play the Level 3 Two Pair (Aces and Sevens) and include the 2 as the fifth card. Splash scores all five cards, and the even 2 adds +4 Mult from Even Steven; Jolly Joker adds +8 and Supernova adds +6 for the six prior Two Pair plays. This is the strongest available scoring hand under Flint, and at $2 Vagabond will also generate a Tarot.'})` - 
+
+**5.** `use({'consumable': 0, 'cards': [0, 3, 6], 'reasoning': 'Convert the King, Jack, and Five to Spades to improve flush potential without changing the pair-scoring line. This also frees a consumable slot so Vagabond can generate a Tarot on the next hand at our current $2.'})` - 
+
+**6.** `play({'cards': [0, 1, 2, 4, 7], 'reasoning': "Play the Queen pair with K, T, and 2 as the five-card Splash hand. Splash scores all five ranks, and this selection maximizes chips while including both even cards (T and 2) for +8 Mult from Even Steven. Jolly Joker adds +8 for the pair, and Supernova adds the Pair's current count of 4; despite Flint halving the base hand, this is the strongest reliable scoring play and leaves two hands to finish the remaining target."})` - 
+
+**7.** `play({'cards': [0, 3, 5, 6, 7], 'reasoning': "Play the three Fives as Three of a Kind and add the Ace and Ten. Splash scores all five played cards; the Ten also triggers Even Steven, and the hand receives Three of a Kind Supernova scaling plus Jolly Joker's pair-related bonus. This should comfortably cover the remaining 138 points even with Flint halving the base hand, while keeping the Steel King in hand for its held-in-hand multiplier."})` - 
+
+**8.** `sell({'joker': 4, 'reasoning': "Sell Splash to free a slot and fund a scalable upgrade. Splash has been helpful for bonus scoring cards, but it also makes every played face card score and can obstruct Ride the Bus's no-scoring-face condition; Even Steven and the pair/hand-type Jokers remain the better core."})` - 
+
+**9.** `buy({'card': 1, 'reasoning': 'Buy Ride the Bus for $6, leaving $3 so Vagabond remains active next round. It offers repeatable mult scaling by avoiding scored face cards, which fits playing Two Pair/Pair with non-face scoring cards alongside Supernova and Jolly Joker. Preserve The Hermit for a later cash boost and the Justice Glass card for a useful scoring target during play.'})` - 
+
+**10.** `next_round({'reasoning': "Leave the shop without spending. Jupiter upgrades Flush, a hand type never played and unsupported by the current Pair/Two Pair/Full House engine; the packs and voucher are unaffordable. Keep cash at $3 so Vagabond generates Tarots during the next blind, and preserve The Hermit rather than doubling money above Vagabond's $4 threshold. Justice can be used when a hand is available to target."})` - 
+
+
+
+## Strategic Context
+
+Based on your recent actions, consider:
+- How your decisions are building towards a cohesive strategy
+- Whether your current approach is working or needs adjustment
+- Patterns in your play that might need to change
+
+
+
+

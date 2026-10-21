@@ -1,0 +1,1 @@
+Play the two Tens as a Pair and include the 5 as an unscored third card to cycle an extra card while retaining Half Joker’s +20 Mult. The scored Tens also trigger Even Steven for +8 Mult, and the Spade Ten activates Ancient Joker for ×1.5. This should score about 1,350 chips (30 chips × 30 Mult × 1.5), the strongest compact hand available.

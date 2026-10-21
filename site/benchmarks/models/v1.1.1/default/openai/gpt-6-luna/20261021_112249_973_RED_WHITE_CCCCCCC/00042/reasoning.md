@@ -1,0 +1,1 @@
+Keep the four Diamonds (A, 7, 5, 4) together and discard the four off-suit cards to draw toward a Flush, currently the best reliable high-scoring hand available. With three hands still available, preserving the suited core gives a good chance to add a fifth Diamond before committing; The Arm reduces the played hand's level, so avoid spending a hand on a weak High Card.

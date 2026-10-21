@@ -1,0 +1,1 @@
+Buy The Hanged Man for $3: it is affordable, opens a targeted deck-thinning opportunity, and leaves us at $2, keeping Vagabond active at its $4-or-less threshold next blind. The second consumable slot is open, so this does not displace The Tower; use the Hanged Man on low-value cards when the next hand is available.

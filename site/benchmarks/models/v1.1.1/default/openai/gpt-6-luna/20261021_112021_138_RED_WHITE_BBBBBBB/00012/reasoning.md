@@ -1,0 +1,1 @@
+The pair of Fives is the only scoring poker hand available: there is no second pair, three of a kind, flush, or straight in the hand. Playing it triggers To Do List's $4 payout, and although its roughly 40-point score cannot make up the remaining 242 chips, it is the best legal scoring play.

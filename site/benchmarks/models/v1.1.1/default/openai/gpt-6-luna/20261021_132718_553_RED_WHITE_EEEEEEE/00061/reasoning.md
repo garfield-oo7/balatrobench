@@ -1,0 +1,1 @@
+Dig for a pair while retaining the Steel King in hand for its held-card ×1.5 Mult and keeping the 4 and 2 as guaranteed Even Steven triggers. A strong Pair with Splash scoring all five played cards will activate Jolly Joker and Supernova, giving far more progress than a weak high-card play.

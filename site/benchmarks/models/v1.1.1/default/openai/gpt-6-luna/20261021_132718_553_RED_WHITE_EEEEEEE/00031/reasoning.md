@@ -1,0 +1,1 @@
+Open the Celestial Pack and prioritize Uranus if offered, since Two Pair is our established hand and is already Level 4, with Jolly Joker and Supernova both supporting it. A permanent hand upgrade is reliable scaling for the coming Ante 3 blinds, and the $4 cost still leaves enough to consider the Buffoon Pack.

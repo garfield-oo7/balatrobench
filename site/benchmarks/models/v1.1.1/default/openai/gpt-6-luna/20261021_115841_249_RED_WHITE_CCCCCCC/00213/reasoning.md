@@ -1,0 +1,1 @@
+Score the pair of Aces now for reliable progress toward the remaining 8,525 points, while cycling the two off-suit cards and preserving both Hearts as a possible Flush core. Bootstraps and Supernova add substantial Mult to the Pair; keeping the Hearts gives the four cards drawn a chance to complete the Flush engine on a later hand.

@@ -1,0 +1,1 @@
+Reroll once for a chance at a stronger Ante 8 scoring Joker. The current shop options are weak: Reserved Parking is only an economy Joker and The Moon is an unsynergistic suit conversion. Spending $4 leaves $34, still above the $25 interest threshold, while the existing core scoring Jokers remain intact unless a genuinely better replacement appears.

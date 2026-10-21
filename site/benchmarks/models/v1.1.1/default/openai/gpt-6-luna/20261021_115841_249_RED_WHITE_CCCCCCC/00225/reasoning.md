@@ -1,0 +1,1 @@
+Play the four Spades as a Flush, enabled by Four Fingers; this is far stronger than the four-of-a-kind route because Flush is Level 7 and Supernova adds its 30+ prior Flush plays to Mult, alongside Bootstraps and Droll. Include the Heart Ace as the fifth card to cycle it without including the debuffed Diamond Ace; the scored Flush cards also gain Hiker chips.

@@ -1,0 +1,1 @@
+Keep the three Clubs (C_K, C_7, C_6) and use the final discard to draw five cards, aiming to complete a Flush. Flush is the established Level 5 scoring hand and triggers Droll Joker plus Abstract Joker, with Ancient Joker multiplying the cards if Clubs are its active suit; this is a much stronger route to the remaining 8,741 points than a low-level pair.

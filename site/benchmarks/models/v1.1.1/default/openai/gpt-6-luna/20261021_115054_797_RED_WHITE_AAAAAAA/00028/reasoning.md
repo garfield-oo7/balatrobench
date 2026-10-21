@@ -1,0 +1,1 @@
+Half Joker is an excellent $5 pickup: it adds +20 Mult on compact Pair or High Card hands, complementing the existing Holographic Runner and giving us a strong scoring line even when Two Pair is unavailable. Keep the existing synergies and avoid selling a Joker.

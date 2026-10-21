@@ -1,0 +1,1 @@
+Buy The Fool for $3 because the most recently used consumable was Uranus, which upgrades the already reliable Two Pair build supported by Jolly Joker. This effectively buys another Two Pair Planet upgrade for less than a pack; use it while the consumable slot is open and keep the remaining $1.

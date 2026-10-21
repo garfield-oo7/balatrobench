@@ -1,0 +1,1 @@
+Play the available five-card Club Flush: C_J, C_T, C_8, C_3, C_2. It scores substantially more than the pair of Tens, moving the current 108 toward the 450 target, and uses the full five-card hand.

@@ -1,0 +1,1 @@
+Keep the pair of sevens as a reliable scoring core and the Ace as a strong fallback high card. Discard the five unrelated cards to maximize the draw, aiming to improve into trips, two pair, or a full house before spending a hand.

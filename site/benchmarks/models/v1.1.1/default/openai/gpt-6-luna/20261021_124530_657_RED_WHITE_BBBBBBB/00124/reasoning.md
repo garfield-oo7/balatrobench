@@ -1,0 +1,1 @@
+There is no made pair or flush, so play a High Card with the King as the scored card. Keeping the Ace in hand ensures the King is the highest scored card, triggering Photograph’s first-face-card ×2; Mystic Summit is active and Green Joker adds its current Mult. Cycle five cards while preserving three Clubs (A, 9, 7) toward a flush on a later hand.

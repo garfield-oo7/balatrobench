@@ -1,0 +1,1 @@
+Play the pair of eights and include the King and Jack as unscored cycling cards, while preserving the 5-6-7 run as a straight-building core. This scores a modest Pair and draws four new cards; with seven hands available and no discards, cycling now is preferable to breaking the run.

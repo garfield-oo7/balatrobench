@@ -1,0 +1,1 @@
+Convert the Ten, Nine, and Gold-Seal Six of Diamonds to Clubs. Together with the King of Clubs, this creates four retained Club cards toward a flush, while keeping the valuable Gold Seal. I can then cycle the non-Club cards for a chance to draw a fifth Club and still score a High Card boosted by Mystic Summit, Raised Fist, and Smiley Face.

@@ -1,0 +1,1 @@
+Spend the available $4 on the Celestial Pack. Pair is by far the most-played hand type, so select Mercury if offered to strengthen the established Pair-focused play; this is a better guaranteed improvement than leaving with too little money to afford the Joker or voucher.

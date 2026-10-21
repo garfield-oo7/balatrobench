@@ -1,0 +1,1 @@
+The House hides this opening draw, so committing a hand risks wasting a play without knowing whether it contains a useful combination. Discard five hidden cards (within the five-card limit) to replace them with visible cards, preserving all four hands and giving us a much better basis for a scored hand; we still have three discards available.

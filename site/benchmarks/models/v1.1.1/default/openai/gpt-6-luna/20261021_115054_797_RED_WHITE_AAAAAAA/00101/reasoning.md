@@ -1,0 +1,1 @@
+Play the Kings and Sevens as Two Pair, the strongest hand aligned with the Level 6 Two Pair engine. Mad Joker adds +10 Mult and Swashbuckler adds +11, yielding roughly (120 base chips + 34 card chips) × 28 Mult, around 4,300 chips before any retriggers—enough to clear the remaining 3,066-point target in one hand. This also avoids using the final-hand Acrobat bonus unnecessarily.

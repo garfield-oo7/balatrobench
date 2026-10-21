@@ -1,0 +1,1 @@
+The only made scoring hand is a Pair of Sevens; no second pair exists to activate Mad Joker. Play the pair plus the King, Queen, and Ten as unscored cycling cards, retaining the Nine and Three, and draw the maximum five cards. The pair should score slightly better than a High Card King even with Scary Face.

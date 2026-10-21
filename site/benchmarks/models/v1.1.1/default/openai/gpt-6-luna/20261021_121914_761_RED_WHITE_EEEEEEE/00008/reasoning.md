@@ -1,0 +1,1 @@
+Play the three Tens for Three of a Kind. Their even ranks each trigger Even Steven for +12 Mult total, giving about (30 base chips + 30 card chips) × (3 + 12) = 900 points, comfortably clearing the 450 target in one hand. Include the Jack and Nine as non-scoring cards to cycle them while preserving the three Spades in hand.

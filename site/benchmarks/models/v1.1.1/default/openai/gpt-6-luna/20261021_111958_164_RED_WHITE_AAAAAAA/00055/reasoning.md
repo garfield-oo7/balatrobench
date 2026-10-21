@@ -1,0 +1,1 @@
+Play the Ace pair with the low 5 as an unscored third card. The two-card pair activates Half Joker’s +20 Mult, and the scored C_A triggers Ancient Joker’s ×1.5 multiplier; approximately 32 chips × 22 Mult × 1.5 = 1,056 points, enough to clear the remaining 540 while cycling three cards.

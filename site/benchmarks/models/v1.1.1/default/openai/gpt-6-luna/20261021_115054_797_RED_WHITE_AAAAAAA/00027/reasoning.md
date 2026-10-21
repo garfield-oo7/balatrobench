@@ -1,0 +1,1 @@
+Free a slot by selling Scary Face, the least valuable scoring Joker here: its +30 chips only applies to scored face cards, while Runner supplies broad +10 Mult and Burglar adds three hands next blind. This lets me take Half Joker, whose +20 Mult is a much stronger and more consistent boost on hands of three or fewer cards.

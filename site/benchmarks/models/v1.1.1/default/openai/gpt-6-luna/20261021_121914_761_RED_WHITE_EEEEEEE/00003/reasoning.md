@@ -1,0 +1,1 @@
+Play the pair of Fours to add about 36 points, while using the other three slots on low-value non-heart cards to cycle them. Keep K♥, 8♥, and 7♥ in hand, preserving a flush path for the final hand; the resulting target gap should be easy to clear with the new draw.

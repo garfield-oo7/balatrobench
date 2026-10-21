@@ -1,0 +1,1 @@
+Play a High Card with the Jack as the highest card, excluding the Ace so Photograph triggers on the scored face card. The Jack's Mult enhancement adds +4 Mult; Mystic Summit adds +15, then Photograph and Ramen each multiply Mult by ×2. The other four selected cards do not form a pair or stronger hand, so this scores the strongest available line while cycling five cards.

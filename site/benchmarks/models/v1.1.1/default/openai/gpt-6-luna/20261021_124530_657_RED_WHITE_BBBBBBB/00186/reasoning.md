@@ -1,0 +1,1 @@
+Play the five Hearts as a Flush. It is the strongest made hand available: the Ace, Ten, 4, 3, and 2 all share a suit, and the Ace's Red Seal retriggers its scoring. With no discards left, this also cycles five cards while avoiding the debuffed Jack.

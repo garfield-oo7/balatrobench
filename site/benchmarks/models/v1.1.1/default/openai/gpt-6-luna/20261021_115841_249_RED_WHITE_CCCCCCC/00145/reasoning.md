@@ -1,0 +1,1 @@
+Move Supernova's additive Mult before The Idol's ×2 effect. Hiker and the flat-Mult Jokers are already left of the multiplier, so this ordering maximizes the scoring of the three Aces, including the Ace of Spades.

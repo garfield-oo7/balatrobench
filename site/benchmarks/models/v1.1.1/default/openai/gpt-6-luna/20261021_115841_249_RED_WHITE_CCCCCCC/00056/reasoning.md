@@ -1,0 +1,1 @@
+With two hands left and 1,554 points still needed, use a discard rather than commit to a modest Two Pair. Preserve both existing pairs (9s and 5s, including 5♠ for Wrathful Joker) and draw four replacements, seeking a matching 9 or 5 for a Full House or the Idol's 10♣. Splash will let any useful drawn kicker score too.

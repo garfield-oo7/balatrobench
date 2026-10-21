@@ -1,0 +1,1 @@
+Take Acrobat. Its ×3 Mult on the final hand of the round is a major scoring multiplier, especially for a flush-focused build that can often finish a blind in one strong hand. Splash would add value to unscored cards, but is less impactful than a reliable final-hand multiplier alongside Crafty Joker’s +80 Flush chips and Scary Face.

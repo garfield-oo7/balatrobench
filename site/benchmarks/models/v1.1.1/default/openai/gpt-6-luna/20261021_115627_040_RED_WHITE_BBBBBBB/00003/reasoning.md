@@ -1,0 +1,1 @@
+Play the available Ace-high straight (A-K-Q-J-T). It scores substantially more than the weaker alternatives and should add enough to the current 156 score to clear the 300-chip Small Blind immediately, preserving the remaining hand.

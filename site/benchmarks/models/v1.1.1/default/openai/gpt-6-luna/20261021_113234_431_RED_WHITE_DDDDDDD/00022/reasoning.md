@@ -1,0 +1,1 @@
+Buy Droll Joker for $4: it directly supports the established Flush strategy and adds +10 Mult whenever a Flush is played, complementing Crafty Joker's +80 Chips. This is a reliable scoring upgrade, while the Diamond-dependent Ancient Joker is less consistent with an evolving suit requirement. Keep the remaining $5 for economy.

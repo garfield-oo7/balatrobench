@@ -1,0 +1,1 @@
+Play the two Aces and two Tens for a guaranteed Two Pair, adding the Queen as an unscored fifth card. The hand scores about (20 base chips + 42 rank chips) × 2 = 124, taking the current 380 past the 450 target and clearing the blind immediately.

@@ -1,0 +1,1 @@
+Play the full house of three Jacks and two Nines. It scores all five cards, triggering Scary Face on the three Jacks and Odd Todd on both Nines; the base Full House score plus these chip bonuses should comfortably exceed the remaining 248 points and clear the 600 blind in one hand.

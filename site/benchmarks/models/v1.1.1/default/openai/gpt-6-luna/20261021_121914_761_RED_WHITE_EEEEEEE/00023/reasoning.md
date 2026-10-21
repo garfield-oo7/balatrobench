@@ -1,0 +1,1 @@
+Choose The Emperor: both consumable slots are open, so it can generate up to two additional Tarot cards at no cost and may provide useful money, deck manipulation, or enhancements. The Lovers and The Sun would make a small suit-based adjustment that does little for the established Two Pair strategy.

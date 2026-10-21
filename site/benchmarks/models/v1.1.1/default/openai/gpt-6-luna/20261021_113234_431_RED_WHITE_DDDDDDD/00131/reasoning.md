@@ -1,0 +1,1 @@
+Play the available five-card Diamond Flush: it is the strongest completed hand and activates the Flush-focused Crafty and Droll bonuses plus Supernova's accumulated Mult. Keep Acrobat's ×3 multiplier for a later final hand rather than triggering it now; the blind allows up to five hands, so preserving that payoff is important.

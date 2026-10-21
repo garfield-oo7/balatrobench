@@ -1,0 +1,1 @@
+Preserve the five-card Diamond Flush and the Steel King in hand for its held-card ×1.5 Mult. This is a low-value setup High Card; I will cycle three non-core cards over the next three hands so the decisive Flush is played as the final hand and triggers Acrobat’s ×3 Mult.

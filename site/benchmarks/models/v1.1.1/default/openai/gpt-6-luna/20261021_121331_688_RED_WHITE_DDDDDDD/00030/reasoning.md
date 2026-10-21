@@ -1,0 +1,1 @@
+Buy Hiker for $5 as an early scaling investment: the established Flush engine regularly scores five cards per Flush, and each permanently gains +5 Chips, strengthening the deck throughout the remaining Antes. This is more reliable than Hologram, which needs added playing cards to grow, and costs less than the voucher.

@@ -1,0 +1,1 @@
+Use Jupiter to level the established Flush strategy from level 2 to level 3, adding +15 chips and +2 Mult permanently to the hand used most often and already boosted by Supernova. This is a strong immediate scoring upgrade; the remaining shop has no Jokers or vouchers worth pursuing.

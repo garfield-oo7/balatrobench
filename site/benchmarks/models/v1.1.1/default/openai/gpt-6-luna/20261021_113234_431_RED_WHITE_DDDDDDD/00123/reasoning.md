@@ -1,0 +1,1 @@
+Keep all four Clubs (Q♣, 9♣, 8♣, 2♣) intact and discard the four off-suit cards to maximize the chance of drawing a fifth Club for the established Flush engine. A Flush activates Crafty (+80 Chips) and Droll (+10 Mult), with Abstract adding +15 Mult; holding onto the Mult Queen is less valuable than pursuing that much stronger scoring hand.

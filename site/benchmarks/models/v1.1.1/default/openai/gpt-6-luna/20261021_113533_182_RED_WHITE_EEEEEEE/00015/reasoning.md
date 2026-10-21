@@ -1,0 +1,1 @@
+Open the Jumbo Celestial Pack for $6. The run already has Jolly Joker and has used Two Pair repeatedly, so a Two Pair or Pair planet will directly strengthen a reliable hand that also receives Jolly's +8 Mult. This is a better targeted scoring investment than the weak Tower or an Ante-reducing voucher; retain the remaining $4.

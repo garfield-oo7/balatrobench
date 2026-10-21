@@ -1,0 +1,1 @@
+Play a five-card Spade flush, excluding both debuffed Hearts. The Flush scores roughly (35 base chips + 38 card chips) × 4 = 292, enough to cover the remaining 248 points and defeat the Boss Blind immediately.

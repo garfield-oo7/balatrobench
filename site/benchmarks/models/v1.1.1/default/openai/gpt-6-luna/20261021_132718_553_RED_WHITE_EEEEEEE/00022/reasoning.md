@@ -1,0 +1,1 @@
+Open the Jumbo Arcana Pack for the best chance of a useful Tarot among five choices. The $6 spend is preferable to buying Saturn, which upgrades an unplayed Straight, and the Invisible Joker is currently unaffordable; retain both scoring Jokers supporting the Two Pair strategy.

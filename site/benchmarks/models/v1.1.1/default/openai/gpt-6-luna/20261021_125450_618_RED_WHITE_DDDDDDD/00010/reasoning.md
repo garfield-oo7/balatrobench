@@ -1,0 +1,1 @@
+Open the affordable Buffoon Pack while I still have two Joker slots available. A new Joker has much better expected value than Neptune, which upgrades only the rare Straight Flush hand; the guaranteed Flush plan already has Crafty Joker support. Spending the $4 now is justified for an early scoring or scaling upgrade.

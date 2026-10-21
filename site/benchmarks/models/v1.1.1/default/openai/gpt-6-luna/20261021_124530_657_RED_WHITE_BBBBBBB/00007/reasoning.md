@@ -1,0 +1,1 @@
+Skip Neptune: leveling Straight Flush is too narrow and unlikely to pay off, while To Do List and the pack are unaffordable. Keep the $3 rather than selling Certificate or spending on a weak upgrade; advance and let Certificate's recurring sealed-card effect support the next round.

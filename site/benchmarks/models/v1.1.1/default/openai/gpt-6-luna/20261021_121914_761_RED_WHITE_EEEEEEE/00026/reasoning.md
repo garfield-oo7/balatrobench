@@ -1,0 +1,1 @@
+Use Saturn now to level Straight, a strong secondary scoring hand supported by Crazy Joker's +12 Mult. It improves straight base Chips and Mult at no cost, while the shop offerings are unaffordable with $0; retain The Tower for a later hand where a card can be targeted.

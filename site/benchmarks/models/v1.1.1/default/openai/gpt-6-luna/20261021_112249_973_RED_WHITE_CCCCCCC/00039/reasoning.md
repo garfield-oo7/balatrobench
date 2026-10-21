@@ -1,0 +1,1 @@
+Preserve the four Diamonds (9, 8, 5, 4) and draw four replacements to pursue a Flush, which is the strongest realistic scoring target and also triggers To Do List's $4 reward. Discard the off-suit Queens, 6, and 4; this offers a solid chance to find a fifth Diamond while retaining the existing suited run.

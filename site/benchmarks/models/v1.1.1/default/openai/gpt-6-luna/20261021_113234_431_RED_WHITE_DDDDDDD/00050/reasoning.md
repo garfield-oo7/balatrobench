@@ -1,0 +1,1 @@
+Take Neptune. Straight Flush is rare, but this is the largest upgrade offered (+40 Chips and +4 Mult) and it also fits the existing Flush-centered Joker package: a Straight Flush can benefit from the Flush bonuses while scoring on a much stronger base. Earth improves an unsupported hand type, while Pluto's High Card gain is comparatively small.

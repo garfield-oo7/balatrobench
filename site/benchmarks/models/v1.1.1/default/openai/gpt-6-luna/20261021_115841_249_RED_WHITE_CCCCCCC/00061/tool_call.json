@@ -1,0 +1,10 @@
+[
+  {
+    "id": "call_v7isz4ILjoe1wefYvJ0Cqhdl",
+    "function": {
+      "arguments": "{\"card\": 1}",
+      "name": "buy"
+    },
+    "type": "function"
+  }
+]

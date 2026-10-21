@@ -1,0 +1,1 @@
+Buy Venus for $1 and use it to strengthen Three of a Kind as a useful backup hand. The primary engine remains Level 7 Two Pair, so Bull is not worth replacing a core Joker for a modest chip bonus; Venus cheaply improves flexibility without disturbing the established Joker lineup.

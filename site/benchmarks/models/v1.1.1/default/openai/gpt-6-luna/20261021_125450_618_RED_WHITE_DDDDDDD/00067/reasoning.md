@@ -1,0 +1,1 @@
+Play the Jacks and Tens as Two Pair, with the Bonus Ten scoring for +30 chips. Keeping the Steel King in hand applies its ×1.5 Mult, while Abstract and Blue Joker provide +15 Mult and +88 Chips; this should score roughly 4,500 and leave only a small amount to clear. Include the otherwise-unscored H_3 as a free cycle, while preserving the three Diamonds for a possible Flush.

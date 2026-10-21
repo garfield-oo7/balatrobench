@@ -1,0 +1,1 @@
+I have only $1, so I cannot afford the $8 Ancient Joker, $10 voucher, or $4 pack. Selling a scoring Joker would still not raise enough to buy Ancient and would weaken the established Flush engine; the reroll is also unaffordable. Keep the synergistic Flush Jokers intact and advance.

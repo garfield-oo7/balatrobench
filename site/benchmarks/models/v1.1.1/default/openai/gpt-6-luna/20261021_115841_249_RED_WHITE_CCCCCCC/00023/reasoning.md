@@ -1,0 +1,1 @@
+Play the pair of Sixes plus three non-diamond cards to score while cycling five cards and preserving all four Diamonds (J, 9, 6, 5) as a flush draw. Avoiding discards also preserves Delayed Gratification’s end-of-round payout; the pair scores slightly better than a spade high-card line here.

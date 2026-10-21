@@ -1,0 +1,1 @@
+Play the pair of Tens for the strongest available scored hand, and add the Queen, Jack, and Purple-seal Nine as unscored cards to cycle five cards at once. This leaves the 2, 3, and 6 held, so Raised Fist uses the lowest held rank (2) for +4 Mult, while Mystic Summit adds +15 Mult. The remaining 2-3-6 also preserves a possible straight draw.

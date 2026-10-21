@@ -1,0 +1,1 @@
+Play the three nines as Three of a Kind. The hand triggers Zany Joker's +12 Mult and, at exactly three cards, Half Joker's +20 Mult, scoring far more than the 267 points still needed. The nines are odd, so Even Steven adds nothing, but there is no reason to complicate the guaranteed finish.

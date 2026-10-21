@@ -1,0 +1,1 @@
+Take The Empress and enhance both Jacks in hand into Mult Cards. Permanent +4 Mult whenever either is scored is a reliable scoring improvement, and these matching face cards are likely to contribute together to pairs, trips, or full houses—synergizing with the existing hand-type Jokers without relying on random Planet outcomes.

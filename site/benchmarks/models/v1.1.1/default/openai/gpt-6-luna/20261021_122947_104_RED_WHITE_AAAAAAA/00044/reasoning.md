@@ -1,0 +1,1 @@
+Skip the shop: Mega Buffoon Pack is $1 beyond the current $7, the $10 Blank voucher has no benefit, and rerolling would consume most of the reserve without guaranteeing a useful Joker. Credit Card adds no scoring and fills an already-full Joker lineup; 8 Ball is too unreliable to justify spending $5. Preserve cash and advance with the established scoring and extra-hand engine.

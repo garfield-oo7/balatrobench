@@ -1,0 +1,1 @@
+Keep the three Hearts as the only route toward the established Level-4 Flush engine. Cycle the debuffed Club Ace and the three off-suit cards; with one discard remaining, drawing four cards gives the best chance to complete a Flush, which should comfortably cover the 3,257 points still needed.

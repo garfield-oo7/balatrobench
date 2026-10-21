@@ -1,0 +1,1 @@
+Fortune Teller's current +4 Mult is a weak replacement for the still-strong Popcorn, and Magic Trick/Standard Pack do not materially advance this Flush build. With $48 and an established scoring engine, spend $5 to look for a genuinely strong Joker upgrade; retain enough cash for Bootstraps and interest.

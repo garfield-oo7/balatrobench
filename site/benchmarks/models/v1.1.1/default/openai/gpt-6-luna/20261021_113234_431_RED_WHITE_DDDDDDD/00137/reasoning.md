@@ -1,0 +1,1 @@
+Put Supernova's additive Mult before Ancient Joker's card-triggered multiplicative Mult and keep Acrobat at the far right so its ×3 effect is applied last on the final hand. This ordering materially improves the Flush engine and costs no hand.

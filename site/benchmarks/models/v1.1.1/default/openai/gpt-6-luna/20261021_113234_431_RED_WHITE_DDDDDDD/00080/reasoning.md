@@ -1,0 +1,1 @@
+Play all five Diamonds as a Level 3 Flush, activating both Flush Jokers (+80 Chips and +10 Mult), Abstract Joker (+15 Mult), and the Mult enhancement on D_Q (+4 Mult). Keep both Steel cards in hand to benefit from their held-in-hand ×1.5 Mult effects. Spades are the only debuffed suit, so this Flush is unaffected and should clear the blind comfortably.

@@ -1,0 +1,1 @@
+Leave the shop without buying or rerolling. The only offer is a Spade-specific +3 Mult Joker, which is not worth replacing any of the five useful Jokers in the established Two Pair engine; rerolling would spend money without freeing a slot. Keep the $20 toward the $25 interest threshold and save The Empress for use when playing cards are available next round.

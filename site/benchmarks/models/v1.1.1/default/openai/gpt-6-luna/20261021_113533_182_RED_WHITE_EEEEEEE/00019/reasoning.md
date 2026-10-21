@@ -1,0 +1,1 @@
+Use the held Uranus now to add another permanent level to Two Pair, our most-played hand type and one that reliably activates Jolly Joker. It costs nothing, and there is no affordable shop purchase worth preserving the planet for.

@@ -1,0 +1,1 @@
+The remaining hand has no pair, and even with Four Fingers it contains only two Clubs and two Spades, so no Flush or Straight is available. With no discards and only one hand left, play the Ace as a High Card to maximize the scored card value and Hiker's permanent chip gain; the other cards would not score in a High Card hand.

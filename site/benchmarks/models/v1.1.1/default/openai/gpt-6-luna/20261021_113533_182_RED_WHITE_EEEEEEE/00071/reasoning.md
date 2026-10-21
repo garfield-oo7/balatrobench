@@ -1,0 +1,1 @@
+Skip the purchases and advance with $3. Saturn would spend money leveling an unused Straight rather than our Pair/Two Pair/Full House engine, while the other items are unaffordable or a useless voucher. Staying at $4 or less keeps Vagabond active for Tarot generation next round; hold The Hermit for a better cash opportunity.

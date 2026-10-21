@@ -1,0 +1,1 @@
+There is no Flush available, so take the Queens Pair as the strongest scoring hand and play five cards to cycle aggressively. Keep the two Clubs (C_4, C_2) as the best start toward a Flush, and preserve the Bonus Ace for future scoring. This is not the final hand, so save Acrobat’s ×3 payoff for a Flush on the last hand; the Hook will remove two random held cards after this play.

@@ -1,0 +1,1 @@
+Keep the two Hearts as the best flush seed and discard all three debuffed Clubs plus the off-suit Ace and Spade. A level-4 Flush, boosted by Supernova's 21 Mult and Bootstraps, is the strongest repeatable route; drawing toward three more Hearts has better value than spending a hand on the current weak high card.

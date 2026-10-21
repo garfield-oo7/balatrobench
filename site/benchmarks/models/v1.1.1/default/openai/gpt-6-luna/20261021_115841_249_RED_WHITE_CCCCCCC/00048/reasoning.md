@@ -1,0 +1,1 @@
+Play the five-card Spade Flush using A♠, Q♠, 9♠, 7♠, and 5♠; leave the lower 3♠ unplayed. The Flush base plus five scored Spades triggering Wrathful Joker (+15 Mult) and Red Card (+3 Mult) gives roughly 77 chips × 22 Mult = 1,694, enough to cover the remaining 1,120 points in one hand.

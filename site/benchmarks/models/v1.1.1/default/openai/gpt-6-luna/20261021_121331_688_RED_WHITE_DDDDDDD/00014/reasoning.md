@@ -1,0 +1,1 @@
+Keep all four Hearts (Q, J, T, 7) and discard the off-suit Ace, Queen, and Jack to draw three cards toward a Flush. A Flush activates Crafty Joker's +80 Chips and can score the retained face cards with Scary Face; playing the current two-pair would consume two Hearts and weaken the strongest available build.

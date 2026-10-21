@@ -1,0 +1,1 @@
+Buy Odd Todd for a reliable early-game scoring upgrade that complements the Flush plan. Its +31 Chips applies to scored odd-rank cards across hand types, including the Aces, 9s, 7s, 5s, and 3s likely to appear in Flushes, stacking with Crafty Joker's +80 Chips. Neptune only boosts the rare Straight Flush, while the $4 Buffoon Pack is less predictable.

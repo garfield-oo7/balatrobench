@@ -1,0 +1,1 @@
+Play the two pair of Aces and Tens. Two Pair is Level 2, and Mad Joker adds +10 Mult; Runner's Holographic edition adds another +10 Mult, so this hand should score far more than the 305 chips remaining to clear the blind. Use only the four scoring cards rather than an unscored fifth card, preserving the remaining pair and maximizing unused-hand payout.

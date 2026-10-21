@@ -1,0 +1,1 @@
+Play the pair of Kings for the strongest made hand: both scored face cards trigger Scary Face, while the pair scores about 180 chips. Cycle the Queen, Jack, and 2 while retaining the 6-7 sequence as a possible straight draw; Two Pair is not currently available to activate Mad Joker.

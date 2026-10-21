@@ -1,0 +1,1 @@
+The current five-Joker lineup is already coherent around Flushes, so Walkie Talkie and the Mega Standard Pack are poor fits. A $4 Buffoon Pack gives a chance at a stronger scaling or multiplicative Joker before Antes 7–8, while preserving most of the $41 reserve; I can keep the current lineup if neither option warrants a swap.

@@ -1,0 +1,1 @@
+Play the three Kings as Three of a Kind using exactly three cards. This activates Half Joker’s +20 Mult and the Holographic Runner’s +10 Mult; leave the low 3 and 5 in hand so Raised Fist adds +6 Mult from the 3. Three of a Kind also beats the available pair options, and keeping the play compact preserves the Half Joker bonus.

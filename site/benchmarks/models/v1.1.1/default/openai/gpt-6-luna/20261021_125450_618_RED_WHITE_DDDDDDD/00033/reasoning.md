@@ -1,0 +1,1 @@
+Play the Pair of Queens and use the three off-suit cards as cycling fodder, retaining all three Spades (T, 9, 5) to preserve a potential Flush route. The Pair scores better than a High Card and supports the Flush-focused Jokers less than a Flush, but with no discards available this is a productive way to refresh five cards; Hiker also permanently boosts the Queens when scored.

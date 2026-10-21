@@ -1,0 +1,1 @@
+Buy Zany Joker for $4. Its +12 Mult on Three of a Kind complements Mad Joker’s +10 Mult on Two Pair, giving two strong scoring routes alongside Scary Face’s face-card chips. The $8 Holographic Runner is unaffordable, the Celestial Pack is less reliable value, and this leaves $3 rather than draining all funds.

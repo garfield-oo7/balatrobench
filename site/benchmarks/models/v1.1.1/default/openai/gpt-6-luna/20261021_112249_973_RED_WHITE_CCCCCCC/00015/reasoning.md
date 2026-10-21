@@ -1,0 +1,1 @@
+Play the guaranteed Full House using the pair of 9s and three 4s. The Head debuffs the Heart 4, but it can still complete the hand; its rank contributes no scoring value. The other four cards score with Full House's 40 chips and 4 Mult, adding roughly 264 points and moving us close to the 600 target while leaving two hands for cleanup.

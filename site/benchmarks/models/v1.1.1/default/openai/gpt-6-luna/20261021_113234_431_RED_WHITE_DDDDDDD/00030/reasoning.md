@@ -1,0 +1,1 @@
+Buy Hiker for $5: it directly complements the Flush strategy by permanently adding +5 Chips to every card scored, and a five-card Flush will build that scaling quickly. Hologram is currently unsupported because there is no reliable way to add cards to the deck, while Clearance Sale would consume all our money; keep the remaining $5 and preserve the growing Flush engine.

@@ -1,0 +1,1 @@
+Play the available five-Heart Flush immediately. Flush is the established level-4 engine and activates Supernova’s accumulated +18 Mult and Bootstraps’ +12 Mult; scoring all five Hearts also adds Hiker chips permanently. The Ace of Diamonds and other off-suit cards do not improve this flush, and there is no stronger made hand in the current selection.

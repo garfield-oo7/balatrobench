@@ -1,0 +1,1 @@
+Open the Jumbo Arcana Pack for a chance at a high-value immediate Tarot effect or useful deck enhancement; it does not require a Joker slot, which is full of synergistic scoring Jokers I should keep. Skip Seltzer because acquiring it would require selling an established Joker, and avoid the $10 Tarot Merchant so I can preserve cash and interest.

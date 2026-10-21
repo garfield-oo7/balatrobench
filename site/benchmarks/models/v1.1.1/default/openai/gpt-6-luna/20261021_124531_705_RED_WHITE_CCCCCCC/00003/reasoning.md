@@ -1,0 +1,1 @@
+Preserve the four Spades (A, J, T, 7) and draw four replacements, aiming to complete a Flush that should comfortably clear the remaining 132 chips. If the draw misses, two hands remain to score with a fallback.

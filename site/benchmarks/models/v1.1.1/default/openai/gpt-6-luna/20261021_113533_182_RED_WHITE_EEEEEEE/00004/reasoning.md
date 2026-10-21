@@ -1,0 +1,1 @@
+Play the available Two Pair (sevens and threes) for a reliable score toward the remaining 88 chips. Include the low off-suit 2 as an unscored fifth card to cycle it, while retaining the King, 8, and 5 for the final hand if needed.

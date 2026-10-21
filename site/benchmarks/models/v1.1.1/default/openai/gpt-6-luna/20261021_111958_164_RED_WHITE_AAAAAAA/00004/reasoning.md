@@ -1,0 +1,1 @@
+With $0, neither the $10 voucher nor $4 packs are affordable, and rerolling is impossible. Keep the strong early scoring/economy setup—Mad Joker can reward Two Pair, while Burglar adds three hands at the cost of discards—and advance to the next blind.

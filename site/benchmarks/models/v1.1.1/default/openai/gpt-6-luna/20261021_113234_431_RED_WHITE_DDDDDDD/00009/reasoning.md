@@ -1,0 +1,1 @@
+Open the $4 Buffoon Pack while two Joker slots remain. A fresh Joker choice has better upside than the irrelevant Straight Flush planet, and leaves $4 in reserve; the existing Crafty Joker already supports the Flush plan, so I can choose a Joker that strengthens scoring or complements it.

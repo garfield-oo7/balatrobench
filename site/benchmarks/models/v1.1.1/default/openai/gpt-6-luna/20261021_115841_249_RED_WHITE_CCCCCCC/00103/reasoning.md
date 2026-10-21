@@ -1,0 +1,1 @@
+Redeem Seed Money while holding $40: raising the interest cap lets this balance earn $8 instead of the usual $5, and even after the $7 voucher cost the remaining $33 earns $6. With several antes left, the increased interest can repay the purchase and improve future shop budgets.

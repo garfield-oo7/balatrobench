@@ -1,0 +1,1 @@
+The pair of Aces scores well over the 8 chips still needed to clear the Small Blind. Playing only the scoring pair avoids unnecessarily committing other useful cards; the blind should end immediately once the score is reached.

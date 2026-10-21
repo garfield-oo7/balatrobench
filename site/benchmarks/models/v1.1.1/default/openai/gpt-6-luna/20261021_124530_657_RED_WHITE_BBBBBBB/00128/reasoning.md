@@ -1,0 +1,1 @@
+The current offers do not materially improve the established Level 5 Two Pair build: Smiley Face is conditional and largely overlaps Mystic Summit, while Jupiter improves an off-strategy Flush. With $37 and the discounted $3 reroll, search once for a stronger scoring Joker or relevant upgrade while keeping money comfortably above the $25 interest threshold.

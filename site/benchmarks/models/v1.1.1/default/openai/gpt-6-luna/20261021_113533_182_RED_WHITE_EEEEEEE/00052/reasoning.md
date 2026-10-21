@@ -1,0 +1,1 @@
+Sell Crazy Joker for $2: straight has not been part of this run's scoring plan, while the Pair/Two Pair/Full House engine is already supported by Jolly Joker and Supernova. The extra money allows replacing this dead slot with Splash, which will score otherwise unscored cards and trigger more Even Steven bonuses.

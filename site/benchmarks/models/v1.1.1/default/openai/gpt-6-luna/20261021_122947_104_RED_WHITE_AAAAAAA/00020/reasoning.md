@@ -1,0 +1,1 @@
+Buy Even Steven as a broadly useful scoring Joker that synergizes with the existing Two Pair plan: when a Two Pair includes even-rank scoring cards, its +4 Mult per card stacks with Mad Joker’s +10 Mult. It is a reliable Ante 2 upgrade for $4 and still leaves enough room for the shop’s $3 High Priestess if desired.

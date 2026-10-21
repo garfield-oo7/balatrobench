@@ -1,0 +1,1 @@
+Play the five Clubs as a Flush. Its base score is approximately (35 base chips + 44 card chips) × 4 mult = 316, enough to clear the 300-chip Small Blind in one hand and preserve the remaining hands for payout.

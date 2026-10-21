@@ -1,0 +1,1 @@
+Play the three Tens as Three of a Kind using only three cards, activating Half Joker’s +20 Mult. Keep the Steel 3 in hand so Raised Fist uses it for +6 Mult and its Steel enhancement supplies ×1.5 Mult. The Arm lowers this hand’s level, but Three of a Kind is still level 1; this compact trip should score substantially more than a pair or other available hand.

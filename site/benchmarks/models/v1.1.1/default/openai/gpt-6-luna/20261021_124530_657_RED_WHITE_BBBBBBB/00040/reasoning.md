@@ -1,0 +1,1 @@
+Play the three Threes as Three of a Kind to activate Zany Joker's +12 Mult. The Arm lowers this hand from Level 2 to Level 1, but even then the hand should score strongly; with the remaining 5 as the lowest held card, Raised Fist adds +10 Mult. Include the King and Ten as unscored cards to cycle them while preserving the 5 for Raised Fist.

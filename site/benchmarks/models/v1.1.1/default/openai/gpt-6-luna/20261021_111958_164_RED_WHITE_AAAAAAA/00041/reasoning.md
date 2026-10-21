@@ -1,0 +1,1 @@
+Buy Walkie Talkie for $4: its +4 Mult and +10 Chips on scored 10s and 4s directly synergize with Even Steven, while still fitting the open fifth Joker slot. This adds reliable scoring support to the existing compact-hand/Three of a Kind build without selling a Joker.

@@ -1,0 +1,1 @@
+Play Two Pair with the Jacks and Twos. This activates Mad Joker (+10 Mult), Even Steven for both even Twos (+8 Mult), Runner's Holographic +10 Mult, and Scary Face for each scoring Jack (+60 chips total). It is much stronger than the other available Two Pair and comfortably clears the remaining 228 points in one hand.

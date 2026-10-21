@@ -1,0 +1,1 @@
+Play the Level 9 Two Pair formed by the Aces and threes, including the Mult-enhanced Ace for +4 Mult and Mad Joker’s +10 Mult. Mystic Summit adds +15 and Ramen doubles the resulting Mult, giving a very strong score; the King is only an unscored fifth card and cycles out without changing the hand type.

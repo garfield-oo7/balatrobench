@@ -1,0 +1,1 @@
+Take The Sun and convert the 9♠ and both 4s to Hearts. Flush is the established, heavily leveled hand, so permanently adding three Heart cards improves suit density and gives this hand four Hearts already alongside the 8♥, with a draw potentially completing the Flush. This reliable deck-shaping is preferable to the low-probability Lucky payouts or risking a Glass card.

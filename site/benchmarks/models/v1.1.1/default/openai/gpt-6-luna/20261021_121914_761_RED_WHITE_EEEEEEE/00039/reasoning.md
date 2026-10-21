@@ -1,0 +1,1 @@
+Take Mercury. It upgrades Pair into a useful fallback hand and its +15 Chips/+1 Mult is better than spending the planet on Four of a Kind or High Card, neither of which has meaningful Joker support. It does not directly level Two Pair, so keep Two Pair as the main plan; Jolly Joker still rewards Pair hands, and a pair can help score/cycle cards when Two Pair is unavailable.

@@ -1,0 +1,1 @@
+Buy Justice for $2 as a low-cost late-game scoring upgrade. A Glass enhancement on a card that is actually scored in a Flush can double the hand’s Mult, and the consumable slots are empty; keep the established Flush engine and skip the off-strategy Two Pair Joker and Standard Pack.

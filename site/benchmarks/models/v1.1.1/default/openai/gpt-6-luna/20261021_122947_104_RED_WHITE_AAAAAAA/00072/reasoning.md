@@ -1,0 +1,1 @@
+Take Uranus to further strengthen the established Level 5 Two Pair engine. Each level adds +20 Chips and +1 base Mult, and Two Pair reliably activates Mad Joker while also benefiting from Runner and Swashbuckler. Saturn is a reasonable secondary option, but Straight is less central to the current scoring setup; Earth has little synergy.

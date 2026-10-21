@@ -1,0 +1,1 @@
+I have $0, so none of the shop items are affordable. Neptune only upgrades Straight Flush, which is too situational to justify pursuing, and the Standard Pack and Hieroglyph are out of reach. Advance to the next blind and prioritize earning with To Do List by playing its currently assigned hand when practical.

@@ -1,0 +1,1 @@
+Buy the Mega Celestial Pack for focused scoring upgrades. Two Pair is a core hand because Mad Joker adds +10 Mult, while compact Pair hands activate Half Joker and benefit from Raised Fist; upgrading either hand type gives lasting value. The $8 cost leaves $11, and the extra hands from Burglar make the current engine reliable enough to preserve cash for the following shop.

@@ -1,0 +1,1 @@
+Choose Jupiter to further strengthen the established Level-4 Flush engine, the most-played hand by far. It raises Flush by +15 chips and +2 Mult, directly improving the reliable hand type that synergizes with the current scoring Jokers; the other planets upgrade rarely used hands.

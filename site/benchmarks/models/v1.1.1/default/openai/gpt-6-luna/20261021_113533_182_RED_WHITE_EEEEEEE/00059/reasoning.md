@@ -1,0 +1,1 @@
+Sell Splash to free a slot and fund a scalable upgrade. Splash has been helpful for bonus scoring cards, but it also makes every played face card score and can obstruct Ride the Bus's no-scoring-face condition; Even Steven and the pair/hand-type Jokers remain the better core.

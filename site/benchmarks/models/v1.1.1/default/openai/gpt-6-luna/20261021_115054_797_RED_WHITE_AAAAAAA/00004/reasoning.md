@@ -1,0 +1,1 @@
+Buy Mad Joker as the affordable early scoring upgrade. Its +10 Mult on Two Pair can make that hand type highly efficient when it appears, complementing Burglar's extra hands and giving us useful Joker power without spending beyond our $4.

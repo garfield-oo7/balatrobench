@@ -1,0 +1,1 @@
+Buy the $4 Celestial Pack to get a guaranteed Planet upgrade while leaving money at $2, which keeps Vagabond active for the next blind. Prioritize Uranus if offered to strengthen the established Two Pair engine; unlike another random Tarot, the Planet provides permanent scoring growth.

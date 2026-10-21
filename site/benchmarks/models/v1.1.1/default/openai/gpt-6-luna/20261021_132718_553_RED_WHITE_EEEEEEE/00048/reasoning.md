@@ -1,0 +1,1 @@
+The blind needs only 274 more points. Play the Queen pair with K, T, and 2 as the two extra cards; Splash scores every played card, and the T and 2 each trigger Even Steven. Jolly Joker also adds +8 Mult for the pair, so even after The Flint halves the base hand values this should comfortably finish the blind in one hand.

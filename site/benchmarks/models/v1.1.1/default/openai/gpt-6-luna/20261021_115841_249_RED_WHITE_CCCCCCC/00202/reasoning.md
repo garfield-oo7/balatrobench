@@ -1,0 +1,1 @@
+At Ante 7, the current Flush engine has strong additive Mult but no true multiplicative Joker, which is the key scaling gap for Ante 8. Spare Trousers would require replacing a slot and changing focus, while the Standard Pack is low value; spend one $7 reroll to seek a high-impact xMult Joker, retaining $35 for interest and future flexibility.

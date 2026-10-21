@@ -1,0 +1,1 @@
+Skip the current offers and preserve $19 toward the $25 interest threshold. Half Joker does not support the five-card Flushes this build relies on, Uranus upgrades an unplayed hand type, and the Arcana Pack is too uncertain to justify its $6 cost. The current Flush-focused Jokers are already cohesive and strong enough to take into the next blind.

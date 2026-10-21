@@ -1,0 +1,1 @@
+The Mouth has locked this round to High Card, so keep the Ace out and play the King as the sole scoring high card. This lets Photograph trigger on the scored face card, while Mystic Summit (+15 Mult), Fortune Teller (+16 Mult), and Ramen (×2 Mult) maximize the available scoring stack. The other selected cards have distinct ranks, preserving High Card while cycling five cards.

@@ -1,0 +1,1 @@
+Skip both Standard packs to add +6 Mult to Red Card, taking it from +3 to +9 for every scoring hand. The $2 Full House Planet is off-plan: Flush is my established, level-2 hand and is supported by Wrathful Joker and Splash. Saving the $31 preserves maximum interest while keeping The Empress for a useful card-enhancement opportunity during play.

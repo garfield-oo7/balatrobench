@@ -1,0 +1,1 @@
+Keep the four Hearts (H_Q, H_9, H_7, H_2) to draw toward the established Flush engine, while holding C_K in hand so its Steel enhancement boosts the eventual Flush scoring. Discard both debuffed Spades and the off-suit D_9; a drawn Heart completes a five-card Flush that triggers Crafty and Droll.

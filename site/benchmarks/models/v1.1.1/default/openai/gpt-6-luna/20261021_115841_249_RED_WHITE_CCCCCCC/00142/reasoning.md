@@ -1,0 +1,1 @@
+Score the available Three of a Kind using all three sixes, activating the hand’s Supernova bonus and Hiker on the scored cards. Play only these three so I preserve all four Clubs in hand (C_J, C_8, C_6, C_3), which is the best route toward the established Level-6 Flush engine; the smaller draw is preferable to cycling away two of the key suit cards.

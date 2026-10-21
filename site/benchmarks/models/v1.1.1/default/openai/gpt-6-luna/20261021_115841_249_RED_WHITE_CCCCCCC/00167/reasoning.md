@@ -1,0 +1,1 @@
+Buy Mystic Summit for $4 as an inexpensive fifth Joker that adds +15 Mult on a hand played with zero discards remaining. The established Level-6 Flush plan already has substantial base and scaling Mult from Supernova and Bootstraps, so Summit meaningfully strengthens a late-round hand when we can exhaust discards first. Preserve the remaining $42 for interest and future upgrades.

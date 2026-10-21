@@ -1,0 +1,1 @@
+Play the pair of fives with three extra cards to cycle all five selections while preserving the three Diamonds (T♦ and both 8♦) in hand. The pair scores Odd Todd’s +31 Chips on each scored Five, and holding three Diamonds gives the final hand the best available Flush draw; save Acrobat’s ×3 for that final hand.

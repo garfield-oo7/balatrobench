@@ -1,0 +1,1 @@
+Use Trading Card's first-discard condition by discarding exactly one card, destroying the weakest and least connected card (H_6) and earning $3. Keep the high cards and the 7-8-10-J straight potential; with four discards and four hands, this single-card thinning and replacement is worth taking before committing a hand.

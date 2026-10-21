@@ -1,0 +1,1 @@
+Play the available Two Pair (Tens and Twos) for immediate scoring, using the unrelated 8♣ as the fifth card to cycle an extra card. This scores better than a weak pair and preserves all three Diamonds, especially the 5♦ needed for The Idol’s ×2 Mult, so we retain a strong route to a Diamond Flush on the next hand.

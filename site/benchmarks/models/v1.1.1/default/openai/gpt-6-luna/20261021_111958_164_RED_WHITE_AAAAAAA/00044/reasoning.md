@@ -1,0 +1,1 @@
+The shop has no individual cards, and with only $3 the $4 packs, $5 reroll, and $10 voucher are unaffordable. Preserve the cash and advance; Burglar will grant +3 hands at blind selection, while the existing additive Mult Jokers are positioned before Ancient Joker's per-card multiplier.

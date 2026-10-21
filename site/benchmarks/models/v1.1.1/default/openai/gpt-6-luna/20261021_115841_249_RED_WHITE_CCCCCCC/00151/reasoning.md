@@ -1,0 +1,1 @@
+Buy Ride the Bus for $4 as a scalable +Mult Joker that fits the established Flush strategy: avoid scoring face cards on hands to grow its bonus, while Hiker strengthens scored cards, Supernova rewards repeated Flushes, and Bootstraps supplies strong flat Mult. There is an open Joker slot, and the remaining $45 preserves the current Bootstraps bonus threshold.

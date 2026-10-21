@@ -1,0 +1,1 @@
+Play the two non-Heart cards as a High Card to score some chips while cycling them and preserving all six Hearts for the supported Flush build. This leaves room to use one more non-final hand, then make the Flush on the final hand so Acrobat's ×3 Mult applies.

@@ -1,0 +1,1 @@
+A Buffoon Pack is the best early investment: it gives a free choice among up to two Jokers, with a strong chance to find immediate scoring power. Mars only upgrades Four of a Kind, which has not been our played hand type, while Reserved Parking is merely conditional income and costs more.

@@ -1,0 +1,1 @@
+I have only $1, so the $3 Star, $4 Standard Pack, and $10 Paint Brush are unaffordable; selling a useful scoring Joker just to buy a weak, off-strategy suit-conversion Tarot would be a poor trade. Keep Mad Joker, Burglar, and Scary Face and advance to the next blind.

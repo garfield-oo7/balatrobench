@@ -1,0 +1,1 @@
+Take Uranus to further strengthen the established Level 5 Two Pair strategy. It upgrades the hand's base by +20 chips and +1 mult, which compounds with Clever Joker's +80 chips and the existing scoring support; the other planets improve off-strategy hands.

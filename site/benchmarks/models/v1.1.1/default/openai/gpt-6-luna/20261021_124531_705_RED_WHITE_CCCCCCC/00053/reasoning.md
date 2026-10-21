@@ -1,0 +1,1 @@
+With no discards and only one hand left, play the pair of sevens for the strongest hand type available. Splash makes all five played cards score, so include the Ace, 9, and 6 as the highest remaining ranks to maximize scored chips. There is no 4♦ for The Idol, and the pair is substantially stronger than a high-card play.

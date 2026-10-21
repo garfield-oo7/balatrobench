@@ -1,0 +1,1 @@
+Play the pair of Twos with the highest-value available kickers (King, Queen, and Eight). Pair is Level 2, and Splash makes all five selected cards score; the Foil Trading Card adds 50 chips. This is the strongest available hand and cycles five cards without using a discard, preserving Delayed Gratification.

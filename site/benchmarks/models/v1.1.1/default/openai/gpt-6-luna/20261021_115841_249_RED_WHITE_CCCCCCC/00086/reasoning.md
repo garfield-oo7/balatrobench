@@ -1,0 +1,1 @@
+Play the five-card Club Flush (A, Q, J, 9, 5), the strongest available hand by a wide margin. Level 3 Flush supplies 65 base chips and 8 base Mult; Red Card and Supernova add +15 Mult total, giving roughly (65 + 45) × 23 = 2,530 before any other effects. Keep the other Nine pair available to pursue another scoring hand after the draw.

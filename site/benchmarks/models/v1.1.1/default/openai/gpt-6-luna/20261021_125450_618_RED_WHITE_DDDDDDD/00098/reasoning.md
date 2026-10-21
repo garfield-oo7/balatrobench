@@ -1,0 +1,1 @@
+Preserve the five Spades 7–J that form a Straight Flush, and keep the Steel King in hand for its held-card multiplier. Use the off-suit Club Ten as a low-risk setup hand; with two hands remaining afterward, the final Straight Flush can trigger Acrobat’s ×3 and should comfortably clear the blind.

@@ -1,0 +1,1 @@
+Play the known Jack alone as a Level 2 High Card. This keeps the hand at three or fewer cards, activating Half Joker for +20 Mult; Runner's Holographic edition adds +10 Mult. With High Card's 15 chips and the Jack's 10 card value, this should score about 800 points, enough to clear the remaining 640 and win the blind in one hand while preserving the other five hands.

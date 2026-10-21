@@ -1,0 +1,1 @@
+The shop has no direct card offers, and the only pack is a low-impact Standard Pack. With a solid Level 6 Two Pair core but room to improve scaling, spend one discounted reroll to look for a meaningful Joker or hand upgrade; $16 remains enough to support the run, and the potential scoring improvement outweighs the small interest loss.

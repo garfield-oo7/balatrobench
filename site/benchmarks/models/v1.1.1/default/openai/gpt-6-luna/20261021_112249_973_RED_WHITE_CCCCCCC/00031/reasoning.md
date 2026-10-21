@@ -1,0 +1,1 @@
+The only Joker costs $7, the voucher costs $10, and the Arcana Pack costs $4, so none are affordable with $1. Leave the shop rather than rerolling; skipping the available booster pack should also trigger Red Card's +3 Mult growth if the game applies its skip effect.

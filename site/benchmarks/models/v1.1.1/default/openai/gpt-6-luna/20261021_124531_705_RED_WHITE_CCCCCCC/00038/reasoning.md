@@ -1,0 +1,1 @@
+Choose Earth: Full House is already Level 2 and has been played this run, so this adds a strong +25 chips and +2 Mult to a viable hand that can emerge naturally from our pair-heavy draws. Uranus is a smaller upgrade to Two Pair, while Straight is unplayed and harder to assemble reliably. Pair remains our main hand, but Earth strengthens the best complementary scoring option.

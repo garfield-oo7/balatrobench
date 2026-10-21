@@ -1,0 +1,1 @@
+Take Earth to improve Full House by +25 chips and +2 Mult. It is the most plausible high-value hand type among these options and synergizes with Jolly Joker's +8 Mult because a Full House contains a pair; Four of a Kind and Straight Flush are much less consistent and unsupported by the current build.

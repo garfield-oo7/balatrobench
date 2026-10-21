@@ -1,0 +1,1 @@
+Buy Scary Face as a useful scoring upgrade for the 600-chip Ante 1 boss: scored face cards add +30 chips, which can pair with Mad Joker’s powerful +10 Mult on Two Pair. The $4 cost leaves $3, so avoid the weaker speculative packs and save the remaining cash.

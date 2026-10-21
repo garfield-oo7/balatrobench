@@ -1,0 +1,1 @@
+Buy the Arcana Pack for $4 rather than rerolling with all $5 or buying the unaffordable Ancient Joker. The current Flush-focused Jokers are established, and an immediately usable Tarot may provide cash, a useful card enhancement, or suit conversion; the Standard Pack offers only an uncertain deck addition. Keep the remaining dollar and preserve all scoring Jokers.

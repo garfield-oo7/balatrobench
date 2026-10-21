@@ -1,0 +1,1 @@
+The Fool can recreate the last Planet used, Uranus, giving another level to the repeatedly played Two Pair hand that also triggers Jolly Joker. It costs $3 and turns the remaining cash into a concrete, permanent scoring upgrade; the Standard Pack is random and consumes all $4, while Tower is less directly useful.

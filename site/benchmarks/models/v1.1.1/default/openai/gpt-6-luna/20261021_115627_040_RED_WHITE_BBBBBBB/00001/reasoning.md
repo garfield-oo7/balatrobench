@@ -1,0 +1,1 @@
+Score the available pair of sixes while cycling five cards for maximum draw value. Keep the high A-Q-J sequence potential in hand; the extra low cards are less useful, and the pair gives some immediate progress toward the 300-chip blind.

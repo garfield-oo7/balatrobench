@@ -1,0 +1,1 @@
+Buy Abstract Joker for $4. Its +12 Mult applies to every hand with four Jokers, and combines especially well with Droll Joker's +10 Mult on Flushes, sharply strengthening the established Flush engine. This leaves $11 in reserve, while the Tarot and pack options are less certain or less impactful than a guaranteed scoring upgrade.

@@ -1,0 +1,1 @@
+Play the two Tens and two Twos as Two Pair. It comfortably clears the remaining 46 points without spending a discard or risking an inferior draw, and this is not the final hand so Acrobat should be preserved for its end-of-round multiplier if needed.

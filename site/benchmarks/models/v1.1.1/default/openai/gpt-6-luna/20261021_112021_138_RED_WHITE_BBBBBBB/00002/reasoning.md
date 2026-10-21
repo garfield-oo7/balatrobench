@@ -1,0 +1,1 @@
+Keep all four Clubs (A, Q, 8, 6) and draw four cards, giving a strong chance to complete a flush. The non-Clubs also break up the current two-pair fallback, but a flush is substantially stronger and can reach the Small Blind target in a couple of hands.

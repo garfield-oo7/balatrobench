@@ -1,0 +1,1 @@
+Open the discounted Arcana Pack for $2 while keeping the full Joker engine intact. Bull offers only +24 chips at current cash and would require sacrificing a stronger scoring or consistency Joker; Venus upgrades a secondary hand type. A Tarot choice has better potential value without disrupting the established Two Pair plan, and the consumable slots are empty.

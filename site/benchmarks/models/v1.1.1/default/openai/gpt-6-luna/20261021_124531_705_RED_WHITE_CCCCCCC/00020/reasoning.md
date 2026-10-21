@@ -1,0 +1,1 @@
+The blind is only 22 chips short, and these five non-Heart cards form a Pair of 3s while avoiding The Head’s debuff. Splash makes every selected card score, and Foil Trading Card adds chips, so this easily clears the target with the final hand.

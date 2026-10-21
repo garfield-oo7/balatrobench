@@ -1,0 +1,1 @@
+Two Pair is our established scoring plan, so Saturn is off-strategy, and the $8 Invisible Joker is unaffordable. An Arcana pack costs only $4 and can provide an immediate Tarot that improves the deck or economy; preserve the remaining $3 rather than spending $6 on the larger pack or buying a weak off-plan Planet.

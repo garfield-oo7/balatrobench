@@ -1,0 +1,1 @@
+The current pair of sevens only scores about 120, short of the 156 points needed. Discard the four nonessential cards while preserving the pair and three Spades, giving the best chance to draw into a stronger hand—especially a Spade Flush—before using the final hand. The blind is more important than Delayed Gratification's discard payout.

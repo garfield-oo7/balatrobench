@@ -1,0 +1,1 @@
+Keep the $7 rather than buying an off-strategy Saturn or a random Tarot pack. Two Pair is already a strong, well-leveled hand backed by Jolly Joker, and the current cash preserves interest while bringing us closer to affording the Invisible Joker or a better scoring Joker in a future shop.

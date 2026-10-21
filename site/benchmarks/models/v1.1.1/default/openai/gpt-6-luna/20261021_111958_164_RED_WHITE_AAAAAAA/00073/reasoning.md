@@ -1,0 +1,1 @@
+Sell Even Steven to make room for a more reliable scoring Joker. Its +4 per scored even card is inconsistent, while Swashbuckler provides roughly +11 Mult on every hand based on the other Jokers' sell values and works especially well with our Three of a Kind/Half Joker scoring plan.

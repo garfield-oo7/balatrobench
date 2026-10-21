@@ -1,0 +1,1 @@
+Burglar is a strong early-game pickup: +3 hands per blind gives extra scoring opportunities and potentially more unused-hand payout, while losing discards is manageable with the extra hands. It complements Mad Joker by giving more chances to make Two Pair, and it is more valuable than spending $4 on an uncertain pack right now.

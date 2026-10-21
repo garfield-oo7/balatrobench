@@ -1,0 +1,1 @@
+Play the Queens and Fours as Two Pair, using the 6 as the fifth card to cycle it while keeping the remaining hand's lowest card as high as possible. Raised Fist should add +18 Mult from the lowest held card (the 9), giving an estimated 48 chips × 20 Mult = 960 and clearing the 800-point blind in one hand.

@@ -1,0 +1,1 @@
+Play the two pair of Tens and Eights for a solid 112-point base score, adding the Jack as the fifth card to cycle it without affecting the scoring hand. This raises the total from 100 to about 212, leaving ample hands to reach 300.

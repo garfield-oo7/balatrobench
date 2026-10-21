@@ -1,0 +1,1 @@
+Play the 7s and 5s as Two Pair to activate Mad Joker's +10 Mult; this should comfortably exceed the 450 target from the current 315 score. Include the 9 as an unscored fifth card to cycle it without sacrificing the scoring hand.

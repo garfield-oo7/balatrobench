@@ -1,0 +1,1 @@
+Buy Ride the Bus for $6. Its persistent +Mult scaling is valuable at Ante 4, and spending down to $2 also puts Vagabond below its $4 threshold so future hands can generate Tarots. I can deliberately play hands without scoring face cards to build Ride the Bus, while Splash and my established Pair/Two Pair engine preserve immediate scoring.

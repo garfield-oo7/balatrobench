@@ -1,0 +1,1 @@
+Keep the four Spades (A, 5, 3, 2) to pursue a Flush, our established scoring hand that activates both Crafty and Droll. Discard the four off-suit cards to maximize the chance of drawing at least one Spade and complete the Flush; the Bonus Ace of Spades is especially valuable when scored.

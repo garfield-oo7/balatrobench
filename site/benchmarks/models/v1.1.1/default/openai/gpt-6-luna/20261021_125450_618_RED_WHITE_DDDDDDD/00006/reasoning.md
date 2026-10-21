@@ -1,0 +1,1 @@
+I have only $1, so none of the shop items are affordable; rerolling is also impossible. Satellite offers delayed income rather than scoring, and the Spectral Pack is out of reach. Keep Scary Face and the strong Flush-triggered Crafty Joker, preserve the remaining economy, and advance.

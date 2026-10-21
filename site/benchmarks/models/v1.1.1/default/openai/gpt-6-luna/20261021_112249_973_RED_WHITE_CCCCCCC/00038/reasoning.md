@@ -1,0 +1,1 @@
+I have only $1, so the $6 Idol, $10 voucher, and both booster packs are unaffordable; rerolling is also impossible. Selling multiple Jokers just to fund a purchase would sacrifice too much scoring and economy. Leave the shop, preserve the current team, and take the next blind; skipping the unopened packs may also grow Red Card.

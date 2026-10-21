@@ -1,0 +1,1 @@
+Play the pair of Jacks with the low 2 as an unscored third card. This keeps the hand to three cards for Half Joker’s +20 Mult and cycles three cards despite having no discards, while preserving the 8 and 6 that can trigger Even Steven when scored in a later hand. The pair should score about 660 before any Ancient Joker trigger.

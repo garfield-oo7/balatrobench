@@ -1,0 +1,1 @@
+Skip both Arcana packs to trigger Red Card twice and gain +6 Mult for future hands, a much stronger lasting scoring upgrade than these random Tarot packs. Do not spend $10 on Clearance Sale when I plan to skip packs, and The Tower is a low-impact consumable without a compelling target. Keeping $22 also protects interest income and leaves the full Joker lineup intact.

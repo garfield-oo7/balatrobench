@@ -1,0 +1,1 @@
+At $2, the available Hanged Man and Mega Arcana Pack are unaffordable, and Director's Cut is far beyond our budget. Rerolling also costs $5. Keep the cash low to activate Vagabond's Tarot generation during the next blind, and retain Justice and Emperor in the full consumable slots for later use when a slot opens.

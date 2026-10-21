@@ -1,0 +1,1 @@
+Buy the $4 Arcana Pack: the available Jupiter is for Flush, which is not the established Two Pair scoring plan, and Ride the Bus costs more than our funds and would require selling a useful Joker. The pack offers a chance at immediate Tarot value while leaving us at $0, keeping Vagabond active throughout the next blind and preserving all five scoring/economy Jokers.

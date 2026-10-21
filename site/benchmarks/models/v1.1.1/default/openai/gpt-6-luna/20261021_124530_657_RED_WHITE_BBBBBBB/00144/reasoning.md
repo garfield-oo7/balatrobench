@@ -1,0 +1,1 @@
+Use Uranus to upgrade the established Level 6 Two Pair engine to Level 7 for a permanent +20 chips and +1 Mult. The shop’s lone Joker would require sacrificing a valuable slot in a cohesive lineup, while the Buffoon Pack is uncertain; this guaranteed hand upgrade is the best investment.

@@ -1,0 +1,1 @@
+Buy Fortune Teller for $3: its permanent +16 Mult applies to every hand and is a substantial upgrade for Ante 7, synergizing with the existing +15 Mystic Summit before the Photograph and Ramen multipliers. This fills the fifth Joker slot; save the remaining money rather than buying a low-impact Standard Pack or a Buffoon Pack with no Joker room.

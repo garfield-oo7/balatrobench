@@ -1,0 +1,1 @@
+Keep the three Spades (Ace, 8, and 3) and discard the off-suit cards to draw toward a Flush, which activates Crafty Joker's +80 Chips. Retaining S_3 also preserves some pair potential; flush is the stronger scoring plan.

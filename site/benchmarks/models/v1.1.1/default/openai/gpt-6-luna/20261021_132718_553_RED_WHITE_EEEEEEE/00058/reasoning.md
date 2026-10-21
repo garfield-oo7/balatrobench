@@ -1,0 +1,1 @@
+Sell Judgement: with all five Joker slots occupied, it cannot create a Joker without first sacrificing a core scoring/economy Joker. Freeing the consumable slot preserves the more flexible World and gives Vagabond room to generate a Tarot next blind while money remains below its $4 threshold.

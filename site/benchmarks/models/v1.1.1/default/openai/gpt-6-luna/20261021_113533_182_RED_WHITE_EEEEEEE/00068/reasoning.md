@@ -1,0 +1,1 @@
+Judgement cannot be used while all Joker slots are occupied, and an open consumable slot is valuable because it lets Vagabond generate Tarots next round. Selling it also raises cash from $6 to $7, letting the remaining $4 Standard Pack leave me at $3 after purchase—under Vagabond's $4 threshold.

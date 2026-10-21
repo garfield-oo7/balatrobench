@@ -1,0 +1,1 @@
+Play the two pairs (8s and 3s) for Two Pair. Its base 20 chips plus the scored cards' 22 rank chips gives 42 × 2 = 84, enough to cover the remaining 74 points and clear the blind. No reason to include an extra card when the blind should end immediately.

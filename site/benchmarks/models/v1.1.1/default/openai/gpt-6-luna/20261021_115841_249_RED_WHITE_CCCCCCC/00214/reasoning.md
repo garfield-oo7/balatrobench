@@ -1,0 +1,1 @@
+The blind needs only 5,949 more points, but a pair is unlikely to cover that gap. Spend the last discard cycling four cards while preserving the two Diamonds, especially the Mult-enhanced Ace, for a chance to complete a five-card Flush that benefits from the Level-7 Flush, Supernova, Bootstraps, and Droll Joker.

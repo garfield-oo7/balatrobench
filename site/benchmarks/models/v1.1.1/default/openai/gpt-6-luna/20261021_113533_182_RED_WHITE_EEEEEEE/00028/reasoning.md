@@ -1,0 +1,1 @@
+Skip the Standard Pack: spending all $4 on one random playing card is low-value and adds deck dilution, while the current Joker engine is already strong. Fortune Teller, Hieroglyph, and a reroll are unaffordable. Keep the cash and advance; retain The Tower for a future hand where a Stone enhancement can be applied to a useful card.

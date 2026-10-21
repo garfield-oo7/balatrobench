@@ -1,0 +1,1 @@
+The shop has no Jokers to improve the full lineup, and the $10 Planet Merchant is a long-term probability upgrade that would consume all cash without strengthening scoring immediately. Skip both boosters to build Red Card's reliable flat Mult, preserve the $10 economy buffer, and continue leveraging Flushes for To Do List and our suit bonuses.

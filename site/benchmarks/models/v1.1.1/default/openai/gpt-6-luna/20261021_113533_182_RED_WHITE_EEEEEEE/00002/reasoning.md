@@ -1,0 +1,1 @@
+The two Tens and two Eights make the strongest available hand, scoring about 112 chips and moving the blind from 100 to roughly 212. Include the Four as an unscored fifth card to cycle it, while keeping the Jack, Seven, and Six available for future hands.

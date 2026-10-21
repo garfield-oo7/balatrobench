@@ -1,0 +1,1 @@
+Play the Level 5 Two Pair of Aces and Sevens, which triggers Clever Joker's +80 Chips and scores far better than any alternative. Include the low 3 of Diamonds as the fifth unscored card to maximize cycling; retain the Mult-enhanced Jack for a later Photograph trigger and the Gold-Seal 9 for a chance to score it in a future hand.

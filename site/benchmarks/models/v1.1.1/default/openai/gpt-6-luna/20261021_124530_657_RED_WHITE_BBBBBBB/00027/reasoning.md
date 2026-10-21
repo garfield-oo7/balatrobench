@@ -1,0 +1,1 @@
+Keep the pair of Fours to draw toward Three of a Kind and retain the Red Seal Ace as a valuable scored-card option. Discard the unrelated Jack, Ten, Nine, Six, and Three for the maximum five-card redraw; this also leaves a Four as the lowest held rank for Raised Fist while pursuing Zany Joker's +12 Mult on trips.

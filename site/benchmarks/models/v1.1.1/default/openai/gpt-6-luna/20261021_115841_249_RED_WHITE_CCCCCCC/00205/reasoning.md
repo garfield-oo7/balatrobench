@@ -1,0 +1,1 @@
+Use Jupiter now to raise the run’s dominant Level-6 Flush to Level 7, adding +2 Mult and +15 Chips to every Flush. This directly strengthens the established Flush engine for the remaining Ante 7/8 blinds; keep Justice available to apply a Glass enhancement to a scored card when the next hand is available.

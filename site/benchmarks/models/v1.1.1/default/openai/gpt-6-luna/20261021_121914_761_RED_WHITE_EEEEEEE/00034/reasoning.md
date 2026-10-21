@@ -1,0 +1,1 @@
+Buy the $4 Celestial Pack rather than a direct Tarot: it immediately offers a Planet upgrade without occupying our remaining consumable slot, and leaves $2—low enough to activate Vagabond on future hands. Prioritize a Two Pair Planet if offered, since Two Pair is our most-played hand and Supernova/Jolly Joker already support it.

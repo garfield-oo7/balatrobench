@@ -1,0 +1,1 @@
+Take Earth to level up Full House by +25 chips and +2 Mult. Full House has already been played successfully and is a much stronger scoring hand than an untested Pair or Four of a Kind, so this permanent upgrade best supports the demonstrated hand options.

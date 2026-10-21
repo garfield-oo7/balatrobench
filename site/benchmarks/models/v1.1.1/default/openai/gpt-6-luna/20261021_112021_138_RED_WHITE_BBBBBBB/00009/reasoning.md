@@ -1,0 +1,1 @@
+Keep both the pair of Aces and pair of Twos intact while replacing the four unrelated cards. With four discards available, this can improve the hand to a full house or stronger; either way, two pair remains a reliable scoring option for the 450 target.

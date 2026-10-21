@@ -1,0 +1,1 @@
+Open the Jumbo Celestial Pack for $3: the expanded choice of up to five planets gives the best chance of directly upgrading Level 8 Two Pair, the hand most supported by Mad Joker and the run’s play history. Its immediate planet effect also requires no free consumable slot, and the purchase preserves substantial cash.

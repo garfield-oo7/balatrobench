@@ -1,0 +1,10 @@
+[
+  {
+    "id": "call_M5bAdJPzR2b2nm3NvBUzJjhE",
+    "function": {
+      "arguments": "{\"joker\": 3}",
+      "name": "sell"
+    },
+    "type": "function"
+  }
+]

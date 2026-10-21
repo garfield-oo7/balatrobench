@@ -1,0 +1,1 @@
+Use Venus before advancing to permanently improve Three of a Kind as a backup scoring hand (+2 Mult and +20 Chips). The Flush engine remains primary, and this spends no money or Joker slot.

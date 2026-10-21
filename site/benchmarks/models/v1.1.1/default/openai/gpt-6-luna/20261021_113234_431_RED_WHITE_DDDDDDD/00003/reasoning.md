@@ -1,0 +1,1 @@
+The $4 Buffoon Pack gives a choice of up to two Jokers, which is the strongest early-run investment for building scoring power. At $9 I can still afford Scary Face afterward if the pack result doesn't provide a better Joker, while preserving some flexibility.

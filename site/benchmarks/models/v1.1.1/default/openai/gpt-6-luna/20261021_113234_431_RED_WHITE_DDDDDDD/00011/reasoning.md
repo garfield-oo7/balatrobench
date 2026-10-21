@@ -1,0 +1,1 @@
+Buy Odd Todd for a reliable early scoring boost. Its +31 Chips applies to scored odd-rank cards across many hand types, including flushes, and complements Crafty Joker’s flush bonus and Scary Face’s face-card chips. Neptune upgrades an unlikely Straight Flush and is much less useful; spend the $4 on immediate scoring rather than leave the shop without improving the build.

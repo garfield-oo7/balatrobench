@@ -1,0 +1,1 @@
+Free a slot for the stronger Heart-synergistic Lusty Joker. Crafty’s +80 Chips is useful, but the +3 Mult on each of five Heart cards adds +15 Mult to the Flush, which is a better late-game boost alongside the existing +10 Flush Mult, Abstract, Blue Joker, and Ancient Joker. The deck has already supported Heart Flushes, so this swap is practical rather than purely speculative.

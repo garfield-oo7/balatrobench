@@ -1,0 +1,1 @@
+Play the pair of eights for the strongest made scoring hand. Use the King and Jack as unscored cycling cards, while preserving the 5-6-7 sequence and the remaining heart cards as potential straight/flush development. Two Pair is not currently available to trigger Mad Joker.

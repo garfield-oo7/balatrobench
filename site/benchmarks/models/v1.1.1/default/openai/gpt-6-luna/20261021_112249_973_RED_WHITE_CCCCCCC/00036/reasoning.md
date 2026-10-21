@@ -1,0 +1,1 @@
+Play the three sevens as Three of a Kind. The scored S_7 activates Wrathful Joker for +3 Mult, so the hand scores roughly (30 base chips + 21 card chips) × (3 base Mult + 3 Joker Mult) = 306, comfortably covering the 156 points still needed to defeat the blind.

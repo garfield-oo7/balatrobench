@@ -1,0 +1,1 @@
+Play the five Spades as a Flush. The hand scores the Flush base plus all five card values, and Wrathful Joker adds +3 Mult for each scored Spade; with Red Card's +3 Mult this easily exceeds the 540 points remaining to reach 800. Keep the three 3s out of the hand since this Flush is the stronger scoring line.

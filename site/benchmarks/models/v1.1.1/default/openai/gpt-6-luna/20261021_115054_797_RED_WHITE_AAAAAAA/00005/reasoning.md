@@ -1,0 +1,1 @@
+There are no affordable shop items at $0; the $4 packs and $10 voucher cannot be purchased, and rerolling costs $5. Keep Burglar for its extra hands despite losing discards, and advance to the next blind without spending.

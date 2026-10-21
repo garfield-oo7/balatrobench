@@ -1,0 +1,1 @@
+Flushes are the established scoring engine, so cycle the five non-heart cards while preserving the three high-value Hearts (A, Q, 2) to seek a heart Flush. The current pairs are far weaker than a Flush hand with the Flush jokers and level-4 Flush scaling.

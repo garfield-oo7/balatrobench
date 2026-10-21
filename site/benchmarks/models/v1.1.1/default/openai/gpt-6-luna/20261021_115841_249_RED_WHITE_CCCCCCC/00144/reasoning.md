@@ -1,0 +1,1 @@
+Move additive Mult Jokers (Supernova, Bootstraps, and Popcorn) before The Idol so the Ace of Spades' ×2 Mult effect applies after the flat Mult bonuses, maximizing this scoring hand.

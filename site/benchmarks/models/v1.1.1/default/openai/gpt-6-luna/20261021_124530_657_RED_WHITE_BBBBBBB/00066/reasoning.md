@@ -1,0 +1,1 @@
+Use Pluto now to make the otherwise-unplayed High Card hand slightly less weak (+10 chips and +1 Mult) and free a consumable slot. The primary scoring engine remains Three of a Kind/Two Pair, so there is little value in reserving this planet, and keeping both consumable slots occupied could block a better pickup later.

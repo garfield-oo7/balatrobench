@@ -1,0 +1,1 @@
+Buy Hiker for $4 and fill the final Joker slot. Flushes score five cards every time, so each scored card permanently gains +5 Chips; this compounds across repeated Flush plays and is an excellent long-run scaling effect. Faceless Joker does not strengthen the core scoring engine, and skipping the booster packs afterward will grow Red Card's Mult.

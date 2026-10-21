@@ -1,0 +1,1 @@
+Use Judgement while two Joker slots are open to generate a free Joker, which offers much higher scoring upside than spending the remaining $4 on a random Standard Pack. The existing Two Pair/Jolly Joker/Supernova plan is functioning well, and an additional synergistic scoring Joker can strengthen it for upcoming blinds.

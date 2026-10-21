@@ -1,0 +1,1 @@
+Leave the shop without spending. The Hermit has no value above its $20 doubling cap, Walkie Talkie is inconsistent with the Flush-focused lineup and would require replacing a useful Joker, and neither pack justifies its cost with all five slots occupied. Keeping $26 preserves maximum interest and retains flexibility for a strong scoring upgrade in the next shop.

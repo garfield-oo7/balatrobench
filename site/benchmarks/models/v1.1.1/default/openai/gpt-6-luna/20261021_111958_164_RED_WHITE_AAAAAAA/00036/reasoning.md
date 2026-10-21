@@ -1,0 +1,1 @@
+All cards are hidden by The House, so use a compact three-card play to give the best chance of activating Half Joker’s +20 Mult while cycling cards and revealing the rest of the hand. If the cards form a pair or trips, Mad Joker or Zany Joker may add further Mult; playing three also preserves most of the hand for follow-up scoring.

@@ -1,0 +1,1 @@
+Upgrade High Card from Level 2 to Level 3 before using it as the best current scoring line: this adds +10 chips and +1 Mult, which combines with Mystic Summit, Ramen, and Photograph for a materially stronger hand. Keep Mars for a possible Four of a Kind later.

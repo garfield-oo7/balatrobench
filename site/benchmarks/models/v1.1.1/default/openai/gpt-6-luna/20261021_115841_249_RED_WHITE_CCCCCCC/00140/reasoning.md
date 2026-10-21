@@ -1,0 +1,1 @@
+Use Jupiter now to permanently upgrade the established Flush engine from Level 5 to Level 6, adding +15 chips and +2 Mult to the hand type most likely to clear this blind and most played this run.

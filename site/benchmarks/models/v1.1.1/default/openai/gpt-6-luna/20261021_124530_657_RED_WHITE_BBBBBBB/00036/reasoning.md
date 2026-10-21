@@ -1,0 +1,1 @@
+Temperance costs only $3 and immediately pays the $9 total sell value of my four Jokers, turning $7 into $13 without sacrificing any scoring engine. This is a strong positive-money action; the pack is a less certain scoring upgrade, while Riff-raff has limited room and would disrupt the current reliable Joker setup.

@@ -1,0 +1,1 @@
+Preserve the three Tens for a Three of a Kind that triggers Zany Joker, keep the Two in hand for Raised Fist's +4 Mult, and retain the red-seal Ace as a possible kicker. Discard the off-rank Ace, Queen, and Jack to draw toward useful kickers while keeping the strong scoring core intact; I will use the remaining discards before scoring so Mystic Summit can activate.

@@ -1,0 +1,1 @@
+Enhance one of the scored Fives into Glass. Pair is the most reliable hand in this opening hand, and a Glass scoring card doubles the hand's Mult, turning the pair into a strong first play. Using Justice also frees a consumable slot so Vagabond can generate Tarot cards while we stay under $4.

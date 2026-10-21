@@ -1,0 +1,1 @@
+Take The Hierophant for a guaranteed, permanent scoring upgrade rather than relying on random Planet or Tarot generation. Enhance the Ace and Ten of Spades, two high-value cards that can contribute together to a Spade Flush; each will add +30 chips when scored, and the flush-focused Jokers make that a reliable payoff.

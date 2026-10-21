@@ -1,0 +1,1 @@
+Buy Ancient Joker for $8: it adds a powerful multiplicative effect to the existing Flush build, and a five-card Flush can trigger it repeatedly when the cards match its active suit. The open Joker slot lets me add it without sacrificing Crafty, Droll, Blue Joker, or Abstract; $31 remains, preserving the $25 interest threshold.

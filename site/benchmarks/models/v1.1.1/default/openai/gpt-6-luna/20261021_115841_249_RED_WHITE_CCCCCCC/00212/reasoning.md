@@ -1,0 +1,1 @@
+Play the five Hearts as a Flush, the established Level-7 engine with Droll Joker and strong Supernova/Bootstraps scaling. Include the 4 for Walkie Talkie's bonus and order the Glass 9 last so its ×2 multiplier triggers after the other scored cards.

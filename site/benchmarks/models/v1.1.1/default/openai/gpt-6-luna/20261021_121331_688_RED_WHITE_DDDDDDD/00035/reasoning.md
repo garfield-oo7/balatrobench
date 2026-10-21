@@ -1,0 +1,1 @@
+With no discards and only one hand left, play the strongest available hand: Two Pair, using both Eights and both Threes. The Threes trigger Odd Todd, and this is the final hand so Acrobat multiplies the score by 3. No Flush or higher-ranked combination is possible from the current cards.

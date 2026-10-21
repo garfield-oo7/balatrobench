@@ -1,0 +1,1 @@
+Apply Steel to H_Q, a high-rank off-suit card that can remain held while a Diamond Flush is played, providing a held-in-hand ×1.5 Mult without overwriting the Bonus enhancement on S_A. Then preserve the three Diamonds and H_Q as a flush foundation.

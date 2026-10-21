@@ -1,0 +1,1 @@
+Enhance the Queen that will score in our strongest available Two Pair with Glass for a ×2 Mult trigger. This should comfortably clear the 3,000 target, and using Justice opens a consumable slot for Vagabond's Tarot generation while we're at $2.

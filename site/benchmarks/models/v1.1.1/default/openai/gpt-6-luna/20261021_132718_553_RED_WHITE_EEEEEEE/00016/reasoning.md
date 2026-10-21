@@ -1,0 +1,1 @@
+Take Uranus to level up Two Pair, currently the most-played hand and a reliable way to trigger Jolly Joker's +8 Mult. The +20 Chips and +1 Mult improve a hand type already supported by the current build; the other offered planets target less dependable hands or Flush, which has no specific Joker support.

@@ -1,0 +1,1 @@
+Play the two pairs (Queens and Tens) for the strongest scored hand. Level 2 Two Pair gives 40 base chips and 3 Mult; Mad Joker adds +10 Mult, Holographic Runner +10 Mult, and the two scored Tens trigger Even Steven for +8 Mult. The total is approximately (40 + 40 card chips) × 31 = 2,480, enough to clear the 2,000-point blind in one play.

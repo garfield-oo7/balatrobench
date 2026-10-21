@@ -1,0 +1,1 @@
+Play the five Hearts as a Level 3 Flush, triggering both Flush Jokers and Abstract. This is the final hand, so Acrobat's ×3 Mult applies; keeping the Steel King in hand also provides its held-card multiplier. This is the strongest available hand and should comfortably clear the remaining 10,488 chips.

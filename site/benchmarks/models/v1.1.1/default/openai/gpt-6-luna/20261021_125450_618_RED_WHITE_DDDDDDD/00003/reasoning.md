@@ -1,0 +1,1 @@
+Buy Scary Face as a reliable early scoring Joker. Its +30 Chips on scored face cards meaningfully strengthens common face-heavy hands, while keeping $5 preserves the interest threshold for the next round. Satellite has too little immediate value, and the packs are less certain than this guaranteed scoring boost.

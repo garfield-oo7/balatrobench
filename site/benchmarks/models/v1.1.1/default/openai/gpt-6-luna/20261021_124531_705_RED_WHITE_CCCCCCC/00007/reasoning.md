@@ -1,0 +1,1 @@
+Save the $4 rather than spend $3 on Mars, which upgrades Four of a Kind despite no evidence of a four-kind strategy. The available Joker is unaffordable, and the voucher and pack cost more than the bankroll. Splash already provides broad scoring support, so preserving cash for interest and a stronger shop is the best move.

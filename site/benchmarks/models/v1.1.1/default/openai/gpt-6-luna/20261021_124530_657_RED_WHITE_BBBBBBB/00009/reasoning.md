@@ -1,0 +1,1 @@
+Play the two pair of Aces and Nines for the strongest reliable hand available, scoring all four pair cards and cycling the low 2 as a fifth card. Keep J-T-8 together in hand as useful straight connectors; the round still has two more hands to reach the 450 target.

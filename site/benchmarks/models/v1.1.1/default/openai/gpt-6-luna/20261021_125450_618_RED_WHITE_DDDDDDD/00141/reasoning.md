@@ -1,0 +1,1 @@
+Put all additive scoring effects ahead of Ancient Joker’s repeated ×1.5 triggers. Lusty Joker’s +3 Mult per scored Heart should be added before Ancient multiplies Heart cards; the rest of the lineup remains intact.

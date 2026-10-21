@@ -1,0 +1,1 @@
+Use Judgement while there is an open Joker slot, before considering any purchase that could fill it. A random Joker may provide a stronger upgrade than the shop offers; then I can reassess whether Burglar's extra hands and guaranteed Mystic Summit trigger justify replacing anything.

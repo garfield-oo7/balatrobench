@@ -1,0 +1,1 @@
+Play the strongest available Two Pair (nines and sixes) and use the fifth slot to cycle the Ace. This should score well toward the small blind while preserving both fours as a future pair and drawing five replacement cards.

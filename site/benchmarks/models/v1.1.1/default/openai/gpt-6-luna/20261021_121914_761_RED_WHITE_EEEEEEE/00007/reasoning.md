@@ -1,0 +1,1 @@
+I have only $3, so none of the shop items are affordable. Keep Even Steven as a useful early scoring Joker and save money toward interest and future upgrades rather than taking an impossible purchase or spending on a reroll.

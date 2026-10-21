@@ -1,0 +1,1 @@
+Keep the four Diamonds (9, 8, 7, 5) and discard the four non-Diamonds to draw toward a Flush. Flushes are our strongest available hand, activate To Do List for $4, and a single added Diamond should complete one; the likely scoring gain is more important than preserving Delayed Gratification's no-discard payout.

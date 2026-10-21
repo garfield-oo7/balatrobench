@@ -1,0 +1,1 @@
+Play the five Diamonds as a Level 3 Flush. This triggers both Flush Jokers and Abstract, while D_Q adds +4 Mult; with the hand's 65 base Chips, card values, and +166 Joker Chips, the flush should score about 10,212 and push the current 1,616 past the 11,000 blind target in one hand.

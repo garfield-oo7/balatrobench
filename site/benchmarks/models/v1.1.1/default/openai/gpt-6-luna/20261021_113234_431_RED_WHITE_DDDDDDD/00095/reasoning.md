@@ -1,0 +1,1 @@
+Keep the established Flush engine and preserve the full $26 for maximum interest. Splash adds little to a five-card Flush, and The Duo does not support the primary hand; either would require replacing a useful Joker. The reroll is costly and uncertain, while the Standard Pack is unlikely to improve scoring enough to justify spending. Advance with the current lineup intact.

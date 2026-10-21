@@ -1,0 +1,1 @@
+Play the two pairs of 3s and 2s. Level-2 Two Pair scores 40 base chips plus the ranks, and the two scored 2s add +8 Mult through Even Steven; the Club 2 also activates Ancient Joker’s ×1.5. This is about 825 points, better than a Half Joker pair line, and cycles four cards toward a stronger follow-up while we have ample hands left.

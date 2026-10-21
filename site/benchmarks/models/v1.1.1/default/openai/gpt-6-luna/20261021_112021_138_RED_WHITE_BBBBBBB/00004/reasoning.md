@@ -1,0 +1,1 @@
+A Joker is the most important early-run upgrade, and the Buffoon Pack offers a choice of up to two Jokers for only $4. This is a better investment than the off-strategy Straight Flush Planet or the hand-reducing Hieroglyph; I’ll preserve the remaining cash for a useful Joker or future interest.

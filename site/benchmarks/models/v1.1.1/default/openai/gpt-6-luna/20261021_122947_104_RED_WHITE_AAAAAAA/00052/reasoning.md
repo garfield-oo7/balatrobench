@@ -1,0 +1,1 @@
+Keep the $5 rather than buy the low-value Standard Pack or no-effect Blank voucher. Raised Fist would require replacing a useful Joker in the full lineup and offers only a conditional bonus. Preserve cash for interest and advance with The Chariot available for use during the next playing phase.

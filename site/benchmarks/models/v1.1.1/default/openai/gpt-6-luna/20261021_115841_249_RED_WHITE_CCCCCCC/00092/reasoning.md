@@ -1,0 +1,1 @@
+Skip both packs to grow Red Card by +6 Mult, which directly strengthens every hand and synergizes with the established Flush/Supernova engine. Faceless Joker does not improve scoring and the Joker slots are full; spending on a random pack is less reliable than the guaranteed Mult growth. Keep $38 to preserve maximum interest and advance.

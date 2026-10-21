@@ -1,0 +1,1 @@
+Apply the two Mult enhancements to the clean Ace and 9 of Clubs. The Ace is the strongest current scoring card, and keeping both enhanced cards in the deck gives them added value if they score in pairs or other hands later this blind.

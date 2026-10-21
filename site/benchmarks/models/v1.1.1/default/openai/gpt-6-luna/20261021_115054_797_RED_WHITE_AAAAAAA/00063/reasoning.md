@@ -1,0 +1,1 @@
+Choose Uranus to further scale the established Level 4 Two Pair engine, which activates Mad Joker’s +10 Mult and is already the most-played reliable scoring hand. The permanent +20 chips and +1 Mult improve every future Two Pair; the other planets upgrade hand types with weaker current synergy.

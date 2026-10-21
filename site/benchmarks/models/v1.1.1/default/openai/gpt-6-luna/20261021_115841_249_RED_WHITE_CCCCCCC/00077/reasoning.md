@@ -1,0 +1,1 @@
+Play the guaranteed five-card Diamond Flush (Q♦, J♦, 8♦, 6♦, 5♦). It is the strongest available hand: Flush is level 2, and Red Card adds +3 Mult. Splash also makes all five selected cards score. Keep the King of Spades available for a later hand that can trigger Wrathful Joker.

@@ -1,0 +1,1 @@
+Buy Blue Joker for $5. Its current +104 Chips applies to every hand, giving a substantial reliable boost to the existing Flush scoring engine alongside Crafty, Droll, and Abstract. There is an open Joker slot, so no selling or compromise is needed.

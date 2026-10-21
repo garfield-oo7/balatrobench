@@ -1,0 +1,1 @@
+Play the pair of Aces for a solid Pair score, using the Ten, Three, and Two as unscored cycling cards. Keep the three Clubs (9, 7, 6) together in hand to preserve the best developing flush draw; Two Pair is not currently available to activate Mad Joker.

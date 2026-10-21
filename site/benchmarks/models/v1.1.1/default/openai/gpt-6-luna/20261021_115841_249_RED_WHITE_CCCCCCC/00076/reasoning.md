@@ -1,0 +1,1 @@
+Keep all four Diamonds (Q, J, 8, 5) and use this discard to hunt the fifth Diamond for the level-2 Flush, my best leveled hand. This preserves the strongest scoring route without spending a hand; if the draw misses, I still have two discards and all three hands to pivot to the available scored pair.

@@ -1,0 +1,1 @@
+Play the five Hearts as a Flush. Their base score is approximately (35 chips + 11 + 10 + 8 + 7 + 6) × 4 = 308, enough to clear the remaining 52 points and defeat the blind.

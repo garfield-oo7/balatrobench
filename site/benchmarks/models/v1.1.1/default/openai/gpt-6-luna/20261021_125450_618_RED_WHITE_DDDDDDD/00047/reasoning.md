@@ -1,0 +1,1 @@
+Advance without buying Mercury: the Flush build is already established and Mercury only upgrades the off-strategy Pair hand. At $4, purchasing it would spend scarce cash for little scoring benefit, while Tarot Merchant is unaffordable and rerolling costs $5. Preserve the money and keep the five-joker Flush/economy lineup intact.

@@ -1,0 +1,1 @@
+Take Mercury to upgrade Pair, the run’s most-played hand (13 times). Its +15 chips and +1 Mult strengthen the most reliable compact hand for Half Joker, with Even Steven adding further Mult when the pair is an even rank. This is a more dependable investment than leveling Two Pair or an infrequent Full House.

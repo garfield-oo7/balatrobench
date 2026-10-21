@@ -1,0 +1,1 @@
+The Psychic requires exactly five cards. The two Sixes and two Fours make Two Pair, triggering Jolly Joker (+8 Mult) and Even Steven (+16 Mult from the four scored even cards). The Ace is an unscored fifth card, so this should comfortably exceed the remaining 60 points and clear the 600 target.

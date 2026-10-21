@@ -1,0 +1,1 @@
+Free a slot for the stronger, broadly compatible Smiley Face. Wrathful Joker only adds +3 Mult on Spade flushes, while Smiley adds +5 Mult for every scored face card regardless of suit; that should outperform it across our Level 4 Flush hands. Selling also gives $2 back, keeping cash near the Bootstraps and interest thresholds.

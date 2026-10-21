@@ -1,0 +1,1 @@
+Skip both Arcana packs to gain +6 Mult on Red Card while preserving $22 for interest and future high-impact Joker purchases. The Tower is only a modest chip upgrade, and Superposition is too conditional for a full Joker slot; the current Spade/Flush bonuses remain the stronger scoring plan.

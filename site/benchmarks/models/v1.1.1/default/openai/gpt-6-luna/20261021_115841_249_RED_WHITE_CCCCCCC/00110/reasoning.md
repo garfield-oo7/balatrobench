@@ -1,0 +1,1 @@
+Play the five Diamonds as a Flush, our established Level 4 engine. Flush gets its base 10 Mult, +19 from Supernova and +12 from Bootstraps, with another +4 Mult from the enhanced Ace; the scored cards also benefit from Hiker's accumulated chips. This is the strongest reliable hand available and moves us toward the remaining 4,112 chips needed.

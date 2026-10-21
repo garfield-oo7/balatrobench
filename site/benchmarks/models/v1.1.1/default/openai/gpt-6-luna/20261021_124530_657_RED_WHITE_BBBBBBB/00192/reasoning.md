@@ -1,0 +1,1 @@
+Play the Level 9 Two Pair made from the two 9s and two 6s. Its 10 base Mult combines with Mad Joker (+10) and Mystic Summit (+15), then Ramen doubles the total, giving a powerful score toward the 35,000 target. Include the Bonus 8 as the fifth card to cycle it; the two-pair cards remain the scoring ranks.

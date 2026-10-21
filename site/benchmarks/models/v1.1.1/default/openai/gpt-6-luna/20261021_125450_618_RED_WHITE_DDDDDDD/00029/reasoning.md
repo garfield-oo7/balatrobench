@@ -1,0 +1,1 @@
+Ride the Bus is currently at +0 Mult and competes with Hiker for the final Joker slot. Hiker is a reliable, permanent upgrade to every scored card and will compound rapidly with the five-card Flushes enabled by Crafty and Droll. Keep those Flush bonuses, Odd Todd, and Acrobat's powerful final-hand multiplier; sell the currently inactive Ride the Bus to make room.

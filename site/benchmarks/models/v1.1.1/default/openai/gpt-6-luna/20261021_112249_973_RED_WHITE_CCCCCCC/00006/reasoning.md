@@ -1,0 +1,1 @@
+Take Red Card early for its scalable +Mult potential: future booster packs can be skipped when their contents or cost are not worthwhile, building a permanent scoring bonus. Splash would only add the rank chips of otherwise unscored cards, a comparatively modest benefit without card-trigger synergies.

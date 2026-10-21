@@ -1,0 +1,1 @@
+Play the pair of Sixes with the highest-value available kickers (Ace, Queen, and Ten). Pair is Level 2, and Splash makes all five selected cards contribute to scoring. This should add a substantial score while cycling five cards; with 2 hands remaining and 528 points still needed, preserving a hand for the follow-up is safer than spending a discard.

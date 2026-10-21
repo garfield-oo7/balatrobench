@@ -1,0 +1,1 @@
+Buy Four Fingers for $5 to make the established Level-7 Flush engine much more consistent by allowing four-card Flushes. This directly reinforces Flush, my most-played and highest-leveled hand, unlike Obelisk, which would penalize relying on Flushes.

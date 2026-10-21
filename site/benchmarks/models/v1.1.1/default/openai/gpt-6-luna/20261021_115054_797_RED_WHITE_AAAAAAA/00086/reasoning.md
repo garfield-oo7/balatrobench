@@ -1,0 +1,1 @@
+Free a slot by selling To Do List, the weakest fit for the established Level 6 Two Pair scoring plan. Full House has not been played this run, so its conditional $4 payout is unreliable. Replacing its $2 sell value with Photograph's $2 will keep Swashbuckler at +10 Mult.

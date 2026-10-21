@@ -1,0 +1,1 @@
+Buy the Jumbo Celestial Pack for $6, leaving $3 so Vagabond can generate Tarot cards next round. The permanent Planet upgrade will strengthen a reliably played hand; prioritize Uranus for the already Level 3 Two Pair engine, then Mercury for Jolly Joker/Pair synergy or Earth for Full House if Uranus is unavailable.

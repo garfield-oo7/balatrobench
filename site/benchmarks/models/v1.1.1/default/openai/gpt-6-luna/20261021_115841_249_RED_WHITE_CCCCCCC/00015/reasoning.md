@@ -1,0 +1,1 @@
+Play the five Clubs as a Flush for roughly 296 points, far more than the available pair or trips. This raises the current 56 score to about 352 while using the full hand to cycle five cards; Hearts are debuffed, so exclude the Heart Four.

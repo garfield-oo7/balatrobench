@@ -1,0 +1,1 @@
+Use The Empress now on the Ace of Diamonds and the 5 of Spades. Splash scores every selected card, so both Mult enhancements will contribute even as kickers; the Spade also triggers Wrathful Joker, while the Ace is a high-value flexible card for future hands.

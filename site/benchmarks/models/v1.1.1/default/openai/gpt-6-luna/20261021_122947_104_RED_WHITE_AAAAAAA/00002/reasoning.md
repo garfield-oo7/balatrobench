@@ -1,0 +1,1 @@
+Mad Joker is an efficient early scoring engine: a Two Pair with +10 Mult can clear early blinds in one hand, and its $4 cost leaves enough to open the Buffoon Pack for a second Joker opportunity. Burglar adds hands but does not solve the immediate need for scoring.

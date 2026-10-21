@@ -1,0 +1,1 @@
+Keep the three Diamonds as the flush draw and retain H_Q in hand so its Steel enhancement can provide held-in-hand multiplier when scoring. The Spades are debuffed by The Goad, and the two low Hearts are not supporting a useful hand; discard those four to draw toward the Flush that triggers both Flush Jokers.

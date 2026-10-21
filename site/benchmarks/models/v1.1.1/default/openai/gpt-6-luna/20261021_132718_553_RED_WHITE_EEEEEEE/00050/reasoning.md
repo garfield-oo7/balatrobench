@@ -1,0 +1,1 @@
+Buy the Jumbo Arcana Pack for its broader choice of five Tarots and spend down to $2, keeping Vagabond active for the next blind. This is a better use of money than an off-strategy Flush planet, and the currently open consumable slot can accommodate Vagabond's generated Tarot.

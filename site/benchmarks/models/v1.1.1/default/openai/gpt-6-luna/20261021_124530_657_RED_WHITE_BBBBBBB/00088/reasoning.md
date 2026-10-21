@@ -1,0 +1,1 @@
+Take Uranus to upgrade the run's most frequently used hand, Level 4 Two Pair, which is directly supported by Clever Joker's +80 Chips. Its +20 Chips and +1 Mult improve the established, reliable scoring line; the Flush and High Card planets are less aligned with the current Joker setup.

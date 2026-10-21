@@ -1,0 +1,1 @@
+Play the five-Club Flush to activate the main engine: level-5 Flush plus Crafty’s +80 Chips, Droll’s +10 Mult, and Supernova’s accumulated Mult. Leave the Steel King (index 1) held so its ×1.5 held-in-hand Mult can boost this scoring hand; the Hook only removes two random held cards after scoring. Preserve Acrobat for the final hand of the round.

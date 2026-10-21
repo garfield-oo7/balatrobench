@@ -1,0 +1,1 @@
+Play the existing Two Pair of 3s and 2s for dependable score, triggering Odd Todd on the scored 3s and advancing Ride the Bus because no face card scores. Add the low-value 4 as an unscored fifth card to cycle five cards, while retaining the Ace, 8, and 7 for future options.

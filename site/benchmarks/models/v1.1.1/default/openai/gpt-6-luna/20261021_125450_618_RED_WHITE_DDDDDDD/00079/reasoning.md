@@ -1,0 +1,1 @@
+Pursue the established Flush engine while keeping the Steel C_K in hand to provide its held-card ×1.5 Mult bonus during scoring. Preserve the three Hearts (H_Q, H_7, H_2) and draw four replacements, aiming to find the two additional Hearts needed for a Flush; the discarded cards are off-suit and the Spade is debuffed by The Goad.

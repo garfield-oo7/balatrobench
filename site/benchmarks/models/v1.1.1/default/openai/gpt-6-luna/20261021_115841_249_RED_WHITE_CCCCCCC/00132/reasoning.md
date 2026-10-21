@@ -1,0 +1,1 @@
+Free the slot occupied by Smiley Face, the least essential scorer relative to the dependable +22 Supernova Mult, +22 Bootstraps Mult, accumulated Hiker chips, and potentially powerful Idol multiplier. Popcorn offers a broad +20 Mult boost for the next several rounds; losing the conditional +5 per scored face card is a worthwhile short-term trade at Ante 6.

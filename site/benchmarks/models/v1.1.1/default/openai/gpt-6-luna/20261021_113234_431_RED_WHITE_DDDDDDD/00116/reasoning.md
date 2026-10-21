@@ -1,0 +1,1 @@
+Keep the four Diamonds intact and discard all four off-suit cards to maximize the chance of completing the established Flush strategy. The Flush receives the strongest Joker bonuses, while playing a small pair now would consume a hand and the single remaining discard is the best opportunity to find a fifth Diamond.

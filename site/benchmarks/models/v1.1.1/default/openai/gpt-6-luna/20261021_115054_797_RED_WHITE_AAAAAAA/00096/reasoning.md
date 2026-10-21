@@ -1,0 +1,1 @@
+Play the Kings as a Pair while cycling three low-value cards; keep the Jack, Ten, and Glass Six of Diamonds in hand to preserve a four-diamond flush draw and retain the valuable Glass card. The Pair scores modestly without triggering Mad Joker, but Burglar provides ample hands and this advances the hand while Seltzer retriggers the scored Kings.

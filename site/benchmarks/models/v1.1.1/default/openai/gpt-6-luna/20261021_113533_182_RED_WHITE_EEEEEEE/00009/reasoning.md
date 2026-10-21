@@ -1,0 +1,1 @@
+Buy Jolly Joker for $3. Its +8 Mult on any hand containing a Pair applies to Pair, Two Pair, Full House, and other pair-based hands, which aligns well with the hand types already played; it combines especially well with Even Steven's additive Mult.

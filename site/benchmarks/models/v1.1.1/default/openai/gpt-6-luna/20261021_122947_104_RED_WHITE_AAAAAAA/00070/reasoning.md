@@ -1,0 +1,1 @@
+Play the Level 5 Two Pair made by the sevens and threes; it triggers Mad Joker and gets the additive Mult from Runner and Swashbuckler, comfortably clearing the remaining 1,212 chips. Include the otherwise irrelevant Jack as a fifth card to cycle it without compromising the scoring hand.

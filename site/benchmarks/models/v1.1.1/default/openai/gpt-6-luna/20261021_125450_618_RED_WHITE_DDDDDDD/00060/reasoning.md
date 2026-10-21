@@ -1,0 +1,1 @@
+Keep all four Diamonds, including the two Mult-enhanced cards, and discard the four non-Diamonds to dig for a fifth Diamond. A Diamond Flush is un-debuffed by The Club and activates both Crafty and Droll, making it much stronger than the available Two Pair.

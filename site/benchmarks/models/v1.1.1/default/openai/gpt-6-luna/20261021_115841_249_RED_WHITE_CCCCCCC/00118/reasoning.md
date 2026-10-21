@@ -1,0 +1,1 @@
+Buy Smiley Face for $3: it adds +5 Mult for each scored face card, which naturally supports our established Flush strategy whenever a flush includes Jacks, Queens, or Kings. We have an open Joker slot, and this is a reliable additive boost alongside Supernova and Bootstraps; keeping the spend modest preserves cash and interest.

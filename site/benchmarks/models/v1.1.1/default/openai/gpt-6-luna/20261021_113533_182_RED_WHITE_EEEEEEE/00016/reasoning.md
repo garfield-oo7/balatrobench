@@ -1,0 +1,1 @@
+Take Uranus to level Two Pair, adding +20 chips and +1 Mult to a hand type already played repeatedly this run. Two Pair reliably triggers Jolly Joker's +8 Mult, and it is a more dependable focused upgrade than Flush or Straight Flush.

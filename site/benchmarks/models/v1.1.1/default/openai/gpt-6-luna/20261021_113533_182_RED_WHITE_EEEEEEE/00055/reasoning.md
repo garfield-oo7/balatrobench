@@ -1,0 +1,1 @@
+Play the Level 3 Two Pair (Aces and Sevens) and include the 2 as the fifth card. Splash scores all five cards, and the even 2 adds +4 Mult from Even Steven; Jolly Joker adds +8 and Supernova adds +6 for the six prior Two Pair plays. This is the strongest available scoring hand under Flint, and at $2 Vagabond will also generate a Tarot.

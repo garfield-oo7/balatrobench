@@ -1,0 +1,1 @@
+Dig toward a third 3 for a Three of a Kind that activates Zany Joker, while keeping both 3s and the non-debuffed 7 as a backup pair structure. The off-rank face/ten, 4, debuffed diamond 7, and debuffed 2 are the least useful cards; the debuffed 7 is not worth preserving just to represent a pair.

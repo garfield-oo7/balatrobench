@@ -1,0 +1,1 @@
+Sell The Tower for $1: Stone is less useful to this scoring engine than Justice's Glass enhancement, and freeing a consumable slot is important because both slots are currently occupied, preventing Vagabond from generating Tarots. This raises cash to $5, allowing the $4 Celestial Pack while preserving one open slot for next round.

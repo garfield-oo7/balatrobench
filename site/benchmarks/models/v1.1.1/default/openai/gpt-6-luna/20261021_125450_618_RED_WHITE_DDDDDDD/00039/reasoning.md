@@ -1,0 +1,1 @@
+Keep the reliable Flush engine intact and save toward the $25 interest threshold. Fortune Teller is only +1 Mult and would require selling a stronger existing Joker for a full-slot swap; the Standard Packs add random deck cards without guaranteed synergy, while a $5 reroll is too costly with no urgent scoring gap. Advance with $9 and preserve the current lineup.

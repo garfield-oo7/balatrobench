@@ -1,0 +1,10 @@
+[
+  {
+    "id": "call_BiSxoQ34diV3T5evZBPPln2B",
+    "function": {
+      "arguments": "{\"consumable\": 1}",
+      "name": "use"
+    },
+    "type": "function"
+  }
+]

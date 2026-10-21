@@ -1,0 +1,1 @@
+Enhance the 3 of Spades into Steel, then keep it in hand as the lowest card for Raised Fist's +6 Mult and the Steel card's held-in-hand ×1.5 Mult. This is an ideal target because it supports the compact-hand scoring engine without sacrificing a scoring card.

@@ -1,0 +1,1 @@
+Buy Raised Fist for $5 as a reliable scoring boost that complements the current Three of a Kind plan: it adds Mult from the lowest-ranked card held, while Zany Joker supplies +12 Mult on trips. Smeared Joker is stronger for a dedicated flush deck but costs more than our cash, and the Standard Packs add less dependable value than a scoring Joker.

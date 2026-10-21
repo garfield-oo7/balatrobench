@@ -1,0 +1,1 @@
+Buy Half Joker for $5 while the fifth Joker slot is open. Its +20 Mult applies to one-card High Card and Pair hands, which complement the Mad Joker’s Two Pair bonus and provide a reliable scoring route when Two Pair is unavailable. The Buffoon Pack is more random; the guaranteed scoring Joker is the better investment, leaving $3.

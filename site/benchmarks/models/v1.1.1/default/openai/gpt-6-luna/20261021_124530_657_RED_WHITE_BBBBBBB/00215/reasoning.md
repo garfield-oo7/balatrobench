@@ -1,0 +1,1 @@
+The Mouth locks the round to High Card, so avoid the Ace and the second King to prevent a Pair and use one King as the scoring high card. This triggers Photograph on the scored face card; the Stone card also contributes its chips, while playing five cards cycles the maximum number without changing the hand type. Mystic Summit remains active because discards are unavailable.

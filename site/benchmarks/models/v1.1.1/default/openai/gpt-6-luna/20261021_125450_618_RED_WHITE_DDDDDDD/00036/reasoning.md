@@ -1,0 +1,1 @@
+Play the five Spades as a Flush. Crafty Joker adds +80 Chips and Droll Joker adds +10 Mult; Odd Todd adds +31 Chips for the scored 9 and 3, and Hiker adds its accumulated card-chip bonuses. Since this is the final hand, Acrobat multiplies Mult by ×3. This flush should comfortably exceed the 1,264 points still needed to clear the boss blind.

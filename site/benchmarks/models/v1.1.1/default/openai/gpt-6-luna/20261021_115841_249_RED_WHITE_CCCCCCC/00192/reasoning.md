@@ -1,0 +1,1 @@
+Keep the four Spades, including the three Aces, and use the final discard on the Heart Ace and Club 8 to draw two cards toward the established Level-6 Flush engine. One Spade completes a Flush, which benefits from Droll Joker, Bootstraps, and Supernova; playing the Ace trips now would consume key suited cards and score less.

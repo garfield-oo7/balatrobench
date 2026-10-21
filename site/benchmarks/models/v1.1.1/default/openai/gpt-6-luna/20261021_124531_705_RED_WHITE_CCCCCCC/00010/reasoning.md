@@ -1,0 +1,1 @@
+Keep both existing pairs (the 3s and 2s) and discard the four unrelated cards to draw toward a full house or four of a kind. With two hands left, this is a worthwhile upgrade attempt; if the draw misses, I can still play the two pair using Splash and score every played card.

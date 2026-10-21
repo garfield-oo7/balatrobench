@@ -1,0 +1,1 @@
+The shop has no Jokers or useful consumables, and the only pack adds a random playing card without reliably strengthening our Two Pair/Three of a Kind scoring engine. Reroll Surplus costs $7 and only saves $2 per future reroll, so it is poor value unless we plan to reroll repeatedly. Preserve the $18 reserve toward the $25 interest threshold and advance.

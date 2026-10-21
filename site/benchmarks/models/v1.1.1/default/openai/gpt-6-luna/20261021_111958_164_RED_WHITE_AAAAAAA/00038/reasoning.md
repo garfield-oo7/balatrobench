@@ -1,0 +1,1 @@
+Play the Ace with both face-down cards to keep the reliable three-card High Card baseline (Half Joker’s +20 Mult, roughly 336 chips) while giving the hidden cards a chance to form a pair or trips and trigger stronger Joker bonuses. This preserves Q-J for later and cycles the unknown cards.

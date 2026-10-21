@@ -1,0 +1,1 @@
+With only $1, every shop item is unaffordable, and rerolling costs $5. 8 Ball is also a conditional economy joker that would require freeing a slot and seeing many 8s, so selling an established scoring joker for it is not worthwhile. Keep the current scoring lineup and advance.

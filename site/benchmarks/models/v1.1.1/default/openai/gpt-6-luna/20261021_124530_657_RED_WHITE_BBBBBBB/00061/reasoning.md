@@ -1,0 +1,1 @@
+Keep the pair of Tens as the best route to Three of a Kind for Zany Joker, plus the Ace. Discard the off-rank cards, including the Purple Seal Nine, to draw five replacements and generate a Tarot while improving the chance of finding another Ten or a useful second pair.

@@ -1,0 +1,1 @@
+Play a Level 5 Two Pair using two 8s and the two 3s, with the Queen as an unscored fifth card to cycle an extra card. Avoid the third 8, which would turn the hand into a Full House and lose Clever Joker's +80 Chips. Mystic Summit is active with zero discards; this should score about 4,242 before any extra effects, a strong first chunk toward the 10,000 target.

@@ -1,0 +1,1 @@
+Free the slot by selling Scary Face, the least consistent of the current scoring Jokers: the Flush engine benefits more from Odd Todd's frequent odd-rank chips and Crafty/Droll's direct Flush bonuses. This yields $2 and leaves room for Hiker, an early scaling Joker that permanently adds chips to every card scored.

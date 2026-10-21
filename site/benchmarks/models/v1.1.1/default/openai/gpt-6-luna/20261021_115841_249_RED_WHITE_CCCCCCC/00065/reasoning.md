@@ -1,0 +1,1 @@
+Build toward a strong Straight using the retained 6♠, 7♣, 9♦, 10♣, and J♦: an 8 completes either 6–10 or 7–J, and the 6♠ adds Wrathful Joker Mult when scored. Discard the off-plan Ace, 5, and 2 to draw three replacements while preserving the useful sequence pieces.

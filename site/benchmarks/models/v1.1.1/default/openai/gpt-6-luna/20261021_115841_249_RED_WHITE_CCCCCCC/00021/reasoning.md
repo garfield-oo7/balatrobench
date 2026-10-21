@@ -1,0 +1,1 @@
+Buy Delayed Gratification for $4 as a low-risk economy investment: by avoiding discards and cycling cards through scored hands, it can pay $6 at round end, offsetting its cost and improving future shop funds. The existing Red Card and Wrathful Joker already provide the scoring engine, so the unaffordable pack and voucher can be skipped.

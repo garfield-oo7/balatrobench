@@ -1,0 +1,1 @@
+Play the five Diamonds as a Flush, the strongest available hand by far (about 324 base score versus roughly 120 for Two Pair). It also scores the Purple-Seal 9, potentially generating a Tarot. The Hook may discard two of the remaining held cards, but taking the strong immediate score is worth it with four hands available.

@@ -1,0 +1,1 @@
+Play the five Diamonds D_K, D_J, D_8, D_5, and D_3 as a Level 2 Flush. This activates Crafty (+80 Chips) and Droll (+10 Mult), while Odd Todd adds +31 Chips for each scored odd-rank 5 and 3. The resulting roughly 3,600 score should clear the 3,000 target in one hand, preserving the remaining hands for economy.

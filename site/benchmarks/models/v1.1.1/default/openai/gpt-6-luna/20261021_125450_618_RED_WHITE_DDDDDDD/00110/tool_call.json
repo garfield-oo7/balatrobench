@@ -1,0 +1,10 @@
+[
+  {
+    "id": "call_hfBjHhlHi70AlSmWF3i9brUw",
+    "function": {
+      "arguments": "{\"voucher\": 0}",
+      "name": "buy"
+    },
+    "type": "function"
+  }
+]

@@ -1,0 +1,1 @@
+The current Joker is non-scoring economy and the Arcana packs are uncertain, while the Flush engine is already dependable. Reroll once for a chance at a meaningful scoring Joker or useful consumable; the $5 cost leaves $23, still preserving most of the interest payout.

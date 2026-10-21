@@ -1,0 +1,40 @@
+# Memory & Previous Actions
+
+
+## Recent Decision History
+
+Here is a list of your recent decisions (from oldest to newest):
+
+
+**1.** `play({'cards': [1, 2, 6, 7, 0], 'reasoning': 'Play the Queens and sixes as Two Pair, triggering Mad Joker’s +10 Mult; the scored Club Queen also activates Ancient Joker’s current ×1.5 Mult, and Runner’s Holographic edition adds +10 Mult. This should comfortably clear the remaining 280 chips. Include the King as an unscored fifth card to cycle it without changing the scoring hand.'})` - 
+
+**2.** `buy({'pack': 0, 'reasoning': "Buy the Mega Celestial Pack to immediately level up two poker hands and improve the scoring engine without disturbing the full, functional Joker lineup. Two Pair, Pair, and High Card are frequent fallback/primary hands, while Flush and Straight are already Level 2, so the pack's two picks should give useful scaling. Spending $8 leaves $8, retaining some cash and interest potential; the weaker Raised Fist is not worth selling a Joker slot for."})` - 
+
+**3.** `pack({'card': 4, 'reasoning': 'Take Uranus to level up Two Pair, a hand we have already played repeatedly and that activates Mad Joker’s +10 Mult. The upgrade adds +20 Chips and +1 base Mult, improving our most synergistic hand type; the other options either support less consistently used hands or offer smaller gains.'})` - 
+
+**4.** `pack({'card': 3, 'reasoning': 'Take Mercury to level up Pair, a frequently used hand (played four times) that also reliably qualifies for Half Joker when kept to three or fewer cards. The +15 chips and +1 base Mult materially improve that fallback scoring hand; Two Pair is already the primary Mad Joker synergy and has been leveled to Level 3, while the other offered hands have seen no use.'})` - 
+
+**5.** `buy({'card': 1, 'reasoning': 'Buy The Chariot for $3 and keep it for the next playing phase, where I can apply Steel to a useful high-rank card. A held Steel card adds a 1.5× multiplier without taking a Joker slot or disrupting the established Two Pair, short-hand, and extra-hands synergies. Skip the Standard Pack, which dilutes the deck, and preserve the remaining $5 rather than rerolling or buying a no-effect voucher.'})` - 
+
+**6.** `next_round({'reasoning': 'Keep the $5 rather than buy the low-value Standard Pack or no-effect Blank voucher. Raised Fist would require replacing a useful Joker in the full lineup and offers only a conditional bonus. Preserve cash for interest and advance with The Chariot available for use during the next playing phase.'})` - 
+
+**7.** `use({'consumable': 0, 'cards': [0], 'reasoning': "Apply Steel to the Bonus Ace, which can stay held while I play the three Tens. The Arm reduces the played hand's level, but Three of a Kind still scores substantially; keeping this high-value card in hand lets Steel multiply the hand's Mult."})` - 
+
+**8.** `play({'cards': [2, 3, 4], 'reasoning': 'Play the three Tens as Three of a Kind using only three cards to activate Half Joker’s +20 Mult. This hand is not a Straight, so Runner gives only its Holographic +10 Mult, but the Steel Ace remains held to multiply the hand’s Mult by 1.5. The Arm reduces the hand level, yet this is still the strongest immediate scoring play; preserve the other cards for follow-up.'})` - 
+
+**9.** `play({'cards': [0, 1, 5], 'reasoning': "Play the pair of Aces and include the Five as an unscored third card to cycle it while keeping Half Joker active (three cards or fewer). The Arm lowers Pair from Level 2 to Level 1, but the Aces still give strong rank chips; Runner’s Holographic edition adds +10 Mult, and Ancient Joker may multiply the Club Ace if Clubs is its current suit. Keep the Steel Ace in play? It is one of the scoring Aces, so its held-in-hand Steel effect won't apply this hand; the pair is still the strongest reliable hand and leaves the spade cards together for possible flush follow-up."})` - 
+
+**10.** `play({'cards': [1, 2, 3, 4, 6], 'reasoning': 'Play the five Spades as a Level 2 Flush. The Arm drops it one level to the Level 1 base of 35 chips and 4 Mult; the scored cards add 33 chips, and Runner’s Holographic edition adds +10 Mult. That yields about 68 × 14 = 952 chips, enough to cover the 906-point deficit and clear the blind in one hand.'})` - 
+
+
+
+## Strategic Context
+
+Based on your recent actions, consider:
+- How your decisions are building towards a cohesive strategy
+- Whether your current approach is working or needs adjustment
+- Patterns in your play that might need to change
+
+
+
+

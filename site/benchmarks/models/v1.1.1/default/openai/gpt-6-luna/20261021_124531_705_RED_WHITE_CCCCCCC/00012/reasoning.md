@@ -1,0 +1,1 @@
+Play the pair of 3s with the Ace, Queen, and Jack as the three extra cards. Splash makes all five played cards score, so this yields more card chips than the two-pair option while using a strong available scoring hand. It should add roughly 94 chips, leaving one hand to make up the remainder.

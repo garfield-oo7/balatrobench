@@ -1,0 +1,1 @@
+Open the low-cost Celestial Pack: Two Pair is already level 4, frequently played, and directly supported by Clever Joker, so a relevant Planet upgrade offers strong, reliable scoring. The $3 spend keeps cash comfortably above the $25 interest threshold; the full Joker slots make the offered Jokers poor replacement candidates.

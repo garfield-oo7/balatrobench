@@ -1,0 +1,1 @@
+The $2 balance cannot afford any useful shop item, and selling one of the current scoring Jokers to scrape together $5 for the unreliable 8 Ball would weaken the established Flush engine. Keep the Jokers and remaining money, then advance.

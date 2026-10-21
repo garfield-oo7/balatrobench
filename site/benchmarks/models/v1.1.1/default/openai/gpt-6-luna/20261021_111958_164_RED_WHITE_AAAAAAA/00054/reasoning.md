@@ -1,0 +1,1 @@
+Play the Ten pair with the 4 as an unscored third card. This activates Half Joker (+20 Mult) and Even Steven (+4 Mult for each scored Ten), yielding about 30 chips × 30 Mult = 900 before any Ancient Joker trigger. It beats the Kings pair under the current bonuses and cycles three cards despite having no discards.

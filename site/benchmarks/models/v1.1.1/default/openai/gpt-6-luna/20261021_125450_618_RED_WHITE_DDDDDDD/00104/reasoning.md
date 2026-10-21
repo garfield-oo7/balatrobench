@@ -1,0 +1,1 @@
+Pursue the Flush engine: keep both Spades and one non-Heart card, and discard five off-suit cards to maximize the chance of drawing three more of one non-debuffed suit. The Hearts are debuffed by The Head, and a Flush activates both Crafty and Droll; retaining C_8 leaves a useful scoring fallback if the draw does not complete a Flush.

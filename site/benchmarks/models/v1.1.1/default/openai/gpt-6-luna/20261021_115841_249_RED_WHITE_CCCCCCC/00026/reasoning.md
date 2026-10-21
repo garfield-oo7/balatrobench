@@ -1,0 +1,1 @@
+Leave both booster packs unopened to trigger Red Card's scaling rather than spend $4 on a random Planet or Tarot with uncertain benefit. The +Mult applies to every scoring hand and complements Wrathful Joker's Spade bonuses, while retaining $8 preserves money for future interest and a stronger scoring Joker.

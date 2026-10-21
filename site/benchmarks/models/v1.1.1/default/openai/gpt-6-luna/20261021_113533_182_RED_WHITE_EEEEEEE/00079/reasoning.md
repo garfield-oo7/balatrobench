@@ -1,0 +1,1 @@
+Take Mercury to level up Pair, the most relevant supported hand type here: Pair is already Level 2, has been played 8 times, and is boosted by Jolly Joker, Supernova, and the run's no-face scoring plan. The bonus improves the reliable Pair fallback while the other planets upgrade currently unsupported hands.

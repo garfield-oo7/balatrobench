@@ -1,0 +1,1 @@
+The Mouth has already locked this blind to High Card, so avoid playing both Aces (which would make a Pair). Play the Spade Ace with four different ranks to retain High Card and maximize cycling. No face card is available to trigger Photograph, but the Ace is the strongest scoring card and Mystic Summit, Fortune Teller, and Ramen still provide the main Mult boost.

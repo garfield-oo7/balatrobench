@@ -1,0 +1,1 @@
+Buy Scary Face for a cheap early scoring boost. Its +30 chips applies when face cards are scored, which complements Mad Joker's large +10 Mult on Two Pair; the two pair level-up and Burglar's extra hands already give this run a dependable scoring route. The Star and Standard Pack do not meaningfully advance that plan, and I can save the remaining dollar.

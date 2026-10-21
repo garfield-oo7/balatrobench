@@ -1,0 +1,1 @@
+Keep all three Spades to pursue the established Flush engine, which activates Crafty (+80 Chips) and Droll (+10 Mult). Discard the five off-suit cards to maximize the chance of drawing two more Spades; the enhanced Queen and pair are less valuable than setting up a Flush.

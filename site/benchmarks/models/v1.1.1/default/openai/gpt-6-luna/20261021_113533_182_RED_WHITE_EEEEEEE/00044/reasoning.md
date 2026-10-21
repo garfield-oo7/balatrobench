@@ -1,0 +1,1 @@
+Enhance one of the 4s into Glass, then score it in the reliable pair of 4s. This adds a ×2 Mult trigger to the pair while retaining the even-rank Joker bonus; the remaining consumable space and $4 balance keep Vagabond active.

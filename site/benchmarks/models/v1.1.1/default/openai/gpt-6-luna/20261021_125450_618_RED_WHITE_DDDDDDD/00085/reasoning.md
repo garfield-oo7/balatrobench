@@ -1,0 +1,1 @@
+Flush remains the main scoring engine, but none of these planets levels Flush. Take Venus as a useful fallback upgrade: Three of a Kind is a more attainable strong hand than Four of a Kind, and the +2 Mult/+20 Chips improve it if a flush is unavailable or a blind forces a different line. Pluto's High Card upgrade is too weak to justify over this.

@@ -1,0 +1,1 @@
+Use the last discard to dig for a stronger scoring hand while preserving the two nines as a pair structure and the 2 to keep Raised Fist's held-card bonus low. The debuffed queen, jack, six, four, and three are the weakest cards; Mystic Summit is already active with zero discards remaining, so there is no need to save this discard for that bonus.

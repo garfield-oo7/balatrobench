@@ -1,0 +1,1 @@
+Keep the four Diamonds (A♦, 9♦, 8♦, 4♦) intact and discard the four off-suit cards to dig for a fifth Diamond. A level-3 Flush boosted by Supernova (+13 Mult), Red Card, the Ace's Mult enhancement, and Splash is far more valuable than cashing in Two Pair now; drawing four cards also gives a strong chance to complete it.

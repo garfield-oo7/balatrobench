@@ -1,0 +1,1 @@
+Play the Level 4 Two Pair using the Fours and Twos, with the Six as an unscored fifth card to cycle an extra card. This activates Jolly Joker, the current Two Pair Supernova bonus, and Even Steven on all four scoring even cards. Keeping the Steel King in hand provides its held-in-hand ×1.5 Mult, and the alternative Kings-and-Fours pair sacrifices too much Even Steven Mult.

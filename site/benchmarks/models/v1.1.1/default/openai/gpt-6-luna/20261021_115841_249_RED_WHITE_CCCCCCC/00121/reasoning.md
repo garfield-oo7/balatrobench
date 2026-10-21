@@ -1,0 +1,1 @@
+Open the $3 Arcana Pack while both consumable slots are empty. It offers a chance at a useful Tarot to enhance or thin the deck, and spending from $43 to $40 preserves Bootstraps' current +16 Mult tier. Onyx Agate is too suit-specific to justify selling one of the established scoring Jokers, and a $5 reroll is less attractive than a guaranteed Tarot choice.

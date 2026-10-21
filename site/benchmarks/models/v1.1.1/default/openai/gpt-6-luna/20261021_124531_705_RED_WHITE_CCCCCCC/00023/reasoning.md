@@ -1,0 +1,1 @@
+Choose Mercury to level up Pair, our established and most-played hand type. Pair has already been played six times and is the reliable hand we are building around; its +15 chips and +1 Mult improve every future Pair, while Mars and Earth support hand types we are not pursuing.

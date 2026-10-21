@@ -1,0 +1,1 @@
+Play the three 4s for a guaranteed Three of a Kind, the strongest current hand. Include two non-scoring spades to cycle five cards while keeping the pair of 3s and the 7 in hand; this should add substantial score toward the 300 target and improve the next draw.

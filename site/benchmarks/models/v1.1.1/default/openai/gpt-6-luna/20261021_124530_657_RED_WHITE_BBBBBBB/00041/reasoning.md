@@ -1,0 +1,1 @@
+No scoring combination is available, and a weak high-card hand would not materially advance the 1,472 points still needed. Keep all four Diamonds (J, 6, 3, 2) to chase a flush with a four-card redraw; retaining the Two also gives Raised Fist a low held card on the eventual play. Discard the Purple-Seal Ten to generate a Tarot if possible, along with the off-suit cards.

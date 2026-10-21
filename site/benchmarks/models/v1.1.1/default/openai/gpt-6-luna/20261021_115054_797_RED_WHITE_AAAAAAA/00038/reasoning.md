@@ -1,0 +1,1 @@
+Choose The Hierophant and enhance the 8♣ and 6♣. These are even-rank cards, so when scored they provide both the Bonus enhancement's +30 chips and Even Steven's +4 Mult each. That is a dependable upgrade for the existing Two Pair/compact-hand scoring engine; the suit-conversion Tarot cards offer less synergy, and Judgement cannot create a Joker while all five slots are occupied.

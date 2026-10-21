@@ -1,0 +1,1 @@
+Choose The Star and convert the three Hearts (K, T, 8) to Diamonds. This strengthens the deck’s Flush plan, which is supported by both Crafty Joker (+80 Chips) and Droll Joker (+10 Mult), and makes these high-rank cards contribute to a more concentrated suit.

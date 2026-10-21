@@ -1,0 +1,1 @@
+Play the level-3 Two Pair using the non-debuffed 9s and 7s, triggering Clever Joker for +80 chips. The extra 3 cycles out without affecting the scoring hand, while keeping the other 3 in hand lets Raised Fist add +6 Mult. This is stronger than the available debuffed-9 trips line and draws five replacements toward the 4,000 target.

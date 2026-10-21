@@ -1,0 +1,1 @@
+Buy Splash for $3. It gives an immediate scoring boost by making all cards in the played hand score, letting extra cards contribute rank chips and trigger Even Steven on even ranks while strengthening our Two Pair plays. Spending to $0 also keeps Vagabond active next blind, and we have one open Joker slot.

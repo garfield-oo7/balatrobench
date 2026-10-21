@@ -1,0 +1,1 @@
+Discard the two face cards so Ride the Bus can keep its +5 Mult, and cycle the unmatched 9/7/6 while preserving the even 4 and 2 as pair targets for Even Steven. Keep the Steel King in hand for its held-in-hand multiplier. With $3, any hand we later play also keeps Vagabond active.

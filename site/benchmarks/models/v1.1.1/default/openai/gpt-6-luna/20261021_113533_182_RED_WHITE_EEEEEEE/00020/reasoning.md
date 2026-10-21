@@ -1,0 +1,1 @@
+Nothing in the shop is affordable: The Tower costs $3, the Standard Pack $4, Hieroglyph $10, and rerolling $5. Keep both scoring Jokers—Jolly Joker supports the well-leveled Two Pair plan, while Even Steven adds Mult on even cards—and advance without spending.

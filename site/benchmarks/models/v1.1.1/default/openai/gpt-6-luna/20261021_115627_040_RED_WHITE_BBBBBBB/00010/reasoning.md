@@ -1,0 +1,1 @@
+Play Jacks and Twos as Two Pair for the strongest immediate score; include the expendable 7♣ as the fifth card to cycle it, while retaining the Ace, Ten, and Six for the next draw.

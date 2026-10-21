@@ -1,0 +1,1 @@
+Choose The Star and convert the King, Ten, and Eight of Hearts to Diamonds. Together with the existing 6 and 3 of Diamonds, this immediately creates a five-card Diamond Flush in hand, activating both Crafty Joker's +80 Chips and Droll Joker's +10 Mult; it also improves the deck's future flush consistency.

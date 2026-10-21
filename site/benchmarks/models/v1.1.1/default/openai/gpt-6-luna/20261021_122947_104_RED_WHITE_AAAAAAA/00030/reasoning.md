@@ -1,0 +1,1 @@
+Use Saturn to permanently strengthen Straight with +30 chips and +3 Mult. This also advances Runner's straight-based chip scaling and gives us a stronger alternate hand without spending money.

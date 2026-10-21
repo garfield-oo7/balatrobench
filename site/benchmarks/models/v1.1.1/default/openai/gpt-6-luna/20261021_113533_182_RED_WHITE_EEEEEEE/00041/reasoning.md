@@ -1,0 +1,1 @@
+Take Mercury. Pair is an easy, consistent hand that activates Jolly Joker, and its prior plays already give Supernova a useful additive bonus; leveling it adds +15 chips and +1 Mult permanently. Two Pair is currently the strongest established hand, but it is not offered here, while Four of a Kind is too unreliable to justify Mars and High Card is weak.

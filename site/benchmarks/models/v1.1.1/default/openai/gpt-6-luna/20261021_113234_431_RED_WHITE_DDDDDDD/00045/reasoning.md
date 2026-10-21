@@ -1,0 +1,1 @@
+Keep the four Diamonds (D_K, D_6, D_5, D_3) and discard the four off-suit cards to draw toward a Flush. Flush is the established engine, activating Crafty and Droll, and a fifth Diamond gives a high-scoring hand while preserving all four discards for later.

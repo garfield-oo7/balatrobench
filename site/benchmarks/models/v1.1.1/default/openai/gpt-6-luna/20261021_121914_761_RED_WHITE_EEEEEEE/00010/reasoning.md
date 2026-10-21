@@ -1,0 +1,1 @@
+Buy the Celestial Pack for a guaranteed immediate hand-level upgrade, which compounds with the reliable Pair-triggered Jolly Joker and the even-card support from Even Steven. The Hallucination would require spending on future packs before it contributes, while the Standard Pack adds only one random deck card; a Planet upgrade is the stronger use of this $7 early.

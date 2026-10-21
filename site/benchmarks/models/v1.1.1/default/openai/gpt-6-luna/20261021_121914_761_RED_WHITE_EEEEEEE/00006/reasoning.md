@@ -1,0 +1,1 @@
+Buy Even Steven as an early, reliable scoring Joker. Its +4 Mult triggers on every scored even-rank card, supporting pairs, two pairs, and flushes without requiring a specific hand type. To Do List offers short-term cash only if its changing target is met, while early scoring power is more important for clearing the upcoming blinds.

@@ -1,0 +1,1 @@
+Buy Mars for $3 as a permanent upgrade while the $4 Arcana Pack remains available to skip. Four of a Kind is not our primary hand, but +30 chips and +3 Mult substantially improves that high-value fallback; skipping the pack afterward should also trigger Red Card's +3 Mult growth without spending more cash.

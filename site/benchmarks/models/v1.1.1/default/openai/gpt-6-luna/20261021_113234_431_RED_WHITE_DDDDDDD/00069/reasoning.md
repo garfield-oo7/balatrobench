@@ -1,0 +1,1 @@
+Keep the three Diamonds (D_T, D_8, D_4) to pursue the established Flush engine, which activates both Flush Jokers and benefits from the level-3 Flush upgrade. Discard the five off-suit cards to maximize the chance of drawing at least two more Diamonds; a Flush has far higher scoring potential than spending a hand on the available Three of a Kind.

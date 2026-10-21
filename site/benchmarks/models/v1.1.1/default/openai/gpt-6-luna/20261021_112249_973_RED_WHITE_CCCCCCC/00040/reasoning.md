@@ -1,0 +1,1 @@
+Keep the five Diamonds to guarantee a Flush remains available, and discard the three off-suit cards to draw toward the missing 6 of Diamonds, which could form a Straight Flush from 5 through 9. This costs no hand and retains the reliable flush fallback; Delayed Gratification is already forfeited by the discard used earlier this round.

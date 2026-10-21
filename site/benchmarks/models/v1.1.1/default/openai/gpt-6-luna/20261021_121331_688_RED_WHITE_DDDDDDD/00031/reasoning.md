@@ -1,0 +1,1 @@
+Keep the $6 rather than spend it on an uncertain Arcana pack. The five-Joker lineup is already coherent and flush-focused, with Hiker scaling the cards that score; the unaffordable Hologram also has little value without adding playing cards. Saving preserves interest and builds toward a more decisive purchase in the next shop.

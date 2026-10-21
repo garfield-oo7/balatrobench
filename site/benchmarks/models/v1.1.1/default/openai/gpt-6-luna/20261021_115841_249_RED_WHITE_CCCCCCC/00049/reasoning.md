@@ -1,0 +1,1 @@
+Free a slot for the very cheap Splash. Delayed Gratification has only paid when I finish a round without discards, whereas I have repeatedly used discards to find high-scoring Flushes; its opportunity cost is lower than giving up the Spade scoring, Two Pair income, Red Card growth, or The Idol.

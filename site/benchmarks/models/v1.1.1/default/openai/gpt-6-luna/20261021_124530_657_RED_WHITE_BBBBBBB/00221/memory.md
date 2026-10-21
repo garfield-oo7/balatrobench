@@ -1,0 +1,40 @@
+# Memory & Previous Actions
+
+
+## Recent Decision History
+
+Here is a list of your recent decisions (from oldest to newest):
+
+
+**1.** `buy({'card': 1, 'reasoning': 'Mercury is a cheap incremental upgrade that preserves the $25 interest threshold: spending $1 leaves $28. Pair is a useful fallback when Two Pair cannot be assembled, and leveling it improves its base chips and Mult without sacrificing any core Joker.'})` - 
+
+**2.** `use({'consumable': 1, 'reasoning': 'Use Mercury for a permanent Pair upgrade: Pair is a useful fallback if the dominant Level 10 Two Pair cannot be made, and there is no Observatory voucher that rewards holding planets. This improves the fallback while freeing a consumable slot; Mars would only upgrade an unused Four of a Kind.'})` - 
+
+**3.** `next_round({'reasoning': 'The only shop card is Judgement, but all five Joker slots are occupied by important parts of the established Two Pair scoring engine and Burglar/Mystic Summit hand synergy. Making room would require selling a core Joker, while rerolling for an uncertain replacement is poor value this late. Preserve $28 for maximum interest and Ante 8 flexibility, and keep Mars as a possible fallback upgrade rather than spending on an unused Four of a Kind now.'})` - 
+
+**4.** `play({'cards': [1, 3, 4, 5, 6], 'reasoning': "The Mouth locks this round to one poker hand type, and High Card is the best scalable option available in the current hand: play the Mult-enhanced Jack as the scoring high card while leaving the King out. This triggers its +4 Mult and Photograph's face-card ×2, alongside Mystic Summit (+15), Fortune Teller (+16), and Ramen ×2. Include four low non-face cards to cycle them while keeping the King and Ten in hand for possible later High Card plays."})` - 
+
+**5.** `play({'cards': [1, 3, 4, 5, 7], 'reasoning': 'The Mouth locks the round to High Card, so avoid the Ace and the second King to prevent a Pair and use one King as the scoring high card. This triggers Photograph on the scored face card; the Stone card also contributes its chips, while playing five cards cycles the maximum number without changing the hand type. Mystic Summit remains active because discards are unavailable.'})` - 
+
+**6.** `play({'cards': [1, 2, 3, 4, 5], 'reasoning': 'The Mouth restricts the round to the already-established High Card hand type, so keep the Ace and duplicate 2 out to avoid making a stronger hand type. The King remains the highest card and is a face card, activating Photograph; Mystic Summit, Fortune Teller, and Ramen add the strong Mult stack. Playing five cards maximizes cycling, and the purple-sealed Ten will generate a Tarot when discarded if there is consumable space.'})` - 
+
+**7.** `play({'cards': [2, 3, 5, 6], 'reasoning': "The Mouth permits only the hand type already established this round, High Card. Play four distinct ranks without either Ace so the Jack remains the high card and scores Photograph's ×2; Mystic Summit and Fortune Teller add +31 Mult, then Photograph and Ramen multiply it. A fifth card would force a duplicate rank or add an Ace, either making a Pair or displacing the Jack as the high card and losing Photograph."})` - 
+
+**8.** `play({'cards': [0, 2, 3, 4, 5], 'reasoning': 'The Mouth has already locked this blind to High Card, so avoid playing both Aces (which would make a Pair). Play the Spade Ace with four different ranks to retain High Card and maximize cycling. No face card is available to trigger Photograph, but the Ace is the strongest scoring card and Mystic Summit, Fortune Teller, and Ramen still provide the main Mult boost.'})` - 
+
+**9.** `play({'cards': [0, 1, 2, 5, 6], 'reasoning': "The Mouth has locked this blind to High Card, so avoid both sevens and play five distinct ranks with the Ace as the scoring high card. This maximizes the current hand's score from the +15 Mystic Summit, +16 Fortune Teller, and Ramen ×2 stack while cycling five cards for a chance at a face card that can trigger Photograph on a later hand."})` - 
+
+**10.** `play({'cards': [0, 1, 4, 5, 6], 'reasoning': 'The Mouth has locked the blind to High Card, so keep the duplicated sevens out and play five distinct ranks. The Queen remains the high card and is a face card with a Red Seal; placing it first maximizes the chance to trigger Photograph on its scoring and retrigger, while Mystic Summit (+15), Fortune Teller (+16), and Ramen ×2 provide the main mult stack. Playing five also cycles the maximum cards.'})` - 
+
+
+
+## Strategic Context
+
+Based on your recent actions, consider:
+- How your decisions are building towards a cohesive strategy
+- Whether your current approach is working or needs adjustment
+- Patterns in your play that might need to change
+
+
+
+

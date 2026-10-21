@@ -1,0 +1,1 @@
+Keep the three Hearts (including the Ace) as the core of the established Flush strategy, and discard all three off-suit cards to maximize the chance of drawing two more Hearts for a Level-7 Flush. A weak high-card play would waste a hand and contribute little toward the remaining 32,580 points.

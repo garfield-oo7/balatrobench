@@ -1,0 +1,1 @@
+Keep the four Clubs (A, Q, J, 9) and discard all four off-suit cards to hunt the fifth Club for a Flush. Flush is level 3 and currently gets +3 Mult from Red Card plus +12 from Supernova, so completing it is far stronger than immediately scoring the Queens pair; four draws give a good chance to find the needed Club while preserving all five hands.

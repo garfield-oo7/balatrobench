@@ -1,0 +1,1 @@
+Play the 8s and 5s as Two Pair for the strongest guaranteed scoring hand available; the two 5s also trigger Odd Todd, while Hiker permanently scales the scored cards. Include the Ten as an unscored fifth card to cycle it, preserving the Queen and two Spades (9 and 2) in hand as useful material for the final hand, where Acrobat’s ×3 will activate.

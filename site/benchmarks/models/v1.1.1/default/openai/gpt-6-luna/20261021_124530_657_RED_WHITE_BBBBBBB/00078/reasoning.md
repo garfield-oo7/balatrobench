@@ -1,0 +1,1 @@
+Buy Burglar to fill the open Joker slot and gain three additional hands each round. Losing discards is an acceptable trade given the expanded scoring opportunities, and it turns Mystic Summit's +15 Mult on immediately because discards are at zero. Keep money available for interest and future shops.

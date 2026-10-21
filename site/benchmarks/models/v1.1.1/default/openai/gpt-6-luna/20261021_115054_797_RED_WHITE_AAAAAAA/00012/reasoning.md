@@ -1,0 +1,1 @@
+At $0, neither $4 booster pack nor the $10 Paint Brush is affordable, and rerolling costs $5. Keep The Star for a future hand where its Diamond conversions can improve a flush, retain all three scoring/tempo Jokers, and advance to the next blind.

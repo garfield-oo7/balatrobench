@@ -1,0 +1,1 @@
+Take Earth to upgrade Full House, the most attainable of these options. A Full House also contains a pair, so it activates Jolly Joker, and its +25 chips/+2 mult is a useful upgrade if the hand appears. Four of a Kind and Straight Flush are much less reliable in the current unmodified deck.

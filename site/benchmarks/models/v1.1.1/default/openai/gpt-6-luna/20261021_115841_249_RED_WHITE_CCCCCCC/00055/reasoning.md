@@ -1,0 +1,1 @@
+Play the Kings pair with five cards to score all cards via Splash while cycling the hand. Include A♠ and 7♠ for Wrathful Joker’s +6 Mult and 10♣ to trigger The Idol’s ×2; put 10♣ last among the selected cards so the additive Spade Mult applies before the multiplier. This should score roughly 1,276 and leaves the other two Spades in hand for a possible Flush next.

@@ -1,0 +1,1 @@
+Skip both Standard Packs: random deck additions have little immediate value for the current pair/full-house scoring engine, and the Reroll Surplus voucher is too expensive when it only discounts future rerolls. Preserve $10 for interest and better scoring upgrades in the next shop, then advance.

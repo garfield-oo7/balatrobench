@@ -1,0 +1,1 @@
+I have $0, so none of the shop items are affordable. Selling useful scoring Jokers to scrape together money for Neptune would be a poor trade because Straight Flush is not the established Flush-focused strategy. Preserve the current scoring engine and advance to blind selection.

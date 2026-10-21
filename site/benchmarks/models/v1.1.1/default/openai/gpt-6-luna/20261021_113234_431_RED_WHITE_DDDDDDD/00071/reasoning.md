@@ -1,0 +1,1 @@
+Keep all four Diamonds (D_T, D_8, D_5, D_4) to maximize the chance of completing a Flush, which activates both Crafty and Droll and benefits from the level-3 Flush. Cycle the four off-suit cards in one discard; preserve the 8s pair only if no Flush develops, since the Flush engine is substantially stronger.

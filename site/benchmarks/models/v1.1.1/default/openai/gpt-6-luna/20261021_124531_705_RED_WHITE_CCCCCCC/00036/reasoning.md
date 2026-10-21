@@ -1,0 +1,1 @@
+Buy The Idol as the only offered Joker that directly adds scoring power. Its ×2 Mult on the designated 6 of Spades is conditional, but Splash lets that card score even when it is only a kicker, making the effect easier to trigger than in a normal build. The $6 cost leaves enough money to preserve some interest; To Do List offers conditional economy but no score improvement.

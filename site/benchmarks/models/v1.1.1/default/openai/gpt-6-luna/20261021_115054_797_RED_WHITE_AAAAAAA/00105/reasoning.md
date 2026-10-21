@@ -1,0 +1,1 @@
+Play the available 4–8 Straight for a strong scored hand while cycling five cards. This is better than a weak high card and preserves the King and Jack in hand for future pairs. Put the Bonus-enhanced Six first so Hanging Chad retriggers its +30 Chips twice; Mad Joker does not activate here, but this efficiently advances the blind and may draw into the Two Pair engine.

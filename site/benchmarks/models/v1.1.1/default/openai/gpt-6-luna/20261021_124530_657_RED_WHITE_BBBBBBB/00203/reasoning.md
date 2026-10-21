@@ -1,0 +1,1 @@
+Play the Level 9 Two Pair using the two nines and two fives, adding the Ace as an unscored fifth card to cycle an extra card. The Two Pair's 10 base Mult stacks with Fortune Teller and Mystic Summit before Ramen doubles it; the Mult-enhanced nine adds further Mult. This should comfortably clear the remaining 6,970 points.

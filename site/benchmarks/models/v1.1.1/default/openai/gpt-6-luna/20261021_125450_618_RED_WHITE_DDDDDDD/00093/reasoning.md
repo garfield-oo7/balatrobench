@@ -1,0 +1,1 @@
+Move all additive scoring effects ahead of Acrobat so its ×3 multiplier applies after the Flush bonuses, maximizing the final-hand Flush. Crafty/Blue add Chips, Droll/Abstract add Mult, and Acrobat should be rightmost.

@@ -1,0 +1,1 @@
+Free the slot for Droll Joker, which directly reinforces the established Flush build with +10 Mult on every Flush. Ride the Bus is still at +0 and conflicts with scoring face cards for Scary Face, so it is currently the least productive joker; selling it also gives enough money to buy Droll.

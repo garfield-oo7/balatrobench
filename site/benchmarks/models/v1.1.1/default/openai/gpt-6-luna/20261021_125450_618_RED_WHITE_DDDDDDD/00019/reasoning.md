@@ -1,0 +1,1 @@
+I need 524 more points and have three hands left, so seek a high-scoring hand rather than settling for the current two pair. Keep all four Spades (8, 7, 6, 4) and discard the off-suit Ace, Queen, 7, and 6 to draw four replacements; this offers a chance to complete a Flush for Crafty Joker’s +80 Chips while retaining a straight draw around 4–8.

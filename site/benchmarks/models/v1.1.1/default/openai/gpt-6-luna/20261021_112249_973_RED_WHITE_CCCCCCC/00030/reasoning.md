@@ -1,0 +1,1 @@
+Use Mars now to permanently level Four of a Kind, gaining +30 chips and +3 Mult. It occupies a consumable slot, and there is no tactical reason to hold it over a permanent upgrade; the shop items are unaffordable, so I will then leave and skip the Arcana pack to build Red Card.

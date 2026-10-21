@@ -1,0 +1,1 @@
+Convert the three Hearts to Spades. Together with the existing S_J and S_7 this creates a five-card Spade Flush in the current hand, matching the Level-6 Flush engine and Droll Joker for a strong scoring hand.

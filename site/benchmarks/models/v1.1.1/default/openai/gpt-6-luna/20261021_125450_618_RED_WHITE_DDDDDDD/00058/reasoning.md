@@ -1,0 +1,1 @@
+Advance without buying: the only pack costs $4 and the voucher costs $10, so neither is affordable at $3; rerolling is also unavailable at $5. Keep The Empress for use on suitable cards during the next blind, preserve the current Flush-synergy Jokers, and save the cash.

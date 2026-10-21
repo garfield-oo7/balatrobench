@@ -1,0 +1,1 @@
+Play the three Tens as Three of a Kind. All three scored cards are even, so Even Steven adds +4 Mult for each, taking the hand to roughly (30 base chips + 30 card chips) × (3 + 12) = 900, comfortably clearing the 450 target in one hand.

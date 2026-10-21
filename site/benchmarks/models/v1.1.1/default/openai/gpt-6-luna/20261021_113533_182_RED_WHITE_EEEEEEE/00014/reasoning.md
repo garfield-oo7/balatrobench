@@ -1,0 +1,1 @@
+The Psychic requires exactly five cards. The two Queens and two Sixes form Two Pair, with the Ace as the fifth required card. Jolly Joker adds +8 Mult, and the two scored Sixes trigger Even Steven for another +8 Mult; this should comfortably clear the remaining 360 chips.

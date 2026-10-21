@@ -1,0 +1,1 @@
+Buy Splash for only $2: it makes all cards in the played hand score, so extra Spades can trigger Wrathful Joker and the Idol's currently targeted card can trigger even when not part of the poker hand's scoring subset. This improves the existing per-card synergy at negligible cost. Skip the packs afterward to add +6 Mult to Red Card.

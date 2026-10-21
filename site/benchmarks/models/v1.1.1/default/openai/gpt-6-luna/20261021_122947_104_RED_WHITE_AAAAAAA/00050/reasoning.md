@@ -1,0 +1,1 @@
+Take Mercury to level up Pair, a frequently used hand (played four times) that also reliably qualifies for Half Joker when kept to three or fewer cards. The +15 chips and +1 base Mult materially improve that fallback scoring hand; Two Pair is already the primary Mad Joker synergy and has been leveled to Level 3, while the other offered hands have seen no use.

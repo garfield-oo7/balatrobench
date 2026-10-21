@@ -1,0 +1,1 @@
+Buy Justice for $3. Glass's ×2 Mult can be applied to a high-rank card we frequently score, adding a useful scoring enhancement while leaving exactly $4 for the Buffoon Pack. The High Priestess would only create random planets, with no guarantee of upgrading our Two Pair engine.

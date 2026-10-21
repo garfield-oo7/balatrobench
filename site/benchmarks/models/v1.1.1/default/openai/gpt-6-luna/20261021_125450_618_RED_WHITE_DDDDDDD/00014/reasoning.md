@@ -1,0 +1,1 @@
+Play the two pair of Queens and Sevens for the strongest available score. Scary Face adds chips for both scoring Queens, and Odd Todd adds chips for both scoring Sevens, for about 352 points; the Ace is an unscored fifth card that cycles out. This should preserve enough hands to finish the 600 target, while saving Acrobat's ×3 for a later final hand.

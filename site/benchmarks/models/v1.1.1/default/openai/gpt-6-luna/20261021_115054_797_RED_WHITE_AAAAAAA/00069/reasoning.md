@@ -1,0 +1,1 @@
+Buy Acrobat for $6: the available Joker slot makes this a clean upgrade, and its ×3 Mult on the round's final played hand can compound with the established Level 5 Two Pair engine, Mad Joker, Half Joker on compact hands, and Swashbuckler. Burglar's extra hands let us score safely before arranging a strong finisher. Keeping the balance above $25 preserves maximum interest.

@@ -1,0 +1,1 @@
+Skip the $3 Saturn because Straight is not supported by the current Two Pair/Three of a Kind package, and the packs and voucher are unaffordable. Preserve the $3 rather than buy an off-strategy Planet; Burglar will provide extra hands next blind, while Mad Joker, Zany Joker, Even Steven, and Half Joker give strong scoring routes.

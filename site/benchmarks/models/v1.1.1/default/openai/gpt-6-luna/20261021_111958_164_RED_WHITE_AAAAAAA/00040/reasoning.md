@@ -1,0 +1,1 @@
+Free a slot for Walkie Talkie by selling Mad Joker, the least central scoring Joker: its +10 Mult is limited to Two Pair, while the current core is Three of a Kind with Zany Joker and compact hands with Half Joker. Walkie Talkie adds chips and Mult for scored 10s/4s and can also pair with Even Steven on those ranks.

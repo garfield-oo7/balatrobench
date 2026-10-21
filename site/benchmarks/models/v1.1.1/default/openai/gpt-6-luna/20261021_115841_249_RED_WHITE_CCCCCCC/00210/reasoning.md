@@ -1,0 +1,1 @@
+Preserve both Hearts (the Ace and 5) and cycle the three Queens plus the Club 8 toward the established Level-7 Flush engine. A flush receives Droll Joker, the high Flush level, and substantial Supernova/Bootstraps Mult; the available three-of-a-kind would be far weaker against the remaining 32,580 points.

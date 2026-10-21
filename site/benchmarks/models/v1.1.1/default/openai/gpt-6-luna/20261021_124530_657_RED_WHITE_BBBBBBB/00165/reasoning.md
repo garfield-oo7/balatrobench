@@ -1,0 +1,1 @@
+Buy Mad Joker for $2: Two Pair is the established Level 7 primary hand, and this adds +10 Mult whenever it is played. With Mystic Summit's +15 Mult, Photograph's first-face-card ×2, and Ramen's ×2, this is a strong direct scoring upgrade and fills the open Joker slot without replacing any engine piece.

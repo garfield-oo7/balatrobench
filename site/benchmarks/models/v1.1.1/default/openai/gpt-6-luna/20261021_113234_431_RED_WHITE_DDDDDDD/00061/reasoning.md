@@ -1,0 +1,1 @@
+Keep the three Diamonds (D_T, D_9, D_3) to pursue the established Flush engine, plus the Steel C_K held in hand for its ×1.5 Mult bonus. Cycle the off-suit Jacks, Bonus Ten, and Heart 3 to draw four cards and maximize the chance of finding two more Diamonds for a Flush.

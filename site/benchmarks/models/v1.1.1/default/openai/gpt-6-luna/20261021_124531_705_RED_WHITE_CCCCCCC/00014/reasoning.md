@@ -1,0 +1,1 @@
+Buy the Foil Trading Card. Its +50 Chips applies on every scored hand and is a substantial immediate boost this early; its one-card first-discard effect also thins the deck and earns $3 each round. Spending the $8 leaves no meaningful interest behind, while the alternative packs are less reliable.

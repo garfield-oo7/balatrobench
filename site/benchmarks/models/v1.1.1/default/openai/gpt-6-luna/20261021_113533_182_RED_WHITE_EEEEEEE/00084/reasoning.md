@@ -1,0 +1,1 @@
+Keep the $4 bankroll intact so Vagabond continues generating a Tarot card when we play hands next blind. Droll Joker rewards Flushes rather than our established Pair/Two Pair engine and would require selling a valuable Joker to free a slot; The Tower is a modest, delayed benefit that is not worth spending down the Vagabond threshold. Save money and advance.

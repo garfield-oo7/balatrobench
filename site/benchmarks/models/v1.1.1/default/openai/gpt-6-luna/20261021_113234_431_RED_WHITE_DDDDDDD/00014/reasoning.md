@@ -1,0 +1,1 @@
+Keep the four Hearts (Q, J, T, 7) intact and discard the three off-suit cards to draw toward a Flush. A Flush triggers Crafty Joker’s +80 Chips, and scoring the Heart Q/J also gets Scary Face; this is the strongest route to a high-scoring hand against the 600 target.

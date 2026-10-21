@@ -1,0 +1,1 @@
+Preserve the five Spades forming a 7–J Straight Flush, along with the Steel King in hand for its held-card ×1.5 Mult. Use a non-core card for a small setup hand so Acrobat can multiply the decisive Straight Flush on the last hand of the round; the Ace gives better interim High Card points than the other disposable card.

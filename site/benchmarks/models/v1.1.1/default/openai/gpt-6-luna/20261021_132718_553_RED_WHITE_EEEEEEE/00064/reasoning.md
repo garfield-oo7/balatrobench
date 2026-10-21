@@ -1,0 +1,1 @@
+Play the Tens as a Pair and include the Ace, 8, and 4 as Splash-scored cards. This gives the highest chip total among the available five-card Pair plays while triggering Even Steven four times (both Tens, 8, and 4); Jolly Joker and the accumulated Pair Supernova mult also apply. The estimated score is about 2,300, enough to cover the 2,125 points remaining with this final hand.

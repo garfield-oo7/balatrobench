@@ -1,0 +1,1 @@
+Skip the Standard Pack, since adding a random card does not meaningfully improve the established scoring engine, and skip Wasteful because Burglar removes all discards when the blind starts. Flash Card would require a joker slot and costly rerolls for modest growth, so keep the full lineup intact and preserve $15 for future purchases and interest.

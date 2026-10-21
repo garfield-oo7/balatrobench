@@ -1,0 +1,1 @@
+Open the low-cost Celestial Pack for a chance to upgrade Two Pair, the established Level 9 hand supported by Mad Joker and the run's scoring engine. This is a direct, low-risk improvement; avoid buying Wrathful Joker because all five Joker slots are occupied and its suit bonus does not justify selling a current scoring Joker.

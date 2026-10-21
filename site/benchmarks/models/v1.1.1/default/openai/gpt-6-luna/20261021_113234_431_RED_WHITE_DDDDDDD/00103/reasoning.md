@@ -1,0 +1,1 @@
+Use The Hermit now before spending: at $21, it should grant the capped $20 and raise cash to $41. That preserves a strong interest reserve while enabling one low-cost attempt at improving a full Joker lineup.

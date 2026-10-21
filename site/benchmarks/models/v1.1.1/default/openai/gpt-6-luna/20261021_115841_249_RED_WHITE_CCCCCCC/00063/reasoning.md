@@ -1,0 +1,1 @@
+Choose Jupiter to level Flush, the run's established primary hand: it has been played 9 times and pairs well with Spade-triggered Mult from Wrathful Joker. The +2 Mult and +15 chips applies to every future Flush, a much better recurring payoff than upgrading the less-supported hand types.

@@ -1,0 +1,10 @@
+[
+  {
+    "id": "call_L73XF05EDCK800dVga252zMG",
+    "function": {
+      "arguments": "{\"pack\": 1}",
+      "name": "buy"
+    },
+    "type": "function"
+  }
+]

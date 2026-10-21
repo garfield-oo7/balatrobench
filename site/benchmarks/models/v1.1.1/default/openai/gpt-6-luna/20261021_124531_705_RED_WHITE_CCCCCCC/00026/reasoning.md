@@ -1,0 +1,1 @@
+Play the pair of Jacks with the King, Seven, and Six as the other scored cards. Splash makes all five cards contribute, while the Foil Trading Card adds 50 chips; this is the strongest hand available and cycles five cards without spending a discard, preserving Delayed Gratification's round-end payout.

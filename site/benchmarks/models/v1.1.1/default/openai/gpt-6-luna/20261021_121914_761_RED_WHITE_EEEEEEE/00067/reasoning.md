@@ -1,0 +1,1 @@
+Leave the shop without spending: at $1, the Tarot, Ride the Bus, Arcana Pack, and voucher are unaffordable, and rerolling is not possible. Keep the current scoring jokers intact and stay under Vagabond’s $4 threshold so it generates a Tarot when hands are played next blind. Judgement can wait until a Joker slot opens.

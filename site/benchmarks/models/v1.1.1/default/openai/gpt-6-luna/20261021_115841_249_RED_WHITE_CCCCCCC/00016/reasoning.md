@@ -1,0 +1,1 @@
+Keep the four non-debuffed Spades (Ten, Seven, Six, Four) as the best route to a Flush capable of clearing the remaining 248 points. Discard the off-suit Eight and the debuffed Hearts plus the low Club, drawing four cards to seek a fifth Spade while retaining fallback pair possibilities.

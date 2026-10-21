@@ -1,0 +1,1 @@
+Enhance the King into Steel, then keep it in hand while playing the three Aces. Steel multiplies the scoring mult by ×1.5 while held, improving the triple-Ace hand without sacrificing a scoring card; using it also frees a consumable slot for Vagabond to generate a Tarot at $4.

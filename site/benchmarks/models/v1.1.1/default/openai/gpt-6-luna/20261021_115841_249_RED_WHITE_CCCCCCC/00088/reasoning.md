@@ -1,0 +1,1 @@
+Play the five-card Diamond Flush immediately. Flush is level 3 and the best established hand; the Ace of Diamonds adds +4 Mult, Red Card gives +3, and Supernova contributes +13 for Flush. These five Diamonds also preserve the off-suit cards to form another hand after drawing.

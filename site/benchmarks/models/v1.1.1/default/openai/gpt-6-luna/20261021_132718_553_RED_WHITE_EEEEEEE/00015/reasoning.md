@@ -1,0 +1,1 @@
+Open the Jumbo Celestial Pack for a permanent hand upgrade, prioritizing Uranus to strengthen Two Pair, the most-played hand and a reliable trigger for Jolly Joker. This gives more durable scoring value than the speculative Tarot cards, while leaving $4 in reserve.

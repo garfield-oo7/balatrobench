@@ -1,0 +1,1 @@
+Buy Golden Joker for $6 while the fifth Joker slot is open. Its $4 end-of-round income quickly repays the cost and strengthens the economy for upcoming Ante 3 shops, while preserving the Flush scoring core; Mercury and the packs are less reliable immediate upgrades.

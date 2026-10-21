@@ -1,0 +1,1 @@
+Open the $4 Jumbo Arcana Pack for a chance at immediate deck improvements or money-generation Tarot cards. It is a better low-risk use of cash than buying the off-strategy To Do List or Magic Trick; spending $4 leaves $41, preserving Bootstraps at +16 Mult and most of the interest reserve.

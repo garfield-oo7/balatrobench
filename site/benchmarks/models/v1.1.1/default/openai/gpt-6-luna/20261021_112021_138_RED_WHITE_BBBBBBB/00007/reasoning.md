@@ -1,0 +1,1 @@
+I have only $2, so none of the current shop items are affordable. Neptune upgrades Straight Flush, which is off-strategy and not worth selling a Joker to fund; Hieroglyph costs too much and reduces hands. Preserve both Jokers—Certificate's sealed card and To Do List's potential $4 Pair payout—and advance to the next blind.

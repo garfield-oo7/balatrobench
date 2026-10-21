@@ -1,0 +1,1 @@
+Buy Supernova for $5. Two Pair is the established engine and has been played five times, so Supernova immediately adds +5 Mult to that hand while also scaling on every future Two Pair; it also boosts the Full Houses already played twice. This is a stronger immediate fit than Fortune Teller's +2 Mult, and preserves the existing Jolly Joker synergy.

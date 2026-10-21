@@ -1,0 +1,1 @@
+Keep the four Diamonds (10, 7, 5, 3) and discard the four off-suit cards to maximize the chance of completing a Flush. A Diamond Flush scores well and, crucially, scores the 5 of Diamonds to trigger The Idol's ×2 Mult. We need 1,340 more points with three hands, so pursuing this stronger scoring hand outweighs Delayed Gratification's small no-discard payout.

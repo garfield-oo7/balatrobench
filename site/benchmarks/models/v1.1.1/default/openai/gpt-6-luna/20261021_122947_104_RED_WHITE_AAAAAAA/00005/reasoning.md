@@ -1,0 +1,1 @@
+No scoring combination is currently available. Play the Ace as a High Card while cycling five cards; keep the 5-6-7 run together in hand as a straight-building seed, and discard the unrelated 4 rather than breaking that run.

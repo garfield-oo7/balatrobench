@@ -1,0 +1,1 @@
+Play the two pair of 8s and 5s, adding the Queen as an unscored cycling card. This is the strongest scoring hand available and scores both odd-rank 5s for Odd Todd, while Hiker permanently improves the scored pair cards. Keep the 9♠, 2♠, and 10♦ in hand for the redraw; with no discards and two hands remaining, cycle five cards now, then use the last hand with Acrobat's ×3 bonus.

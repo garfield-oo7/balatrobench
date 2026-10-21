@@ -1,0 +1,1 @@
+Play the three Tens as Three of a Kind, triggering Zany Joker’s +12 Mult. The base hand plus card values gives 60 Chips and 15 Mult, about 900 points, enough to clear the remaining 91 points in one hand. No need to include extra cards since this finishes the blind.

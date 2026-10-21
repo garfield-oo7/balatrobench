@@ -1,0 +1,1 @@
+Play the three Twos as Three of a Kind, triggering Zany Joker's +12 Mult; at level 2 this should comfortably clear the remaining 216 points. Add the Ten and Nine as unscored cards to cycle the maximum five, while avoiding the pair of Eights so the hand remains Three of a Kind rather than Full House.

@@ -1,0 +1,1 @@
+Play the pair of sixes for immediate scoring while using the remaining three cards as a free cycle. Keep the Ace and the 5–7 straight connectors in hand, which preserves useful high-card and straight possibilities.

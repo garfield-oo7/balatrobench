@@ -1,0 +1,1 @@
+Pursue the established Level-6 Flush engine: retain the three Clubs and discard all four off-suit cards, giving four draws to find two more Clubs for a strong Flush. With three hands left and a substantial score gap, improving toward a Flush is more valuable than cashing the modest pair of fives now.

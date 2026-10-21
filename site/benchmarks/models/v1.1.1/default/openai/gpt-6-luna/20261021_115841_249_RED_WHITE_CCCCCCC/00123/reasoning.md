@@ -1,0 +1,1 @@
+Keep the full Joker lineup rather than selling a reliable scorer for Onyx Agate, whose +7 per scored Club is suit-dependent and conflicts with preserving the current Flush engine. A $5 reroll would also drop cash from $40 to $35 and reduce Bootstraps by 2 Mult; with no packs or voucher available, leaving the shop preserves both scoring and interest potential.

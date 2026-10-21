@@ -1,0 +1,1 @@
+I have only $1, so none of the shop options are affordable; rerolling also costs more than my cash. Keep the useful Flush-supporting Jokers and advance to the next blind rather than selling them or taking an impossible purchase.

@@ -1,0 +1,1 @@
+Play the available five-card Clubs Flush, using the highest-value Club cards (Q, T, 7, 6, 5) for the strongest immediate score. It should add roughly 292 points without a discard, putting the round within reach while preserving Delayed Gratification eligibility and cycling five cards for another scoring hand.

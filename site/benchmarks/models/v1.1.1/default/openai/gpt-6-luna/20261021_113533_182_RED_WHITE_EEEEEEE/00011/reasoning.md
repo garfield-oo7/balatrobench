@@ -1,0 +1,1 @@
+Take Earth to level up Full House by +25 chips and +2 Mult. It is the most coherent offered option with Jolly Joker, which activates on hands containing a pair, and it makes a strong pair-plus-trips hand substantially better. Four of a Kind and Straight Flush are less reliable to assemble and have no Joker synergy.

@@ -1,0 +1,1 @@
+Play the three threes for Three of a Kind; the debuffed Heart three can still complete the poker hand, while the Club and Diamond threes score. This should add about (30 base chips + 6 rank chips) × 3 = 108, comfortably exceeding the 64 points remaining. Include the Eight and Five as unscored cycling cards.

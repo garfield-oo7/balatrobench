@@ -1,0 +1,1 @@
+Buy the High Priestess for $3 rather than spend all $4 on the Celestial Pack. It can generate up to two Planet consumables for our empty slots, giving a chance to improve Two Pair or another hand while preserving $1. Our Joker core already rewards Two Pair strongly, so a random Planet upgrade has meaningful value.

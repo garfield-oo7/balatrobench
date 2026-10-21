@@ -1,0 +1,1 @@
+Play the pair of Aces for a solid 384-point hand: Pair base chips plus both Ace values, multiplied by the Holographic Runner’s +10 Mult. Cycle the three low, unpaired cards (7, 3, 2) while retaining the King and Ten for future scoring or straight/flush possibilities. Mad Joker does not trigger without a second pair, so take reliable points and improve the hand.

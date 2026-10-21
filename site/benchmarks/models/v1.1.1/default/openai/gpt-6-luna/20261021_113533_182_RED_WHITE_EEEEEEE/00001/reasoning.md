@@ -1,0 +1,1 @@
+Play the available Two Pair for a strong opening score. The fifth card is unscored, so include the low 2 to cycle it while preserving the Ten, Six, and Four in hand for future combinations.

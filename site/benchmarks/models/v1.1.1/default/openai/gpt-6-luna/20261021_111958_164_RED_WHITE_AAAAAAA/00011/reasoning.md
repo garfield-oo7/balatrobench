@@ -1,0 +1,1 @@
+I have only $2, so none of the shop items are affordable, and rerolling costs $5. Keep the strong early setup—Mad Joker rewards Two Pair, Burglar provides extra hands, and Scary Face adds chips to face cards—and save the cash rather than selling a Joker or buying an unusable upgrade. Advance to the next blind.

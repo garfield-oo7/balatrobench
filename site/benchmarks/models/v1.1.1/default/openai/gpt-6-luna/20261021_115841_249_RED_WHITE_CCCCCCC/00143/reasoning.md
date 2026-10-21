@@ -1,0 +1,1 @@
+Play the five Clubs as a Level-6 Flush, our dominant and most-played hand. This activates Flush's 14 base Mult, Supernova's large accumulated Flush bonus, Bootstraps' +16 Mult, and Popcorn's current +20 Mult; Hiker also permanently improves each scored card. The Heart Ace is not part of the flush and doesn't improve this hand.

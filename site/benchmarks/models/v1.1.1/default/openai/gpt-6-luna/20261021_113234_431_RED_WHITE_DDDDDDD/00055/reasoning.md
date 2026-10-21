@@ -1,0 +1,1 @@
+Play the five strongest Diamonds as a Level 2 Flush. This activates Crafty (+80 Chips) and Droll (+10 Mult); the two Mult-enhanced cards add another +8 Mult, and Abstract contributes +15 Mult. With the high card values, this should comfortably exceed the 4,000 target in one hand, leaving the remaining hands unused for payout.

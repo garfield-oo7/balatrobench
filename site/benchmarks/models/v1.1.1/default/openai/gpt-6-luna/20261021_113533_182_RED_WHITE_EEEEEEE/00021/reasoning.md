@@ -1,0 +1,1 @@
+Play the Queens and Sevens as Two Pair, which is Level 3 and triggers Jolly Joker's +8 Mult. The scored cards total 34 rank chips, so (60 + 34) × (4 + 8) = 1,128, enough to clear the 800 target in one hand. Include the low Four as an unscored fifth card to cycle it while retaining the Ten for future scoring.

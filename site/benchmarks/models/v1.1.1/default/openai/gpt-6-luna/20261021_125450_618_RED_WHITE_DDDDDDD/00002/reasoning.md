@@ -1,0 +1,1 @@
+The blind is only 12 points short. Playing the 7 as a High Card scores 5 base chips + 7 rank chips = 12, just enough to reach 300 while preserving the maximum number of unused hands for the end-of-round bonus.

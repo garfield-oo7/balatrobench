@@ -1,0 +1,10 @@
+[
+  {
+    "id": "call_UNBQ8Y4NYVzon2FJVd3KOOOr",
+    "function": {
+      "arguments": "{\"cards\": [0, 2, 3, 4, 7]}",
+      "name": "play"
+    },
+    "type": "function"
+  }
+]

@@ -1,0 +1,1 @@
+Play a High Card with the King as the scoring face card and include the Stone for its guaranteed +50 chips. The Level 3 High Card base, Mystic Summit (+15 Mult), Photograph (first scored face card ×2), and Ramen (×2) produce a strong immediate score; the selected set cycles five cards while preserving both Jacks for a potential pair and retaining the 9.

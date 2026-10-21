@@ -1,0 +1,1 @@
+Buy the Jumbo Celestial Pack: the Flush engine is our proven scoring plan, and a Jupiter would directly strengthen our level-3 Flush. The pack offers a choice of five planets, so it has a reasonable chance to improve Flush or another useful hand; $6 is affordable while keeping $26, above the interest threshold. Skip the unrelated pair Joker and the low-impact Standard Pack.

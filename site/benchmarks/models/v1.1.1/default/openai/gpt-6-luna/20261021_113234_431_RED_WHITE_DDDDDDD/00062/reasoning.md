@@ -1,0 +1,1 @@
+Play the five Diamonds as a Level 2 Flush, activating both Flush Jokers. The mult-enhanced D_T adds Mult, while the Steel C_K stays held to provide its held-in-hand multiplier. This should beat the 5,000 target in one hand and preserve the remaining hands for payout.

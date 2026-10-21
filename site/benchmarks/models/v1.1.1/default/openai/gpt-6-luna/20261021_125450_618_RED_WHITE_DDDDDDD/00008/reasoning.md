@@ -1,0 +1,1 @@
+Play the five Spades as a Flush: this activates Crafty Joker for +80 Chips, while the King and Jack also trigger Scary Face for +30 Chips each. The hand should comfortably clear the 450 target in one play.

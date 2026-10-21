@@ -1,0 +1,1 @@
+Take The Chariot and make the King of Hearts a Steel Card. Keeping it in hand supplies a persistent ×1.5 Mult bonus while we score hands, especially the established Two Pair engine; this is a stronger immediate scoring upgrade than the money-only Gold card or a random Planet. It also preserves our low-money Vagabond setup.

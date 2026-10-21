@@ -1,0 +1,1 @@
+Play a High Card with the King as the scoring card, activating Scary Face for roughly 45 chips. Play only four cards to cycle four and preserve the three Spades (Q, 7, 6), giving a useful flush draw while retaining options; this also keeps enough remaining hands to find a strong Two Pair for Mad Joker or other scoring hand.

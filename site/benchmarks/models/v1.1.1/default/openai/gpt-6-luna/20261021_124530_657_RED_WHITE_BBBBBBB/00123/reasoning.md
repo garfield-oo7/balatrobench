@@ -1,0 +1,1 @@
+Play the guaranteed pair of 2s and add three non-club cards to maximize cycling, while retaining the Ace, Queen, and Gold-Seal 9 of Clubs for a possible flush draw. This earns some score with Mystic Summit active and advances Green Joker, without wasting a discard (Burglar has removed all discards).

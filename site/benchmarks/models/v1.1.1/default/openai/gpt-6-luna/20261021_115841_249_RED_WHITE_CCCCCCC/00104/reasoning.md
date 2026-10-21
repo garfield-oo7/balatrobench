@@ -1,0 +1,1 @@
+Open the Celestial Pack for $3 to look for Jupiter and further strengthen the Level 4 Flush engine, which is our most-played and best-scaled hand with Supernova, Bootstraps, and suit-based Mult support. Half Joker does not fit the five-card Flush plan, so the pack has better expected value while leaving $30 for interest.

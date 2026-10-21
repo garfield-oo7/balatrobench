@@ -1,0 +1,1 @@
+Spend the $4 on the Celestial Pack rather than the $3 High Priestess: it immediately offers a choice of Planet upgrades, and our current Two Pair/Three of a Kind Joker synergies make a direct hand-level upgrade more valuable than generating random consumables. With no cash to preserve, take the most useful available planet for the established scoring routes.

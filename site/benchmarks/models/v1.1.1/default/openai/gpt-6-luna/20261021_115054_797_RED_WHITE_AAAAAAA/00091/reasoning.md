@@ -1,0 +1,1 @@
+Buy Seltzer into the open fifth Joker slot. Its ten-hand retrigger effect is a strong temporary scoring boost, particularly with the established Level 6 Two Pair engine and Mad Joker, and it can also multiply card enhancements on scoring cards. The $6 cost leaves $14 rather than paying $10 for a less immediate Tarot-frequency voucher or gambling on a random Arcana pack.

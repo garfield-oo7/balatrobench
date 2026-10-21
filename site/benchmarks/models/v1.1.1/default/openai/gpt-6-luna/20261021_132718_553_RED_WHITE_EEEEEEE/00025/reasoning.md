@@ -1,0 +1,1 @@
+With only $1, none of the shop items are affordable and the $5 reroll is out of reach. Invisible Joker requires $8 and Saturn would upgrade an unplayed Straight rather than our established Level 4 Two Pair/Jolly Joker plan; buying either would also require selling a useful Joker at a poor loss. Preserve the scoring engine and advance to the next blind.

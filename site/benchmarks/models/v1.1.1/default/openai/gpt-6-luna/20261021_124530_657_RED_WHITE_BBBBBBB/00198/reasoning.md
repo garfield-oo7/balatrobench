@@ -1,0 +1,1 @@
+Put the two additive Mult sources first (Mystic Summit +15 and Fortune Teller +16), followed by Photograph and Ramen's ×2 effects, so additions are included before the multipliers. Burglar has no scoring effect, so it can sit last while preserving its valuable +3 hands and its synergy that leaves Mystic Summit active with zero discards.

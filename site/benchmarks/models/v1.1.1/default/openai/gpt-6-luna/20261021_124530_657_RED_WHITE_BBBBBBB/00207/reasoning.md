@@ -1,0 +1,1 @@
+Take Mercury to improve Pair as a reliable fallback when the dominant Level 10 Two Pair cannot be formed. It adds +1 Mult and +15 Chips to Pair; High Card is already Level 3, and Neptune's Straight Flush upgrade is unlikely to matter for this build.

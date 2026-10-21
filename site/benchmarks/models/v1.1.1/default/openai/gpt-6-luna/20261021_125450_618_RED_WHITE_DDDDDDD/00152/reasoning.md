@@ -1,0 +1,1 @@
+Cycle the three non-Spade cards that do not form a useful hand, while preserving all four Spades (A, T, 9, 2) to complete the Level 5 Flush with one draw. Keep the Steel King in hand so its held-card ×1.5 Mult boosts both this score and the upcoming Flush. This maximizes the chance of finding a fifth Spade without sacrificing the best scoring setup.

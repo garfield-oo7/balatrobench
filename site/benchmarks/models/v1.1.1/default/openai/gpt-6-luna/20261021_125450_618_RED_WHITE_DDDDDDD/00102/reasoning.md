@@ -1,0 +1,1 @@
+Take Jupiter to level up the established Flush strategy, adding +15 Chips and +2 Mult to Flushes. Crafty and Droll both trigger on Flushes, so this directly improves the hand type our Joker lineup is built around; the other planets are less aligned.

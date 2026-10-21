@@ -1,0 +1,1 @@
+Advance without buying or rerolling: with only $1, the $3 Mars Planet and $4 Arcana Pack are unaffordable, while the $10 voucher is far out of reach. Selling a Joker would weaken the scoring/economy setup for little gain. Keep Splash, Trading Card, Delayed Gratification, and Rough Gem, then earn money in the next blind.

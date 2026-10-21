@@ -1,0 +1,1 @@
+Sell Sock and Buskin to free a Joker slot and raise $2. Its face-card retriggers are inconsistent for the current pair/Two Pair/Three of a Kind build, while Mystic Summit's conditional +15 Mult is a much stronger, broadly useful scoring boost once discards are exhausted.

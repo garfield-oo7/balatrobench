@@ -1,0 +1,1 @@
+At $2, every shop option is unaffordable, and selling a useful scoring Joker just to buy the off-strategy Flush planet or an Arcana pack would be a poor trade. Keep the World for a later hand where its Spade conversion can help, retain the full Joker engine, and advance while remaining under $4 to activate Vagabond next round.

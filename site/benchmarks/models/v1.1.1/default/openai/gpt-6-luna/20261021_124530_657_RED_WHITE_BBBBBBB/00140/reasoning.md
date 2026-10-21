@@ -1,0 +1,1 @@
+Play the two Tens and two Twos for Level 6 Two Pair, activating Clever Joker's +80 chips and Mystic Summit's +15 Mult. With Ramen's ×2 Mult, this should comfortably clear the remaining 5,590 points in one hand. The King and Jack are not part of the scoring hand, so Photograph would not trigger on them; keep them rather than cycling away potentially useful face cards.

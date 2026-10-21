@@ -1,0 +1,1 @@
+Keep the four Diamonds together as a strong flush draw; discard the off-suit 8 and the pair of 5s to draw three fresh cards, with a good chance to complete a flush while retaining high-card scoring options.

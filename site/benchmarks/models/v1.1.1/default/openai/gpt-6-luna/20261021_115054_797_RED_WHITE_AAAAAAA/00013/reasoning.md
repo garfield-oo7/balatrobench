@@ -1,0 +1,1 @@
+Convert the Jack of Clubs, Eight of Hearts, and Six of Hearts to Diamonds. Together with the King and Seven already in Diamonds, this enables an immediate five-card Flush including both scored face cards, triggering Scary Face for +60 Chips. The resulting score is about 544, a strong opening toward the 600-chip boss target.

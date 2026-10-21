@@ -1,0 +1,1 @@
+Choose Earth for a major upgrade to Full House (+2 Mult, +25 chips). Pair is still the most-played hand, but it already has a level-up, while Full House was played this round and can be scored reliably with Splash making every card count. This is a substantial secondary scoring option; Uranus gives a smaller Two Pair upgrade and Neptune supports a hand we have not played.

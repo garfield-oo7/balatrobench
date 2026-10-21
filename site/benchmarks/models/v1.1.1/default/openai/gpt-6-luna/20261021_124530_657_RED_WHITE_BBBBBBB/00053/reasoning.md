@@ -1,0 +1,1 @@
+Play the existing Two Pair (Nines and Twos) with the Three as an unscored fifth card. Two Pair is level 2 and activates Clever Joker for +80 chips. Playing the Three leaves only face cards in hand, so Raised Fist adds +20 Mult from the lowest held card (Jack); the resulting score should comfortably clear the 2,000 target in one hand.

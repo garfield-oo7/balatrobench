@@ -1,0 +1,1 @@
+Play the Jack pair while keeping the played hand to three cards so Half Joker adds +20 Mult; Holographic Runner adds another +10 Mult. This should score about 960 points, taking the blind close to its 3,000 target. Include the low 2 as an unscored card to cycle it, while preserving the King, Queen, and 9 for follow-up hands.

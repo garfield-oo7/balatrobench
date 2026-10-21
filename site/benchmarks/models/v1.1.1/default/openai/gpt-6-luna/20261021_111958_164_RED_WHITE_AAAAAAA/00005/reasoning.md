@@ -1,0 +1,1 @@
+There is no made pair or other scoring combination, so play the Ace as High Card while cycling the four high-rank singleton cards. Preserve 4-7 as a four-card straight draw and use the extra hands from Burglar to build scoring hands over subsequent draws; Mad Joker makes Two Pair especially valuable.

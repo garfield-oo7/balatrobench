@@ -1,0 +1,1 @@
+Preserve the four Diamonds, including the Mult-enhanced Ace, and cycle the four off-suit cards to look for a fifth Diamond. Flush is our established scoring engine (Level 4, boosted by Supernova and Bootstraps), and this is a strong chance to make one without giving up any of its needed cards.

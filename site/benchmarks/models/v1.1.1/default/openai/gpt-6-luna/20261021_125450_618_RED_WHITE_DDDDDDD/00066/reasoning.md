@@ -1,0 +1,1 @@
+Apply The Chariot to C_K, a high-rank non-Diamond card I can keep out of a future Diamond Flush. Steel will provide a ×1.5 Mult bonus while it stays held, improving the established Flush engine without sacrificing a scored Diamond.

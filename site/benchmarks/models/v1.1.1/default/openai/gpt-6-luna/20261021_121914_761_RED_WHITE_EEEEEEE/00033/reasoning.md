@@ -1,0 +1,1 @@
+Take Vagabond. It can generate a Tarot every hand while money is $4 or less, providing repeatable deck manipulation and enhancements that are much more valuable than Hologram's current ×1 Mult, which needs added playing cards to scale. We have one Joker slot open; prioritize keeping cash low enough to trigger Vagabond while still preserving the scoring Jokers.

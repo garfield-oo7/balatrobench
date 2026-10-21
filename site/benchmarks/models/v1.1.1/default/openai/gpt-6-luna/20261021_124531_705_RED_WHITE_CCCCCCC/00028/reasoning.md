@@ -1,0 +1,1 @@
+Buy the Celestial Pack for $4 and prioritize Mercury if offered, since Pair is our dominant hand (played 8 times) and is already Level 2. Another Pair level adds chips and mult to the hand we reliably play, improving scoring more directly than the Diamond-only economy from Rough Gem or an irrelevant Four of a Kind level-up. This leaves $8 for interest and future purchases.

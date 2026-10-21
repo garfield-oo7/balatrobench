@@ -1,0 +1,1 @@
+Play the pair of Aces with the highest-value available kickers, including the non-debuffed 9 of Spades, and cycle five cards. This activates the Red Seal on the Heart Ace, while holding the 2 keeps Raised Fist at +4 Mult; Mystic Summit is active with zero discards. The resulting score should make strong progress toward the 4,000 target, leaving two hands to finish if necessary.

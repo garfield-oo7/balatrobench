@@ -1,0 +1,1 @@
+Use Uranus before advancing to upgrade our established Two Pair hand again. Two Pair is the most-played hand and synergizes well with Jolly Joker's +8 Mult whenever a pair is present; the added chips and Mult strengthen our reliable scoring plan, while the shop items are unaffordable with $1.

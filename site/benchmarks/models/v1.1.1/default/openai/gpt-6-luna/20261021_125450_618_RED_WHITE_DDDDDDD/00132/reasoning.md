@@ -1,0 +1,1 @@
+Free a Joker slot by selling Acrobat. Its ×3 is useful only on the final hand, while the Ancient Joker's repeated ×1.5 triggers across each scored card of the chosen suit can produce a much larger multiplier on a five-card Flush. Keep both Flush-triggered jokers, Blue Chips, and Abstract Mult.

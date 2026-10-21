@@ -1,0 +1,1 @@
+The Needle allows only one hand, so maximize this score: play the pair of 5s with the Glass Queen, Ten, and 4. Splash makes all five cards score; the pair gets +8 Mult from Supernova, while the Ten and 4 trigger Even Steven for +8 Mult. The Glass Queen then doubles the resulting Mult. This beats using The World to force a flush, which would lose the pair's Supernova bonus.

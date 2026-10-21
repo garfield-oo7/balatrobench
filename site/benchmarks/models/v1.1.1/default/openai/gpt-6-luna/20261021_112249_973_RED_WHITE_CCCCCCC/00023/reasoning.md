@@ -1,0 +1,1 @@
+Advance without purchasing: the Mega Arcana Pack costs $8 and Planet Merchant costs $10, while I have only $1 and rerolling costs $5. Skipping the available booster pack preserves cash and may also trigger Red Card's skip bonus, giving a useful scoring improvement at no cost.

@@ -1,0 +1,1 @@
+Buy Scary Face for $4 as an immediate scoring upgrade while keeping $2. Its +30 Chips on scored face cards is useful alongside Mad Joker: a Two Pair containing face cards benefits from both the extra chips and Mad Joker’s +10 Mult. The packs are less certain, and the Star would only change suits on selected cards.

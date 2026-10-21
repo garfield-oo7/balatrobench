@@ -1,0 +1,1 @@
+Keep the King, Jack, and Nine of Spades and discard all five off-suit cards to hunt two more Spades for a Flush. Flush is leveled up, and a five-Spade Flush would trigger Wrathful Joker five times while Splash scores every selected card, giving the best chance to clear the remaining 2,467 points with two hands.

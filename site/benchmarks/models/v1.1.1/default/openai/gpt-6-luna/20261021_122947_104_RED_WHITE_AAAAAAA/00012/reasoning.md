@@ -1,0 +1,1 @@
+Play the Jack as a High Card while cycling five cards, preserving both sevens as the core of a potential Two Pair. The Jack scores Scary Face's +30 chips, and discards are unavailable, so maximizing the draw while retaining the pair gives the best chance to assemble Mad Joker's much stronger Two Pair hand.

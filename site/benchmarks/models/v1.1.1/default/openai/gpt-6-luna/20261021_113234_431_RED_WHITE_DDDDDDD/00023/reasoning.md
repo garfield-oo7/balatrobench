@@ -1,0 +1,1 @@
+Open the Arcana Pack for $4 to seek a Tarot that strengthens the established Flush engine through suit conversion, card enhancement, deck thinning, or money generation. The Standard Pack would merely add a card and dilute consistency, while the $8 Ancient Joker is unaffordable and less reliable than the current flush-focused Jokers.

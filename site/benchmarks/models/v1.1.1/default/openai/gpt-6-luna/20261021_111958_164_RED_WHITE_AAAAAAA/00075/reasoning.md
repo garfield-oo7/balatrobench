@@ -1,0 +1,1 @@
+Move Swashbuckler's reliable +11 Mult ahead of Ancient Joker's ×1.5 effect so the additive bonus is multiplied on hands scoring Hearts; preserve Burglar, Zany Joker, and Half Joker, whose extra hands and three-card/trips bonuses support the current plan.

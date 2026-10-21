@@ -1,0 +1,1 @@
+Take Uranus: Two Pair is the established core hand at Level 9 and has been played most often this run. Another level adds +1 Mult and +20 Chips to the hand we reliably use for scoring, which is far more valuable than upgrading Pair or High Card.

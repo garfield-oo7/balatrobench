@@ -1,0 +1,1 @@
+Open a discounted Celestial Pack for $2. Two Pair is the run’s proven scoring hand at Level 7, so prioritize Uranus if offered; otherwise take a useful upgrade to a supporting hand. The pack’s low price is worth the chance of a major focused-hand improvement, while preserving the full Joker engine.

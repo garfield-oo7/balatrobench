@@ -1,0 +1,1 @@
+Play the pair of Tens as the strongest available scoring hand. The Bonus enhancement on the Spade Ten adds chips, Supernova contributes its accumulated Pair mult, and Acrobat's ×3 activates on this final hand. No Flush is possible from the current six cards, so the Flush Jokers cannot be triggered; adding unrelated cards would not improve the pair's scored cards.

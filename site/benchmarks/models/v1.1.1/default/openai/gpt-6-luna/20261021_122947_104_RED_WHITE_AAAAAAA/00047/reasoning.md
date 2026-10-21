@@ -1,0 +1,1 @@
+Play the Queens and sixes as Two Pair, triggering Mad Joker’s +10 Mult; the scored Club Queen also activates Ancient Joker’s current ×1.5 Mult, and Runner’s Holographic edition adds +10 Mult. This should comfortably clear the remaining 280 chips. Include the King as an unscored fifth card to cycle it without changing the scoring hand.

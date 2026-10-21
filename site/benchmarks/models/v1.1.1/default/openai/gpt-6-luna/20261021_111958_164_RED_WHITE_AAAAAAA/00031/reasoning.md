@@ -1,0 +1,1 @@
+Play the pair of Kings, the strongest made hand available. Both scoring Kings trigger Scary Face for +60 Chips total, so the pair scores about 180. Include the 9, 3, and 2 as unscored cycling cards, preserving A-Q-J to potentially complete a straight if a Ten is drawn.

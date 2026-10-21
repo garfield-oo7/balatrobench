@@ -1,0 +1,1 @@
+Build toward the established Flush engine, which activates both Crafty and Droll and should score enough to clear the 7,500 target in one hand. Keep all three Diamonds (D_T, D_8, D_4) and discard the five off-suit cards to draw for at least two more Diamonds; this is a stronger route than a non-Flush Two Pair that misses the two main scoring Jokers.

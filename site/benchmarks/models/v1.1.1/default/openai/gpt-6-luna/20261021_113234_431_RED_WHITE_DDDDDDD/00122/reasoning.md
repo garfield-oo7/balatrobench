@@ -1,0 +1,1 @@
+Keep the four Clubs together to pursue the established Level 5 Flush engine, while cycling the off-suit cards. A completed Flush activates Crafty (+80 Chips), Droll (+10 Mult), and Abstract (+15 Mult), making it far stronger than either pair in the current hand; retaining all four Clubs gives the best chance to draw a fifth.

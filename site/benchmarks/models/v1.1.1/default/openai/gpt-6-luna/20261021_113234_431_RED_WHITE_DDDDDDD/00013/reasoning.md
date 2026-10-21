@@ -1,0 +1,1 @@
+Keep the three Hearts (J, T, 7) and discard the four off-suit cards to dig for two more Hearts, enabling a Flush that activates Crafty Joker. Playing the pair now would discard a needed Heart and weaken the strong Flush route; preserve hands for scoring.

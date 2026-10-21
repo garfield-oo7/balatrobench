@@ -1,0 +1,1 @@
+Play the two Aces and two Tens as Two Pair. Their roughly 62 chips times 2 Mult yields about 124 points, comfortably covering the 102-point gap to the 450 target on the final hand.

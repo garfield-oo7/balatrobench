@@ -1,0 +1,1 @@
+Move the additive chip and mult Jokers ahead of Acrobat so its ×3 effect applies after Ride the Bus and Droll Joker have added mult. Preserve the flush-focused scoring lineup; there is not enough money to buy or reroll, and selling a Joker to chase the unaffordable Ancient Joker or a low-impact pack is not worthwhile.

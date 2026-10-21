@@ -1,0 +1,1 @@
+Take The Hierophant for a guaranteed permanent scoring upgrade. Enhance the Ace and Ten of Spades, the strongest same-suit cards in hand and useful contributors to future Flushes; Bonus adds +30 chips each when scored and compounds with Hiker’s permanent chip gains.

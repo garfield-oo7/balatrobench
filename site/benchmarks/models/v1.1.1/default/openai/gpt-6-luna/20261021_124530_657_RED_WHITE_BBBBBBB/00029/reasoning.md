@@ -1,0 +1,1 @@
+Play the Full House formed by the three Fours and two Twos. It scores at the Full House base while also containing Three of a Kind to trigger Zany Joker's +12 Mult. The unplayed cards are 5, 6, and 7, so Raised Fist adds +10 Mult from the lowest held card. This should comfortably cover the 500 points still needed and clear the blind in one hand.

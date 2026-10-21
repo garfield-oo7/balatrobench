@@ -1,0 +1,1 @@
+Use High Priestess while there is an open consumable slot. The generated Planet cards can immediately strengthen the frequently played Pair/Two Pair/Full House core, and using it costs no money.

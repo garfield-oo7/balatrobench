@@ -1,0 +1,1 @@
+Play the pair of sixes while using three non-Diamond cards as unscored cycling cards. This preserves the three Diamonds (J, 9, 5) to pursue a flush on a future draw and avoids spending a discard; the pair provides a modest score while replacing five cards.

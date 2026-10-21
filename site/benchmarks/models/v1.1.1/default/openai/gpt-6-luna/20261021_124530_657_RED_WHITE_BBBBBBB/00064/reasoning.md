@@ -1,0 +1,1 @@
+Use the final discard while preserving the three Tens for the Zany Joker Three of a Kind, and keep the Two in hand to provide Raised Fist's +4 Mult. This also turns on Mystic Summit for the next played hand; the Ace, King, Queen, and Eight are less useful than digging for a fourth Ten or high-value support.

@@ -1,0 +1,1 @@
+Keep the two existing pairs (the 3s and 2s) intact and discard the unrelated Ace, Jack, Ten, and Six. With two hands still available and 200 chips remaining, fishing for a matching 2 or 3 can upgrade this to a Full House; Splash will also score every card we play. This preserves a reliable Two Pair fallback while using a discard rather than spending a hand on a weak score.

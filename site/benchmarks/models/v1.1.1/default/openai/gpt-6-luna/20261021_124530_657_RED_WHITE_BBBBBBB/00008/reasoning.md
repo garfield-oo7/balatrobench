@@ -1,0 +1,1 @@
+Play the available Two Pair (sixes and twos) for reliable score, while including the low three as an unscored fifth card to cycle five cards. Preserve the T-9-8 connectors in hand as a useful straight draw.

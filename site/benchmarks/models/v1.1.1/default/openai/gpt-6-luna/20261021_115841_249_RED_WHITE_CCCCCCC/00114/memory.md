@@ -1,0 +1,40 @@
+# Memory & Previous Actions
+
+
+## Recent Decision History
+
+Here is a list of your recent decisions (from oldest to newest):
+
+
+**1.** `buy({'pack': 0, 'reasoning': 'Open the Celestial Pack for $3 to look for Jupiter and further strengthen the Level 4 Flush engine, which is our most-played and best-scaled hand with Supernova, Bootstraps, and suit-based Mult support. Half Joker does not fit the five-card Flush plan, so the pack has better expected value while leaving $30 for interest.'})` - 
+
+**2.** `pack({'card': 0, 'reasoning': 'Take Mercury to improve Pair as a practical backup hand. Flush is already the established engine at Level 4, so Saturn and Mars would invest in hand types with no history; Pair has been played seven times and benefits from Supernova’s +7 Mult plus Bootstraps. This level-up adds +15 Chips and +1 base Mult, giving some flexibility if a Flush is unavailable or a blind counters suits.'})` - 
+
+**3.** `next_round({'reasoning': 'Skip Half Joker: its +20 Mult only applies to hands of three or fewer cards, so it does not strengthen the established five-card Flush engine. All five Joker slots are occupied by useful scoring effects, and selling one to make room would sacrifice better synergy; rerolling for $5 is not justified when preserving $30 supports Bootstraps and interest. Advance with the current Flush-focused setup.'})` - 
+
+**4.** `discard({'cards': [1, 3, 4, 6], 'reasoning': 'Keep all four Hearts and discard the three Diamonds plus the Club to draw toward a Flush. Flush is our level-4 engine, with +18 Mult from Supernova and +12 Mult from Bootstraps, so completing one is far stronger than playing a weak Pair or High Card. We have ample discards and five hands available, making this a good first attempt to find a fifth Heart.'})` - 
+
+**5.** `play({'cards': [0, 3, 4, 5, 6], 'reasoning': 'Play the available five-Heart Flush immediately. Flush is the established level-4 engine and activates Supernova’s accumulated +18 Mult and Bootstraps’ +12 Mult; scoring all five Hearts also adds Hiker chips permanently. The Ace of Diamonds and other off-suit cards do not improve this flush, and there is no stronger made hand in the current selection.'})` - 
+
+**6.** `discard({'cards': [1, 3, 4, 6], 'reasoning': 'Preserve the four Diamonds, including the Mult-enhanced Ace, and cycle the four off-suit cards to look for a fifth Diamond. Flush is our established scoring engine (Level 4, boosted by Supernova and Bootstraps), and this is a strong chance to make one without giving up any of its needed cards.'})` - 
+
+**7.** `play({'cards': [0, 2, 3, 5, 7], 'reasoning': "Play the five Diamonds as a Flush, our established Level 4 engine. Flush gets its base 10 Mult, +19 from Supernova and +12 from Bootstraps, with another +4 Mult from the enhanced Ace; the scored cards also benefit from Hiker's accumulated chips. This is the strongest reliable hand available and moves us toward the remaining 4,112 chips needed."})` - 
+
+**8.** `buy({'card': 0, 'reasoning': "Buy Justice for $2 as a targeted, high-impact upgrade for the Flush engine: apply Glass to a high-rank card when it appears in hand, adding ×2 Mult to a scoring flush. This is inexpensive, preserves nearly all of the $41 balance that fuels Bootstraps and Seed Money interest, and is more relevant than Saturn's Straight level-up."})` - 
+
+**9.** `buy({'pack': 0, 'reasoning': "Open the Jumbo Arcana Pack for $4: the current shop has no scoring Joker worth replacing a full, functional five-Joker setup, and the available Saturn is irrelevant to our Flush engine. Tarot choices can improve or thin the deck, while spending exactly down to $35 preserves Bootstraps' current +14 Mult tier and leaves a strong cash reserve."})` - 
+
+**10.** `pack({'card': 4, 'targets': [5], 'reasoning': 'Take The Lovers and make the 9 of Diamonds (hand index 5) Wild. This preserves its rank while letting it count toward whichever suit we need for the Level 4 Flush engine; as a Wild 9 it can also count as a Heart for The Idol’s current 9-of-Hearts trigger. That flexible, permanent deck upgrade is stronger than shifting a few cards into one fixed suit, and Judgement cannot create a Joker while all five slots are occupied.'})` - 
+
+
+
+## Strategic Context
+
+Based on your recent actions, consider:
+- How your decisions are building towards a cohesive strategy
+- Whether your current approach is working or needs adjustment
+- Patterns in your play that might need to change
+
+
+
+

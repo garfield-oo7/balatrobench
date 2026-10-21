@@ -1,0 +1,1 @@
+Use Temperance now for its $12 payout. It is a cash-only consumable with no reason to hold it, and the resulting money can fund a stronger shop upgrade while preserving the interest threshold.

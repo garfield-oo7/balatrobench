@@ -1,0 +1,1 @@
+Sell Red Card to free a slot for Bootstraps. Red Card currently provides only +3 Mult, while Bootstraps adds about +18 Mult at our current savings (plus Foil chips), a much larger immediate scoring increase.

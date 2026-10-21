@@ -1,0 +1,1 @@
+Take Crafty Joker. It gives a reliable +80 Chips whenever a Flush is played, substantially boosting the hand type already demonstrated this round. Wrathful Joker depends on drawing and scoring Spades, while Crafty's condition fits the established Flush play more consistently in the early game.

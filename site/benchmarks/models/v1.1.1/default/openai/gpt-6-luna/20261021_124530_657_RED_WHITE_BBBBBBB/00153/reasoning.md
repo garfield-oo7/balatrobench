@@ -1,0 +1,1 @@
+Play Two Pair with the Jacks and Fives. The Level 7 hand starts at 8 Mult, Mystic Summit adds +15, and the scored Mult-enhanced Club Jack adds +4. A scored Jack activates Photograph for ×2, while Ramen supplies another ×2, comfortably exceeding the remaining 7,864 points needed. Hearts are debuffed, so the non-Heart cards avoid the boss effect.

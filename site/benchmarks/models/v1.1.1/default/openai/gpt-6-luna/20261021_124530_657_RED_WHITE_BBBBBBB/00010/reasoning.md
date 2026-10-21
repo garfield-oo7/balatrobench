@@ -1,0 +1,1 @@
+Play the strongest available hand, Two Pair (Jacks and Tens), for roughly 120 points. Include the 8, 7, and 6 as unscored cards to cycle five cards and improve the final draw, while preserving the Ace in hand.

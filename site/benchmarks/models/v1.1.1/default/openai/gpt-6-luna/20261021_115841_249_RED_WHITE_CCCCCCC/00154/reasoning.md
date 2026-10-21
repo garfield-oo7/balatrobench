@@ -1,0 +1,1 @@
+The listed To Do List is weak and off-strategy, while Magic Trick only unlocks card purchases and offers no immediate scoring. With $41, one $6 reroll leaves $35 and Bootstraps still at +14 Mult; searching for a genuinely strong scoring Joker is worthwhile this late in Ante 6. I will keep the current full lineup unless a clearly superior upgrade appears.

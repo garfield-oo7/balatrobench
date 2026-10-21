@@ -1,0 +1,1 @@
+Play the pair of Queens, including the Mult-enhanced D_Q, while cycling the three non-Heart cards and preserving all five Hearts as a Flush for a later hand. This earns useful Pair/Abstract/Blue Joker score without sacrificing the current Flush setup; I can then use remaining hands to cycle other non-Hearts and reserve the Flush for the Acrobat final hand.

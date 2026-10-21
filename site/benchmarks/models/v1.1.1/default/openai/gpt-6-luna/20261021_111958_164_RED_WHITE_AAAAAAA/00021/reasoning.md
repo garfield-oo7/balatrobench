@@ -1,0 +1,1 @@
+Play a five-card High Card with the King as the scoring card, triggering Scary Face for +30 Chips for roughly 45 points. This cycles five cards while preserving the pair of Aces (plus the Two), giving a good chance to draw into Two Pair or Three of a Kind for the Mad/Zany Jokers on a later hand.

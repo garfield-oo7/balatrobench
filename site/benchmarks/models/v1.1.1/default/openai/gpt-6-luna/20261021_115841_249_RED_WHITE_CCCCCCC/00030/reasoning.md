@@ -1,0 +1,1 @@
+Play the three Sixes as Three of a Kind, scoring all three and triggering Wrathful Joker for the Spade Six. Red Card plus the Spade bonus gives ample Mult; adding the Jack of Clubs and Ten of Hearts as non-scoring fillers cycles five cards while this hand easily covers the remaining 51 chips.

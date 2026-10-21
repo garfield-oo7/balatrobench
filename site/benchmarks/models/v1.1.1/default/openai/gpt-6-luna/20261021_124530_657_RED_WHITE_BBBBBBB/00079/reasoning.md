@@ -1,0 +1,1 @@
+Buy the Celestial Pack for a low-cost chance to level the run's strongest, most-used hand types—especially Two Pair or Three of a Kind. Both already have useful Joker support and increased levels, so a matching Planet provides immediate scaling while preserving most of the $35 reserve.

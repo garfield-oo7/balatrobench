@@ -1,0 +1,1 @@
+Keep the four Spades together—especially A♠ for The Idol—and discard only the off-suit 6♣ and 5♦ to draw two cards toward the Level-6 Flush engine. There is no pair or other scoring hand to cash now, so this is the best route to a high-scoring hand while preserving the core flush cards.
