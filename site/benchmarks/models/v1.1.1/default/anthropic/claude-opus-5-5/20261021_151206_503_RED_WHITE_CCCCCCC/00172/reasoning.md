@@ -1,0 +1,4 @@
+I still need 24,320 more chips, and I'm looking at my hand with S_K, C_K, D_Q, D_9, C_6, H_4, H_2, where C_K is steel and H_2 is glass. I'm weighing whether to play the pair of Kings together or hold back C_K to keep its steel bonus active, considering playing S_K alone first since the pair would give 80 base chips before multipliers.
+
+Calculating the full pair of Kings play: with wrathful adding mult and photograph doubling, plus jokers Red Card, Raised Fist, Bootstraps, Foil, and Cavendish all stacking multiplicatively, I get roughly 25,200 chips — enough to clear the requirement, whereas keeping C_K held for its steel bonus only nets about 20,865, which falls short. So playing both Kings together, with S_K first to trigger photograph properly, looks like the better route, and I'm double-checking the play order since both cards are face cards that could trigger photograph.
+

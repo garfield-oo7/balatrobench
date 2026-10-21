@@ -1,0 +1,1 @@
+Two Pair is my main hand, and Mad Joker is built around it. Uranus raises it to level 6 (+20 chips, +1 Mult).

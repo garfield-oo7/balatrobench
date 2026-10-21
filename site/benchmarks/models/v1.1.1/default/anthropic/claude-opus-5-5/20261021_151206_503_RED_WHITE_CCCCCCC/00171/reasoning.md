@@ -1,0 +1,6 @@
+I still need 24320 more chips with 4 hands and 4 discards left. Looking at my current hand of C_A, S_K, C_T, C_9, S_5, S_3, H_2, I'm considering playing S_K alone since it's a spade face card that triggers Photograph x2, and working out how that stacks with Wrathful's +3 bonus when it scores.
+
+Working through the full calculation: mult goes (1+3)*2=8 from scoring, then Raised Fist adds +4 from the lowest held card making it 12, then Red Card, Bootstraps, and Cavendish push it to 309 mult with 65 chips, giving roughly 20085 total — still short of the 25680 needed. I sanity-checked this against the earlier pair-of-Jacks calculation which matched the actual result of 25680, confirming my model is correct. I also tried playing just H_2 alone with Glass x2, but that only yields around 16.9k, so I'm now thinking the better path is discarding to try to land a pair alongside a face card, since I still have several hands and discards to work with.
+
+Two pair with a face card gets chips around 100+ and multipliers that comfortably clear 24k, and even plain two pairs like 9s and 3s reach well past the target, so two pair is a reliable path. For discards, I'll keep the spade K and the 2 (raised fist low card) since any pair with the K wins, discarding the rest to draw fresh cards and improve my odds.
+

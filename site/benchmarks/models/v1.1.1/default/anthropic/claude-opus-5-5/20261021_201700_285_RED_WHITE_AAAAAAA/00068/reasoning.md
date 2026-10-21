@@ -1,0 +1,1 @@
+Uranus upgrades Two Pair, my main hand: I've played it 8 times, and Mad Joker and Spare Trousers both trigger on it. This takes it to Level 5 (+20 Chips, +1 Mult). Earth would only help Full House, which I rarely play.

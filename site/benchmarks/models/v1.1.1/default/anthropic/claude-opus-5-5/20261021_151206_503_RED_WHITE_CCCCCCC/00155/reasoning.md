@@ -1,0 +1,1 @@
+The pack has three plain cards: K of D, Q of H and 7 of S. None has an enhancement, seal or edition. Adding any of them would just make the deck bigger without helping Two Pair much. Skipping gives Red Card +3 Mult (60 → 63), and that boost applies to every hand.

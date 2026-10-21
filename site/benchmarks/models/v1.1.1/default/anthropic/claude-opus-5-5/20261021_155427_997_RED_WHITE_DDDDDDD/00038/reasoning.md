@@ -1,0 +1,1 @@
+Flush is my main hand, and Droll, Wrathful and Ancient all reward it. Jupiter levels Flush up, which is the best fit for this build.

@@ -1,0 +1,40 @@
+# Memory & Previous Actions
+
+
+## Recent Decision History
+
+Here is a list of your recent decisions (from oldest to newest):
+
+
+**1.** `play({'cards': [0, 1, 4, 5], 'reasoning': 'Two Pair (Aces and 6s): chips are 20+34 = 54, mult is 2 + 10 (Mad Joker) + 6 (Trousers after it grows) = 18, so about 972. That beats the 800 target in one hand, grows Trousers and saves hands for money.'})` - 
+
+**2.** `buy({'card': 0, 'reasoning': 'Even Steven costs $4 and fills an open slot. Two Pair often has even cards, and each one adds +4 Mult. My score is about 54 chips × 18 mult, so even a few more Mult is a big gain. That leaves me $16.'})` - 
+
+**3.** `next_round({'reasoning': "Nothing here is worth the money. High Priestess and the Celestial Pack are random planets with a low chance of Uranus, and Reroll Surplus at $10 is too expensive for now. My Two Pair setup (Mad Joker, Trousers, Scary Face, Even Steven) already clears the Ante 2 targets. I'll save toward $25 for interest and a strong 5th joker."})` - 
+
+**4.** `discard({'cards': [2, 4, 7], 'reasoning': "I'm keeping the pair of 3s plus A, K and 8. Drawing another A, K or 8 makes a Two Pair, which triggers Mad Joker and grows Trousers. A King also gets Scary Face chips and an 8 gets Even Steven mult. That's 9 outs on a 3-card draw, about a 51% chance, and I still have 3 discards left after this."})` - 
+
+**5.** `play({'cards': [1, 2, 5, 6, 7], 'reasoning': "Two Pair of Kings and 3s. Chips: 20 + 26 + 60 (Scary Face on the Kings) = 106. Mult: 2 + 10 (Mad Joker) + 8 (Trousers after it grows) = 20. That's about 2120, which beats 1200 in one hand and saves 3 hands for money. The 2 is an unscored kicker that just cycles out."})` - 
+
+**6.** `buy({'pack': 0, 'reasoning': "I have an open 5th joker slot. Half Joker doesn't fit Two Pair, since that hand needs 4 cards. Spending $4 takes me from $24 to $20, and interest is still $4 either way, so the pack costs me no interest. It could give me a strong 5th joker."})` - 
+
+**7.** `pack({'card': 1, 'reasoning': "Odd Todd goes alongside Even Steven. With both, almost every scored card except face cards gets a bonus: odd ranks give +31 chips each and even ranks give +4 mult each. My Two Pair hands are short on chips (about 50–100) but already have plenty of mult (20+). So a pair of odd cards adds about 62 chips, which could roughly double the hand's score. Green Joker loses mult every time I discard, and I discard a lot to dig for Two Pair, so it would stay weak."})` - 
+
+**8.** `next_round({'reasoning': "None of this helps the Two Pair build. Half Joker needs 3 or fewer cards, and Two Pair uses 4. Saturn levels Straights. All joker slots are full, and Reroll Surplus at $10 isn't worth it yet. The Standard Pack would drop me below $20 and cost interest. I'll save toward $25 for maximum interest, since my current setup already clears Ante 2 easily."})` - 
+
+**9.** `discard({'cards': [0, 1, 2, 3, 4], 'reasoning': "All 8 cards are face down because of The House. I have 4 discards and only need about one Two Pair (~2000) to clear 1600. So I'll throw away 5 cards I can't see and draw 5 face-up cards. That gives me information without spending a hand."})` - 
+
+**10.** `discard({'cards': [2, 3, 4, 5, 7], 'reasoning': "I can't plan around face-down cards, and no pair is showing. I'm keeping A and 3, which are odd and get Odd Todd chips, and J, which gets Scary Face chips. Swapping the other 5 cards for face-up ones gives me the best shot at a Two Pair. I'll still have 2 discards and 4 hands."})` - 
+
+
+
+## Strategic Context
+
+Based on your recent actions, consider:
+- How your decisions are building towards a cohesive strategy
+- Whether your current approach is working or needs adjustment
+- Patterns in your play that might need to change
+
+
+
+

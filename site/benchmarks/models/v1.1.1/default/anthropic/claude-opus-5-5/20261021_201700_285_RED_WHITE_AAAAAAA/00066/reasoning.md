@@ -1,0 +1,4 @@
+Looking at my hand, I'm evaluating the two-pair combinations available: aces with jacks, aces with sevens, or jacks with sevens, plus a possible five-card play with a kicker. For aces and jacks specifically, I'm tallying the base chips at 80 plus the card values, then adding bonuses from Odd Todd for the odd aces and Scary Face for the face jacks to get the total score.
+
+Working through the mult calculation, I'm adding up the base plus Mad Joker plus Spare Trousers' scaling bonus, assuming it triggers before scoring since two pair qualifies. That gives chips times mult around 7564, which just barely clears the 7500 threshold, though I'm a little uncertain whether the Trousers bonus applies in time. Comparing against aces-sevens, that combo scores lower at 240 chips, so aces-jacks is still the better play even with the risk, and I can pad the hand with the six as an unscored kicker since there are still hands left to recover if needed.
+

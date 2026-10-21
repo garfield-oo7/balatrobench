@@ -319,6 +319,10 @@
             <li>Cost is estimated from the providers' published per-token prices (these APIs report none).</li>
             <li><strong>gpt-6-luna</strong> was run with <strong>high</strong> reasoning instead of medium,
               so compare it with the other models with that in mind.</li>
+            <li><strong>claude-opus-5-5</strong> has 5 runs (one per seed) instead of 15, so its averages are less precise.
+              Its AAAAAAA run used BalatroBot with the fix for
+              <a href="https://github.com/coder/balatrobot/issues/199" class="text-blue-600 dark:text-blue-400 hover:underline">coder/balatrobot#199</a>
+              (a hang when a Celestial pack opens with Black Hole first), which froze two earlier attempts at ante 7.</li>
             <li>Games run on a Balatro profile with the whole collection unlocked, each in a fresh game
               instance (avoiding <a href="https://github.com/coder/balatrobot/issues/232" class="text-blue-600 dark:text-blue-400 hover:underline">coder/balatrobot#232</a>).
               <a href="https://github.com/coder/balatrobot/issues/231" class="text-blue-600 dark:text-blue-400 hover:underline">coder/balatrobot#231</a>

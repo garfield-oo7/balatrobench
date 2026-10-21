@@ -1,0 +1,4 @@
+Checking the diamonds in hand—K,6,5,3 give four diamonds, and I notice a straight forms with 3,4,5,6,7, with another straight option running 4 through 8 using C_4,D_5,D_6,C_7,S_8, worth 60 chips with a 4x multiplier.
+
+Factoring in Even Steven for the 4,6,8 cards plus Wrathful on S_8 pushes the multiplier to 19, landing around 1140 without the ancient joker bonus, against a target of 3000. I'm weighing whether to instead discard the non-diamonds to chase a flush—four diamonds already in hand, just need one more, which could push chips and multiplier much higher, especially if the ancient joker happens to favor diamonds, potentially multiplying everything further. With four discards and four hands left, I'm leaning toward discarding C_J, S_8, C_7, C_4 to hunt for a fifth diamond, since the straight locks me into losing diamond cards while the flush path keeps better long-term scoring potential given the remaining deck composition.
+

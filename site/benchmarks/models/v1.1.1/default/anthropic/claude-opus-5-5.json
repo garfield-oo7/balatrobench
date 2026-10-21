@@ -1,0 +1,275 @@
+{
+  "generated_at": 1792587019,
+  "model": {
+    "vendor": "anthropic",
+    "name": "claude-opus-5-5"
+  },
+  "strategy": {
+    "name": "Default",
+    "key": "default",
+    "description": "The default BalatroLLM strategy",
+    "author": "BalatroLLM",
+    "version": "1.0.0",
+    "tags": [
+      "conservative",
+      "financial"
+    ]
+  },
+  "runs": [
+    {
+      "id": "20261021_155427_997_RED_WHITE_DDDDDDD",
+      "model": {
+        "vendor": "anthropic",
+        "name": "claude-opus-5-5"
+      },
+      "strategy": {
+        "name": "Default",
+        "key": "default",
+        "description": "The default BalatroLLM strategy",
+        "author": "BalatroLLM",
+        "version": "1.0.0",
+        "tags": [
+          "conservative",
+          "financial"
+        ]
+      },
+      "config": {
+        "seed": "DDDDDDD",
+        "deck": "RED",
+        "stake": "WHITE"
+      },
+      "run_won": false,
+      "run_completed": true,
+      "final_ante": 6,
+      "final_round": 18,
+      "providers": [
+        [
+          "Anthropic",
+          138
+        ]
+      ],
+      "stats": {
+        "calls_total": 138,
+        "calls_success": 137,
+        "calls_error": 0,
+        "calls_failed": 1,
+        "tokens_in_total": 2940258,
+        "tokens_out_total": 77466,
+        "tokens_in_avg": 21306.217391304348,
+        "tokens_out_avg": 561.3478260869565,
+        "tokens_in_std": 546.4602981969997,
+        "tokens_out_std": 430.2943594775085,
+        "time_total_ms": 1077981,
+        "time_avg_ms": 7811.45652173913,
+        "time_std_ms": 4747.568149085659,
+        "cost_total": 4.1729974,
+        "cost_avg": 0.030239111594202898,
+        "cost_std": 0.009138013251305368
+      }
+    },
+    {
+      "id": "20261021_144655_289_RED_WHITE_BBBBBBB",
+      "model": {
+        "vendor": "anthropic",
+        "name": "claude-opus-5-5"
+      },
+      "strategy": {
+        "name": "Default",
+        "key": "default",
+        "description": "The default BalatroLLM strategy",
+        "author": "BalatroLLM",
+        "version": "1.0.0",
+        "tags": [
+          "conservative",
+          "financial"
+        ]
+      },
+      "config": {
+        "seed": "BBBBBBB",
+        "deck": "RED",
+        "stake": "WHITE"
+      },
+      "run_won": true,
+      "run_completed": true,
+      "final_ante": 9,
+      "final_round": 24,
+      "providers": [
+        [
+          "Anthropic",
+          175
+        ]
+      ],
+      "stats": {
+        "calls_total": 175,
+        "calls_success": 175,
+        "calls_error": 0,
+        "calls_failed": 0,
+        "tokens_in_total": 3713469,
+        "tokens_out_total": 86439,
+        "tokens_in_avg": 21219.822857142855,
+        "tokens_out_avg": 493.9371428571429,
+        "tokens_in_std": 600.9561993170026,
+        "tokens_out_std": 245.77012795778808,
+        "time_total_ms": 1254900,
+        "time_avg_ms": 7170.857142857143,
+        "time_std_ms": 2895.41870339685,
+        "cost_total": 5.0106186,
+        "cost_avg": 0.028632106285714286,
+        "cost_std": 0.005741896253793522
+      }
+    },
+    {
+      "id": "20261021_201700_285_RED_WHITE_AAAAAAA",
+      "model": {
+        "vendor": "anthropic",
+        "name": "claude-opus-5-5"
+      },
+      "strategy": {
+        "name": "Default",
+        "key": "default",
+        "description": "The default BalatroLLM strategy",
+        "author": "BalatroLLM",
+        "version": "1.0.0",
+        "tags": [
+          "conservative",
+          "financial"
+        ]
+      },
+      "config": {
+        "seed": "AAAAAAA",
+        "deck": "RED",
+        "stake": "WHITE"
+      },
+      "run_won": true,
+      "run_completed": true,
+      "final_ante": 9,
+      "final_round": 24,
+      "providers": [
+        [
+          "Anthropic",
+          191
+        ]
+      ],
+      "stats": {
+        "calls_total": 191,
+        "calls_success": 191,
+        "calls_error": 0,
+        "calls_failed": 0,
+        "tokens_in_total": 4087496,
+        "tokens_out_total": 110035,
+        "tokens_in_avg": 21400.50261780105,
+        "tokens_out_avg": 576.0994764397906,
+        "tokens_in_std": 509.8137108100891,
+        "tokens_out_std": 335.51042896919444,
+        "time_total_ms": 1636166,
+        "time_avg_ms": 8566.314136125655,
+        "time_std_ms": 6435.011985901336,
+        "cost_total": 6.1562146,
+        "cost_avg": 0.032231490052356024,
+        "cost_std": 0.01103909317449655
+      }
+    },
+    {
+      "id": "20261021_153856_466_RED_WHITE_EEEEEEE",
+      "model": {
+        "vendor": "anthropic",
+        "name": "claude-opus-5-5"
+      },
+      "strategy": {
+        "name": "Default",
+        "key": "default",
+        "description": "The default BalatroLLM strategy",
+        "author": "BalatroLLM",
+        "version": "1.0.0",
+        "tags": [
+          "conservative",
+          "financial"
+        ]
+      },
+      "config": {
+        "seed": "EEEEEEE",
+        "deck": "RED",
+        "stake": "WHITE"
+      },
+      "run_won": false,
+      "run_completed": true,
+      "final_ante": 5,
+      "final_round": 15,
+      "providers": [
+        [
+          "Anthropic",
+          107
+        ]
+      ],
+      "stats": {
+        "calls_total": 107,
+        "calls_success": 107,
+        "calls_error": 0,
+        "calls_failed": 0,
+        "tokens_in_total": 2269833,
+        "tokens_out_total": 54936,
+        "tokens_in_avg": 21213.392523364488,
+        "tokens_out_avg": 513.4205607476636,
+        "tokens_in_std": 520.9568800649137,
+        "tokens_out_std": 268.73066538202096,
+        "time_total_ms": 772784,
+        "time_avg_ms": 7222.280373831775,
+        "time_std_ms": 3139.0023466014914,
+        "cost_total": 3.0934346,
+        "cost_avg": 0.028910603738317758,
+        "cost_std": 0.0058495029823364695
+      }
+    },
+    {
+      "id": "20261021_151206_503_RED_WHITE_CCCCCCC",
+      "model": {
+        "vendor": "anthropic",
+        "name": "claude-opus-5-5"
+      },
+      "strategy": {
+        "name": "Default",
+        "key": "default",
+        "description": "The default BalatroLLM strategy",
+        "author": "BalatroLLM",
+        "version": "1.0.0",
+        "tags": [
+          "conservative",
+          "financial"
+        ]
+      },
+      "config": {
+        "seed": "CCCCCCC",
+        "deck": "RED",
+        "stake": "WHITE"
+      },
+      "run_won": true,
+      "run_completed": true,
+      "final_ante": 9,
+      "final_round": 24,
+      "providers": [
+        [
+          "Anthropic",
+          186
+        ]
+      ],
+      "stats": {
+        "calls_total": 186,
+        "calls_success": 186,
+        "calls_error": 0,
+        "calls_failed": 0,
+        "tokens_in_total": 3959296,
+        "tokens_out_total": 93417,
+        "tokens_in_avg": 21286.537634408603,
+        "tokens_out_avg": 502.241935483871,
+        "tokens_in_std": 609.7725594446433,
+        "tokens_out_std": 259.045943049274,
+        "time_total_ms": 1314424,
+        "time_avg_ms": 7066.795698924731,
+        "time_std_ms": 2973.673136981101,
+        "cost_total": 5.428712,
+        "cost_avg": 0.029186623655913978,
+        "cost_std": 0.0059145335321017746
+      }
+    }
+  ]
+}

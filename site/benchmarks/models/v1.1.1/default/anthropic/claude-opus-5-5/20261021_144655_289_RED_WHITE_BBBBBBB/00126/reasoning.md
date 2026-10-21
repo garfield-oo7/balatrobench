@@ -1,0 +1,1 @@
+Two Pair is my main hand, and Uranus takes it to level 7 (+20 chips, +1 Mult). This also works with Mad Joker's bonus.

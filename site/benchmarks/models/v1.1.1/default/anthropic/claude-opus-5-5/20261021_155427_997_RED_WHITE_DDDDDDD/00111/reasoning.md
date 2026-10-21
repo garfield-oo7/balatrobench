@@ -1,0 +1,4 @@
+I'm aiming for 20000 with 5 hands and 4 discards left, checking the Ancient Joker's current suit (Diamonds). Looking at my hand, I spot K-Q-J-T-9 across suits, which forms a straight — calculating that gives roughly 171 chips before mult with the blue bonus factored in.
+
+Applying the mult modifiers (base 4, wrathful joker +3, plus others totaling 41, then ×1.5 for the diamond ten) brings this straight to around 10,500 points, though acrobat's final-hand ×3 isn't active yet since this isn't the last hand. I also check a potential flush route — five spades could reach level 4 flush scoring around 212 chips and 59 mult, which with acrobat's final ×3 could hit 37k, way more lucrative. Given I need 20k total across 5 hands, playing the straight now for ~10.5k seems like a solid, safe move that still leaves room to build toward the goal, so I'll go with the straight rather than discarding for the flush.
+

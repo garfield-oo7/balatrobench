@@ -1,0 +1,4 @@
+I need 480 more points with three hands available. Checking the pair of Jacks with the scary face bonuses gives me 450, close but not enough, so I'm considering whether adding the King or building toward a straight with the Ace-King-Queen-Jack could close the gap.
+
+The straight option A-K-Q-J-T works out much better: with the scary face chips and suit multipliers, that's 171 chips times 10 mult, giving 1710 — more than enough. I'm weighing whether to just play the safe pair of Jacks for 450 now and finish the remaining 30 points easily in a later hand, versus discarding the junk cards to chase the Ten and complete the straight in one shot, saving a hand. The straight chase has roughly a 30% shot at the Ten, and even if it misses I can fall back on pairs, so I'm leaning toward discarding the 9, 7, and 3 while holding onto the Ace-King-Queen-Jack-Jack.
+

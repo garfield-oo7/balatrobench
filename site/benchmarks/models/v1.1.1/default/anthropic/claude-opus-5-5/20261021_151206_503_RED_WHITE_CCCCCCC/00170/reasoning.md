@@ -1,0 +1,6 @@
+I'm working out scoring with the target of 50000 over 5 hands and 4 discards, factoring in the jokers' effects—Red Card's flat mult bonus, Bootstraps' chip boost, Cavendish copies, and Photograph. With a hand showing a pair of Jacks, I'm calculating base chips plus the stacked mult bonuses including Raised Fist's bonus from the lowest held card.
+
+Photograph's ×2 triggers during card scoring, before Wrathful's +3 adds in, so ordering S_J first versus C_J first changes whether the multiplier gets doubled before or after the bonus—(2+3)×2=10 beats applying the ×2 too early. I'm also considering that Photograph's bonus is mostly wasted on small early mult values, so it'd be better applied after the bigger additions land during the joker phase.
+
+With S_J played first and S_3 held for Raised Fist (lowest=3 → +6), total becomes 10+69+6+22=107, ×3 Cavendish = 321 mult, 80 chips = 25,680 — two such hands cover 50k easily. I'm weighing whether a two-pair play with Jacks could do even better in one shot: roughly 100 base chips, mult around (6+3)×2 plus the joker additions, landing near 345 mult and over 60k score, which would finish the round in a single hand since there are five hands to spare.
+

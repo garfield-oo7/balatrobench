@@ -1,0 +1,1 @@
+Uranus raises Two Pair, my main hand, from level 4 to level 5. Mad Joker is built around Two Pair, so this boosts my core scoring hand.
