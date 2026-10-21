@@ -1,0 +1,1 @@
+Use The Hermit now to turn $16 into $32. We urgently need scoring support because neither current Joker adds Chips or Mult. This funds the $4 Zany Joker while leaving $28, above the maximum-interest threshold. Waiting for a full $20 Hermit payout would delay that scoring upgrade or reduce this round's interest.

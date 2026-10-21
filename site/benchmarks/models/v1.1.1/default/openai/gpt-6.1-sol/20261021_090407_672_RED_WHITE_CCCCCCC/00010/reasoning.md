@@ -1,0 +1,1 @@
+Keep the kings and jacks, discarding the ace, both tens, and the three to draw four cards toward a full house or four of a kind. Either remaining king or jack completes a full house worth 360 chips, while four of a kind would beat the 450-chip blind outright. We retain all four hands and two further discards if this draw misses.

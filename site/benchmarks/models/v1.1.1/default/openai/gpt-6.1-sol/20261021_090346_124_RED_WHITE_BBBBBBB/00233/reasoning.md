@@ -1,0 +1,1 @@
+Sell The Star as planned, restoring $40 and increasing Campfire from ×1.25 to ×1.50. This is a free 20% increase to all hand scores and restores two Bull chips; suit conversion is much less valuable for our level-9 Three of a Kind strategy. Keep every scoring Joker.

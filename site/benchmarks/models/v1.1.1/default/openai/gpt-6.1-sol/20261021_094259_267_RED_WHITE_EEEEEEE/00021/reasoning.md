@@ -1,0 +1,1 @@
+Use the final discard on J♠, 10♣, and 9♥, keeping K♥, J♦, 8♦, 6♥, and 2♥. This preserves a guaranteed red flush worth (35+10+10+8+6+2) × (4+12) = 1,136. Any newly drawn even-ranked red card can replace a face card and push the flush above 1,200 for a one-hand win. If none arrives, the preserved flush leaves only 64 chips to finish with three hands remaining.

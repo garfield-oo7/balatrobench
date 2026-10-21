@@ -1,0 +1,1 @@
+Use The Hermit now to gain its maximum $20, increasing cash from $98 to $118 and freeing a consumable slot. There is no benefit to waiting at this balance; the extra money can fund final-ante upgrades while preserving maximum interest. Keep The Chariot for a Steel-card target during a blind.

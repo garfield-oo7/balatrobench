@@ -1,0 +1,1 @@
+Play the ready five-spade level-7 Flush for a guaranteed one-hand clear: (125 base Chips +35 card Chips +100 from Foil Jokers) × (16 base Mult +4 from Mult King +15 Wrathful +36 Red Card +48 Bootstraps) ×3 Cavendish = 92,820, well above 30,000. Preserve Justice for a harder blind and retain four unused hands for income; Joker order already puts Cavendish after all additive Mult.

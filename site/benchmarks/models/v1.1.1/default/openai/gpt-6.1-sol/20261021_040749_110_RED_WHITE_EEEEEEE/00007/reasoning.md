@@ -1,0 +1,1 @@
+Even Steven provides strong immediate scoring for only $4: each scored even card adds +4 Mult, making even-ranked pairs and flushes effective against upcoming blinds. This secures a reliable early scoring Joker while retaining $5 for interest; it is safer than spending nearly all our money on random packs.

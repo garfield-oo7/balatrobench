@@ -1,0 +1,1 @@
+Neither Crazy Joker nor Mercury improves our Ancient-powered flush strategy. Reroll for $5, leaving $64 above Seed Money's $50 maximum-interest threshold, to seek a substantial upgrade such as Blueprint, retriggers, independent ×Mult, or Jupiter. Keep our current scoring Jokers unless a clearly stronger replacement appears; Abstract is the most replaceable slot.

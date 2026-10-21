@@ -1,0 +1,1 @@
+Discard a black Flush using Smeared Joker to trigger Burnt Joker, permanently raising Flush to level 12 (200 Chips, 26 Mult). Preserve Steel 3♣ for its held ×1.5 Mult and 8♣ for Even Steven's +4 Mult; retain 8♦ as an alternative red-flush building block. Five fresh cards and three remaining discards should readily produce a winning Flush while preserving all four hands.

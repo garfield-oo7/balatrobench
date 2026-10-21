@@ -1,0 +1,1 @@
+Only 4 chips remain. Play the Ace of Hearts as High Card for (5 + 11) × 1 = 16 chips, clearing the blind immediately and preserving two unused hands for $2.

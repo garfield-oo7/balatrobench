@@ -1,0 +1,1 @@
+Keep A♠, J♠, 9♠, and 6♠; draw four cards to seek the fifth spade. That flush scores at least 292 chips, putting the remaining 437 within reach over our three hands. We have three discards available, so prioritize strong scoring hands rather than spend another hand on a low-scoring Pair. Save The Hermit until we have more money to double.

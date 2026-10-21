@@ -1,0 +1,1 @@
+Play the five highest Spades for a level-7 flush: (125 base + 43 card chips + 100 Foil chips) × (16 base + 15 Wrathful + 39 Red Card + 48 Bootstraps) × 3 Cavendish = 94,872 chips even without Lucky King activations, easily clearing 30,000. Cavendish is correctly last. Win with four hands unused, retaining Justice for a harder blind.

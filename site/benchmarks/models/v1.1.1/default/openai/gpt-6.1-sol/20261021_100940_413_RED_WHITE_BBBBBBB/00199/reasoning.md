@@ -1,0 +1,1 @@
+Open the $2 Celestial Pack, leaving $27 and maximum interest. Venus would permanently strengthen our primary level-11 Three of a Kind, especially valuable after Campfire resets at the boss; Uranus could improve our secondary Two Pair option. This is a cheap opportunity for permanent scaling without replacing any scoring Joker or paying $6 for another reroll.

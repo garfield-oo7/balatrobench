@@ -1,0 +1,1 @@
+Buy Splash for just $2, leaving $55 and one Joker slot open. It lets all five played cards contribute chips and lets otherwise-unscored Spades trigger Wrathful Joker, substantially improving weak hands and mixed-suit hands when a Spade flush is unavailable. This is inexpensive immediate insurance while we continue looking for stronger scaling; keep Red Card and foil Trading Card.

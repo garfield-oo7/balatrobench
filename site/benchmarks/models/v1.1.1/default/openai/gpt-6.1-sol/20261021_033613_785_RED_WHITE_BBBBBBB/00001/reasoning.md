@@ -1,0 +1,1 @@
+Keep A♣, Q♣, and 6♣ and draw five cards toward a club flush. A flush needs 40 card chips to beat the 300-chip blind in one hand; these clubs already supply 27. With four discards available, pursuing a strong hand preserves hands for end-of-round income rather than spending one on a weak pair.

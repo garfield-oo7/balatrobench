@@ -1,0 +1,1 @@
+Complete the planned Scary Face replacement by buying Blue Joker into the open slot. Its remaining-deck chip bonus supports every hand and complements our Even Steven/Ancient scoring engine without requiring face cards. Filling the sixth slot also restores Abstract Joker from +15 to +18 Mult. This leaves $38, safely above the $25 maximum-interest threshold.

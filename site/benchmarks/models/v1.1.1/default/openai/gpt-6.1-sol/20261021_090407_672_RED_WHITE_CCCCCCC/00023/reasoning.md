@@ -1,0 +1,1 @@
+Destroy the club two with our first single-card discard to trigger Trading Card, earning $3 and permanently removing a weak non-spade. Preserve the spade king for Wrathful Joker, the pair of fives, and four diamonds as potential scoring routes; reassess after drawing the replacement.

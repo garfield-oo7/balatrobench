@@ -1,0 +1,1 @@
+Buy Jupiter for $3 to upgrade our primary Flush from level 14 to 15 (+15 Chips and +2 Mult). This is a guaranteed permanent scoring improvement that compounds with held Steel cards and ×4 Hologram, unlike gambling on Celestial Packs without Telescope. We retain $81, comfortably above the $50 required for maximum Seed Money interest.

@@ -1,0 +1,1 @@
+Take Jupiter to upgrade our primary Flush from level 5 to 6 (+15 Chips, +2 Mult). With two Foil Jokers and high additive Mult, the extra base chips provide a larger improvement to our spade flushes than skipping for Red Card's +3 Mult. This strengthens our established strategy without reducing money or Bootstraps.

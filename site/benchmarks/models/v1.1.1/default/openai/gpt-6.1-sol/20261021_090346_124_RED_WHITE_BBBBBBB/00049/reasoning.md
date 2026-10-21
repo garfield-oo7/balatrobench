@@ -1,0 +1,1 @@
+Fill the open Joker slot with Mystic Summit for $4, retaining $31 and maximum interest. Exhausting discards to find full houses or trips will activate its +15 Mult, substantially strengthening both our main full-house engine and level-3 trips fallback. This completes the planned replacement of To Do List without sacrificing any existing scoring synergy.

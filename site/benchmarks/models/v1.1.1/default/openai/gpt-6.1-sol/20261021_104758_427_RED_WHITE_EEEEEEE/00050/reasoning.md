@@ -1,0 +1,1 @@
+Buy the Standard Pack to start scaling Hologram from X1 to X1.25, a permanent 25% boost to every hand, while choosing a useful even-ranked or enhanced card for our Two Pair build. At $32 afterward we retain maximum interest. This is a more reliable improvement than off-strategy planets or rerolling with all Joker slots filled.

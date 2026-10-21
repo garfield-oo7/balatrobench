@@ -1,0 +1,1 @@
+Use Uranus now to raise Two Pair to level 25 (500 base chips and 26 base Mult). This permanently improves our main scoring hand, amplified by Blueprint and Hologram for ×18.0625 Mult, and frees a consumable slot. There is no Observatory shown to justify holding it; preserve Chariot for a Steel enhancement when playing cards are available.

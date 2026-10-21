@@ -1,0 +1,1 @@
+Use The Fool to copy Venus, the last Tarot or Planet used, as established in our recent actions. This converts our $2 purchase into a guaranteed upgrade for our primary Three of a Kind rather than spending more on speculative rerolls. Then use the generated Venus to reach level 6 (130 Chips, 13 Mult), retaining $32 and maximum interest.

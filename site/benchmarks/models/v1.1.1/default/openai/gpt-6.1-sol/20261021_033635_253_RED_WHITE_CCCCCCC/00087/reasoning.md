@@ -1,0 +1,1 @@
+Destroy the debuffed Q♣ with Trading Card's first single-card discard and earn $3, raising money to $79 while retaining +30 Bootstraps Mult. The Queen cannot score against The Plant and has no spade synergy; keep J♠ for potential flush formation and future Wrathful value. Draw the replacement before deciding whether to repeat The World with The Fool to build a strong spade flush.

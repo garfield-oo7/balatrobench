@@ -1,0 +1,1 @@
+Keep A♠, 8♠, and 3♠ and draw five toward a spade flush. Any completed spade flush easily exceeds 450 thanks to Wrathful Joker's +15 Mult, even without face cards. With four discards available, pursuing the flush offers a strong chance of winning in one hand and preserving $3 in unused-hand income.

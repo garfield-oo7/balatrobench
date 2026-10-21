@@ -1,0 +1,1 @@
+We have no scoring Jokers, so the $4 Buffoon Pack is the best opportunity to secure early chips or Mult and clear upcoming blinds efficiently. Open it before deciding on To Do List; $6 remains, enough to buy that economy Joker if the pack does not offer a better use of our funds. Skip Neptune, Standard Pack, and Hieroglyph because they do not provide reliable immediate scoring.

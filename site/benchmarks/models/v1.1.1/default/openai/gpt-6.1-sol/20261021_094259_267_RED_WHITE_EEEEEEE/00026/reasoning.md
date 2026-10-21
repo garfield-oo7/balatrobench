@@ -1,0 +1,1 @@
+The House hides all initial cards, so discard five unknown cards to draw five visible replacements while preserving all four scoring hands. With Smeared Joker we can build a red or black flush from revealed cards, prioritizing even ranks for Even Steven and our growing Supernova bonus. Four discards give ample room to overcome the hidden opening without gambling a hand.

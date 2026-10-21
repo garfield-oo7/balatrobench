@@ -1,0 +1,1 @@
+Keep 10♠ and draw five toward a spade flush: Wrathful, Even Steven, and Ancient combine strongly enough to clear this boss in one hand. Preserve Q♦ and 10♦ as useful fallback cards for face-card chips, a pair, or a diamond flush if the draw favors diamonds. We have four discards, so use them before spending scoring hands. Do not use The Moon: clubs are debuffed by this boss.

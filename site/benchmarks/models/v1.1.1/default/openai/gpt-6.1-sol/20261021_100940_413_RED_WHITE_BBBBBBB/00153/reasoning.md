@@ -1,0 +1,1 @@
+Reroll for $3, leaving $34 and maximum interest. Neither shop Joker improves our level-10 Three of a Kind engine. We are strong enough for current blinds but need additional scaling for Antes 7–8, so look for a reliable ×Mult Joker to replace a flat bonus, or useful Tarot/planet upgrades. Keep Ramen rightmost; the discounted Celestial Packs remain available after rerolling.

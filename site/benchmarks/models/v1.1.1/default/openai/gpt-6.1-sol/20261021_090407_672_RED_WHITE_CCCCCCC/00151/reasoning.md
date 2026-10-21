@@ -1,0 +1,1 @@
+Play the ready five-Spade level-7 Flush for (125 base +43 card chips +100 Foil chips) × (16 base +4 Mult Ace +15 Wrathful +39 Red Card +52 Bootstraps) ×3 Cavendish = 101,304 chips, comfortably clearing The Manacle's 40,000 target in one hand. Keep Justice for later and preserve four unused hands for income. Cavendish is already correctly positioned after additive Mult.

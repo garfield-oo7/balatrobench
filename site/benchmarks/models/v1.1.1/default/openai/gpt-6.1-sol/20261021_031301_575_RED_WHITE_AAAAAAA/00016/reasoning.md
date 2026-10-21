@@ -1,0 +1,1 @@
+Play Aces and Sixes as Two Pair, activating Mad Joker and holographic Runner: (20 + 11 + 11 + 6 + 6) × (2 + 10 + 10) = 1,188 chips. This comfortably clears the remaining 635 points and preserves five unused hands for $5.

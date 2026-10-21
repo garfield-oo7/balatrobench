@@ -1,0 +1,1 @@
+Keep both Queens and both Fives and redraw the four unpaired cards to seek a full house or four of a kind. Either full house wins immediately: Queens full scores 320, and Fives full scores 300. Using discards before hands preserves potential end-of-round income.

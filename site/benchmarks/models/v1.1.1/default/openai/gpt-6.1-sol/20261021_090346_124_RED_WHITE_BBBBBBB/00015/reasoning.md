@@ -1,0 +1,1 @@
+Buy Venus for $3, retaining $27 and maximum interest. It directly supports Zany Joker: level-2 trips score (50 + card chips) × 17 instead of (30 + card chips) × 15. Even three 2s now score 952, comfortably clearing the normal Ante 1 boss's 600 requirement in one hand. This improves our reliable fallback when a full house is unavailable without sacrificing interest.

@@ -1,0 +1,1 @@
+Sell the Mercury just purchased to recover $1 and increase Campfire from ×3.75 to ×4, boosting every hand by 6.7% for the final boss. This is substantially better than upgrading our level-1 Pair when our primary hands are level-9 Three of a Kind and level-11 Two Pair. Preserve all five scoring Jokers and their current order.

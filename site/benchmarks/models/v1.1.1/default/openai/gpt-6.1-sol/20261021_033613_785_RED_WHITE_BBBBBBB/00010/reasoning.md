@@ -1,0 +1,1 @@
+Keep A♠, J♠, 9♠, and 2♠ and draw four cards toward a spade flush. We need 406 more chips with three hands remaining; a flush scores 276–308 or more if we replace the 2♠, leaving a manageable second hand. Use our three remaining discards to secure strong scoring rather than spending a hand on the 60-chip pair of Jacks. Save The Hermit until our money is higher for a larger payout.

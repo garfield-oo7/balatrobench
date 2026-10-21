@@ -1,0 +1,1 @@
+Convert A♣, K♣, and T♣ to Spades. Wrathful Joker then gives each +3 Mult whenever scored, and Splash ensures they score even as extra cards. This also improves spade-flush consistency while retaining their high chip values for Hiker scaling. This Jumbo pack allows two picks; take Temperance next for $10 and leave it as the last-used Tarot so our held Fool can copy it.

@@ -1,0 +1,1 @@
+Buy Mercury for $3 and then sell it for $1 to raise Campfire from ×2.75 to ×3. This gives a guaranteed 9.1% scoring increase for our Spade flush engine through the remaining two blinds at only $2 net cost. Pair upgrades are much less useful than universal multiplier scaling here. Keep all six synergistic Jokers and reserve money for a possible $10 boss reroll.

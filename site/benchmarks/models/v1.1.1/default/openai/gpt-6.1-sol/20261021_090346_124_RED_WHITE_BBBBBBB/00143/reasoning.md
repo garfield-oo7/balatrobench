@@ -1,0 +1,1 @@
+All five Joker slots are occupied, and the available pack action cannot sell or replace a Joker, so neither non-Negative card can currently be added. Card Sharp would be a worthwhile replacement for Raised Fist for repeated trips or Two Pair, but acquiring it requires first freeing a slot, which is not an available action here. Skip rather than attempt an invalid selection.

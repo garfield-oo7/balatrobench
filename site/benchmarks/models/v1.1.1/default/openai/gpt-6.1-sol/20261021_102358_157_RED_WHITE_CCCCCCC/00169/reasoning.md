@@ -1,0 +1,1 @@
+Use the first discard on the debuffed A♦: Trading Card destroys it permanently and earns $3, thinning an off-suit card while preserving our ready Spade flush. After drawing, A♠ K♠ Q♠ J♠ 5♠ already guarantees at least (140 + 46 + 100) × (18 + 15 + 42 + 72) × 3 = 126,126, comfortably above the 70,000 target. Keep Justice and the Lucky King intact; no Joker reordering is needed.

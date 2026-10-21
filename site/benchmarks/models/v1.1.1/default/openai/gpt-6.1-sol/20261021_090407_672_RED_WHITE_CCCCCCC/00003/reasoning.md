@@ -1,0 +1,1 @@
+Keep the tens and nines, now the two highest pairs, and draw four cards toward a full house or four of a kind. A tens-over-nines full house scores 352 and nines-over-tens scores 348, either beating this blind in one hand. This offers a better immediate payoff than chasing the four-card spade flush, which may score below 300. One discard remains after this attempt.

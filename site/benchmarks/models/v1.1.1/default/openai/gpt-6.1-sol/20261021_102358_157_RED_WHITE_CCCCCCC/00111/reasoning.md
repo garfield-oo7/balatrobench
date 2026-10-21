@@ -1,0 +1,1 @@
+Play the ready level-5 Spade flush for a guaranteed one-hand win: (95 base + 48 card chips + 100 foil chips) × (12 base + 15 Wrathful + 4 Mult enhancement + 30 Red Card + 30 Bootstraps) × 3 Cavendish = 66,339, comfortably exceeding 16,500. Preserve four unused hands for payout and save Justice for a tougher blind; Trading Card has already provided this round's thinning and $3.

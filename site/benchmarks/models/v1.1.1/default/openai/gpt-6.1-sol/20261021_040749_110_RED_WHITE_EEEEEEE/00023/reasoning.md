@@ -1,0 +1,1 @@
+Play Nines full of Eights to beat the blind immediately: (40 base Chips + 27 from Nines + 16 from Eights) × (4 base Mult + 8 from Even Steven + 8 from Jolly Joker) = 1,660, exceeding 1,200. Preserve three unused hands for $3 and keep our savings intact.

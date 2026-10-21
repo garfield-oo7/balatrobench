@@ -1,0 +1,1 @@
+Choose Jupiter to upgrade our primary hand, Flush, from level 3 to 4: base Chips rise from 65 to 80 and base Mult from 8 to 10. The extra base Mult is amplified by Ancient Joker's repeated ×1.5 triggers and held Steel cards. This directly strengthens our established flush engine; the other planets upgrade hands we rarely play.

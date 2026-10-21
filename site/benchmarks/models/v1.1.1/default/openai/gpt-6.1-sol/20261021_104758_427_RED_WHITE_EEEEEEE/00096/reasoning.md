@@ -1,0 +1,1 @@
+Play exactly two Tens and two Twos for level-9 Two Pair; leave the third Two unplayed to avoid a level-1 Full House. With Blueprint copying Hologram, this scores (180+24) × (10+16 from Even Steven+11 from Supernova) ×2×2 = 30,192, comfortably exceeding the remaining 10,800. Keep the Lucky Eight for future draws if needed; no additional discards or consumables are necessary.

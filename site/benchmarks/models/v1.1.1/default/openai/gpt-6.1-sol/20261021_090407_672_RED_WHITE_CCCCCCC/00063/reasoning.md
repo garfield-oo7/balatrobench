@@ -1,0 +1,1 @@
+Move Supernova before Cavendish so its growing additive Mult is included in Cavendish's X3 multiplier. Keep all five current Jokers: Foil Trading Card provides chips, thinning, and income, while Red Card and Wrathful Joker support our flush scoring. This free ordering fix immediately increases every hand's score.

@@ -1,0 +1,1 @@
+Complete the planned buy-and-sell of The Sun: recover $1 to reach $50 and raise Campfire from ×2.75 to ×3, increasing every hand's score by about 9.1% while also adding 2 Bull chips. Suit conversion does not support our leveled Three of a Kind/Two Pair strategy nearly as much as this guaranteed boost for the upcoming boss. Preserve all five scoring Jokers.

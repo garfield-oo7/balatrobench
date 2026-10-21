@@ -1,0 +1,1 @@
+Discard all five red cards to dig for our Spade-flush engine while keeping the three black Clubs as Blackboard-compatible reserves. The red Steel 7's ×1.5 is less valuable than enabling Blackboard's ×3, so do not retain it. With no Spades currently available, preserve all five scoring hands and save Justice for a Spade that Seltzer can retrigger.

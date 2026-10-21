@@ -1,0 +1,1 @@
+Buy The Hermit for $3 into our free consumable slot, then use it for $20: a guaranteed net $17 increases our upgrade budget without sacrificing any Joker or scoring power. Keep The Chariot for a held Steel card and Blueprint copying Hologram. Popcorn is unnecessary given our strong Two Pair engine and would require replacing a useful Joker.

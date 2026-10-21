@@ -1,0 +1,1 @@
+Buy The Fool for $3 to sell for $1, raising Campfire from X1.25 to X1.5 at a net cost of just $2. This is a reliable 20% scoring increase for our Spade flush engine while Ancient targets Diamonds, and leaves us above $50 for maximum Seed Money interest. Our Joker slots are full, so Even Steven cannot be used as inexpensive Campfire fuel without sacrificing a valuable Joker.

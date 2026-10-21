@@ -1,0 +1,1 @@
+Play the guaranteed full house, fours full of sixes. The debuffed Heart 4 still completes three of a kind but contributes no chips, so this scores (40 + 6 + 6 + 4 + 4 + 50 Foil) × 4 = 440. That leaves only 160 points needed with three hands remaining, while retaining the 10, 9, and 8 as a potential straight foundation and drawing five fresh cards.

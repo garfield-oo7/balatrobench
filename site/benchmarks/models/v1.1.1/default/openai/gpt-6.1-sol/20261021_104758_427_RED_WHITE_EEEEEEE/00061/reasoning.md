@@ -1,0 +1,1 @@
+Sell Jupiter: Flush upgrades do not support our level-4 Two Pair engine, whereas the $1 and freed consumable slot can support useful Tarot or Uranus generation. Keep all five synergistic Jokers; the remaining shop offers no worthwhile upgrade, and preserving at least $25 is preferable to another $6 reroll.

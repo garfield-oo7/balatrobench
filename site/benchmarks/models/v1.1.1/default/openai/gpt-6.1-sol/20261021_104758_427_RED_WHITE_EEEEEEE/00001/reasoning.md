@@ -1,0 +1,1 @@
+Keep both Queens and both Fives, discarding the four unpaired cards to seek a full house or four of a kind. A Queens-full full house scores 320, enough to beat this blind in one hand; four discards give ample chances while preserving hands for payout.

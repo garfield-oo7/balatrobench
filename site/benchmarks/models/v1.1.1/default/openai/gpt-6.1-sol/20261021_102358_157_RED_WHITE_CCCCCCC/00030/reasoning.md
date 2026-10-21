@@ -1,0 +1,1 @@
+Keep all four Spades (A, K, 8, 2) and draw four cards seeking a fifth Spade. A Spade flush triggers Wrathful Joker five times and Trading Card's Foil: even with a 3 as the fifth card, it scores (35 + 11 + 10 + 8 + 2 + 3 + 50) × (4 + 15) = 2,261, comfortably beating the 1,200 target in one hand. Three discards remain, giving us multiple attempts while preserving all four hands.

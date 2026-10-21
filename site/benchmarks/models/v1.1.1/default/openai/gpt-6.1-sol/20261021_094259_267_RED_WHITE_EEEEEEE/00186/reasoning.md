@@ -1,0 +1,1 @@
+Play a black Flush using Smeared Joker: S_K, C_K, C_6, C_5, and S_3. With level-28 Flush, the Mult King, Supernova, and Blueprint copying Hologram, this scores approximately 825,471—comfortably above 75,000 in one hand. Keep the Gold Ace held for $3, preserve three unused hands for income, and save The Chariot for the final boss.

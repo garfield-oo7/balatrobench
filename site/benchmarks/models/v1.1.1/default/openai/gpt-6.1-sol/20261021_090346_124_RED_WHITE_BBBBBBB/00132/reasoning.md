@@ -1,0 +1,1 @@
+Use Uranus now to upgrade Two Pair to level 7: 140 base Chips and 8 Mult. This strengthens our reliable alternative to trips, with Clever Joker adding 80 Chips and Ramen multiplying the Mult. There is no Observatory benefit to holding it, and freeing the slot lets our Blue Seal generate another planet next round.

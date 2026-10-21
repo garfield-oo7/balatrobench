@@ -1,0 +1,1 @@
+Keep both complementary scoring jokers and leave: with $2, nothing in this shop is affordable, and selling useful jokers to fund a speculative pack would weaken our early-game foundation. Scary Face supplies chips and Negative Wrathful supplies mult without consuming a normal slot. Favor scoring spades and face cards next round while rebuilding money toward interest.

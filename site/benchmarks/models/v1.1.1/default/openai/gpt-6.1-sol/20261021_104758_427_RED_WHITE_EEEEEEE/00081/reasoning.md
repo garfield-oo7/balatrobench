@@ -1,0 +1,1 @@
+Buy Blueprint for the open Joker slot, retaining $40 and maximum interest. Copy Burnt Joker before the first discard each round to gain two permanent Two Pair levels, then reposition Blueprint immediately left of Hologram when scoring for another ×1.75 Mult. This flexible scaling upgrade substantially outperforms the Jolly Joker we sold to make room.

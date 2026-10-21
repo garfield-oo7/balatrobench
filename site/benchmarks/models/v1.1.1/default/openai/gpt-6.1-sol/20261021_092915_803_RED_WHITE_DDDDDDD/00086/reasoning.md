@@ -1,0 +1,1 @@
+Ancient Joker currently rewards Hearts, so build toward a Heart flush around 8♥ rather than settle for a weak off-suit hand. Discard five non-Hearts to maximize draws while preserving all four hands and three further discards. Temporarily retain the Mult-enhanced 10♠ and even-ranked 6♣ as the strongest fallback scoring cards; replace these too as more Hearts arrive.

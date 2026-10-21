@@ -1,0 +1,1 @@
+Sell Earth as planned: Campfire rises from ×2 to ×2.25, giving every hand 12.5% more score through the final boss. Restore $50 and Bull's +100 Chips while freeing a slot to buy and resell the $1 Moon for another cost-neutral Campfire increase. Leveling Full House is much less useful than boosting our level-9 Three of a Kind and level-10 Two Pair.

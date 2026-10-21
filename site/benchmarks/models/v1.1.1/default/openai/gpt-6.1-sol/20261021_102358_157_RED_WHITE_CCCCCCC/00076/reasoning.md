@@ -1,0 +1,1 @@
+Enhance both Spades with The Empress. They synergize with Wrathful Joker, and Splash lets both score even when the 6 is a kicker. Then the pair of 9s with Q♦, J♦, and 6♠ will score (10 + 44 + 50) × (2 + 24 + 6 + 8) × 3 = 12,480, comfortably clearing this blind in one hand while permanently improving two cards and freeing the consumable slot.

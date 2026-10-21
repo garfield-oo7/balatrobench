@@ -1,0 +1,1 @@
+Play J♦, 10♦, 8♦, 7♦, and 2♦ for a guaranteed winning flush. Chips are 35 base + 37 card values + 30 from Scary Face = 102; Mult is 4 base + 12 from the three even diamonds + 10 from Droll = 26. This scores 2,652, exceeding the 2,000 target in one hand and preserving three hands for $3 income. No further discards or rearrangements are needed.

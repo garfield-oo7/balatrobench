@@ -1,0 +1,1 @@
+Keep J♥, 10♥, and 7♥ and draw four. The current pair scores only 48, so use our plentiful discards rather than spend a hand. These hearts offer a flush route with Scary Face support; additional face cards or spades can also open stronger mixed hands. Reassess the draw before committing, since a heart flush with only one face will not reach 600 by itself.

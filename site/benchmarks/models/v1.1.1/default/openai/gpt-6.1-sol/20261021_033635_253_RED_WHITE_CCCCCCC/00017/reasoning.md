@@ -1,0 +1,1 @@
+Keep both nines and both fours and draw four toward a full house or four of a kind. A full house scores 492–512 with Foil Trading Card, while four of a kind clears 600 outright. We still have two discards and all four hands, so improving this two-pair hand before spending a hand is worthwhile; Splash supports a reliable five-card fallback if we miss.

@@ -1,0 +1,1 @@
+Keep A-K-J-10 and draw four cards seeking any queen to complete Broadway, worth (30 + 51) × 4 = 324 chips. With four discards available, pursue a substantial scoring hand before spending hands; the current pair of sevens scores only 48. Reassess the draw for a straight, high pairs, or a stronger suited opportunity.

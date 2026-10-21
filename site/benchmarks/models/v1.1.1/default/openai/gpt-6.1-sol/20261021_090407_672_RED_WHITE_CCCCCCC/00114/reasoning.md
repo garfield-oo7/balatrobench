@@ -1,0 +1,1 @@
+Play Kings and Eights for a guaranteed one-hand win without further discards. Two Pair scores (20+10+10+8+8+100 foil Chips) × (2+8 from Mult Kings+9 from three Spades+24 Red Card+26 Bootstraps) ×3 Cavendish = 32,292, comfortably exceeding 11,000. Preserve four unused hands for $4 income and retain our cash reserve for maximum interest and Bootstraps scaling.

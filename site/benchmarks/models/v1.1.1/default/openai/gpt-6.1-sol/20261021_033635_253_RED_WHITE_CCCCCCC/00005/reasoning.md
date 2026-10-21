@@ -1,0 +1,1 @@
+Play nines full of kings for (40 + 9 + 9 + 9 + 10 + 10) × 4 = 348 chips, beating the 300-chip blind immediately and preserving three unused hands for income.

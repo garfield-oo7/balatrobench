@@ -1,0 +1,1 @@
+Keep Aces and Sixes, our strongest Two Pair: it scores about 1,080 with Even Steven, Jolly Joker, and Supernova. Discard the Ten, both Nines, and Four to draw four cards toward an Ace or Six; either completes a Full House worth over 1,600 for a one-hand win. This preserves a strong fallback and all four hands, with another discard available if needed.

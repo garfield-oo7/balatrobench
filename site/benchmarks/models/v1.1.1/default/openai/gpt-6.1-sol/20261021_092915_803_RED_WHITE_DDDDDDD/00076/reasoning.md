@@ -1,0 +1,1 @@
+Keep Q♦, 7♦, and 4♦ to pursue an Ancient Joker-powered Diamond flush, and retain Steel 7♥ for its held ×1.5 Mult. Discard the two Clubs, debuffed 3♠, and 2♥ to draw four chances at the two missing Diamonds. Three discards and all four hands remain, so improving the flush is preferable to spending a hand on a weak pair.

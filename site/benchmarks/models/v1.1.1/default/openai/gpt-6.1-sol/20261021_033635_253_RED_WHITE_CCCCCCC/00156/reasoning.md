@@ -1,0 +1,1 @@
+Keep the three Spade Aces and Spade Ten; discard the three off-suit cards to find a fifth Spade for our level-5 Flush. We need only 11,282 more points, and a Spade flush gives 49 Mult with both Foil chip bonuses, making it a strong finishing hand. Three discards remain, so there is no reason to spend a hand on weaker trips or convert valuable Spades to Hearts with The Sun.

@@ -1,0 +1,1 @@
+We have no scoring Jokers, so the $4 Buffoon Pack is the best opportunity to establish early scoring power while retaining $6 and at least $1 interest. Reserved Parking offers economy but no immediate scoring help; Mars and Crystal Ball are low-priority investments for our unmodified deck.

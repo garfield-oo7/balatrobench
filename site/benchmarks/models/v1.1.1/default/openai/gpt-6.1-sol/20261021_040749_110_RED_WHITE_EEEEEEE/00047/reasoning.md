@@ -1,0 +1,1 @@
+Open the Standard Pack to activate our currently unscaled Hologram: adding any playing card raises it from X1 to X1.25, a permanent 25% scoring increase for only $4. Prefer an even rank matching existing pairs, or a strong seal/enhancement. This leaves $32, safely above maximum-interest savings, and directly supports our growing Two Pair engine without replacing any Jokers.

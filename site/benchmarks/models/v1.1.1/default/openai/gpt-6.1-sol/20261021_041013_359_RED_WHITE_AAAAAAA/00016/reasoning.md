@@ -1,0 +1,1 @@
+Play Aces and Tens as Two Pair for (20 + 22 + 20) × (2 + 10 Mad Joker + 10 holographic Runner) = 1,364 chips. This safely clears the remaining 305 points and preserves five unused hands for $5 income. No consumables or sales are needed.

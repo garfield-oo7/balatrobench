@@ -1,0 +1,1 @@
+Play all four fours. The debuffed heart four still completes Four of a Kind but contributes no chips. With Foil Trading Card, this scores (60 + 4 + 4 + 4 + 50) × 7 = 854, exceeding the 600-chip boss target in one hand and preserving three hands for $3 income. No additional discard or consumable is needed.

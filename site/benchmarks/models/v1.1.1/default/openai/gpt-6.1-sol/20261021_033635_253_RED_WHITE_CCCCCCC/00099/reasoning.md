@@ -1,0 +1,1 @@
+Use our first discard on the unenhanced 4♥ to activate Trading Card: permanently remove a weak off-suit card and earn $3. This raises cash to $67 and Bootstraps from +24 to +26 Mult while thinning toward our spade engine. Preserve both Kings, both Nines, and all three spades for strong follow-up hands; we retain all five hands and three discards.

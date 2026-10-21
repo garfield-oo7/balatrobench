@@ -1,0 +1,1 @@
+Use Uranus to upgrade Two Pair from level 4 to level 5 (100 Chips, 6 Mult), freeing a consumable slot for our Blue Seal to generate another planet. Trips remains our strongest hand, but Two Pair is a reliable no-discard fallback with Banner and Ramen and just won the previous blind. There is no Observatory benefit to holding this planet.

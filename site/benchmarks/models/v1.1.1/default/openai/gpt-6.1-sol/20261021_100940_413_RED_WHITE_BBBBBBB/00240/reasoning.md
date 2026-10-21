@@ -1,0 +1,1 @@
+Sell Earth as planned, recovering $1 and raising Campfire from ×2.25 to ×2.5 at zero net purchase cost. This increases every hand's score by 11.1% through the Ante 8 boss, whereas a Full House upgrade does not support our much stronger level-11 Three of a Kind. Keep all five scoring Jokers and their current order.

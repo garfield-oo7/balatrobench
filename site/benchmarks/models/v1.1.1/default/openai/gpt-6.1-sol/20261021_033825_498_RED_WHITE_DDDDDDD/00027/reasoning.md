@@ -1,0 +1,1 @@
+Play the completed spade flush: 10♠, 9♠, 5♠, 3♠, 2♠. Wrathful supplies +15 Mult and Droll adds +10, scoring at least (35 + 10 + 9 + 5 + 3 + 2) × (4 + 15 + 10) = 1,856 chips. Together with our current 415, this comfortably exceeds the 1,600 target on our final hand. Hiker also permanently upgrades all five cards; no rearrangement or selling is needed.

@@ -1,0 +1,1 @@
+Take The Fool to create The Hermit, our last used consumable. With roughly $47 remaining, using that Hermit will yield the maximum $20 while preserving ample funds for scoring upgrades and maximum interest. This Mega Arcana permits another selection afterward, so we can also consider Emperor for two additional Tarots; repeating Hermit is the strongest guaranteed first pick.

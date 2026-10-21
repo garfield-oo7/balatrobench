@@ -1,0 +1,1 @@
+Sell Judgement as planned: all Joker slots are occupied, so using it would require sacrificing a useful scoring Joker. Its $1 sale restores $43 and raises Campfire from ×2 to ×2.25, a 12.5% scoring increase at no net cost from the purchase. Next, Mars can be bought and sold for another cash-neutral Campfire boost.

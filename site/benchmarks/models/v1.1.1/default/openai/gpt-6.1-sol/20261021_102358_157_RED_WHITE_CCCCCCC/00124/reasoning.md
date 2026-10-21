@@ -1,0 +1,1 @@
+Skip to permanently increase Red Card from +33 to +36 Mult, amplified by Cavendish. Neither Diamond improves our Spade-focused flush consistency, and the unmodified King of Spades offers too little marginal benefit to justify adding a card over guaranteed scoring growth. Preserve our thinned deck, $104 economy, and Justice for a future scoring emergency.

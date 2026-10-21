@@ -1,0 +1,1 @@
+Use Jupiter to raise Flush to level 18 (290 Chips, 38 Mult). With no Observatory there is no benefit to holding it, and freeing the slot supports future blue-seal planets. This permanently strengthens our main scoring hand without spending money or replacing our synergistic Jokers.

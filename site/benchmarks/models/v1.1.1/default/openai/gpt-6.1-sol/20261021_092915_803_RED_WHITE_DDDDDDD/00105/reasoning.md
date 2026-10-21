@@ -1,0 +1,1 @@
+Keep all three Clubs (Q, J, 8) to pursue an Ancient Joker Club flush, and retain Steel H7 for held-in-hand ×1.5 Mult. Discard the four non-Club, non-Steel cards to draw toward two more Clubs without spending a hand. We still have three discards and four hands; C8's +12 Mult before Ancient makes the Club flush much stronger than the available Queen pair.

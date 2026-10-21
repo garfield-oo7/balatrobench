@@ -1,0 +1,1 @@
+The House hides all eight starting cards, so discard five to draw five face-up cards while preserving all four scoring hands. With four discards available, gaining visible information is safer than spending a hand on an unknown combination. Build toward even-ranked pairs or a full house to activate Even Steven, Jolly Joker, and Supernova against the 1,600 target.

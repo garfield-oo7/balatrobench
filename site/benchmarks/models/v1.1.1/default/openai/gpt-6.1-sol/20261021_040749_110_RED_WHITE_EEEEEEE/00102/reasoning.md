@@ -1,0 +1,1 @@
+Buy Uranus for $3 to upgrade our primary Two Pair from level 11 to 12 (+20 Chips and +1 Mult). This provides reliable permanent scaling for the Blueprint–Hologram engine while leaving $49, comfortably above maximum-interest savings. Keep all five synergistic Jokers and skip The Lovers, which does not support our rank-based strategy.

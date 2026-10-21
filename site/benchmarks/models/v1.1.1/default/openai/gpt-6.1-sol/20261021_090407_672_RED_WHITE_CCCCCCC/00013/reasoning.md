@@ -1,0 +1,1 @@
+Play kings full of jacks for (40 + 30 + 20) × 4 = 360 chips. This leaves only 90 chips to reach the target with three hands remaining. Preserve the ace and remaining jack as strong ranks for the next draw; Red Card currently adds no Mult.

@@ -1,0 +1,1 @@
+Play the king pair with a jack and both remaining spades. Splash makes all five cards score, and the three spades grant +9 Mult from Wrathful Joker. With Foil Trading Card, this scores (10 + 10 + 10 + 10 + 7 + 3 + 50) × (2 + 9) = 1,100, exceeding the 800 target in one hand and preserving three hands for income. No further discards are needed.

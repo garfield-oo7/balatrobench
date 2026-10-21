@@ -1,0 +1,1 @@
+Use Jupiter to permanently raise our primary Flush from level 5 to 6 (+15 Chips, +2 Mult). This strengthens our Spade/Arrowhead/Fibonacci/Blackboard engine without spending any more money, preserving $50 for maximum Seed Money interest. Permanent improvement is preferable to selling for a temporary Campfire increment that resets after the boss.

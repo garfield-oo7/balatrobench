@@ -1,0 +1,1 @@
+Use The Hermit now for the full $20 payout, increasing money from $54 to $74 and freeing a consumable slot. This guaranteed gain is substantially more valuable than selling it for a single Campfire increment, and funds further consumable purchases and sales to strengthen Campfire through Ante 8 while preserving a boss-reroll reserve.

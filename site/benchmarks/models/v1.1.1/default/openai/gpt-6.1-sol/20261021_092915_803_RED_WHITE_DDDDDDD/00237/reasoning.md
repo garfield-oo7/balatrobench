@@ -1,0 +1,1 @@
+Use Temperance for the guaranteed $22, raising cash from $47 to $69. This is far more valuable than selling it for $1 and one Campfire increment: the extra funds can buy several pieces of Campfire fuel or useful upgrades while retaining $10 for a Director's Cut boss reroll. Our six synergistic Jokers should remain intact.

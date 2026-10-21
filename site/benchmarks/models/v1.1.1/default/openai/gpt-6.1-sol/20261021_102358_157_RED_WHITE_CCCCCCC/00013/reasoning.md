@@ -1,0 +1,1 @@
+Play Kings full of Jacks for (40 + 10 + 10 + 10 + 10 + 10) × 4 = 360 chips. With no discards remaining, this guaranteed full house is the strongest available hand. It leaves only 90 chips needed with three hands remaining, while retaining the Ace and spare Jack as useful starting cards for the follow-up draws.

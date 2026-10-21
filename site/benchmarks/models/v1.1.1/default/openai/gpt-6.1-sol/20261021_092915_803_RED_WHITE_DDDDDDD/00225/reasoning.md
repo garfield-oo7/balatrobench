@@ -1,0 +1,1 @@
+Sell Death as planned to increase Campfire from X2.25 to X2.5, an immediate 11.1% scoring improvement for both remaining blinds. No playing-card targets are available here, and our Seltzer–Arrowhead–Fibonacci Spade engine benefits reliably from stronger multiplicative scaling. This also frees consumable space and preserves ample money for a potential Director's Cut boss reroll.

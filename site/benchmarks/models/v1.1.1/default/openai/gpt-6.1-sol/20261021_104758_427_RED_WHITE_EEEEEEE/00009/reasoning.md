@@ -1,0 +1,1 @@
+Play three Tens for a guaranteed (30+30) × (3+12) = 900 chips with Even Steven, comfortably beating the 450-chip blind in one hand. This preserves three hands for $3 and requires no discards.

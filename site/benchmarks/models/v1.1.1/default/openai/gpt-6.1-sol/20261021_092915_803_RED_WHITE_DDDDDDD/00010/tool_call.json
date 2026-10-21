@@ -1,0 +1,10 @@
+[
+  {
+    "id": "call_EwgkaYmjTiPV2Ptrv5Cd3kQ2",
+    "function": {
+      "arguments": "{}",
+      "name": "next_round"
+    },
+    "type": "function"
+  }
+]

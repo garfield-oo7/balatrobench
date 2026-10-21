@@ -1,0 +1,1 @@
+Play A♥, K♥, 8♦, 6♥, and 2♥ as a red flush via Smeared Joker. Three even cards trigger Even Steven, scoring (35+11+10+8+6+2) × (4+12) = 1,152. With no discards remaining, take this strongest available score; only 48 chips remain with three hands available, and the retained 6♣ can itself score 55 as a high card if necessary.

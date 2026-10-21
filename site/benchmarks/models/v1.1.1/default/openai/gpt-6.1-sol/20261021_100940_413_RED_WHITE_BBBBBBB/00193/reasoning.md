@@ -1,0 +1,1 @@
+Sell Mars to recover $1 and raise Campfire from ×2.5 to ×2.75, a guaranteed 10% increase to every hand at zero net cost for the purchase/sale cycle. Upgrading unused Four of a Kind is less useful than strengthening our level-11 Three of a Kind scoring engine. This restores $31 and preserves maximum interest without replacing any Jokers.

@@ -1,0 +1,1 @@
+Use The Hermit now for its maximum $20 payout, increasing money from $51 to $71 and freeing the consumable slot. There is no benefit to delaying: we already exceed its payout cap. This funds Standard Packs to scale Hologram and Blueprint while preserving maximum interest.

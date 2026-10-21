@@ -1,0 +1,1 @@
+Open the $3 Celestial Pack while retaining $69 and maximum interest. Jupiter would strengthen our increasingly consistent Spade flushes; if the planets offer no meaningful upgrade, skip for a guaranteed +3 Mult on Red Card, tripled by Cavendish. Keep the current Joker engine rather than replace an immediately useful piece with Hiker, which needs time to develop.

@@ -1,0 +1,1 @@
+No Jupiter is offered, so skip to raise Red Card from +27 to +30 Mult. Cavendish triples that permanent bonus, improving every hand, including our primary level-4 Spade flushes. Upgrading an off-strategy hand is less valuable than reliable scaling on every play.

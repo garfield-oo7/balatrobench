@@ -1,0 +1,40 @@
+# Memory & Previous Actions
+
+
+## Recent Decision History
+
+Here is a list of your recent decisions (from oldest to newest):
+
+
+**1.** `discard({'cards': [4, 5, 6, 7, 8], 'reasoning': 'Keep both Aces and the Queen/Jack, and draw five cards seeking a third Ace or another pair. Level-11 Three of a Kind can clear 75,000 in one hand, while Two Pair provides a strong fallback with Card Sharp on a repeat. Discarding the purple-seal Four also generates a useful Tarot. The small Ramen reduction from ×1.95 to ×1.90 is worth improving this otherwise weak starting hand; preserve all five hands and keep the Steel Ace available for held-in-hand amplification if another rank forms trips.'})` - 
+
+**2.** `play({'cards': [0, 1, 5, 6], 'reasoning': 'Play Two Pair, Aces and Jacks, retaining the Steel Queen. Level-9 Two Pair supplies 180 Chips and 10 Mult; the scoring cards add 42 Chips and the Mult Jack adds +4 Mult. The held Steel Queen multiplies that 14 Mult to 21, then Abstract and both holographic editions add 35, followed by Ramen ×1.9 and Campfire ×3.5. Expected score: 222 × 56 × 1.9 × 3.5 = 82,672, exceeding 75,000 immediately. This wins with four hands unused, no further discards, and preserves The Fool.'})` - 
+
+**3.** `buy({'card': 0, 'reasoning': 'Buy the $1 Saturn to resell for $1: this costs no net money and raises Campfire from ×3.5 to ×3.75 when sold. With the final boss next, Campfire scaling persists for the entire remaining fight and boosts both our main level-11 trips and fallback level-9 Two Pair. Keep The Fool rather than overwrite its unknown copy target by using Saturn.'})` - 
+
+**4.** `sell({'consumable': 1, 'reasoning': 'Sell the Saturn purchased for $1 for its $1 sell value, completing a net-free Campfire upgrade from ×3.5 to ×3.75. Straight is unplayed and only level 1, so leveling it offers much less than strengthening every scoring hand against the upcoming final boss. Preserve The Fool and all five synergistic Jokers.'})` - 
+
+**5.** `reroll({'reasoning': 'Reroll for $3 to find discounted consumables we can buy and resell to scale Campfire before the final boss, or Venus to improve level-11 Three of a Kind. Egg and Ceremonial Dagger do not justify replacing any current Joker, and our additive-before-multiplicative ordering is already correct. With $30 and only the showdown remaining, investing in permanent-for-this-fight Campfire boosts is more useful than preserving all our cash. Keep The Fool available; the recent Uranus use makes it a potential Two Pair upgrade or another Campfire sale.'})` - 
+
+**6.** `buy({'card': 0, 'reasoning': "Buy Mercury for $1, then resell it for $1 to gain a free +0.25× Campfire increase before the final boss. Pair upgrades are low priority compared with our level-11 Three of a Kind and level-9 Two Pair; selling improves every hand without changing The Fool's last-used target. Mars offers another free buy–sell afterward. Preserve the current synergistic Joker lineup."})` - 
+
+**7.** `sell({'consumable': 1, 'reasoning': "Sell Mercury for $1 to complete the zero-net-cost buy–sell and increase Campfire from ×3.75 to ×4. Pair is not our main scoring hand; this boosts every hand against the final boss without changing The Fool's copy target. Next, Mars can provide another free Campfire increase through the same buy–sell sequence."})` - 
+
+**8.** `buy({'card': 0, 'reasoning': "Buy Mars for $1 to resell for $1, giving a net-free Campfire increase from ×4 to ×4.25 before the final boss. Four of a Kind is not our developed hand, so selling this planet improves our level-11 Three of a Kind and level-9 Two Pair more reliably than using it. Preserve The Fool's existing copy target and our correctly ordered Joker lineup."})` - 
+
+**9.** `sell({'consumable': 1, 'reasoning': 'Sell Mars for $1, completing its net-free buy–sell cycle and increasing Campfire from ×4 to ×4.25. Four of a Kind is undeveloped, whereas this upgrade strengthens every hand against the final boss, including our level-11 Three of a Kind and level-9 Two Pair. Preserve The Fool and the existing Joker lineup.'})` - 
+
+**10.** `reroll({'reasoning': 'Spend $4 seeking discounted consumables to buy and resell for additional Campfire scaling, or Venus for our level-11 Three of a Kind. Liquidation makes $1 consumables effectively free Campfire upgrades when resold. Joker Stencil cannot improve our full, synergistic lineup. With only the final boss remaining, investing some of our $27 in reliable scoring improvements is more valuable than maximizing future interest; preserve the remaining $23 for purchases.'})` - 
+
+
+
+## Strategic Context
+
+Based on your recent actions, consider:
+- How your decisions are building towards a cohesive strategy
+- Whether your current approach is working or needs adjustment
+- Patterns in your play that might need to change
+
+
+
+

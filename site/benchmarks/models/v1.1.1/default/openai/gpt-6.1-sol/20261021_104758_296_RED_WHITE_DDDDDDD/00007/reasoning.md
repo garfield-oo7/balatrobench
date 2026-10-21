@@ -1,0 +1,1 @@
+Leave with both scoring Jokers intact and save the remaining $2. Nothing is affordable, and selling a useful Joker to gamble on the Spectral Pack would weaken our strong early setup. Prioritize spade flushes containing face cards: Wrathful supplies +15 Mult on a five-spade flush while Scary Face adds chips, giving ample power for the next blinds.

@@ -1,0 +1,1 @@
+Buy The Hermit for $3 and use it next for $20, a guaranteed net $17 gain at our current $53. We have a free consumable slot, and this funds further Hologram scaling without compromising maximum interest. Keep the established Joker lineup; Cloud 9 is not worth replacing any part of this scoring engine.

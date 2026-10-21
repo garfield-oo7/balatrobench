@@ -1,0 +1,1 @@
+Play the available heart flush: J♥, 9♥, 8♥, 3♥, 2♥. It scores (35 + 10 + 9 + 8 + 3 + 2 + 30 from Scary Face) × (4 + 8 from Even Steven + 10 from holographic Runner) = 97 × 22 = 2,134 chips. This easily clears the remaining 705 and wins immediately, preserving five hands for $5 income.

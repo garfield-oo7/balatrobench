@@ -1,0 +1,40 @@
+# Memory & Previous Actions
+
+
+## Recent Decision History
+
+Here is a list of your recent decisions (from oldest to newest):
+
+
+**1.** `buy({'card': 1, 'reasoning': "Buy To Do List as an early economy engine. Its current Pair objective is easy to trigger and each qualifying hand earns $4, so one activation repays the purchase and further activations fund scoring Jokers. Spending from $6 to $2 sacrifices only $1 of immediate interest; Certificate's extra opening card helps find pairs. Skip the niche Neptune and Standard Pack and retain Certificate."})` - 
+
+**2.** `next_round({'reasoning': 'Leave with $2: nothing remaining is affordable, and selling either useful economy Joker to buy a niche Neptune or speculative Standard Pack would weaken our position. Keep Certificate for sealed-card generation and To Do List for $4 Pair payouts, then seek scoring support in the next shop.'})` - 
+
+**3.** `play({'cards': [3, 5, 6, 7], 'reasoning': 'Play the pair of twos with 6♠ and 3♣ as non-scoring cycling cards. This earns $4 from To Do List and scores 28 chips while preserving 10♣, 9♠, 8♥, and 6♥: any seven completes a straight. Drawing four new cards improves our options, and all four discards remain available to secure the remaining 422 points over three hands.'})` - 
+
+**4.** `discard({'cards': [1, 3, 5, 7], 'reasoning': 'Keep A♠, J♠, 9♠, and 6♠ and draw four toward a spade flush. Discarding the purple-sealed 9♦ also generates a Tarot card, potentially providing immediate scoring or economy help. We still need 437 chips with only three hands, so use our four available discards to build strong scoring hands rather than spend a hand on an unboosted pair for money.'})` - 
+
+**5.** `discard({'cards': [2, 4, 5, 7], 'reasoning': 'Keep A♠, J♠, 9♠, and 6♠; draw four cards to seek the fifth spade. That flush scores at least 292 chips, putting the remaining 437 within reach over our three hands. We have three discards available, so prioritize strong scoring hands rather than spend another hand on a low-scoring Pair. Save The Hermit until we have more money to double.'})` - 
+
+**6.** `play({'cards': [0, 2, 3, 5, 6], 'reasoning': 'Play the completed spade flush for (35 + 11 + 10 + 10 + 9 + 6) × 4 = 324 chips, bringing our total to 337. We then need only 113 points with two hands and two discards remaining. Keep A♥, 10♦, and 5♥ for the next draw, and save The Hermit for a larger payout after earning more money.'})` - 
+
+**7.** `play({'cards': [1, 2, 3, 7], 'reasoning': 'Play the queens for (10 + 10 + 10) × 2 = 60 chips and collect $4 from To Do List. Include 10♦ and 2♦ to cycle four cards, retaining A♥, 5♥, 5♣, and 4♥. We will need just 53 more chips with one hand and two discards available; the retained pair of fives provides a strong starting point for two pair, trips, or a full house, while three hearts preserve a flush route. Save The Hermit until our money is higher.'})` - 
+
+**8.** `play({'cards': [0, 1], 'reasoning': 'Play the pair of Aces for (10 + 11 + 11) × 2 = 64 chips, reaching 461 and safely beating the 450 target with our last hand. This exact Pair also earns $4 from To Do List, unlike Two Pair. No discards or consumables are needed; retain The Hermit to double a larger bankroll later.'})` - 
+
+**9.** `use({'consumable': 0, 'reasoning': "Use The Hermit now to turn $16 into $32. We urgently need scoring support because neither current Joker adds Chips or Mult. This funds the $4 Zany Joker while leaving $28, above the maximum-interest threshold. Waiting for a full $20 Hermit payout would delay that scoring upgrade or reduce this round's interest."})` - 
+
+**10.** `buy({'card': 1, 'reasoning': "Buy Zany Joker for our first scoring support, leaving $28 and retaining maximum interest. Its +12 Mult makes level-1 trips score roughly 630–990 chips and also boosts full houses and four of a kind, providing a practical route through the Ante 1 boss. Certificate's extra opening card helps find matching ranks. This is a substantial immediate upgrade for only $4; preserve the remaining bankroll rather than reroll or buy speculative packs."})` - 
+
+
+
+## Strategic Context
+
+Based on your recent actions, consider:
+- How your decisions are building towards a cohesive strategy
+- Whether your current approach is working or needs adjustment
+- Patterns in your play that might need to change
+
+
+
+

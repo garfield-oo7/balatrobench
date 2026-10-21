@@ -1,0 +1,1 @@
+Play kings full of jacks. All five cards score, including the spade king for Wrathful Joker's +3 Mult. With Foil Trading Card this scores (40 base + 50 card chips + 50 foil) × (4 + 3) = 980, exceeding the 800 target in one hand and preserving three hands for income.

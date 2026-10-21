@@ -1,0 +1,1 @@
+Use Uranus now to raise our most-played scoring hand, Two Pair, to level 3 (60 Chips × 4 Mult). This permanently improves a reliable four-card hand that activates Even Steven, Scary Face, and Ancient Joker, and frees the consumable slot. We have no Observatory benefit from holding it.

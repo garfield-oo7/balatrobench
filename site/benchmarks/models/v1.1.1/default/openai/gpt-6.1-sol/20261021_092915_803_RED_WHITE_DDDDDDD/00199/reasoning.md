@@ -1,0 +1,1 @@
+Buy The Hermit for $3 and then use it to gain $20, a net $17 increase that funds more Campfire scaling and upgrades before the final ante. Using Hermit is substantially better than selling it for a single Campfire increment: the extra money can finance several buy-and-sell cycles while preserving a $10 boss-reroll reserve. Keep the existing synergistic Joker lineup.

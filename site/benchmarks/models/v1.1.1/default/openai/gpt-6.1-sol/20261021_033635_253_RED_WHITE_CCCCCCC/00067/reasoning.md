@@ -1,0 +1,1 @@
+Spend $6 on one more search for a meaningful scoring upgrade, especially ×Mult or a strong scaling Joker. Jupiter does not support our upgraded Two Pair plan, and 8 Ball is not worth replacing our existing scoring or foil Trading Card. At $72 we still have maximum interest and +28 Bootstraps Mult; avoid speculative Standard Packs that dilute Trading Card's deck thinning.

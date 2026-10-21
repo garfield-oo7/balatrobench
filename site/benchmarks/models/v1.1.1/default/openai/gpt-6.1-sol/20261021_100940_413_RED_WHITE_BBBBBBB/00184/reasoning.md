@@ -1,0 +1,1 @@
+Sell The Moon for $1 to increase Campfire from ×1.5 to ×1.75 at zero net cost from its purchase. Suit conversion offers little for our level-11 Three of a Kind strategy; this sale instead boosts every hand immediately. Then buy and resell the $1 Saturn and Fool for two more free Campfire increments, reaching ×2.25 while retaining $36 and maximum interest.

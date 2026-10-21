@@ -1,0 +1,1 @@
+Play Aces and Tens as two pair: (20 + 22 + 20) × (2 + 10 Mad Joker + 10 holographic Runner) = 1,364 chips. This comfortably clears the remaining 305 and wins immediately, preserving five unused hands for $5 income. No consumables or sales are needed.

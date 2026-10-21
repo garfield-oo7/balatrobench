@@ -1,0 +1,1 @@
+Sell Neptune for $1, completing the free buy–sell cycle and raising Campfire from ×4.5 to ×4.75 for the final boss. This boosts every scoring hand, whereas leveling our unused Straight Flush offers negligible value. Preserve our five synergistic Jokers.

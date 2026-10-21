@@ -1,0 +1,1 @@
+Make the 6♦ Steel: it can stay in hand while we play Spade flushes, providing ×1.5 to scoring-card Mult before Bootstraps adds its +24. With five Spades, this raises normal Mult from 51 to 64.5, a larger boost than scoring both Empress-enhanced cards (59 Mult). Preserve all Spades for scoring and Hiker growth, and leave the unenhanced 2♦ as a future Trading Card removal target.

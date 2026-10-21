@@ -1,0 +1,1 @@
+Skip the pack to increase Red Card from +9 to +12 Mult. Cavendish turns this into +9 effective Mult on every hand. All five offered cards are unmodified non-Spades, so none supports Wrathful Joker or justifies diluting the deck we are thinning with Trading Card.

@@ -1,0 +1,1 @@
+Skip this pack to increase Red Card from +24 to +27 Mult, worth +9 effective Mult per hand with Cavendish. These low-rank non-Spades have no visible seal or edition, and the unspecified enhancement on 4♣ does not justify adding it over guaranteed scaling. Preserve deck consistency and the improved concentration of Spades.

@@ -1,0 +1,10 @@
+[
+  {
+    "id": "call_BT22bH6ResXE7510Qml90Hmx",
+    "function": {
+      "arguments": "{\"pack\": 0}",
+      "name": "buy"
+    },
+    "type": "function"
+  }
+]

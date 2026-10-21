@@ -1,0 +1,1 @@
+Use The Hermit now for its maximum $20 payout, raising our money from $51 to $71. Waiting cannot increase its value; this frees a consumable slot and funds future scaling upgrades while comfortably preserving maximum interest.

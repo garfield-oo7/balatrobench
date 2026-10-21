@@ -1,0 +1,1 @@
+Use Venus now to raise Three of a Kind to level 3 (70 Chips, 7 Mult), strengthening our Zany Joker scoring line at no further cost. We have no Observatory benefit for holding planets, and freeing the slot allows Certificate-generated purple or blue seals to produce additional consumables.

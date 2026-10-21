@@ -1,0 +1,10 @@
+[
+  {
+    "id": "call_HfdKUmsg5Zfc7FXVnuI1XL01",
+    "function": {
+      "arguments": "{\"consumable\": 1, \"cards\": [3, 4]}",
+      "name": "use"
+    },
+    "type": "function"
+  }
+]

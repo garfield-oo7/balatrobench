@@ -1,0 +1,1 @@
+Use the first discard on the debuffed heart two to activate Trading Card: permanently destroy a weak card and earn $3, raising cash to $8. This removes a card that cannot score against The Head while preserving the pair of nines and our higher-value cards, with three discards and all four hands still available.

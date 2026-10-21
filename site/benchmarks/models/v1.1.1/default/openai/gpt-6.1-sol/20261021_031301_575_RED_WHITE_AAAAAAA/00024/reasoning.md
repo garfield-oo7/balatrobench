@@ -1,0 +1,1 @@
+Play the pair of Fours to finish the blind immediately: (10 + 4 + 4) × (2 + 8 from Even Steven + 10 from holographic Runner) = 360 chips, comfortably exceeding the remaining 25. Preserve four unused hands for $4 income; no consumables, sales, or further cycling are needed.

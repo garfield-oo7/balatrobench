@@ -1,0 +1,1 @@
+Buy The Star for $1 and then sell it for $1 to raise Campfire from ×1.25 to ×1.50 at no net monetary cost. This increases all scoring by 20% while restoring Bull's chips after the sale, and is more valuable than changing suits for our leveled Three of a Kind strategy.

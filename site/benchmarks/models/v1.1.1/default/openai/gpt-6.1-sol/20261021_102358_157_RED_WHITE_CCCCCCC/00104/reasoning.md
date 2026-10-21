@@ -1,0 +1,1 @@
+Play the two Spade Kings for a guaranteed one-hand win. Pair contributes 10 base chips, the Kings add 20, and our two foil Jokers add 100: 130 chips total. Mult is (2 base + 6 Wrathful + 30 Red Card + 26 Bootstraps) × 3 Cavendish = 192, yielding 24,960—comfortably above 11,000. No further discards or flush draw are necessary; winning now preserves four unused hands for payout.

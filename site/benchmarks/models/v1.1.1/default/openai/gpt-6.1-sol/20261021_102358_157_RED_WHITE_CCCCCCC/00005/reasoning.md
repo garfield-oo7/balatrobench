@@ -1,0 +1,1 @@
+Play nines full of kings for (40 + 9 + 9 + 9 + 10 + 10) × 4 = 348 chips, immediately beating the 300-chip blind and preserving three hands for income. Keep the tens; either high pair gives the same winning score.

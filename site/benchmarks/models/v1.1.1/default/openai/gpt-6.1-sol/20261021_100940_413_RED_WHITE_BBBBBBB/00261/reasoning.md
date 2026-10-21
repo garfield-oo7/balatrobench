@@ -1,0 +1,1 @@
+Sell the Saturn purchased for $1 for its $1 sell value, completing a net-free Campfire upgrade from ×3.5 to ×3.75. Straight is unplayed and only level 1, so leveling it offers much less than strengthening every scoring hand against the upcoming final boss. Preserve The Fool and all five synergistic Jokers.

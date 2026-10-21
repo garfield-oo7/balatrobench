@@ -1,0 +1,1 @@
+Play Queens and Threes as level-26 Two Pair. With Supernova, holographic Mystic Summit's unconditional +10 Mult, held Steel King, and Blueprint copying ×4.5 Hologram, this scores approximately 945,000—comfortably above 75,000 without exhausting discards. Retain the Gold Ace for $3 at round end and preserve three unused hands for income.

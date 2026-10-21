@@ -1,0 +1,1 @@
+Open the remaining pack for $4, retaining $54 and maximum interest. An exceptional sealed or enhanced Spade could improve our Splash–Wrathful engine; otherwise skip for Red Card's permanent +3 Mult, amplified by Cavendish to +9 effective Mult on every hand. This provides reliable scaling without replacing our synergistic Jokers or diluting the deck with ordinary cards.

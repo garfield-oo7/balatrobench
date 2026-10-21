@@ -1,0 +1,1 @@
+Use Venus now to permanently upgrade Three of a Kind from level 4 to level 5 (110 Chips, 11 Mult), strengthening our Zany Joker backup against restrictive bosses. We have no Observatory, so holding Venus provides no benefit; freeing a consumable slot also allows blue- and purple-seal rewards next round.

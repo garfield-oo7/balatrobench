@@ -1,0 +1,1 @@
+Buy Mars for $1 and then sell it for $1: Liquidation makes this a net-free Campfire increase from ×3.75 to ×4, boosting every hand without losing a scoring Joker. Four of a Kind is unlevelled and not our main strategy, so selling is more useful than consuming Mars. Retain $31 after the sale and maximum interest; our level-11 Three of a Kind remains the primary scoring hand.

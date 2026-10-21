@@ -1,0 +1,1 @@
+Play the King with four low cards, scoring (5 + 10 + 30) × (1 + 10) = 495 through Scary Face and holographic Runner. Keep both Aces and the Ten while drawing five fresh cards. The retained Ace pair alone scores 384 next hand, guaranteeing enough total to beat 800 in two hands and preserve five hands for income; new draws may offer an even stronger combination.

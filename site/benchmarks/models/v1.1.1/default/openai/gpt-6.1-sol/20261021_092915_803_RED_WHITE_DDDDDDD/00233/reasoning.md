@@ -1,0 +1,1 @@
+Sell Mercury as planned to raise Campfire from X2.75 to X3, a guaranteed 9.1% scoring increase for the remaining Ante 8 blinds. Pair upgrades have little value for our level-6 Spade-flush strategy. This also frees a consumable slot and increases our cash to $58 without sacrificing any synergistic Jokers.

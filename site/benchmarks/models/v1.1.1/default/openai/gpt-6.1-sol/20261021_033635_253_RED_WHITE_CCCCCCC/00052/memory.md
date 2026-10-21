@@ -1,0 +1,40 @@
+# Memory & Previous Actions
+
+
+## Recent Decision History
+
+Here is a list of your recent decisions (from oldest to newest):
+
+
+**1.** `buy({'pack': 0, 'reasoning': "Open the $3 Arcana Pack while retaining $51 and maximum interest. Gros Michel has fixed our immediate Mult weakness; this inexpensive pack can now provide efficient permanent upgrades through spade conversion, Mult/Glass/Steel enhancements, or deck thinning, while Hermit or Temperance can fund future scaling. The Star is less attractive because diamond conversion competes with Wrathful Joker's scoring synergy."})` - 
+
+**2.** `pack({'card': 0, 'reasoning': 'The last Tarot used was The Hermit, so The Fool creates another Hermit. With $51 and empty consumable slots, we can use it for the full $20 payout, funding future scaling upgrades while preserving maximum interest. This guaranteed return is stronger than two Lucky enhancements or a Wild card here.'})` - 
+
+**3.** `use({'consumable': 0, 'reasoning': 'Use The Hermit now for its maximum $20 payout, raising our money from $51 to $71. Waiting cannot increase its value; this frees a consumable slot and funds future scaling upgrades while comfortably preserving maximum interest.'})` - 
+
+**4.** `reroll({'reasoning': "Gros Michel provides immediate strength, but our level-1 hands and lack of scaling or XMult will struggle as blinds grow. With $71, invest $7 in another reroll to seek a long-term scoring upgrade or valuable consumable, retaining $64 and maximum interest. Rough Gem is a potential replacement if a substantial scoring upgrade appears; skip The Star because diamond conversion competes with Wrathful Joker's spade scoring."})` - 
+
+**5.** `next_round({'reasoning': "Leave with $64 and preserve funds for future shops, where rerolls reset to $5 and new packs become available. Gros Michel's +15 Mult and foil Trading Card's +50 Chips provide sufficient immediate strength for Ante 3, especially with Wrathful spade hands. Even Steven is not a substantial enough upgrade to sacrifice our economy or Splash synergy, and Merry Andy's reduced hand size hurts consistency. Continue using Trading Card's single-card first discard to thin weak cards and earn $3 while seeking planets, scaling, or XMult in subsequent shops."})` - 
+
+**6.** `discard({'cards': [7], 'reasoning': 'Use Trading Card on our first discard: destroy the weak off-suit 3 of Hearts and earn $3 while permanently thinning the deck. Retain both pairs and all spades/diamonds; the current kings-and-eights two pair with the spade Jack already scores about 2,968 chips (106 chips × 28 Mult), enough to beat this blind in one hand after the replacement draw.'})` - 
+
+**7.** `play({'cards': [0, 1, 2, 3, 6], 'reasoning': 'Play the pair of Kings with A♠, Q♦, and 8♦. Splash makes all five cards score: (10 pair chips + 49 card chips + 50 foil chips) × (2 base Mult + 6 from two spades + 15 Gros Michel) = 2,507, comfortably beating the 2,000 target. All three diamonds trigger Rough Gem for $3, maximizing immediate earnings while preserving three unused hands.'})` - 
+
+**8.** `buy({'card': 1, 'reasoning': "Gros Michel has expired, so we need replacement Mult rather than more chips. Supernova fills the empty slot for $4 and provides growing, suit-independent Mult; Pair is already our most-played hand and Splash lets us score five cards while repeatedly playing pairs. Trading Card's foil already supplies +50 Chips, making Supernova a better long-term foundation than Scary Face. We retain $78, leaving ample funds to seek further scoring upgrades while preserving maximum interest."})` - 
+
+**9.** `reroll({'reasoning': "Gros Michel's loss leaves our scoring fragile: Supernova currently supplies only a few Mult, and all hands remain level 1. Spend $5 from our $78 reserve to seek strong additive or multiplicative Mult, scaling, or useful planets/Tarots. Scary Face adds chips when our foil Trading Card already provides +50; it does not address the main weakness. Keep the current Jokers until a clear upgrade appears, with Rough Gem the most replaceable economy slot."})` - 
+
+**10.** `reroll({'reasoning': "Neither offered Joker fixes our immediate scoring weakness after Gros Michel expired. Keep Splash's five-card scoring and Rough Gem's income for now rather than swapping into more economy or utility. Spend $6 from $73 to seek reliable +Mult, scaling, XMult, or useful hand upgrades; $67 remaining comfortably preserves maximum interest. Our foil Trading Card already supplies chips, but Supernova is still small and Wrathful depends on drawing spades."})` - 
+
+
+
+## Strategic Context
+
+Based on your recent actions, consider:
+- How your decisions are building towards a cohesive strategy
+- Whether your current approach is working or needs adjustment
+- Patterns in your play that might need to change
+
+
+
+

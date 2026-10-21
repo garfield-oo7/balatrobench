@@ -1,0 +1,1 @@
+Play Q♠, 7♠, 6♠, 5♠, and 4♣ as a black flush using Smeared Joker. The 6 and 4 each trigger Even Steven, scoring (35+10+7+6+5+4) × (4+8) = 804 chips. This exceeds the 600-chip target, satisfies The Psychic's five-card requirement, and preserves three hands for $3.

@@ -1,0 +1,1 @@
+Retain Q♥, 8♥, 2♥ and the Steel 4♦; discard the four other cards to find two more hearts. A level-3 heart flush exploits five Ancient Joker multipliers plus held Steel and should comfortably clear 7,500, while preserving all four hands. We have two discards remaining, so pursue the high-value flush rather than spending a hand on the weaker two pair.

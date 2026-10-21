@@ -1,0 +1,1 @@
+Save the remaining $2: nothing is affordable, and selling a useful Joker to fund speculative purchases would weaken our setup. Mad Joker plus Scary Face makes face-card Two Pair and Full House strong enough for the Ante 1 boss, while Burglar supplies extra hands for cycling and rebuilding income. Joker order currently needs no adjustment.

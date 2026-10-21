@@ -1,0 +1,1 @@
+Keep all three Spades, especially the red-seal 6, and retain the steel 2 for its held ×1.5 Mult. Discard the four other non-Spades to seek two more Spades for a level-4 flush. Six Ancient Joker triggers (including the red-seal retrigger), Wrathful Joker, Even Steven, and Arrowhead make this our strongest route to clearing 35,000 while preserving hands.

@@ -1,0 +1,1 @@
+None of these planets improves our level-8 Flush engine. Skip to grow Red Card from +42 to +45 Mult, a guaranteed improvement to every scoring hand while preserving our Bootstraps economy and Justice for the final boss.

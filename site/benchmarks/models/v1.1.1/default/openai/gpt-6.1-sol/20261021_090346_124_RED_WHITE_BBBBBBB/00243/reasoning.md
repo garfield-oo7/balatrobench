@@ -1,0 +1,1 @@
+Buy Earth for $1 and resell it for $1 to fuel Campfire at no net cost. The sale will increase Campfire from ×2 to ×2.25, boosting every hand by 12.5% while restoring our $50 and Bull's +100 Chips. Upgrading level-1 Full House is much less useful than strengthening our level-9 Three of a Kind and level-10 Two Pair. The Moon offers another profitable Campfire sale afterward.

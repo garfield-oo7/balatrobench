@@ -1,0 +1,1 @@
+No winning line remains: The Mouth is locked to Straight, but our A–K–Q–J is missing a Ten, and no other straight is available. With one hand, no discards, and no consumables, we cannot change the cards or disable the boss. Play the available Spade flush using the Wild King, though The Mouth will reject it and the run will end short of the target.

@@ -1,0 +1,1 @@
+Use Earth now to raise Full House to level 2 (65 base Chips, 6 base Mult). Full houses are an established fallback to spade flushes, and the upgrade benefits from our Foil chips and Red Card Mult. We have no Observatory reason to hold it; using it frees the consumable slot for future purchases or generated cards.

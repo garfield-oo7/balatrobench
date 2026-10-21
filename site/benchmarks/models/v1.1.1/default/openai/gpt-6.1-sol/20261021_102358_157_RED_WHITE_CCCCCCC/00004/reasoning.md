@@ -1,0 +1,1 @@
+Keep both 10s and both 9s, using the last discard to draw four cards toward a full house or four of a kind. A third 10 yields 352 points and a third 9 yields 348, either winning immediately and preserving three hands for income. If neither arrives, the retained two pair still scores 116 with all four hands available.

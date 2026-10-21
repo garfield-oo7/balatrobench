@@ -1,0 +1,1 @@
+Keep A♥, 8♠, and 7♣ and draw five fresh cards, prioritizing spades and face cards for our Jokers. The current low two pair scores only 60 and wastes a hand. Four available discards let us search for a spade flush or face-heavy combination capable of clearing 800 while preserving unused-hand income.

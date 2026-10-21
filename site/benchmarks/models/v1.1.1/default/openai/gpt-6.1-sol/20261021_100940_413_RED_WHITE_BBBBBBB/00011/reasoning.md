@@ -1,0 +1,1 @@
+Play the completed spade flush for (35 + 11 + 10 + 10 + 9 + 6) × 4 = 324 chips, bringing our total to 337. We then need only 113 points with two hands and two discards remaining. Keep A♥, 10♦, and 5♥ for the next draw, and save The Hermit for a larger payout after earning more money.

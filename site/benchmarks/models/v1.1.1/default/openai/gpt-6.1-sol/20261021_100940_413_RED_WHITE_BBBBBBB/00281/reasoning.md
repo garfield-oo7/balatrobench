@@ -1,0 +1,1 @@
+Complete the planned cost-neutral Hierophant buy–sell cycle: recover $1 and raise Campfire from ×4.75 to ×5. This immediately improves every final-boss scoring hand while preserving all five synergistic Jokers and their correct ordering.

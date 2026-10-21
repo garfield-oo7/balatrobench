@@ -1,0 +1,1 @@
+Play the completed club flush: A♣, K♣, Q♣, 8♣, 4♣. Scary Face adds 60 chips from the king and queen, and Droll adds 10 Mult, for (35 + 11 + 10 + 10 + 8 + 4 + 60) × (4 + 10) = 1,932 chips. This safely clears the 1,200 blind in one hand, preserving three hands for $3; no further discards or rearrangement are needed.

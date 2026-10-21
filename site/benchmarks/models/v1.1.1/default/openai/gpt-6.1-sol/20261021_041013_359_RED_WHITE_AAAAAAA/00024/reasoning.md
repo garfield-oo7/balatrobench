@@ -1,0 +1,1 @@
+Only 25 chips remain. Play the Queen as High Card for (5 + 10 + 30 Scary Face) × (1 + 10 holographic Runner) = 495 chips, safely defeating The House. Preserve four unused hands for $4 income without spending money or consumables.

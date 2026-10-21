@@ -1,0 +1,1 @@
+Open the $4 Mega Arcana Pack while retaining $27 and maximum interest. Two Tarot choices can provide money through Hermit or Temperance, strengthen our level-11 Three of a Kind strategy through rank manipulation or enhancements, or thin weak cards. This offers better value than a $6 reroll; Delayed Gratification would require replacing an important scoring Joker.

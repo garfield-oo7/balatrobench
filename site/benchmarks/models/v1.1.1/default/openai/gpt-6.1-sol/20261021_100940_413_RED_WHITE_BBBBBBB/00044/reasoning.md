@@ -1,0 +1,1 @@
+Open the $4 Jumbo Celestial Pack to look for Venus, directly scaling our level-3 Three of a Kind and Zany Joker combination. Five planet options give a good chance of finding Venus; Earth is also useful because Full House activates both Zany and Clever Joker. We retain $43, safely above maximum interest, without replacing useful Jokers.

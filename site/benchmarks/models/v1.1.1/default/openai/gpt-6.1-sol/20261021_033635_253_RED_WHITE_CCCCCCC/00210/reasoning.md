@@ -1,0 +1,1 @@
+Take Mercury as a free upgrade to our most accessible fallback hand. Jupiter is absent, and neither Straights nor Four of a Kind is consistent with our Spade-flush build. Pair has already been played six times and can help when a flush is unavailable or a boss requires varied hand types. The planet is used immediately, so our full consumable slots do not prevent taking it.

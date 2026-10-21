@@ -1,0 +1,1 @@
+Use Venus immediately to upgrade our primary Three of a Kind from level 9 to level 10 (210 Chips, 21 Mult). This permanent boost compounds with Zany Joker and Ramen, costs no money, and frees a slot for another Blue Seal planet or Tarot. We have no Observatory, so holding Venus offers no scoring benefit.

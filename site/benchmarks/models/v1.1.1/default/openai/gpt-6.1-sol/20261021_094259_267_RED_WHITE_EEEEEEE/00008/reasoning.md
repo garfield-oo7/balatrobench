@@ -1,0 +1,1 @@
+Open the $4 Buffoon Pack to choose between two Jokers while four slots are empty. Even Steven provides early Mult; a complementary Chips Joker or economy Joker would substantially strengthen the run. Investing now costs only $1 in immediate interest and gives better options than To Do List's rotating hand requirement. Keep Even Steven and the remaining $1.

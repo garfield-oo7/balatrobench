@@ -1,0 +1,1 @@
+Buy The Hermit for $3, then use it for the maximum $20 payout: a guaranteed $17 net profit with an empty consumable slot. This funds Grabber and further upgrades while preserving Seed Money's maximum interest. Walkie Talkie is not an upgrade over our current scoring Jokers without a deck concentrated in 10s and 4s.

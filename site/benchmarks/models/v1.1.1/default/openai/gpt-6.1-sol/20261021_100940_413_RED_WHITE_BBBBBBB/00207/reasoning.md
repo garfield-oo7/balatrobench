@@ -1,0 +1,1 @@
+Buy The Sun for $1, then sell it for $1 to gain a free +0.25 to Campfire, increasing it from ×3.5 to ×3.75 without sacrificing a scoring Joker or any net money. Suit conversion offers little to our level-11 Three of a Kind strategy. Keep the current lineup: Fortune Teller's +18 Mult is only a small improvement over Abstract's +15, while holographic Zany provides +22 on trips.

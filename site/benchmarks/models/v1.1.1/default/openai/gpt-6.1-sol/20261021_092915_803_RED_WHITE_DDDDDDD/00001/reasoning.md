@@ -1,0 +1,1 @@
+Keep A♥, K♥, 10♥, and 4♥ and draw four cards for a stronger heart flush. The existing flush scores only 288, short of 300; replacing 2♥ with any heart ranked 5 or higher gives a one-hand win. With four discards available, improving the flush can preserve all three unused-hand dollars.

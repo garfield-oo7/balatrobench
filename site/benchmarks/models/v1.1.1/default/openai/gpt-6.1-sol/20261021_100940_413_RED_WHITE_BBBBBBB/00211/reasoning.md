@@ -1,0 +1,1 @@
+Complete the planned Mars sale: recover $1 to reach $31 and increase Campfire from ×3.75 to ×4 at no net cost for the buy/sell cycle. Our primary hand is level-11 Three of a Kind; upgrading unused Four of a Kind is much less valuable than strengthening every hand through the remaining Ante 7 blinds. Preserve all five scoring Jokers and maximum interest.

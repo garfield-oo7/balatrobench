@@ -1,0 +1,1 @@
+None of these planets upgrades our primary level-5 Flush. Skip to increase Red Card permanently from +21 to +24 Mult, benefiting every hand and being tripled by Cavendish. For a 49-chip spade flush, this raises scoring from 244×74×3 = 54,168 to 244×77×3 = 56,364, more useful than leveling an infrequently played backup hand.

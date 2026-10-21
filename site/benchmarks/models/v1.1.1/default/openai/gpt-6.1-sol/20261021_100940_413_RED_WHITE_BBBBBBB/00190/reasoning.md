@@ -1,0 +1,1 @@
+Buy Judgement for $1 and resell it for $1 to add a free ×0.25 to Campfire. All five Joker slots are occupied, so using it is unnecessary; selling it improves every hand without sacrificing our current scoring engine or interest. Mars can then provide another zero-net-cost Campfire increment.

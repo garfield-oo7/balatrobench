@@ -1,0 +1,1 @@
+Cash Temperance for $7 now, preserving all five Jokers and freeing a consumable slot before discarding the purple-seal Four. Then we can use the final discard on the Four, Three, and hidden card while retaining Aces, Eights, and Jack: this preserves a strong level-6 Two Pair, improves Raised Fist by removing low held cards, and generates a Tarot from the purple seal.

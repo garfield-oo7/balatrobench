@@ -1,0 +1,1 @@
+Choose Jupiter to upgrade our dominant Flush from level 2 to 3, raising base chips from 50 to 65 and base Mult from 6 to 8. Both gains strengthen our established flush engine, with Ancient Joker amplifying the extra base Mult through repeated ×1.5 triggers. The other planets improve rarely used fallback hands.

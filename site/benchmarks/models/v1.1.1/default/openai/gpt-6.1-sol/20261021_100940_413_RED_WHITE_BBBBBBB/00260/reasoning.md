@@ -1,0 +1,1 @@
+Buy the $1 Saturn to resell for $1: this costs no net money and raises Campfire from ×3.5 to ×3.75 when sold. With the final boss next, Campfire scaling persists for the entire remaining fight and boosts both our main level-11 trips and fallback level-9 Two Pair. Keep The Fool rather than overwrite its unknown copy target by using Saturn.

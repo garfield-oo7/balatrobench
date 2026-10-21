@@ -1,0 +1,40 @@
+# Memory & Previous Actions
+
+
+## Recent Decision History
+
+Here is a list of your recent decisions (from oldest to newest):
+
+
+**1.** `sell({'consumable': 0, 'reasoning': 'Sell The Devil as planned to raise Campfire from X1 to X1.25 for all three Ante 8 blinds, while gaining $1 and freeing a consumable slot. Its Gold enhancement offers little immediate value this late; the guaranteed 25% scoring increase supports our level-6 Spade flushes while Ancient targets Diamonds. Keep all six synergistic Jokers.'})` - 
+
+**2.** `reroll({'reasoning': 'Spend the discounted $3 reroll to find consumables we can buy and sell to scale Campfire throughout Ante 8, or Jupiter and strong upgrades. Campfire is only X1.25 and Ancient currently targets Diamonds rather than our primary Spades, so improving reliable scoring now is valuable. Crazy Joker does not support our flush build and we have no free Joker slots. With $76, we can invest while retaining $50 for maximum Seed Money interest and a boss-reroll reserve; skip Magic Trick and speculative Standard cards.'})` - 
+
+**3.** `reroll({'reasoning': "Reroll for consumables to buy and sell into Campfire, Jupiter, or a substantial synergistic upgrade. Neither offered Joker improves our full lineup, and selling a useful Joker just to cycle the $2 Joker would weaken the engine. With Ancient targeting Diamonds, our Spade flushes need more reliable multiplication for Ante 8; Campfire scaling persists through all three remaining blinds. This $4 reroll leaves $69, preserving ample upgrade money and a $10 Director's Cut reserve. Skip Magic Trick and the speculative Standard Pack."})` - 
+
+**4.** `buy({'card': 0, 'reasoning': 'Buy The Hermit for $3 and then use it to gain $20, a net $17 increase that funds more Campfire scaling and upgrades before the final ante. Using Hermit is substantially better than selling it for a single Campfire increment: the extra money can finance several buy-and-sell cycles while preserving a $10 boss-reroll reserve. Keep the existing synergistic Joker lineup.'})` - 
+
+**5.** `use({'consumable': 0, 'reasoning': "Use The Hermit now for its maximum $20 payout, increasing money from $66 to $86 and freeing the consumable slot. This funds further shop searches and cheap consumable sales to scale Campfire for all three Ante 8 blinds, while preserving a Director's Cut reserve. The $20 payout is substantially more valuable than selling Hermit for one Campfire increment."})` - 
+
+**6.** `reroll({'reasoning': 'Reroll for cheap Tarot or Planet cards to buy and sell, increasing Campfire by X0.25 per sale for the remaining Ante 8 blinds, or Jupiter to strengthen our level-6 Flush. Ancient currently targets Diamonds, so reliable Campfire multiplication is especially valuable for our Spade/Arrowhead/Blackboard engine. Matador cannot fit without sacrificing a useful Joker. Spending $5 leaves $81, ample funds for upgrades and a $10 boss-reroll reserve; skip Magic Trick and speculative playing cards.'})` - 
+
+**7.** `buy({'card': 0, 'reasoning': "Buy Earth for $3 as Campfire fuel, then sell it for $1: a net $2 raises Campfire from X1.25 to X1.5, a guaranteed 20% increase to every hand through the Ante 8 boss. Full House upgrades do not support our level-6 Spade-flush strategy, whereas this sale improves our existing Arrowhead/Fibonacci/Blackboard engine without sacrificing any Joker. We retain ample money for further upgrades and a Director's Cut reroll."})` - 
+
+**8.** `sell({'consumable': 0, 'reasoning': 'Sell Earth as planned: Full House levels do not support our level-6 Spade flush engine. The sale earns $1 and increases Campfire from X1.25 to X1.5, a guaranteed 20% improvement to all scoring until the Ante 8 boss is defeated, without sacrificing a synergistic Joker.'})` - 
+
+**9.** `reroll({'reasoning': 'Reroll for consumables to fuel Campfire, Jupiter, or a decisive scoring upgrade. Business Card cannot fit and provides economy rather than needed scoring. Ancient currently targets Diamonds, leaving our Spade-flush engine dependent on Fibonacci, Arrowhead, Blackboard and Campfire; increasing Campfire beyond X1.5 gives reliable strength across the final ante. Spending $6 leaves $73, ample for purchases and a $10 boss-reroll reserve. Avoid Magic Trick and unnecessary deck dilution.'})` - 
+
+**10.** `reroll({'reasoning': "Neither shop Joker improves our full lineup. Reroll for consumables to buy and sell into Campfire, Jupiter, or a major scoring upgrade. Campfire scaling lasts through the final boss, so strengthening it now benefits all remaining blinds; Ancient currently offers no multiplier to our Spade flushes. This reroll leaves $66, preserving substantial spending power and the $10 Director's Cut reserve. Avoid buying weak Jokers or diluting the deck."})` - 
+
+
+
+## Strategic Context
+
+Based on your recent actions, consider:
+- How your decisions are building towards a cohesive strategy
+- Whether your current approach is working or needs adjustment
+- Patterns in your play that might need to change
+
+
+
+

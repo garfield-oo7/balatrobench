@@ -1,0 +1,1 @@
+Keep the Kings and Jacks and draw four toward a full house or four of a kind. A full house scores 360, leaving only 90 to reach the blind, while four of a kind wins outright. Keeping three pairs reduces our draw volume; the Ace and unmade straight are less valuable than retaining two high pairs. Use our remaining discards to improve scoring before spending hands.

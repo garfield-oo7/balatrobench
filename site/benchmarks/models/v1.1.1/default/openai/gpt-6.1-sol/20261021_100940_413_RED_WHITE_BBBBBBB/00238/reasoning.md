@@ -1,0 +1,1 @@
+Sell Uranus as planned to recover its $1 cost and increase Campfire from ×2 to ×2.25, giving every hand 12.5% more score. This is stronger than upgrading our backup Two Pair, since level-11 Three of a Kind is our primary hand. Next, Earth can be bought and sold for another net-free Campfire increase; keep all five current Jokers.

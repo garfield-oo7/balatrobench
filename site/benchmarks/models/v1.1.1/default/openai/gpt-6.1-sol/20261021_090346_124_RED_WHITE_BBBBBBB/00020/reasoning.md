@@ -1,0 +1,1 @@
+Discard only the purple-seal 9 to generate a free Tarot before ending the round. Both Queen trips and 7 trips already comfortably beat 600 with Zany Joker, so retaining all six guarantees a winning hand regardless of the replacement. This uses an otherwise expiring discard without spending a hand or triggering The Hook.

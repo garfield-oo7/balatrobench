@@ -1,0 +1,1 @@
+Only 4 chips remain. Play the Ace of Hearts as High Card for (5+11)×1 = 16 chips, beating the blind with two unused hands for a $2 payout. No further setup is needed.

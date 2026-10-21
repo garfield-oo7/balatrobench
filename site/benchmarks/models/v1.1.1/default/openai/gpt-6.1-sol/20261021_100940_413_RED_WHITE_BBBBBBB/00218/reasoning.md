@@ -1,0 +1,1 @@
+Buy Uranus for $1 to use on our level-7 Two Pair backup. The permanent +20 Chips and +1 Mult improves an easy-to-make hand that just won the previous blind, and remains useful after Campfire resets at the Ante 7 boss. With $38 remaining we preserve maximum interest and funds for Ante 8. Keep all current Jokers; Even Steven is not a reliable improvement over this lineup.

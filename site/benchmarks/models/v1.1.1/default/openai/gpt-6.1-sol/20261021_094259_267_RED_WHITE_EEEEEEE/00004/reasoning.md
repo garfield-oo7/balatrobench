@@ -1,0 +1,1 @@
+Keep the made heart flush and use the last discard on the three off-suit cards. The current flush scores (35+10+10+8+5+3)×4 = 284; drawing a heart ranked 7 or higher lets us replace the 3 for at least 300 and win in one hand. If we miss, the guaranteed 284-point flush still leaves only 16 points to finish with three hands available.

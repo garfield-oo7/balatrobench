@@ -1,0 +1,1 @@
+Play Queens and Tens for Two Pair, ordering the Heart Ten before the Spade Ten and Spade Queen so Even Steven's +Mult is amplified by Ancient Joker. Scary Face adds 60 Chips, giving 120 total Chips. With this order, Mult becomes ((2 + 4 + 4) × 1.5 × 1.5) + 10 = 32.5, scoring 3,900—comfortably beating the 2,000 blind in one hand and preserving six hands for income.

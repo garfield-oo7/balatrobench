@@ -1,0 +1,1 @@
+Keep the made full house, Nines full of Sevens, worth 81×12=972 chips. Cycle the Ace, King, and Three to seek the fourth Nine (four of a kind scores 1,440) or an even-ranked pair to replace the Sevens (a full house scoring at least 1,420). Two discards and all four hands remain, so this safely pursues a one-hand clear while retaining a strong fallback.

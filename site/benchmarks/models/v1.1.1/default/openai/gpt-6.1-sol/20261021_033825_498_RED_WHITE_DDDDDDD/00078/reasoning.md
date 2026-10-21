@@ -1,0 +1,1 @@
+Open the $4 Celestial Pack to look for Jupiter. Flush is our established hand, and raising its base Mult strengthens all five Ancient Joker triggers and our two held Steel cards. This leaves $55, preserving maximum $10 Seed Money interest. Half Joker conflicts with five-card flushes, Uranus does not support our build, and there is no need to replace a useful Joker speculatively.

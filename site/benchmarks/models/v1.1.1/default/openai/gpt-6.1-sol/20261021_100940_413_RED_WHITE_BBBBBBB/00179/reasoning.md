@@ -1,0 +1,1 @@
+Sell Judgement for $1 as planned: all Joker slots are full, and this completes a zero-net-cost buy/sell cycle. Campfire increases from ×1.25 to ×1.5, a guaranteed 20% improvement to every hand, while cash rises to $48. Keep our scoring Jokers and use discounted shop opportunities to build Campfire further for Ante 7.

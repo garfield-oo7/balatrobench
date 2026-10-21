@@ -1,0 +1,1 @@
+Keep A♣, Q♣, and 6♣ and draw five cards toward a club flush. Their 27 chips mean two additional clubs totaling at least 13 give a 300-point flush, clearing this blind in one hand and preserving the maximum unused-hand payout. Four discards give us ample room to improve rather than spend a hand on a weak pair.

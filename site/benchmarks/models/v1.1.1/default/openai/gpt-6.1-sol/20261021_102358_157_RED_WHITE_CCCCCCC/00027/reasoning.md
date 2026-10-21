@@ -1,0 +1,1 @@
+Play the completed 3–7 straight with both Spades scoring. Trading Card's Foil supplies +50 Chips and Wrathful Joker adds +6 Mult: (30 + 7 + 6 + 5 + 4 + 3 + 50) × (4 + 6) = 1,050 chips. This exceeds the 800 target immediately, preserving three hands for $3 income; no further discards or changes are needed.

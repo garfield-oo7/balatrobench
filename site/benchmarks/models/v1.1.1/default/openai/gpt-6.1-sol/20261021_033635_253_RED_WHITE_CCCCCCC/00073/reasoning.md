@@ -1,0 +1,1 @@
+Finish the blind with K♦, T♥, 9♦, 6♦, and 5♦ while holding Gold K♥ for $3. Splash scores all five: at least 5 base + 40 card chips + 50 foil = 95 Chips, multiplied by 1 + 28 Bootstraps = 29 for 2,755 points, comfortably exceeding the remaining 1,256. All five played cards gain permanent +5 Chips from Hiker. Preserve three unused hands for income and save The Fool for later.

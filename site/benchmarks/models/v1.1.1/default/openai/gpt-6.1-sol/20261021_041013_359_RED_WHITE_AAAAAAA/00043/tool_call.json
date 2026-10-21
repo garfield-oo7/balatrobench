@@ -1,0 +1,10 @@
+[
+  {
+    "id": "call_QBC1Bupc19CRk3L8R16vu5KY",
+    "function": {
+      "arguments": "{}",
+      "name": "reroll"
+    },
+    "type": "function"
+  }
+]

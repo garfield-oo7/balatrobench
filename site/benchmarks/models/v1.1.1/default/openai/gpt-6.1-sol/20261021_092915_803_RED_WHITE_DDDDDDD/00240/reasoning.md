@@ -1,0 +1,1 @@
+Open the $4 Celestial Pack to look for Jupiter: upgrading our level-6 Flush adds 15 base Chips and 2 base Mult, amplified by Blackboard, Campfire, and our retriggered Spade effects. This is a cheaper upgrade opportunity than the current $9 reroll. Keep all six synergistic Jokers and retain $63, including ample reserve for a Director's Cut boss reroll.

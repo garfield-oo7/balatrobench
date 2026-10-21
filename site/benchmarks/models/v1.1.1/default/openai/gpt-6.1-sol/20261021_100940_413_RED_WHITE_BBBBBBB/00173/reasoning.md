@@ -1,0 +1,1 @@
+Sell the Pluto as planned for $1, raising Campfire from ×1.5 to ×1.75 and cash to $35. This gives a guaranteed 16.7% scoring increase for the upcoming boss at no net purchase cost, much stronger than leveling our rarely played High Card. Retain all five scoring Jokers and maximum interest.

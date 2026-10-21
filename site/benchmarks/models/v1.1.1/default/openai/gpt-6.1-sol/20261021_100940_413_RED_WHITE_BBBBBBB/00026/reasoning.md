@@ -1,0 +1,1 @@
+Play the three fours: level-2 Three of a Kind plus Zany Joker and Raised Fist scores (50 + 12) × (5 + 12 + 6) = 1,426, comfortably exceeding 800 in one hand. Keep The Sun and remaining discards; winning now preserves three unused hands for income. No extra cards or full house are needed.

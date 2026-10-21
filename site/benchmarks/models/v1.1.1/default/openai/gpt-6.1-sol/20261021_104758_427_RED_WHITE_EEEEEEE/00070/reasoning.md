@@ -1,0 +1,1 @@
+Buy the remaining Standard Pack to increase Hologram from ×1.5 to ×1.75, a permanent 16.7% improvement to all scores for $4 while retaining $34 and maximum interest. Prefer an even-ranked card that helps form Two Pair, especially one with a useful enhancement or seal. This guaranteed scaling is better than replacing a developed Joker with Ride the Bus at +0 or purchasing Blank.

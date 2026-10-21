@@ -1,0 +1,1 @@
+Open the $3 Celestial Pack before paying $7 for another reroll. Venus or Uranus would directly improve our level-11 Three of a Kind or level-9 Two Pair, and five planet options give a good chance of finding one. Keep all five synergistic Jokers: neither Seance nor Supernova improves this lineup. With the final boss next, spend on immediate scoring rather than saving for interest.

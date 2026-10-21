@@ -1,0 +1,1 @@
+With no Jokers, our priority is an early scoring engine. Open the $4 Buffoon Pack for a choice of two Jokers while retaining $6; this is better than an expensive reroll. Inspect its choices before deciding whether to also buy To Do List, whose Pair payout could fund future upgrades.

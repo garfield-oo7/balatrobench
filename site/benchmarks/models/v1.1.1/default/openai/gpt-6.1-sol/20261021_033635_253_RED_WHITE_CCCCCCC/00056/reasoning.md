@@ -1,0 +1,1 @@
+Play the pair of sixes with K♥, Q♣, and J♦. Splash scores all five cards, giving 10 + 42 + 50 foil = 102 Chips. Mult is 2 base + 4 Supernova (including this play) + 3 from 6♠ + 26 Bootstraps = 35, for 3,570 points—enough to beat 3,000 immediately. This also grows our most-played Pair for future Supernova value while preserving three hands for income.

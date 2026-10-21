@@ -1,0 +1,1 @@
+Open the $4 Buffoon Pack to seek a +Mult joker that complements Scary Face's chips, or a strong economy/scaling joker. With four empty slots and only chip support, an early second joker can substantially improve scoring and future hand-income savings. This costs only one interest dollar this round; Satellite earns nothing yet, and a $5 reroll is worse value.

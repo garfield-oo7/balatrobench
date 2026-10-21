@@ -1,0 +1,1 @@
+Keep the red 9, 9, and 6; discard all three black cards and both odd-ranked 7s to draw five. Our current red flush scores only 584, far short of 1,200. With four discards available, seek red even ranks for a stronger Smeared flush, ideally at least three Even Steven triggers, while preserving all four hands. Keeping both red 9s also leaves a possible flush-house route.

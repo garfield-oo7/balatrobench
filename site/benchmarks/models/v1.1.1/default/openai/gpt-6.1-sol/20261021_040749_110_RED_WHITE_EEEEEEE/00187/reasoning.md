@@ -1,0 +1,1 @@
+Use Uranus now to raise our primary Two Pair from level 20 to 21 (+20 chips and +1 Mult permanently). No Observatory is indicated, so holding it offers no scoring benefit; using it also frees a consumable slot for useful Tarot insurance while we shop for final-ante upgrades. Keep Blueprint copying Hologram for the combined ×18.0625 multiplier.

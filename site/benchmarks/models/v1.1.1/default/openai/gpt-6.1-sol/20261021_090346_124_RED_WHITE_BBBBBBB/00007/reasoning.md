@@ -1,0 +1,1 @@
+Leave with $2: nothing remaining is affordable or worth selling our economy engines to acquire. Certificate will generate a sealed card next round, and To Do List can earn $4 per Pair to fund much-needed scoring Jokers. Preserve both and use natural strong hands to clear the early blinds.

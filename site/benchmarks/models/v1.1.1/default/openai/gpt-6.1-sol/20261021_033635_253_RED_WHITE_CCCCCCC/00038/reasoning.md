@@ -1,0 +1,1 @@
+Choose The Fool to create The Hermit, our last-used Tarot. With both consumable slots empty, we can hold and use the copied Hermit for another $20 at our current $44. This guaranteed economy boost is stronger than a single Gold card or two random Tarots, and club conversion conflicts with Wrathful Joker's spade synergy.

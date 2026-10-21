@@ -1,0 +1,1 @@
+Discard the lone 2♦ on the first discard to trigger Trading Card: permanently remove a weak non-Spade and earn $3. Preserve both Kings and both Spades; with Splash, the Kings, Q♠, 10♦ and 8♥ already score (10 + 48 + 50) × (2 + 27 + 6) × 3 = 11,340, safely exceeding 7,500 in one hand. The replacement may improve that further.

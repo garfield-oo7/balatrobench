@@ -1,0 +1,1 @@
+Buy The Hierophant for $1 to resell for $1, raising Campfire from ×1.5 to ×1.75 at no net cost. This gives every hand a 16.7% scoring increase through the final boss while preserving our cash and Bull chips after resale, substantially more valuable than two Bonus enhancements that must be drawn and scored.

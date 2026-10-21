@@ -1,0 +1,1 @@
+Keep K♦, Q♦, 6♦, and 5♦ and draw four for a Diamond flush. Any additional Diamond completes our level-5 flush, scoring at least (95 + 33 + 2 + 100) × (12 + 33 + 36) × 3 = 55,890, comfortably beating 22,000 in one hand. Two discards remain and all five hands are available, so pursue the immediate flush rather than spending a hand on Queens or consuming Justice unnecessarily.

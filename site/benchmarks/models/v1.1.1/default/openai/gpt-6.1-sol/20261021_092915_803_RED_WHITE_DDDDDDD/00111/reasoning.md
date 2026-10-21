@@ -1,0 +1,1 @@
+Open the Jumbo Celestial Pack to seek Jupiter: upgrading Flush from level 2 to 3 adds base Mult that Ancient Joker amplifies across five scoring cards, plus 15 chips. Five planet choices offer a good chance of finding it, and $89 remaining comfortably preserves Seed Money's maximum interest. Improving flush levels is valuable heading into Antes 6–8.

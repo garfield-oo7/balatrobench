@@ -1,0 +1,1 @@
+Restore Blueprint immediately before Hologram now that the first-discard double upgrade has raised Two Pair to level 20. Copying Hologram gives ×4.25 twice (×18.0625 combined), rather than copying the already-used Burnt Joker. Next retain the fours and discard unwanted cards to find a second pair; a level-20 Two Pair with this setup comfortably clears the 70,000 target.

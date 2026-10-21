@@ -1,0 +1,1 @@
+Leave with both Jokers intact: at $0 we cannot afford upgrades, and selling either would weaken a strong early setup. Mad Joker boosts Two Pair and Full House, while Burglar provides seven hands for scoring and cycling cards, with unused hands rebuilding our economy.

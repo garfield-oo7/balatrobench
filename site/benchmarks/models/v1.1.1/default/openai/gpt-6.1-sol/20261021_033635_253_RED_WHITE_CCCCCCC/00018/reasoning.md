@@ -1,0 +1,1 @@
+Play all four 4s plus a 9. The debuffed heart 4 still completes Four of a Kind, while Splash lets the 9 score. With Foil Trading Card, this scores (60 + 12 + 9 + 50) × 7 = 917, comfortably beating the 600-chip boss in one hand and preserving three hands for income.

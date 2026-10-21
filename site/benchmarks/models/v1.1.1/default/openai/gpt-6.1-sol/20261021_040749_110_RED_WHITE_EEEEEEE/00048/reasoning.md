@@ -1,0 +1,1 @@
+Take the Two of Spades. Adding it permanently raises Hologram from X1 to X1.25, boosting every hand by 25%. Its even rank also triggers Even Steven for +4 Mult when scored and adds another pairing option for our level-3 Two Pair strategy. The Jack and Five offer the same Hologram growth but lack Even Steven synergy; no unspecified enhancement is needed to justify the Two.

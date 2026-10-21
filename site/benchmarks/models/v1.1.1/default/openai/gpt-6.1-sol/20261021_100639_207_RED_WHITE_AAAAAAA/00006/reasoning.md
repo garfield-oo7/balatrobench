@@ -1,0 +1,1 @@
+No pair or made five-card hand is available. Cycle the five lower cards while retaining A-K-Q to seek high two pairs for Mad Joker. This scores 15 chips and draws five fresh cards; any two pairs among the retained high ranks will comfortably clear the remaining target with +10 Mult. Five hands remain afterward.

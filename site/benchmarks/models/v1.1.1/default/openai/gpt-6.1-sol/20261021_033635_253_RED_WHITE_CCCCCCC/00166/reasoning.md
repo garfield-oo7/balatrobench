@@ -1,0 +1,1 @@
+Buy Jupiter for $2 to upgrade our main Flush from level 5 to 6 (+15 Chips and +2 Mult). This is a guaranteed permanent scoring improvement for our Spade-flush engine, unlike another expensive reroll. Spending $47 to $45 preserves both +18 Bootstraps Mult and $9 Seed Money interest. We have an open consumable slot; use Jupiter after purchasing.

@@ -1,0 +1,1 @@
+Keep 4♦ for Ancient Joker's active Diamond suit and hold Steel 7♥ for ×1.5 Mult. Discard all three debuffed Spades plus 10♥ and 8♥ to draw five cards toward a Diamond flush. With four discards available, pursuing Ancient's compounding Diamond triggers is substantially stronger than settling for a Heart flush; retain 2♥ only because the discard limit is five.

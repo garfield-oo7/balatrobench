@@ -1,0 +1,1 @@
+Take the King of Clubs to raise Hologram from ×1.25 to ×1.5, a permanent 20% increase to all hand scores. None of the choices triggers Even Steven or has a listed modifier, so choose the highest-chip rank for future Two Pair hands. The extra King also provides another match for existing Kings; this guaranteed Hologram scaling outweighs the small dilution of even-ranked draws.

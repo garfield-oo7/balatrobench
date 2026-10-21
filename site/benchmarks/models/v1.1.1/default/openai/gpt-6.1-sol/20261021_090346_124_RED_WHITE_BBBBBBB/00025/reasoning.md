@@ -1,0 +1,1 @@
+Play Queens full of 4s (three 4s and two Queens). It scores (40 + 20 + 12) × (4 + 12 from Zany + 6 from Raised Fist, with the 3 held) = 1,584, comfortably exceeding 800 in one hand. Preserve three hands for income, maximum interest, and The Sun for later; no further discards are needed.

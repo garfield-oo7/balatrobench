@@ -1,0 +1,1 @@
+Convert A♥, Gold K♥, and 9♣ to Spades. This strengthens Wrathful Joker by +3 Mult per converted card when scored, and Splash lets them contribute in any five-card play. It also increases spade-flush consistency, makes all three Aces spades, and preserves the King's Gold enhancement for held-card income. Leave 2♦ unchanged as a low-value target for Trading Card destruction.

@@ -1,0 +1,1 @@
+Even Steven gives reliable early scoring: each scored even card adds +4 Mult, so an even-rank pair gains +8 Mult and flushes can gain several triggers. This provides the scoring foundation needed for upcoming blinds without committing to a single hand type. Buying it for $4 leaves $5, preserving $1 interest; it is safer than gambling on a pack with no Jokers yet.

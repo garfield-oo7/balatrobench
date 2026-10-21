@@ -1,0 +1,1 @@
+Sell the $1 Justice bought for Campfire fuel as planned. This restores our money to $47 and increases Campfire from ×2.75 to ×3, a guaranteed 9.1% boost to every hand against the final boss without sacrificing any Joker or spending net money. It also frees a consumable slot for further discounted buy-and-sell opportunities while retaining The Fool.

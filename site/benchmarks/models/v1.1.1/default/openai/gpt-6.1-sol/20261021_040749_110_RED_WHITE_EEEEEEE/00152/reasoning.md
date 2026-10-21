@@ -1,0 +1,1 @@
+The first discard has already triggered Burnt Joker. Move Blueprint immediately before Hologram so it copies ×4 Mult instead of Burnt Joker, giving ×16 total. Then the ready Two Pair of sevens and sixes scores approximately (320+26) × (17+4+8+17) ×16 = 254,656, comfortably exceeding the 35,000 target in one hand. No further discards are necessary.

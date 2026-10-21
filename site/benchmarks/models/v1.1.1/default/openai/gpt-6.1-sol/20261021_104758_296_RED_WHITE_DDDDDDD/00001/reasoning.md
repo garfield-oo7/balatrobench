@@ -1,0 +1,1 @@
+The current heart flush scores only 288, just short of 300. Keep A♥, K♥, 10♥, and 4♥; discard the three off-suit cards and 2♥ to draw four cards. Any heart ranked 5 or higher completes a flush worth at least 300, allowing a one-hand win and preserving $3 in unused-hand income. Four discards give ample chances to improve.

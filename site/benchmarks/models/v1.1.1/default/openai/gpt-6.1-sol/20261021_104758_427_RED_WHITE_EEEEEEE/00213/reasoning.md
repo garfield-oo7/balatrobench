@@ -1,0 +1,1 @@
+Temporarily put Blueprint immediately before Burnt Joker so our first discard grants two hand-level upgrades. No Two Pair is available to discard, so upgrade High Card as backup while cycling low-priority cards to find Two Pair. Restore Blueprint beside Hologram before scoring; preserve the Steel King and ideally the blue-seal King for a Two Pair finish that generates Uranus.

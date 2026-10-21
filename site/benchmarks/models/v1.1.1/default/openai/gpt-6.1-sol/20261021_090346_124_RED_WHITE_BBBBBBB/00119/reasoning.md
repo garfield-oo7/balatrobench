@@ -1,0 +1,1 @@
+Our last 10,000-point blind required two hands, and upcoming targets will outgrow the current flat bonuses. Neither Pluto nor the unknown-result Fool justifies investment, especially with both consumable slots full. Reroll for $5 seeking ×Mult, strong scaling, or Venus/Uranus; $50 remaining still preserves maximum interest. Keep existing Jokers until a concrete upgrade appears.

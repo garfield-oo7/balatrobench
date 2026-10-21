@@ -1,0 +1,1 @@
+Smiley Face is conditional additive Mult and Jupiter boosts an unused hand; neither fixes our Ante-5 scaling. Reroll for $4 to seek ×Mult, a strong scaling Joker, or Two Pair/trips planets. We retain $55, well above maximum-interest requirements, and will only replace a current Joker when a clear upgrade appears.

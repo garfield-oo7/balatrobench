@@ -1,0 +1,1 @@
+Temporarily move Blueprint immediately left of Burnt Joker. We have Two Pair (Nines and Eights) ready for the first discard, so copying Burnt Joker will upgrade our main hand twice, from level 12 to 14. Keep the steel Three in hand, then restore Blueprint beside ×4 Hologram before scoring; our engine has ample power to win after drawing another Two Pair.

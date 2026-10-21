@@ -1,0 +1,1 @@
+Use Trading Card on our first discard: destroy the off-suit 3 of Hearts and earn $3 while thinning a weak card. Preserve both pairs (Kings and Eights), the three spades, and Q-J straight potential. The replacement may complete a full house or improve our spade draw; with +21 general Mult and Foil +50 Chips, we have ample scoring power to beat 2,000 in one strong hand.

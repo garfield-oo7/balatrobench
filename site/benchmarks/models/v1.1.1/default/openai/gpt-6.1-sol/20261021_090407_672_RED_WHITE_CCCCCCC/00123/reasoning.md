@@ -1,0 +1,1 @@
+Skip to raise Red Card permanently from +24 to +27 Mult, benefiting every hand and multiplying through Cavendish. Clubs and Hearts conversions undermine our spade-flush strategy and Wrathful Joker. Two Lucky enhancements offer occasional upside, but the guaranteed global +3 Mult is more consistent and applies even when those specific cards are not drawn.

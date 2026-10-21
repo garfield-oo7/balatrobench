@@ -1,0 +1,1 @@
+Neither Neptune nor Reserved Parking improves our level-5 Flush engine enough to buy. Reroll for only $3, leaving $70 and preserving maximum Seed Money interest, to look for Jupiter, useful Tarot cards, or a substantial Joker upgrade. At Ante 6 we need more consistency or scaling for the final antes; skip the Standard Pack rather than add an unknown card to the deck.

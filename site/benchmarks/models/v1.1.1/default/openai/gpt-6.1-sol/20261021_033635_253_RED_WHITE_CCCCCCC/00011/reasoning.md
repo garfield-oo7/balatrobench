@@ -1,0 +1,1 @@
+Play kings full of jacks for (40 + 50) × 4 = 360 chips, leaving only 90. With Splash, a subsequent five-card pair can readily finish the blind. Keep both remaining discards to improve the next draw rather than risk breaking this full house chasing the last king.

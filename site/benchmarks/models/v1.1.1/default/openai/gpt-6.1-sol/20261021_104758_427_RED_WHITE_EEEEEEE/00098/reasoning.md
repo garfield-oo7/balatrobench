@@ -1,0 +1,1 @@
+Use Uranus now to raise our main scoring hand, Two Pair, from level 9 to 10 (200 chips and 11 Mult). We have no Observatory benefit for holding it; the permanent upgrade improves every subsequent Two Pair and frees a consumable slot.

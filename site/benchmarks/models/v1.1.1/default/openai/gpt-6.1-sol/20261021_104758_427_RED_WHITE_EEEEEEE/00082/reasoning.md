@@ -1,0 +1,1 @@
+Place Blueprint immediately left of Burnt Joker before the next round so our first discarded Two Pair gains two permanent levels instead of one. After that discard, move Blueprint immediately left of Hologram for scoring, multiplying by ×1.75 twice while keeping Even Steven and Supernova before both multipliers. The current far-right Blueprint copies nothing.

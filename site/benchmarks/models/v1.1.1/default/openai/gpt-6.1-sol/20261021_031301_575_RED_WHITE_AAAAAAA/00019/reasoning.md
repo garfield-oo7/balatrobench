@@ -1,0 +1,1 @@
+Play the four non-Hearts as a cycling hand, scoring 176 chips from the Ace with holographic Runner: (5 + 11) × (1 + 10). Keep K♥, 9♥, 8♥, and 3♥; drawing any Heart in four fresh cards completes a Flush that comfortably clears this blind with Scary Face, Even Steven, and Runner's +10 Mult. This gives a strong chance to win next hand while preserving five unused hands for income.

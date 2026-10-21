@@ -1,0 +1,1 @@
+Take The Hermit first to gain $20, increasing our $24 to $44 and restoring maximum interest with ample funds for scoring upgrades. This Mega Arcana Pack allows a second pick: after using Hermit, The Fool can create another Hermit for a further $20, making these two selections substantially stronger than a Gold card, off-strategy club conversion, or random Tarots.

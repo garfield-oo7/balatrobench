@@ -1,0 +1,1 @@
+Sell Neptune as planned to raise Campfire from X2 to X2.25, a guaranteed 12.5% increase for both remaining Ante 8 blinds. Straight Flush upgrades are much less reliable than strengthening every Spade flush, and the sale frees a consumable slot for further Campfire fuel or useful Tarot cards.

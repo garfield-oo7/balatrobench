@@ -1,0 +1,40 @@
+# Memory & Previous Actions
+
+
+## Recent Decision History
+
+Here is a list of your recent decisions (from oldest to newest):
+
+
+**1.** `discard({'cards': [0, 2, 5, 6], 'reasoning': 'Keep all four Clubs and draw four cards to maximize the chance of immediately completing our strongest flush. Ancient Joker multiplies each scoring Club by ×1.5; scoring 2♣ and 8♣ first lets their Fibonacci bonuses compound through the remaining Clubs. This Club flush can exceed 30,000 even without Blackboard, and comfortably wins with it. Discarding only Q♦ would preserve the Spade backup but gives just one chance to find a Club; four draws plus one remaining discard and five hands make completing Clubs substantially more reliable.'})` - 
+
+**2.** `rearrange({'hand': [7, 5, 4, 0, 3, 1, 2, 6], 'reasoning': "Move 2♣, 5♣, and 8♣ before Q♣ and 9♣ so Fibonacci's +8 Mult bonuses are compounded by Ancient Joker's subsequent ×1.5 triggers. Then play those five Clubs: Mult progresses 10 → 27 → 52.5 → 90.75 → 136.125 → 204.1875. With 182 chips (80 base +34 card chips +68 Blue Joker), this scores about 37,162, exceeding 30,000 even though the held Hearts disable Blackboard. No further discard is needed; preserve all four unused hands for income."})` - 
+
+**3.** `play({'cards': [0, 1, 2, 3, 4], 'reasoning': "Play the five Clubs in their arranged order, with Fibonacci's 2, 5, and 8 first so their +8 Mult is compounded by Ancient Joker. Mult progresses 10 → 27 → 52.5 → 90.75 → 136.125 → 204.1875. With 80 base chips +34 card chips +68 Blue Joker chips, this scores approximately 37,162, beating the 30,000 blind without Blackboard. Save the last discard and finish with four unused hands for income."})` - 
+
+**4.** `reroll({'reasoning': 'Splash does not improve our five-card flushes, and The Moon supports Blackboard but does not strengthen our main Spade/Arrowhead engine. Spend $3 to seek a meaningful upgrade such as Jupiter, retriggers, Blueprint/Brainstorm, or strong ×Mult. This leaves $72, comfortably above the $50 threshold for maximum Seed Money interest. Keep our current synergistic Jokers unless a concrete improvement appears.'})` - 
+
+**5.** `buy({'pack': 1, 'reasoning': 'Open the Jumbo Arcana Pack for $6, leaving $66 and preserving maximum Seed Money interest. Five Tarot choices offer a good chance at meaningful improvements: The World to increase Spade density for Arrowhead and Blackboard, Death to copy a strong Spade/Fibonacci card, enhancements, deck thinning, or Hermit/Temperance for economy. Neither Gros Michel nor Banner warrants replacing our synergistic Jokers; deck improvements are more promising here.'})` - 
+
+**6.** `pack({'card': 3, 'targets': [2], 'reasoning': "Make 9♣ a Steel card for repeatable ×1.5 held-in-hand Mult. Its black suit preserves Blackboard's ×3 condition, and keeping a non-Fibonacci Club in hand avoids withholding our valuable scoring Spades or Fibonacci ranks. This provides reliable scoring growth while retaining K♠ and 5♠ for Arrowhead-powered flushes. Judgement is blocked by full Joker slots, Wheel is uncertain, and Gold offers less value than scoring power with our economy already strong."})` - 
+
+**7.** `reroll({'reasoning': 'Neither Gros Michel nor Banner improves our full, synergistic lineup enough to replace a Joker. Reroll for $4, leaving $62 and preserving maximum Seed Money interest. Seek Jupiter to scale our level-4 Flush, or a substantial upgrade such as Blueprint, Brainstorm, retriggers, or strong multiplicative scoring; avoid speculative Standard Pack spending.'})` - 
+
+**8.** `reroll({'reasoning': 'Reserved Parking and Uranus do not improve our flush engine. Reroll for $5, leaving $57 and retaining maximum Seed Money interest. Ante 6 warrants seeking Jupiter, retriggers, Blueprint/Brainstorm, or a strong replacement for Blue Joker, whose additive chips are less valuable alongside Arrowhead. Avoid the speculative Standard Pack; our priorities are reliable scoring growth and improved Spade consistency.'})` - 
+
+**9.** `buy({'card': 0, 'reasoning': 'Buy Temperance into the empty consumable slot, then use it for $21 from our current Joker sell values. This is a guaranteed $18 net profit without selling any Jokers, funding Jupiter and further upgrades while preserving maximum Seed Money interest.'})` - 
+
+**10.** `use({'consumable': 1, 'reasoning': 'Cash in Temperance now for $21, raising money to $75 without selling any Jokers and freeing a consumable slot to buy Jupiter. Flush is our primary hand, so its guaranteed upgrade is valuable; this profit also preserves maximum Seed Money interest while funding improvements.'})` - 
+
+
+
+## Strategic Context
+
+Based on your recent actions, consider:
+- How your decisions are building towards a cohesive strategy
+- Whether your current approach is working or needs adjustment
+- Patterns in your play that might need to change
+
+
+
+

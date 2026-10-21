@@ -1,0 +1,1 @@
+Sell The Hierophant as planned, recovering its $1 purchase cost and increasing Campfire from ×1.5 to ×1.75. This is a guaranteed 16.7% boost to every hand without replacing any scoring Joker, more useful than conditional chip enhancements. Retain Empress to enhance our level-11 Three of a Kind during play.

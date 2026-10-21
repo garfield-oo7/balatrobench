@@ -1,0 +1,1 @@
+Use the blue-seal-generated Venus now to upgrade our primary Three of a Kind from level 3 to level 4, raising its base from 70 Chips/7 Mult to 90 Chips/9 Mult. This permanently strengthens our Zany/Banner/Abstract scoring core at no monetary cost and frees a consumable slot for further seal-generated cards. We have no Observatory benefit from holding it.

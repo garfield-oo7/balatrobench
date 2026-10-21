@@ -1,0 +1,1 @@
+Sell The Star for $1 as planned: it cost $1, so this is a net-free increase of Campfire from ×1 to ×1.25, boosting every scoring hand by 25%. Suit conversion is not useful for our level-11 Three of a Kind strategy. Preserve Empress and all five scoring Jokers; Burglar would remove Banner's discard-based chips.

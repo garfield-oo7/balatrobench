@@ -1,0 +1,1 @@
+Keep the five red cards: Smeared Joker makes them a flush worth (35+10+9+8+6+2) × (4+12) = 1,120. Discard only the three black cards to seek a red even rank replacing the Jack or 9. Any such replacement raises the flush above 1,200, winning in one hand. This preserves the guaranteed 1,120-point fallback and leaves another discard if needed.

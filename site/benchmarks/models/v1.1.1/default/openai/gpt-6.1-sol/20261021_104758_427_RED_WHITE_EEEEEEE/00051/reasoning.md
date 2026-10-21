@@ -1,0 +1,1 @@
+Take the Two of Spades: adding any card increases Hologram from X1 to X1.25, and the Two also triggers Even Steven for +4 Mult when scored. Extra Two density supports our level-3 Two Pair strategy and Jolly Joker, making it preferable to the odd-ranked Five or Jack. No identifiable enhancement is specified, so choose on confirmed rank synergy.

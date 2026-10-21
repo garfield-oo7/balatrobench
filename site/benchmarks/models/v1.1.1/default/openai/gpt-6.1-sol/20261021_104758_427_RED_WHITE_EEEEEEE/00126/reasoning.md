@@ -1,0 +1,1 @@
+Discard Nines and Eights as Two Pair on our first discard. Blueprint currently copies Burnt Joker, so this permanently upgrades our primary hand twice, from level 13 to level 15 (300 chips, 16 Mult). We have three further discards and all four hands to rebuild Two Pair, then will move Blueprint beside Hologram for ×16 combined scoring, comfortably exceeding the 20,000 target.

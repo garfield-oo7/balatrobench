@@ -1,0 +1,1 @@
+Play the pair of twos with 6♠ and 3♣ as non-scoring cycling cards. This earns $4 from To Do List and scores 28 chips while preserving 10♣, 9♠, 8♥, and 6♥: any seven completes a straight. Drawing four new cards improves our options, and all four discards remain available to secure the remaining 422 points over three hands.

@@ -1,0 +1,1 @@
+The first discard is complete, so move Blueprint immediately left of Hologram to copy its ×3.75 rather than Burnt Joker. Then play the available Aces-and-Fours Two Pair while retaining the steel Three: even without the Lucky Ace triggering, this will score (240 + 30) × (13 + 13 + 8) × 1.5 × 3.75² ≈ 193,641, comfortably clearing the remaining 18,485 points.

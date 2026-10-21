@@ -1,0 +1,1 @@
+Play the five hearts for a flush: (35 + 11 + 10 + 10 + 6 + 4) × 4 = 304 chips. This beats the 300-chip blind in one hand, preserving three unused hands for $3.

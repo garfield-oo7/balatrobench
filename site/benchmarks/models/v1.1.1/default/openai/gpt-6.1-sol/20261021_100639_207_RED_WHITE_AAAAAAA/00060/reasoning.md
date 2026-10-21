@@ -1,0 +1,1 @@
+Use Uranus now to permanently upgrade Two Pair to level 2 (40 Chips, 3 Mult). It is our most-played scoring hand, and the extra base chips and Mult improve reliable cycling hands with Burglar, Even Steven, and Ancient Joker. There is no Observatory or other benefit to holding this planet; using it also frees a consumable slot.

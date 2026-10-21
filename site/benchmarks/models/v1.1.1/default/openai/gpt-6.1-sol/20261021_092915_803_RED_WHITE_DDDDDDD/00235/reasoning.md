@@ -1,0 +1,1 @@
+Buy The Fool for $3 as inexpensive Campfire fuel, then sell it for $1 to raise Campfire from X3 to X3.25. That guarantees an 8.3% scoring increase for only $2 net without weakening our synergistic Spade-flush Joker lineup. Its copy target is not shown, so selling provides reliable value while preserving ample cash for boss insurance.

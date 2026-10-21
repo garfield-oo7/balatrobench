@@ -1,0 +1,1 @@
+Skip to grow Red Card from +21 to +24 Mult, adding +9 effective Mult after Cavendish on every hand. None of these cards is a Spade or has a clearly valuable seal or edition; the unspecified enhancement on 5♦ does not justify deck dilution over guaranteed universal scaling. Preserve the thinned deck and enhance existing Spades with The Empress later.

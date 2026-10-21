@@ -1,0 +1,1 @@
+Use the blue-seal-generated Uranus now to raise Two Pair to level 6 (120 Chips, 7 Mult), strengthening our reliable Clever Joker scoring line for free and opening a consumable slot for further seal rewards. No Observatory is owned, so holding this planet offers no benefit.

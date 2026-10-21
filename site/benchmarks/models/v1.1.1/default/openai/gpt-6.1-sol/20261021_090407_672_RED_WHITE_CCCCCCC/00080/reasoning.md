@@ -1,0 +1,1 @@
+Use the first discard on the unenhanced club three to activate Trading Card: permanently remove a weak off-suit card and earn $3. Preserve the tens as a potential level-3 Full House foundation and the spade six for Wrathful Joker. We have four discards and five hands, so taking the guaranteed thinning and income before choosing our scoring hand is efficient.

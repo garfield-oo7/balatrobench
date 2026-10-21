@@ -1,0 +1,1 @@
+Keep all four Clubs, including both C8s (+12 Mult each before Ancient's ×1.5), and retain Steel H7 for held ×1.5 Mult. Discard the three off-suit non-Steel cards to find the fifth Club. Two discards remain and all four hands are intact; completing this flush offers far more scoring potential than playing the current two pair.

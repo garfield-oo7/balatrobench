@@ -1,0 +1,1 @@
+Buy The Star for $1 and then sell it for $1 to raise Campfire from ×1.25 to ×1.5 at zero net cost. With two free consumable slots, this is a guaranteed 20% increase to all hand scores, more efficient than either offered Joker or an unfocused pack. Keep Empress for enhancing our level-11 Three of a Kind during play and preserve the current scoring lineup.

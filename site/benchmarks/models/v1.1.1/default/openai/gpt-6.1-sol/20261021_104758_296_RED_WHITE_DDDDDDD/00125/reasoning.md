@@ -1,0 +1,1 @@
+Neither The Sun nor Wily Joker improves our Ancient-suit flush engine: Hearts conversion can obstruct Blackboard, and three-of-a-kind chips do not support flushes. Spend $4 to inspect replacements without prematurely selling a useful Joker. At $72 we retain maximum Seed Money interest and room to purchase a strong chip joker, retrigger/copy effect, or Jupiter.

@@ -1,0 +1,1 @@
+With no Jokers, an early scoring boost is the priority for clearing the next blinds efficiently. The $4 Buffoon Pack offers a choice of two Jokers while leaving $6 available; this is better value than a $5 reroll. Reserved Parking provides economy but no scoring, and Mars and Crystal Ball do not address our immediate need.

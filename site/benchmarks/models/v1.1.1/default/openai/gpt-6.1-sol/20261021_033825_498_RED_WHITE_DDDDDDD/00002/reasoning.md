@@ -1,0 +1,1 @@
+Keep A♥ K♥ 10♥ 4♥ and draw four cards toward a heart flush. Any heart ranked 5 or higher completes a flush worth at least 300, winning in one hand and preserving three hands for income. Three discards remain, so use discards rather than spend a hand on the kings.

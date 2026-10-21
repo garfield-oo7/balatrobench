@@ -1,0 +1,1 @@
+Buy Judgement for $1 and resell it for $1 rather than use it with full Joker slots. This cash-neutral sale will raise Campfire from ×2 to ×2.25, increasing every hand's score by 12.5% without permanently reducing money or Bull chips. Mars can then provide another cash-neutral Campfire increase; preserve all five scoring Jokers.

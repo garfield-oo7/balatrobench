@@ -1,0 +1,1 @@
+Grabber for $7 permanently adds a hand each round, improving survival against rising Ante targets and earning an extra $1 whenever we win with the same number of plays. With roughly half the run remaining this can repay its cost, and we retain $63—well above maximum-interest savings. Our current scoring engine is strong, so this is an excellent affordable permanent upgrade.

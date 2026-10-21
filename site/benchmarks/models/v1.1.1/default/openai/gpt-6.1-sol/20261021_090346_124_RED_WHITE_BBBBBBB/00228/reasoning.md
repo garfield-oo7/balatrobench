@@ -1,0 +1,1 @@
+Buy The Star for $1, then sell it for $1 to increase Campfire from ×1 to ×1.25 at no net cost. This provides a permanent 25% scoring increase until the next boss is defeated, preserves Bull's chip contribution after resale, and is far more valuable than suit conversion for our leveled Three of a Kind/Two Pair strategy.

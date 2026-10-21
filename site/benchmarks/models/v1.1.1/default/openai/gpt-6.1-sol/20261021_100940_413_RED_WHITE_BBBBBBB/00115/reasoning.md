@@ -1,0 +1,1 @@
+Use the Venus created by The Fool to raise our primary Three of a Kind to level 6: 130 base Chips and 13 Mult. This permanently improves our Zany Joker scoring engine, frees space for seal-generated consumables, and costs no further money. We have no Observatory benefit from holding the planet.

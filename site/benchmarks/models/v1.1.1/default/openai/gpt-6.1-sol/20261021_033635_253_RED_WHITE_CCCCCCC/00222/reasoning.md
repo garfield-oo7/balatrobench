@@ -1,0 +1,1 @@
+Buy Cavendish into our open Joker slot for a decisive X3 Mult upgrade. It will sit last, multiplying Bootstraps and all accumulated Photograph/Wrathful Mult. Spending only $3 leaves $63, retaining maximum Seed Money interest and +24 Bootstraps Mult. This nearly triples our flush scores and substantially improves our chances against the Ante 8 boss.

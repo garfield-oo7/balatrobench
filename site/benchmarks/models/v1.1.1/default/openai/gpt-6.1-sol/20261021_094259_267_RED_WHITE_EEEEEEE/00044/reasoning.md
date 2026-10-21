@@ -1,0 +1,1 @@
+Take the 2♠. Adding any card raises Hologram permanently from ×1 to ×1.25, and the 2 is the only offered even rank, supplying +4 Mult from Even Steven when scored. Smeared Joker makes it compatible with all clubs and spades for our primary Flush strategy; this synergy outweighs the Jack's higher chip value.

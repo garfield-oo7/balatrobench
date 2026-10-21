@@ -1,0 +1,1 @@
+Place S8 first so Fibonacci's +8 Mult is multiplied by all five Ancient Joker triggers. Then play the five Spades as our level-4 flush: approximately 184 Chips × 196.03 Mult = 36,069, exceeding the 22,000 target even though the held Heart and Diamond disable Blackboard. No need to spend a hand clearing red cards.

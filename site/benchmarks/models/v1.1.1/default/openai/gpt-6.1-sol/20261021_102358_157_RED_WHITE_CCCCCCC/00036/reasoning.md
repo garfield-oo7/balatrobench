@@ -1,0 +1,1 @@
+Play the ready Diamond flush for (35 + 11 + 9 + 8 + 6 + 5 + 50) × (4 + 3) = 868 chips. The Arm cannot lower this level-1 hand further. This safely clears over half the target while preserving all three discards, the pair of Tens, and three remaining hands to find the remaining 732 points, ideally with scoring Spades.

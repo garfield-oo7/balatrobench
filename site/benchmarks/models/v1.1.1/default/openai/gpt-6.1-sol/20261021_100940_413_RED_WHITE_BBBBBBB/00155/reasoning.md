@@ -1,0 +1,1 @@
+Use Venus now to raise our primary Three of a Kind to level 11 (230 Chips, 23 Mult). This is a guaranteed permanent scoring upgrade amplified by Ramen, and frees a consumable slot for future Blue Seal rewards. We have no Observatory, so retaining Venus provides no benefit.

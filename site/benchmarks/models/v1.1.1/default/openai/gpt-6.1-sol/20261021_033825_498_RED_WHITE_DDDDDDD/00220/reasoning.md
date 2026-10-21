@@ -1,0 +1,1 @@
+Put 4♦ first in the Diamond flush so its Even Steven +Mult, retriggered by Seltzer, is applied before Photograph multiplies the first scoring Queen. Follow with Q♦, Q♦, J♦, 7♦ to exploit Ancient Joker’s Diamond multipliers. Keep the Steel 3♣ held for ×1.5 Mult. Amber Acorn hides Joker identities, so leave their order unchanged rather than guessing.

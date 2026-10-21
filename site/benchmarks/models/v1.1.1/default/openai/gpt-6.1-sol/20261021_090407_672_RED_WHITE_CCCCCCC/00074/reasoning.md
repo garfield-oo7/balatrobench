@@ -1,0 +1,1 @@
+Use Earth now to upgrade Full House from level 2 to level 3 (90 base Chips and 8 Mult), strengthening our established fallback hand with permanent bonuses amplified by Cavendish. This frees a consumable slot without spending more money; retain The Empress until we can target useful spades during play. Cavendish is already correctly positioned last.

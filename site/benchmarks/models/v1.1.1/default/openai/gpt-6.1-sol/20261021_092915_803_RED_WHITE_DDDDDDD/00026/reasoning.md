@@ -1,0 +1,1 @@
+Play the completed spade flush: 10♠, 9♠, 5♠, 3♠, 2♠. Its 29 card chips plus 35 base chips give 64 chips; Wrathful adds +15 Mult and Droll adds +10, for 64 × (4 + 15 + 10) = 1,856 points. Added to 415, this reaches 2,271 and safely defeats the 1,600-point boss on our final hand. No sales or rearrangement are needed.

@@ -1,0 +1,1 @@
+Sell Uranus as planned, increasing Campfire from ×1.75 to ×2 for a 14.3% boost to every hand until the final boss is defeated. This also restores $54 and Bull to +108 Chips. Universal multiplicative scaling benefits our primary level-9 Three of a Kind more than upgrading our backup Two Pair.

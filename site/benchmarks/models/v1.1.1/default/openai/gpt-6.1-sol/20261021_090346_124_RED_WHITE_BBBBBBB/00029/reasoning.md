@@ -1,0 +1,1 @@
+Enhance both 9s with +4 Mult each. Matching enhanced ranks fit our Full House plan: scoring both gives +8 Mult alongside Clever Joker's +80 Chips and Zany Joker's +12 Mult. This is stronger immediate support than Steel, whose multiplier triggers before our large Joker Mult additions, while converting suits provides little benefit to our rank-focused build.

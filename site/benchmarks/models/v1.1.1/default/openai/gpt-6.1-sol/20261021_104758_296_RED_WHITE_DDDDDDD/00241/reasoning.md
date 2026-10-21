@@ -1,0 +1,1 @@
+Sell Pluto as planned, raising Campfire from ×3.25 to ×3.5 for a guaranteed 7.7% scoring increase against the final boss. High Card upgrades do little for our level-6 Spade flush strategy; the sale also frees a consumable slot and leaves ample funds for further Campfire fuel and a potential boss reroll.

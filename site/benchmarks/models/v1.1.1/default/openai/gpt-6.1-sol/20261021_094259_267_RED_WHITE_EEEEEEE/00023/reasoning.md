@@ -1,0 +1,1 @@
+Play K♦, Q♥, J♥, 4♥, and 2♦ as a red flush through Smeared Joker. The 4 and 2 trigger Even Steven, scoring (35+10+10+10+4+2) × (4+8) = 852 chips, comfortably clearing the remaining 48. Finish immediately and preserve two unused hands for $2.

@@ -1,0 +1,1 @@
+Use Jupiter now to permanently upgrade our primary Flush from level 6 to level 7 (125 base Chips, 16 base Mult). We have no Observatory benefit for holding it; immediate use improves our reliable spade-flush scoring at no further cost and frees a consumable slot. Keep Justice for an emergency Glass enhancement.

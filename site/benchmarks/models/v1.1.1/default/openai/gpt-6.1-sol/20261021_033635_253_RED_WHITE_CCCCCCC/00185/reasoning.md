@@ -1,0 +1,1 @@
+Use our first discard on the lone off-suit J♥: Trading Card permanently destroys it and earns $3, thinning toward our level-6 Spade flushes while preserving all six Spades and all five hands. The replacement may find our Steel card or another useful modifier. We can then select the strongest five-Spade flush and assess whether Justice is needed to reach 35,000 across the round.

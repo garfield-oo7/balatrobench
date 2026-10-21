@@ -1,0 +1,1 @@
+With no pairs or discards, use one Burglar hand to cycle five cards, scoring 15 chips from the Jack. Keep A-K-Q as high-value pairing targets; drawing five fresh cards gives strong chances to form Two Pair or Full House and activate Mad Joker for a quick win. Retaining these high ranks makes a Two Pair comfortably exceed the remaining 435 chips.

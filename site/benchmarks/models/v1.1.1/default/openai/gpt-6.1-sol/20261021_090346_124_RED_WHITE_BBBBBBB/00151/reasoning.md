@@ -1,0 +1,1 @@
+Buy Venus to strengthen our primary three-card trips, which also activate Half Joker. Level 8 gives 170 base Chips and 17 Mult; the permanent +20 Chips and +2 Mult comfortably outweigh Bull temporarily losing 4 Chips from the $2 expenditure. We retain $45 and maximum interest. Use the planet immediately afterward to free the consumable slot.

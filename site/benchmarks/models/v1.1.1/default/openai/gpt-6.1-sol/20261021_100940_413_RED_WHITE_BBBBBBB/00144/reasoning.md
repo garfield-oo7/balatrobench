@@ -1,0 +1,1 @@
+Use Venus now to raise our primary Three of a Kind to level 9, adding +20 base Chips and +2 base Mult permanently. This supports Zany Joker and is amplified by Ramen, with no benefit to holding it since we do not have Observatory. It also frees a consumable slot for future Tarot generation.

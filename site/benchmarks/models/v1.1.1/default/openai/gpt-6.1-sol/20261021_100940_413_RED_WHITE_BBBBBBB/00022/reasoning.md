@@ -1,0 +1,1 @@
+Play the three Queens for (50 + 30) × (5 + 12) = 1,360 chips, comfortably beating the 600-chip Hook in one hand. Level-2 trips score more than the available full house, and no consumable or discard is needed. Save The Sun for a later round and preserve all three unused hands for payout.

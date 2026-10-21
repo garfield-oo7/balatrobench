@@ -1,0 +1,1 @@
+Take The Fool to create The Hermit, our last-used Tarot. With $42 remaining and both consumable slots empty, this guarantees another $20 when used, funding discounted upgrades while maintaining maximum interest. This is the strongest first pick from this Mega Arcana Pack; The Emperor remains a useful potential second pick for additional Tarot value.

@@ -1,0 +1,1 @@
+Keep K♥, 8♥, and Steel 7♥; discard the five non-Hearts to seek an Ancient Joker Heart flush and our second Steel card. Two discards and all four hands remain, so drawing five now is safer than spending a hand on low-scoring pairs. Ideally retain Steel 7♥ in hand and score five other Hearts, but use it in the flush if necessary. The Moon cannot help the current Heart bonus.

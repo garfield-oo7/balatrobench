@@ -1,0 +1,1 @@
+Move foil Bootstraps before Cavendish so its current +30 Mult is tripled rather than added afterward. This adds 60 effective Mult to every hand at no cost; keep Cavendish last to multiply all additive Mult.

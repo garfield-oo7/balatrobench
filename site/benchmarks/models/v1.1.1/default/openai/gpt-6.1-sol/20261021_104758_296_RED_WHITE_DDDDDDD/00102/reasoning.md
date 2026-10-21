@@ -1,0 +1,1 @@
+Keep all three Clubs (Q, J, T) and discard the five off-suit cards to pursue an Ancient-powered Club flush. We need its repeated ×1.5 triggers to reach 16,500 efficiently; the current Queen pair is far too weak. Drawing five maximizes chances of finding two more Clubs, especially Fibonacci ranks, and held Steel cards. Preserve all four hands with three discards still available.

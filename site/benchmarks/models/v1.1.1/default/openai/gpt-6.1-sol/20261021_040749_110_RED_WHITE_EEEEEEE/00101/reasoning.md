@@ -1,0 +1,1 @@
+Play Aces and Sevens as level-11 Two Pair. With Supernova reaching +12 Mult and Blueprint copying Hologram, this scores (220 + 36) × (12 + 12) × 3.5 × 3.5 = 75,264, comfortably exceeding the remaining 14,969 points. The steel Ace must be played to form this guaranteed winning hand; no further discards or consumables are needed, and we preserve two hands for payout.

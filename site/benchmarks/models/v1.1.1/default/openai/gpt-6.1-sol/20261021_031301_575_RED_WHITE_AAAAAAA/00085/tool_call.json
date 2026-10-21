@@ -1,0 +1,10 @@
+[
+  {
+    "id": "call_lgR6VexqOLOEh8mBwBxUmRLp",
+    "function": {
+      "arguments": "{\"hand\": [2, 4, 6, 5, 3, 0, 1, 7]}",
+      "name": "rearrange"
+    },
+    "type": "function"
+  }
+]

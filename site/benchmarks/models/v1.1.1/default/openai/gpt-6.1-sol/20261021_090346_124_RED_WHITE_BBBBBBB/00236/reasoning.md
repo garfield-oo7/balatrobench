@@ -1,0 +1,1 @@
+Play Kings and 9s as level-10 Two Pair. With the Mult King, this scores at least (200 + 38 + 80) × (11 + 4 + 15 + 10) × 1.54 × 1.5 = 29,383, comfortably exceeding the remaining 14,297 points. The Gold Seal 9 also earns $3. Win immediately with three hands unused, preserving Ramen and avoiding unnecessary discards.

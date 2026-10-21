@@ -1,0 +1,1 @@
+Play the pair of Kings with A♠, Q♦, and 8♦. Splash makes all five cards score: (10 pair chips + 49 card chips + 50 foil chips) × (2 base Mult + 6 from two spades + 15 Gros Michel) = 2,507, comfortably beating the 2,000 target. All three diamonds trigger Rough Gem for $3, maximizing immediate earnings while preserving three unused hands.

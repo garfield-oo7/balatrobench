@@ -1,0 +1,1 @@
+Keep the complete heart flush and use our final discard on the three off-suit cards. The current flush scores (35+10+10+8+5+3)×4 = 284; drawing any heart ranked 7 or higher lets us replace the 3♥ and reach 300 in one hand. If we miss, the guaranteed 284-point flush leaves only 16 points to finish with three hands remaining.

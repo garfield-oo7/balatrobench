@@ -1,0 +1,10 @@
+[
+  {
+    "id": "call_DQqN3VGA0UCTR4KmX6Vkhwjy",
+    "function": {
+      "arguments": "{\"card\": 1, \"targets\": [0]}",
+      "name": "pack"
+    },
+    "type": "function"
+  }
+]

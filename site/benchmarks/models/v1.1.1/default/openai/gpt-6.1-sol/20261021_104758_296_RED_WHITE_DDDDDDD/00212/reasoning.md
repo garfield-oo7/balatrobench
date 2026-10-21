@@ -1,0 +1,1 @@
+Neither Seance nor Hiker merits replacing a core scoring Joker this late. Reroll for $4 to find consumables we can buy and sell for guaranteed Campfire scaling, or a strong immediate upgrade. Campfire at ×1.5 is still modest for the final blinds; our $77 reserve can fund several sales while retaining $10 for a boss reroll. Skip Magic Trick and speculative packs for now.

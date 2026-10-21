@@ -1,0 +1,1 @@
+Convert 10♠, 8♠, and 6♠ to Clubs, completing a Club flush with Q♣ and J♣ while retaining both Steel Hearts. Play the three even Clubs first so their +4 Mult compounds through Ancient Joker. With both held Steel multipliers, this flush comfortably exceeds 16,500 in one hand, preserving three hands for income; no further discards are needed.

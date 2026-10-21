@@ -1,0 +1,1 @@
+Open the discounted $3 Arcana Pack while keeping $25 for maximum interest. Our current Full House core is strong enough for Ante 2; Tarot economy, enhancements, or rank manipulation can improve it without replacing useful Jokers. Skip Wee Joker, which requires dedicated 2s and a slot, and the more expensive speculative Standard Pack.

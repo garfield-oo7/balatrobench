@@ -1,0 +1,1 @@
+Keep J♣, T♣, 5♣, and 4♣ and draw four cards toward a club flush. We need only 732 more chips: even adding 2♣ produces (35 + 31 + 50) × (4 + 3) = 812, winning immediately and earning another $4 from To Do List. Three discards remain, so pursuing this four-card flush is safer and more profitable than spending a hand on the tens. Trading Card already triggered this round.

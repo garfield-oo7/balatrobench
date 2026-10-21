@@ -1,0 +1,1 @@
+Discard all five debuffed red cards as a Flush via Smeared Joker. Burnt Joker upgrades Flush to level 14 (230 Chips, 30 Mult), even though the discarded cards are debuffed. Preserve J♠, 9♣, and 3♠ to build an unaffected black Flush while drawing five replacements. The Head also debuffs Diamonds through Smeared Joker, so prioritize black scoring cards and held Steel cards.

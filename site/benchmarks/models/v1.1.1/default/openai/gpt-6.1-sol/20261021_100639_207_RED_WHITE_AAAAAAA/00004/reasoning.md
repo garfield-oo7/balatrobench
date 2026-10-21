@@ -1,0 +1,1 @@
+We have $0 and no consumables, so leave without selling either valuable Joker. Mad Joker makes two pairs and full houses strong enough for Ante 1, while Burglar provides seven hands for finding those combinations and earning unused-hand income. Preserve pairs and use extra played cards to cycle toward a second pair; rebuild money before further shop investments.

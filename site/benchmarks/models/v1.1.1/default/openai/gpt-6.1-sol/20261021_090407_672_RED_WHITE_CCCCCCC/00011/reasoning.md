@@ -1,0 +1,1 @@
+Keep the kings-full-of-jacks full house, already worth 360 chips, and discard only the three unused cards. Drawing the fourth king upgrades to four of a kind worth 700 chips, winning in one hand and preserving the unused-hand income. We have two free discards and can safely seek that upgrade without breaking our strong made hand.

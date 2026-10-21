@@ -1,0 +1,1 @@
+Keep the four clubs (A, Q, 8, 6) and draw four cards to complete a flush. Any club gives at least 288 points; a ten or higher clears the 300-point blind immediately. We have three discards remaining, so improving the flush before spending hands preserves our unused-hand payout.

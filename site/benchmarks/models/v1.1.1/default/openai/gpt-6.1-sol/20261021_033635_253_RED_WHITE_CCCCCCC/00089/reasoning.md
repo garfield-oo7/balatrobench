@@ -1,0 +1,1 @@
+Convert 10♥, 7♦, and 6♥ to spades, enabling a five-card spade flush using both Aces, 10, 9, and 7 without the debuffed Jack. With Splash, foil Trading Card, Wrathful Joker, and Bootstraps, that flush scores at least (35 + 48 + 50) × (4 + 15 + 30) = 6,517 points. This permanently strengthens three numbered cards for our spade engine while preserving all five hands and our money.

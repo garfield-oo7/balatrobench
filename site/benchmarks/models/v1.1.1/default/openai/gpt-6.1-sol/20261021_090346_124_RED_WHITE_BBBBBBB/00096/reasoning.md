@@ -1,0 +1,1 @@
+Use Uranus to raise Two Pair from level 4 to level 5 (100 base Chips and 6 Mult). This permanently strengthens our reliable Clever Joker fallback at no further cost and frees a consumable slot for Certificate-generated blue or purple seal rewards. Preserve the $41 bankroll rather than pay escalating reroll costs.

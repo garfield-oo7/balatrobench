@@ -1,0 +1,1 @@
+Use The Emperor now: with two empty consumable slots it can generate both Tarots. Sell unhelpful results to strengthen Campfire ahead of the Ante 7 boss, while using valuable economy results such as Hermit or Temperance. This converts a $1 purchase into two useful resources without replacing any scoring Joker; keep cash available for permanent upgrades before Campfire resets.

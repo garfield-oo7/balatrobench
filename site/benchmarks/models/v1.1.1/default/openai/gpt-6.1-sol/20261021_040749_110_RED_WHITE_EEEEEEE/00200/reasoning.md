@@ -1,0 +1,1 @@
+Use the Blue Seal-generated Uranus now to raise our main Two Pair hand to level 22 (440 chips, 23 Mult). We have no Observatory, so holding it offers no passive benefit; immediate use permanently improves every subsequent Two Pair and frees space for more Blue Seal planets or emergency Tarot cards. Keep Blueprint copying ×4.25 Hologram.

@@ -1,0 +1,1 @@
+Play the five hearts for a guaranteed winning Flush: (35 base Chips + 40 card Chips + 50 from Foil Trading Card) × (4 base Mult + 9 Red Card) × 3 Cavendish = 4,875, comfortably exceeding 3,000. No further discards are needed; winning now preserves three hands for $3.

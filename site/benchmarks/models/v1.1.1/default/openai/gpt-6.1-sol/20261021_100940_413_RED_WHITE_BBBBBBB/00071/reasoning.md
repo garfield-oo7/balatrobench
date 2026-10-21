@@ -1,0 +1,1 @@
+Use The Fool to recreate The Hermit, the last consumable used according to the recent history. Hermit can then yield the full $20 at our current $54, funding future scaling and ×Mult upgrades without reducing interest. No later Tarot or Planet use is recorded, so this follows the planned purchase.

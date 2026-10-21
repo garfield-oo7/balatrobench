@@ -1,0 +1,1 @@
+Our spade-flush engine needs reliable multiplicative scaling for the later antes; Splash is replaceable because all five cards already score in a flush. Skip Saturn and random planets, and reroll for $5 to seek ×Mult, Jupiter, or useful Tarot cards. This leaves $67, retaining maximum $10 Seed Money interest and +26 Bootstraps Mult, with room for a worthwhile purchase.

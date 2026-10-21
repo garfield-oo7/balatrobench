@@ -1,0 +1,1 @@
+Use Venus now to raise Three of a Kind to level 3 (70 Chips, 7 Mult), permanently strengthening our Zany Joker fallback without spending more money. This also frees a consumable slot for sealed-card rewards from Certificate. Keep The Sun for tactical use during a blind and retain $34 for maximum interest.

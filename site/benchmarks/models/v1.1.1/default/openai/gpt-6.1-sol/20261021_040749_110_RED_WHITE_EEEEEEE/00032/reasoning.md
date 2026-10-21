@@ -1,0 +1,1 @@
+Open the $4 Buffoon Pack to seek a chip Joker, economy engine, or multiplicative scaling. We have two empty Joker slots and mostly additive Mult, so another complementary Joker can substantially improve Ante 3 consistency. This leaves $35, comfortably above the $25 maximum-interest threshold, and is better value than a $5 reroll.

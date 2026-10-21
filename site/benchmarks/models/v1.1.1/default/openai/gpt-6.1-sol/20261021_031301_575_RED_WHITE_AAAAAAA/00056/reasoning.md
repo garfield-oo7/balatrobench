@@ -1,0 +1,1 @@
+Play the Heart Jack alone to finish immediately: (5 High Card + 10 Jack + 30 Scary Face + 15 Runner) × (1 × 1.5 Ancient Joker + 10 holographic Mult) = 690, comfortably exceeding the remaining 360. Preserve all Jokers and finish with three unused hands for extra income; no cycling or further setup is needed.

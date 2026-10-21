@@ -1,0 +1,1 @@
+Reroll for $3, leaving $56 and preserving maximum $10 Seed Money interest. Riff-raff has no room to generate Jokers, and Fibonacci is not a clear upgrade over Even Steven for our current deck. Look for Jupiter, useful Tarot cards, retriggers, or a strong multiplicative/copy Joker to improve our Ancient Joker flush engine; skip the speculative Standard Pack.

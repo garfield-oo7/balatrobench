@@ -1,0 +1,1 @@
+Open the $4 Jumbo Standard Pack: an enhanced spade or valuable blue/purple seal could improve our deck; if none is compelling, skipping permanently raises Red Card from +15 to +18 Mult. Cavendish triples that gain, making this a reliable scaling investment even with no suitable card. We retain $60 and maximum interest; keep our current synergistic Jokers and Cavendish last.

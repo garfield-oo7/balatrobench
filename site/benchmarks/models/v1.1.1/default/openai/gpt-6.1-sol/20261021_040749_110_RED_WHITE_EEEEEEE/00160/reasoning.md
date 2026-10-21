@@ -1,0 +1,1 @@
+Buy The Hermit for $3, then use it for the capped $20 payout: a guaranteed net profit of $17 with both consumable slots free. This funds more selective late-game upgrades without sacrificing interest. Dusk is not a reliable improvement to our current Two Pair engine; keep Blueprint copying ×4.25 Hologram.

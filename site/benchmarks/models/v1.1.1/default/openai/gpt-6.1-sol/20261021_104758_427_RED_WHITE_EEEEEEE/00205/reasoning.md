@@ -1,0 +1,1 @@
+Buy Uranus for $3 to upgrade our dominant Two Pair. Its +20 chips and +1 base Mult are amplified by Blueprint copying Hologram (×4.25 twice), giving a guaranteed permanent improvement at low cost. We have a free consumable slot and ample funds; use it after purchase while preserving Chariot for a Steel enhancement next round.

@@ -1,0 +1,1 @@
+Take Mercury as a free upgrade to our most accessible fallback hand. None of these planets improves our main Flush strategy, but Pair is easier to assemble than trips or two pair when a flush is unavailable, and it has already been used three times. Its extra chips and Mult improve emergency scoring with our existing Jokers and Seltzer; skipping provides no benefit.

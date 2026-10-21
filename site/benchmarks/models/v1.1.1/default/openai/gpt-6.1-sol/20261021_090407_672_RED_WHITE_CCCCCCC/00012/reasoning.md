@@ -1,0 +1,1 @@
+Keep the three kings and two jacks, preserving a full house worth (40 + 30 + 20) × 4 = 360 chips. Use the final discard on the queen, ten, and two to seek the fourth king: four kings score 700 and win immediately. If we miss, the full house remains intact, with all four hands available to earn the remaining 90 chips.

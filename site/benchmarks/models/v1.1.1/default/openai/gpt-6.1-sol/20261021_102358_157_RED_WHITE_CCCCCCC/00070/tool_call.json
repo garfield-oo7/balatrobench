@@ -1,0 +1,10 @@
+[
+  {
+    "id": "call_eXopik17QZCyktTPgfhCQ99C",
+    "function": {
+      "arguments": "{\"skip\": true}",
+      "name": "pack"
+    },
+    "type": "function"
+  }
+]

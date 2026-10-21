@@ -1,0 +1,1 @@
+Sell The Star as planned: Diamonds undermine our Spade-flush and Blackboard synergies, whereas selling raises Campfire from X1.5 to X1.75, a reliable 16.7% scoring increase through the remaining Ante 8 blinds. It also frees the consumable slot for further inexpensive Campfire fuel.

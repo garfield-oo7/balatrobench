@@ -1,0 +1,1 @@
+Reroll for $3 to find consumables that can improve our Spade-flush engine or be bought and sold to scale Campfire for the final boss. Misprint is not worth replacing any of our six synergistic Jokers, and Magic Trick would dilute the shop. Keep at least $10 available for Director's Cut if the showdown boss counters our build; $55 after this reroll leaves ample upgrade money.

@@ -1,0 +1,1 @@
+Neither Crazy Joker nor Mercury supports our established Flush/Ancient Joker engine. Reroll for $4, leaving $52 and retaining maximum $10 Seed Money interest, to seek Jupiter, useful Tarot support, retriggers, or a strong replacement for a lower-impact Joker. Skip the speculative Standard Pack; preserve the current scoring lineup unless a concrete upgrade appears.

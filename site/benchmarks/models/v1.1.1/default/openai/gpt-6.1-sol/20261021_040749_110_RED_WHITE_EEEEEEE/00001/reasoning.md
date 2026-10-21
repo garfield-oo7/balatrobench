@@ -1,0 +1,1 @@
+Keep both pairs (Queens and 5s) and discard the four unpaired cards to seek a full house or four of a kind. We have four discards available, so use them to improve the hand before spending hands; Queens full of 5s scores 320 and wins immediately, preserving hand-payout money.

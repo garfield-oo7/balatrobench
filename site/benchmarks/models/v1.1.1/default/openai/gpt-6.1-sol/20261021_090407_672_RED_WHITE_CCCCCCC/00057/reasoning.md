@@ -1,0 +1,1 @@
+Skip these three unmodified, off-suit cards. None improves our spade-focused scoring or justifies diluting the deck being thinned by Trading Card. Skipping increases Red Card from +6 to +9 Mult permanently; with Cavendish, that adds 9 effective Mult to every hand, a much stronger and more consistent benefit.

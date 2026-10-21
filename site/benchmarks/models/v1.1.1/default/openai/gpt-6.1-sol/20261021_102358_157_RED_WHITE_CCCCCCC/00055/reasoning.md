@@ -1,0 +1,1 @@
+Skip these unmodified non-Spades to increase Red Card from +6 to +9 Mult permanently. Cavendish triples that extra +3 Mult on every hand, while none of these cards offers enhancements, seals, or Wrathful Joker synergy. Skipping also avoids diluting our deck and preserves the benefits of Trading Card's thinning.

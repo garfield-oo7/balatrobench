@@ -1,0 +1,1 @@
+Choose Jupiter to upgrade our dominant Flush from level 3 to level 4, raising its base from 65 Chips × 8 Mult to 80 Chips × 10 Mult. Flush has been played 15 times and directly supports our suit-based scoring engine; the extra base Mult is amplified by Ancient Joker's matching-suit triggers and Blackboard's ×3. The other planets improve hands we rarely use.

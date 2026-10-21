@@ -1,0 +1,1 @@
+With no Jokers, our priority is reliable early scoring. Open the $4 Buffoon Pack to choose between two Jokers while retaining $6; this is better value than a $5 reroll. Neptune is too situational, and Hieroglyph's hand penalty is unnecessary this early. Evaluate the pack before deciding whether to invest in To Do List.

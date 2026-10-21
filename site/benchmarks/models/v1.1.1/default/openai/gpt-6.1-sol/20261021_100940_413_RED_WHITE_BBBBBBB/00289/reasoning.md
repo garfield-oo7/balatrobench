@@ -1,0 +1,1 @@
+Use Uranus to upgrade Two Pair to level 10 (200 Chips, 11 Mult), strengthening our reliable fallback and repeated hands with Card Sharp for the final boss. This is more valuable than selling it for only +0.25 to Campfire. Preserve the current well-ordered Joker lineup; no available purchase is an upgrade.

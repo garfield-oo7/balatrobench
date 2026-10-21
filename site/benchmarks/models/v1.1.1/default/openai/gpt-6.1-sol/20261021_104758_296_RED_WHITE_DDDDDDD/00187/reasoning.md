@@ -1,0 +1,1 @@
+Buy Mars to sell as Campfire fuel, not to upgrade Four of a Kind. The $2 net cost after selling raises Campfire from ×1.5 to ×1.75, improving all scores by about 16.7% for the upcoming Ante 7 boss. After the sale we retain $53, enough for maximum Seed Money interest and a potential boss reroll. Our existing six Jokers already support the Spade-flush engine well.

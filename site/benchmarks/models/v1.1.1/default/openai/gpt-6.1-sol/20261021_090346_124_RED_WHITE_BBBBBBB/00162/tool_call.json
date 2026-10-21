@@ -1,0 +1,10 @@
+[
+  {
+    "id": "call_aWSmuCPVkzUJg7Ld9fB1l7vB",
+    "function": {
+      "arguments": "{\"consumable\": 1}",
+      "name": "use"
+    },
+    "type": "function"
+  }
+]

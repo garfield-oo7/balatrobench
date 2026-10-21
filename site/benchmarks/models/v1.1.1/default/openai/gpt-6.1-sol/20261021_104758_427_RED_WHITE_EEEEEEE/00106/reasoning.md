@@ -1,0 +1,1 @@
+Place Blueprint immediately before Burnt Joker so our first discard upgrades Two Pair twice. We can discard two ordinary Aces and both Fours as exactly Two Pair, preserving the Gold Ace for $3 at round end. After upgrading, restore Blueprint beside Hologram before playing; a level-12 Two Pair with ×3.5 twice will comfortably clear this blind.

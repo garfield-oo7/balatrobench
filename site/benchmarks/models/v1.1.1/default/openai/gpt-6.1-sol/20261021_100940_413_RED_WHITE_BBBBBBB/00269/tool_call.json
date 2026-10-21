@@ -1,0 +1,10 @@
+[
+  {
+    "id": "call_CNMI4nypa56CQP09L8cRvi6P",
+    "function": {
+      "arguments": "{\"consumable\": 1}",
+      "name": "use"
+    },
+    "type": "function"
+  }
+]

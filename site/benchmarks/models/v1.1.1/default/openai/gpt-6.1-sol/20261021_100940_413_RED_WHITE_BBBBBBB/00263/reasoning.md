@@ -1,0 +1,1 @@
+Buy Mercury for $1, then resell it for $1 to gain a free +0.25× Campfire increase before the final boss. Pair upgrades are low priority compared with our level-11 Three of a Kind and level-9 Two Pair; selling improves every hand without changing The Fool's last-used target. Mars offers another free buy–sell afterward. Preserve the current synergistic Joker lineup.

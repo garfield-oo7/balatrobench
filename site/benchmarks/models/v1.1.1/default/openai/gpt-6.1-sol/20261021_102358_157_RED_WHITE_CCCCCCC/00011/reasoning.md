@@ -1,0 +1,1 @@
+Keep the guaranteed Kings-full-of-Jacks full house, worth 360 chips, and discard the three unrelated cards. Drawing the fourth King upgrades to four of a kind worth 700 and wins immediately, preserving three hands for income. If we miss, the full house remains intact and fresh cards may also improve our follow-up options for the remaining 90 chips.

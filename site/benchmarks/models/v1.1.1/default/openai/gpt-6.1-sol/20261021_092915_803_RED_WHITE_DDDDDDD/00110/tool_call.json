@@ -1,0 +1,10 @@
+[
+  {
+    "id": "call_HEBM4PIp4KSEs8bT87sdY8ZR",
+    "function": {
+      "arguments": "{\"consumable\": 0}",
+      "name": "use"
+    },
+    "type": "function"
+  }
+]

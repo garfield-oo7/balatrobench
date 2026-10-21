@@ -1,0 +1,1 @@
+No pairs are available and Burglar leaves no discards. Cycle T-9-7-6-3 for 15 chips while keeping A-K-Q as high-value pairing targets. Five fresh cards offer a good chance to make Two Pair, where Mad Joker's +10 Mult can clear the remaining blind in one scoring hand. We still have five hands after this play.

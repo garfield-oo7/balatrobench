@@ -1,0 +1,1 @@
+Use The Hermit now for the full $20, increasing our bankroll from $42 to $62 and freeing the consumable slot. There is no benefit to delaying at this balance; the extra funds let us search for stronger scoring and scaling Jokers while retaining $25 for maximum interest.

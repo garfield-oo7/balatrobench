@@ -1,0 +1,1 @@
+Use The Hermit to gain $20, raising our $33 to $53. This is a guaranteed, immediate return that can fund Joker upgrades and additional discounted packs while preserving maximum interest. It outweighs the Devil's slower income and skipping for +3 Red Card Mult; The Fool's previous target is unknown.

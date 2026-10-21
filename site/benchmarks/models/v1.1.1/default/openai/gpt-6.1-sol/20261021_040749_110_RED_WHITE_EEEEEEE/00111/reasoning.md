@@ -1,0 +1,1 @@
+Play Aces and Fours as level-12 Two Pair, retaining the steel Three for ×1.5 Mult. Even without the Lucky Ace triggering, this scores (240 + 22 + 8) × (13 + 13 Supernova + 8 Even Steven) × 1.5 × 3.75² ≈ 193,641, far above the remaining 18,485. Blueprint is correctly copying Hologram. Win immediately and preserve two hands for payout.

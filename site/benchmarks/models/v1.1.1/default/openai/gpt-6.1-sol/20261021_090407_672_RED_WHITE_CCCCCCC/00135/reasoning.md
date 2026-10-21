@@ -1,0 +1,1 @@
+Play the ready five-spade level-6 Flush for a guaranteed one-hand win: (110 base +44 card chips +100 from two Foil Jokers) × (14 base Mult +4 Mult Ace +15 Wrathful +33 Red Card +42 Bootstraps) ×3 Cavendish = 82,296, comfortably exceeding 20,000. Preserve Justice, four unused hands for income, and our $107 economy.

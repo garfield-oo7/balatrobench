@@ -1,0 +1,1 @@
+Play Kings and Queens as level-5 Two Pair, adding the unscored 7 to raise Raised Fist's lowest held rank to 9. Expected score: (100 base + 40 card chips + 80 Clever Joker) × (6 base + 8 from Mult Kings + 18 Raised Fist + 15 Abstract) = 10,340, beating 7,500 in one hand. Keep the blue-seal 9 held to generate Uranus at round end, while preserving three unused hands for income.

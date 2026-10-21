@@ -1,0 +1,1 @@
+Make K♠ and 8♠ Lucky. Both fit our Spade-flush strategy and have no existing enhancement to overwrite, unlike the Mult 6♠. Each scored Lucky card offers chances for +20 Mult and $20; the money also strengthens Bootstraps. These repeatable scoring and economy benefits outweigh Red Card's +3 Mult from skipping. Avoid suit conversions that dilute our Spade synergy.

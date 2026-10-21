@@ -1,0 +1,1 @@
+Play the ace pair with all four spades. Splash makes all five cards score, four spades supply +12 Mult, and Foil Trading Card adds 50 Chips: (10 + 11 + 11 + 10 + 8 + 2 + 50) × (2 + 12) = 1,428, beating the 1,200 target immediately. Rough Gem also earns $1 from the diamond ace. Preserve three unused hands for income without spending more discards.

@@ -1,0 +1,1 @@
+Preserve the full house of three fours and two nines, worth (40 + 12 + 18 + 50) × 4 = 480 chips with Foil Trading Card. Discard only the three unused cards to seek the fourth four: four fours would score (60 + 16 + 50) × 7 = 882 and beat the boss in one hand. We have two free discards and all four hands left, so fishing for this upgrade is safe while retaining the full house.

@@ -1,0 +1,1 @@
+Play two pair, Aces and Queens, activating Mad Joker for +10 Mult. This scores (20 + 11 + 11 + 10 + 10) × (2 + 10) = 744 chips, comfortably clearing the remaining 420 and preserving four hands for payout.

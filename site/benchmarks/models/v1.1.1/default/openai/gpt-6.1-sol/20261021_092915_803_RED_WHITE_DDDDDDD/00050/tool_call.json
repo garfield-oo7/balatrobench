@@ -1,0 +1,10 @@
+[
+  {
+    "id": "call_RY6TIpDvZUxSk8bTPDRLRmob",
+    "function": {
+      "arguments": "{\"pack\": 1}",
+      "name": "buy"
+    },
+    "type": "function"
+  }
+]

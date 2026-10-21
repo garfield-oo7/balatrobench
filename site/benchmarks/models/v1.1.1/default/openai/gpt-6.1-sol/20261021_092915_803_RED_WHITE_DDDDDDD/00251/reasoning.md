@@ -1,0 +1,1 @@
+Buy Jupiter to upgrade our primary Flush from level 6 to 7. The permanent +15 Chips and +2 base Mult benefit every Spade flush, including Seltzer retriggers and our strong multiplicative engine. At $3 this is a reliable final-boss upgrade while retaining $52 and ample Director's Cut insurance.

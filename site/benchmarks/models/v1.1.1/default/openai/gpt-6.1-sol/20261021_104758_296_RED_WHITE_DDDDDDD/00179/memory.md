@@ -1,0 +1,40 @@
+# Memory & Previous Actions
+
+
+## Recent Decision History
+
+Here is a list of your recent decisions (from oldest to newest):
+
+
+**1.** `play({'cards': [5, 0, 1, 4, 7], 'reasoning': 'Play all five Spades for our level-5 Flush, with the Fibonacci 5 first if selection order is preserved. The red-seal 6 scores twice, giving six Ancient ×1.5 triggers and six Arrowhead +50-chip bonuses, alongside Wrathful and Fibonacci additions. All three held cards are Clubs, activating Blackboard ×3, and keeping the Gold Club 9 earns $3 at round end. This comfortably exceeds 35,000 even without any existing Hiker bonuses, wins in one hand, and preserves four hands for payout; no further discard is needed.'})` - 
+
+**2.** `reroll({'reasoning': 'Spend $3 to refresh two irrelevant shop cards, retaining $67 and maximum $10 Seed Money interest. Our level-5 Spade flush engine is strong, but Ancient has rotated to Diamonds, so seek Jupiter, Spade conversion/duplication, retriggers, or a reliable multiplier upgrade over Hiker before the late Ante 7 targets. Neither Jolly Joker nor Neptune supports our main hand, and Standard Packs offer less targeted value than this cheap reroll. Preserve at least $50 where practical and funds for a potential boss reroll.'})` - 
+
+**3.** `sell({'joker': 3, 'reasoning': "Free a slot for Campfire by replacing Hiker. At Ante 7, Hiker's gradual +5-chip growth is much less valuable beside Arrowhead's +50 per Spade trigger than an additional scalable multiplier. With $67 and discounted rerolls, we can buy Campfire and build its multiplier by buying and selling inexpensive consumables, strengthening both remaining Ante 7 blinds while Ancient currently targets Diamonds. Keep the negative Wrathful and our core Spade/Fibonacci/Blackboard engine intact; Campfire will need rebuilding after the boss."})` - 
+
+**4.** `buy({'card': 1, 'reasoning': "Buy Campfire into the slot freed by selling Hiker. Ancient currently targets Diamonds rather than our Spades, so we need an independent multiplier for the remaining Ante 7 blinds. With $69, we can afford Campfire and fuel it by buying and selling inexpensive shop cards, while keeping our core Spade scoring engine and Blackboard. Campfire's multiplier stacks with Blackboard and can be rebuilt after the boss resets it."})` - 
+
+**5.** `reroll({'reasoning': 'Campfire is currently only ×1, so prioritize building it before the next Ante 7 blind while Ancient targets Diamonds instead of our Spades. Reroll for $4 to find inexpensive Tarot or Planet cards we can buy and sell for permanent +0.25× Campfire increments until the boss is defeated. Scholar cannot be bought with our Joker slots full and is not worth replacing a core Joker; Standard Packs are less reliable upgrades. Retain $56 after this roll, still enough for maximum Seed Money interest and further targeted investment.'})` - 
+
+**6.** `buy({'card': 1, 'reasoning': 'Buy The Fool for $3 to sell for $1, fueling Campfire from ×1 to ×1.25 at a net cost of only $2. Our Joker slots are full, so Even Steven is not an efficient fuel purchase. With Ancient currently targeting Diamonds rather than our main Spade flushes, building an independent multiplier is important for the remaining Ante 7 blinds; this purchase leaves $53 and preserves maximum Seed Money interest before the sale.'})` - 
+
+**7.** `sell({'consumable': 0, 'reasoning': 'Sell the Fool as planned, gaining $1 and raising Campfire from ×1 to ×1.25 for the remaining Ante 7 blinds. This is a guaranteed scoring upgrade at only $2 net cost, useful while Ancient targets Diamonds instead of our main Spade flushes. It also frees a consumable slot for further inexpensive Campfire fuel; no need to sell any core Jokers.'})` - 
+
+**8.** `reroll({'reasoning': 'Reroll for $5 to find consumables to fuel Campfire or a direct flush upgrade such as Jupiter. Even Steven cannot be bought with our Joker slots full and does not justify replacing a core Joker; Standard Packs are less targeted. Ancient currently boosts Diamonds rather than our primary Spades, so Campfire at only ×1.25 needs additional investment for late Ante 7. This leaves $49, sacrificing only $1 of immediate Seed Money interest while retaining a substantial reserve, including boss-reroll funds.'})` - 
+
+**9.** `buy({'card': 0, 'reasoning': 'Buy Jupiter to upgrade our primary Flush from level 5 to 6, increasing its base chips from 95 to 110 and Mult from 12 to 14. This is a permanent improvement through Ante 8, unlike Campfire fuel which resets after the boss, and directly strengthens every Spade flush while Ancient currently targets Diamonds. Use this planet rather than selling it: the lasting flush upgrade is valuable for just $3.'})` - 
+
+**10.** `use({'consumable': 0, 'reasoning': 'Use Jupiter to permanently upgrade our main Flush from level 5 to 6 (110 chips, 14 Mult). This strengthens the Spade/Arrowhead/Fibonacci/Blackboard engine through Ante 8 and frees the consumable slot for future purchases or Campfire fuel. There is no Observatory incentive to hold it, and the permanent hand upgrade is preferable to selling it for one temporary Campfire increment.'})` - 
+
+
+
+## Strategic Context
+
+Based on your recent actions, consider:
+- How your decisions are building towards a cohesive strategy
+- Whether your current approach is working or needs adjustment
+- Patterns in your play that might need to change
+
+
+
+

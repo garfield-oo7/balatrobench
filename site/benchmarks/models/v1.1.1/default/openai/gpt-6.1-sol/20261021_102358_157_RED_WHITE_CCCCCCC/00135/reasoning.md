@@ -1,0 +1,1 @@
+Destroy the off-suit 7♥ with Trading Card on our first discard, earning $3 and reaching $120 to increase Bootstraps to +48 Mult. Preserve all four Spades, especially the Lucky King, and draw toward a fifth Spade. A level-7 Spade flush will comfortably clear 30,000 in one hand; we have three further discards to find it if necessary, so save Justice.

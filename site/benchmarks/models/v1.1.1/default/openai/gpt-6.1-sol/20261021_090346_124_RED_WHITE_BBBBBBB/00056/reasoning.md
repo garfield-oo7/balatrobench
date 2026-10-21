@@ -1,0 +1,1 @@
+Play level-3 Three of a Kind using the Gold Seal and Mult-enhanced 9s. This scores (70 + 27) × (7 + 4 + 12 Zany + 10 Raised Fist + 15 Mystic Summit) = 4,656, comfortably clearing 2,000 in one hand. The Gold Seal earns $3, and preserving three unused hands earns another $3 at round end. No consumables or Joker changes are needed.

@@ -1,0 +1,10 @@
+[
+  {
+    "id": "call_DIYCreNu7tfFEjRET9M0UYrK",
+    "function": {
+      "arguments": "{\"pack\": 1}",
+      "name": "buy"
+    },
+    "type": "function"
+  }
+]

@@ -1,0 +1,1 @@
+Play three 3s with the 5 and 6 as non-scoring kickers, leaving K, T, and 9 held so Raised Fist grants +18 Mult. The Arm reduces Three of a Kind to level 2 (50 Chips, 5 Mult); Zany adds +12 Mult. This scores (50 + 9) × (5 + 12 + 18) = 2,065, beating the 1,600 target in one hand while preserving three hands for income and saving The Hanged Man.

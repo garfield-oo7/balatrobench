@@ -1,0 +1,1 @@
+Save the remaining $6 to retain $1 interest and build toward stronger scoring Jokers. Mars is unreliable in an unmodified deck, the $6 Celestial pack is too expensive without a committed hand type, and Reserved Parking would exhaust our cash without improving scoring. Splash supports five-card two-pair/trips plays while we pursue full houses and flushes to clear the next blind.

@@ -1,0 +1,1 @@
+Destroy the 5 of Hearts with Trading Card's single-card first discard and earn $3. It is our lowest-value non-Spade and least useful to our Splash–Wrathful scoring engine. Keep the sixes as a potential pair and the high cards for Splash chips; the replacement may let us clear 3,000 in one hand with Cavendish, while we retain three discards to improve further if needed.

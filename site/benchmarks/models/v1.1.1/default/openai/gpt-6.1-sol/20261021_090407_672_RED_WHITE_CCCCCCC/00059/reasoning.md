@@ -1,0 +1,1 @@
+Trigger Trading Card with a single-card first discard: permanently destroy the off-suit 7 of Diamonds and earn $3. Preserve all four hearts toward a flush and both sixes toward Two Pair or a level-2 Full House. A heart flush comfortably beats 3,000 with Red Card, Foil Trading Card, and Cavendish; we retain three further discards to improve the draw.

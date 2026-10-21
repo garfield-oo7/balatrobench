@@ -1,0 +1,1 @@
+Use The Hermit for its maximum $20 payout, raising money from $98 to $118 and freeing a consumable slot. Holding it offers no additional value at this balance. Preserve the level-19 Two Pair engine and Blueprint copying Hologram; Dusk and Blank do not provide worthwhile immediate upgrades.

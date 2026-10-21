@@ -1,0 +1,1 @@
+Keep all four Diamonds (Q♦, 9♦, 7♦, 4♦) and Steel 7♥. Discard the two debuffed Spades and 9♥ to draw three chances at the fifth Diamond, retaining one further discard and all four hands. A Diamond flush supplies five Ancient Joker multipliers; keeping the Steel card adds another ×1.5. Spending a hand on the available pairs would score far less and consume a valuable hand.

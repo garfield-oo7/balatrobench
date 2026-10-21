@@ -1,0 +1,1 @@
+Take Temperance for a guaranteed $15, increasing our money from $32 to $47 without modifying the deck. This funds future planet upgrades, packs, and targeted shop improvements while preserving maximum interest. The World only helps Ancient Joker when its rotating suit is Spades, and neither random planets nor two isolated enhancements offer as much reliable value as this payout.

@@ -1,0 +1,1 @@
+Use our first discard on the weakest card, the 3 of Hearts, activating Trading Card to destroy it permanently and earn $3. This improves deck quality while retaining both pairs and all three Spades. After drawing, our foil chips, Splash, +21 flat Mult, and Spade bonuses should comfortably clear 2,000 in one hand.

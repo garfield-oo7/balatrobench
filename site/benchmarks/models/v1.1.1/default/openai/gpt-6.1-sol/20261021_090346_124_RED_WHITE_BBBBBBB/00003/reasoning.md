@@ -1,0 +1,1 @@
+Play the completed club flush: A♣, Q♣, 9♣, 8♣, 6♣. It scores (35 + 11 + 10 + 9 + 8 + 6) × 4 = 316, beating the 300-point blind in one hand and preserving all three remaining hands for $3.

@@ -1,0 +1,1 @@
+Use Jupiter now to permanently raise Flush to level 8 (140 Chips, 18 Mult). We have no Observatory, so holding it provides no benefit; this improves every flush at no further cost and frees a consumable slot. Preserve Justice for emergency glass scoring and keep Cavendish last.

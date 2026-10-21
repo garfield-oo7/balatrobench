@@ -1,0 +1,1 @@
+Buy Jupiter for $2 to upgrade our primary Flush from level 6 to 7, adding +15 base Chips and +2 base Mult to every flush. This is a guaranteed permanent scoring improvement for Ante 7–8, amplified by our Steel and potential Glass cards. At $57 we retain Bootstraps at +22 Mult and maximum $10 Seed Money interest. Preserve Justice for a difficult blind.

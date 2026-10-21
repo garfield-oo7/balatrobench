@@ -1,0 +1,1 @@
+Use Jupiter now to upgrade our main hand, Flush, to level 2 (50 Chips and 6 Mult). The extra base Mult is amplified by Ancient Joker's scored-card ×1.5 triggers, providing valuable scaling at no further cost and freeing a consumable slot. There is no Observatory benefit to holding it.

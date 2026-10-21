@@ -1,0 +1,1 @@
+Use Jupiter to permanently upgrade our main Flush from level 5 to 6 (110 chips, 14 Mult). This strengthens the Spade/Arrowhead/Fibonacci/Blackboard engine through Ante 8 and frees the consumable slot for future purchases or Campfire fuel. There is no Observatory incentive to hold it, and the permanent hand upgrade is preferable to selling it for one temporary Campfire increment.

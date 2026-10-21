@@ -1,0 +1,1 @@
+Sell Judgement for $1 to raise Campfire from ×2.25 to ×2.5, an immediate 11.1% increase to every hand, restoring $31. Joker slots are full, so this safely completes the planned zero-cost buy/sell cycle without sacrificing any scoring Joker. Mars can provide another free Campfire increment afterward.

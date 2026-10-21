@@ -1,0 +1,1 @@
+Play King with 7-4-3-2 as a five-card cycling High Card. Scary Face and holographic Runner score (5 + 10 + 30) × 11 = 495 chips. Retain both Aces and the Ten while drawing five fresh cards to seek Two Pair or a straight. Even if the draw misses completely, the retained Aces score 32 × 12 = 384 next hand, guaranteeing we beat 800 in two hands and preserve five hands for income.

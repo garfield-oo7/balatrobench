@@ -1,0 +1,1 @@
+Keep the four Clubs (J, T, 5, 4) and draw four cards seeking a Club flush. Only 732 more points are needed: even a 2 of Clubs completes a flush worth (35 + 10 + 10 + 5 + 4 + 2 + 50) × (4 + 3) = 812, winning immediately. The Arm cannot reduce level-1 Flush further. With three discards available, pursue this strong four-card flush draw while preserving all three remaining hands.

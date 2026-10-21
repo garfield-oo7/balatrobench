@@ -1,0 +1,1 @@
+Use Jupiter now to permanently raise our main hand, Flush, to level 5 (95 Chips and 12 Mult). We do not have Observatory, so holding it offers no scoring benefit. This improves both Spade flushes supported by Arrowhead/Wrathful Joker and Diamond flushes supported by Ancient Joker, while freeing the consumable slot for further upgrades.

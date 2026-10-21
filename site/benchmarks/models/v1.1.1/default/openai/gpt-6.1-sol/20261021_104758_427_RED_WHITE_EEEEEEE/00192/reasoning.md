@@ -1,0 +1,1 @@
+The double Burnt upgrade is complete. Move Blueprint immediately before Hologram and keep Supernova and Holographic Mystic Summit before both multipliers, restoring ×4.25² = ×18.0625 scoring. Next preserve the Bonus Four pair and discard unmatched cards to find Two Pair; exhausting remaining discards also activates Summit's additional +15 Mult.

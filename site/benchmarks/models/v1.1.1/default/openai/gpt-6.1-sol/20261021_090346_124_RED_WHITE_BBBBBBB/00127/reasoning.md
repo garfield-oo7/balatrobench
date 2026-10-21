@@ -1,0 +1,1 @@
+Use Venus now to raise Three of a Kind from level 5 to level 6 (130 Chips ×13 base Mult). This permanently strengthens our proven trips line with Zany Joker and Ramen, costs no money, and frees a consumable slot for another Blue Seal planet next round. We have no Observatory incentive to hold it.

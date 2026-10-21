@@ -1,0 +1,1 @@
+Use The Hermit now to gain the maximum $20, raising our funds from $78 to $98 and freeing a consumable slot. This realizes the guaranteed profit from its purchase and funds final-ante upgrades while preserving The Chariot and our Blueprint–Hologram scoring engine.

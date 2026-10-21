@@ -1,0 +1,1 @@
+Keep A-K-J-10 and draw four cards for any Queen to complete an ace-high straight worth 324 chips. Red Card currently adds no Mult, so the pair of 7s scores only 48 and is not worth spending a hand on. With four discards available, pursue a strong five-card hand while preserving all four hands; reassess any pairs or flush opportunities in the new draw.

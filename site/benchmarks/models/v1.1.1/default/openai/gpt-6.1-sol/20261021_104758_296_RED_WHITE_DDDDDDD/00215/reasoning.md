@@ -1,0 +1,1 @@
+Sell The Star as planned: Diamonds conflict with our Spade-flush/Blackboard engine, while this sale gives $1 and raises Campfire from ×1.5 to ×1.75. That is a guaranteed 16.7% scoring increase for the remaining Ante 8 blinds without sacrificing a scoring Joker, and frees the consumable slot for more Campfire fuel.

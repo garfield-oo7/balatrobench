@@ -1,0 +1,1 @@
+Choose The Hermit for $20: the recent purchase leaves us at $39, so it reaches its payout cap and increases our money to $59. This beats Temperance's guaranteed $12 and the uncertain value of two random planets. The extra funds support Standard Packs to scale Hologram and targeted upgrades while preserving maximum interest.

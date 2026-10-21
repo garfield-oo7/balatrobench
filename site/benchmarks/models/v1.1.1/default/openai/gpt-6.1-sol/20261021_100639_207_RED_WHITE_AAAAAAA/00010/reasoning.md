@@ -1,0 +1,1 @@
+Play the Jack with 7, 6, and 5 to score (5 + 10 + 30) × 1 = 45 chips through Scary Face while drawing four new cards. Retain the pair of 8s and King to seek two pair or a full house for Mad Joker; keeping the King provides a valuable face-pair opportunity. With six hands remaining afterward, we have ample room to find a winning combination.

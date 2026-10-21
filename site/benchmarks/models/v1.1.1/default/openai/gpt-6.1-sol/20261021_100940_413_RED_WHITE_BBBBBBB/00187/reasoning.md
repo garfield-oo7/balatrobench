@@ -1,0 +1,1 @@
+Buy The Fool for $1, then sell it for $1 to increase Campfire from ×2 to ×2.25 at zero net cost. This provides a guaranteed 12.5% boost to every hand, supporting our level-11 Three of a Kind while preserving $36 and maximum interest after the sale.

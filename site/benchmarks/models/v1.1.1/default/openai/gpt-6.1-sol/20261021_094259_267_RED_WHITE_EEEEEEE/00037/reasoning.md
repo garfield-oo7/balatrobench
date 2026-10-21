@@ -1,0 +1,1 @@
+Discard K♠, Q♠, 8♣, 4♠, and 3♠ as a black Flush using Smeared Joker. This first discard activates Burnt Joker, permanently upgrading Flush to level 3 (65 Chips, 8 Mult). Retain Q♥, 5♦, and 4♦ as a red-flush core and draw five replacements, with three discards and all four hands remaining to assemble a strong scoring flush.

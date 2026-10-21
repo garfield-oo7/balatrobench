@@ -1,0 +1,1 @@
+Play 9♠, 8♣, 6♠, 6♣, and 2♣ as a black flush through Smeared Joker. Four even cards give +16 Mult, and Supernova gives +7 on our seventh Flush. At Flush level 2, this scores (50+9+8+6+6+2) × (6+16+7) = 2,349, beating the 2,000 target in one hand. Preserve three hands for income; Burnt Joker's upgrade is already secured this round.

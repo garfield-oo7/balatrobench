@@ -1,0 +1,1 @@
+Enhance both Kings with +4 Mult each. We will keep this pair while drawing toward level-5 Two Pair or level-4 Three of a Kind, so both enhancements will score in either outcome and remain useful permanently. Then discard the five unpaired lower cards to seek matching ranks and improve Raised Fist; preserve all four hands for strong scoring plays.

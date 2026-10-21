@@ -1,0 +1,1 @@
+Sell The Moon as planned to raise Campfire from ×2.25 to ×2.5, an 11.1% increase to every hand until the boss is defeated. This restores $50 and Bull's +100 Chips at no net purchase/resale cost. Suit conversion is much less useful than universal scoring for our level-9 Three of a Kind and level-10 Two Pair strategy.

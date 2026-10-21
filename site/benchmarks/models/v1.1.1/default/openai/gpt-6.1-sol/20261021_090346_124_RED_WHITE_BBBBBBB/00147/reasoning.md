@@ -1,0 +1,1 @@
+Keep the pair of 6s plus the Mult-enhanced King and 9, and draw four cards toward level-8 Two Pair or level-7 trips. Remove the low 2, debuffed 3, and 5 so they do not suppress Raised Fist. A weak pair now wastes a valuable hand against 22,000; this discard only reduces Ramen from ×2 to ×1.96, while preserving all four scoring hands and several strong matching possibilities.

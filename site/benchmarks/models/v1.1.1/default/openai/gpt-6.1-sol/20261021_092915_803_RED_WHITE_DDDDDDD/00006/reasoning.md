@@ -1,0 +1,1 @@
+Take Wrathful Joker: its +3 Mult per scoring spade complements Scary Face's chip bonuses, providing the missing multiplier. Spade face-card pairs score (10 + 20 + 60) × (2 + 6) = 720, while spade flushes gain +15 Mult. Crafty adds more chips to an already chip-supported build and only activates on flushes; Wrathful also supports pairs, trips, and other hands containing spades.

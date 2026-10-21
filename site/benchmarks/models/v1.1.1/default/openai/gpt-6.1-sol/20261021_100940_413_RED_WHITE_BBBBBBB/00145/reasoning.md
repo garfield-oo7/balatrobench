@@ -1,0 +1,1 @@
+Buy Liquidation for $7, leaving $33 and maximum interest. With Ante 6–8 shops still ahead, cheaper Jokers and booster packs should repay this investment while making our search for stronger multiplicative scoring more affordable. Bull's roughly +70 Chips after purchase would be weaker than Banner's reliable +120 with four preserved discards, so retain the current Jokers.

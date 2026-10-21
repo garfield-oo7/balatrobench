@@ -1,0 +1,1 @@
+Buy The Emperor and use it with both consumable slots empty to generate two Tarot cards for only $3. They can provide money, valuable enhancements, or Death copies that also scale Hologram and Blueprint. Our current Joker order correctly copies ×4.25 Hologram, and $79 remaining preserves maximum interest; Ride the Bus and Blank do not improve this established Two Pair build.

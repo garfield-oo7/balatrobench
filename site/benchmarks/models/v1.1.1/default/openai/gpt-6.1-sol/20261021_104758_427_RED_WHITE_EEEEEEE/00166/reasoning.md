@@ -1,0 +1,1 @@
+Open the $4 Arcana Pack while retaining ample reserves. Death can add a valuable copy and scale Hologram plus Blueprint, while enhancements, deck thinning, or money Tarot cards can improve our established level-19 Two Pair engine. Ride the Bus starts too slowly this late, and Blank offers no immediate benefit; our current Joker order already correctly copies Hologram.

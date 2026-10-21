@@ -1,0 +1,1 @@
+Leave with both Jokers intact: at $0 there are no affordable purchases, and selling would sacrifice our scoring or economy engine. Mad Joker boosts Two Pair and Full House, while Burglar provides seven hands to find them through card cycling and earn extra unused-hand income. Build cash in the next blind rather than gambling away either Joker.

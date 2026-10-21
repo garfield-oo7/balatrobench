@@ -1,0 +1,1 @@
+Play the five Spades for our level-6 Flush. The three held Clubs satisfy Blackboard for ×3. Red-seal S_6 scores twice, producing 300 Arrowhead chips and six Wrathful triggers; S_8 and S_2 add 16 Fibonacci Mult. Total score is (110 + 38 + 300) × (14 + 18 + 16) × 3 × 1.5 = 96,768, comfortably exceeding the 50,000 target in one hand and preserving four hands for income.

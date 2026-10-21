@@ -1,0 +1,1 @@
+Take the Ten of Hearts. It raises Hologram from X1.5 to X1.75, a permanent 16.7% multiplier increase. All three options trigger Even Steven when scored, but Ten contributes the most chips to our primary Two Pair hands. Its enhancement field is unspecified, so no particular enhancement benefit is assumed.

@@ -1,0 +1,1 @@
+Use The Hermit now for the full $20 payout, raising money from $65 to $85. There is no benefit to delaying at this balance; the extra funds let us buy Grabber and seek meaningful upgrades while retaining $50 for maximum Seed Money interest.

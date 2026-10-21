@@ -1,0 +1,1 @@
+Buy Grabber for $7: a permanent extra hand improves survival as blind targets rise and earns an extra $1 per round whenever we win without using it. With roughly fifteen rounds remaining, it can repay its cost while providing valuable insurance. Our existing Cavendish-centered build is strong and correctly ordered, and $71 remaining comfortably preserves maximum interest.

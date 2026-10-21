@@ -1,0 +1,1 @@
+Buy The Hanged Man for $2 to hold for the next blind. Removing two weak, unenhanced low-rank cards improves Raised Fist's minimum held rank and concentrates our deck for matching ranks, while helping offset Certificate's deck growth. We retain $47, comfortably above maximum interest, and one empty consumable slot for seal rewards.

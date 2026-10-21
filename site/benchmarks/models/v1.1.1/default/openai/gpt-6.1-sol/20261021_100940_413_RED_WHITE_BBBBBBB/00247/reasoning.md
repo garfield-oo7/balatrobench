@@ -1,0 +1,1 @@
+Sell Saturn for $1 to raise Campfire from ×2.75 to ×3, increasing every hand's score by 9.1% at no net purchase cost. Upgrading our unused Straight is much weaker than boosting our level-11 Three of a Kind and level-8 Two Pair. Next we can buy and sell the $1 Justice for another free Campfire increase without changing our scoring Jokers.

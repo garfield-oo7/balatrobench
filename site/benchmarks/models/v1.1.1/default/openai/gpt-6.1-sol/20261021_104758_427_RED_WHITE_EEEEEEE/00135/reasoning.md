@@ -1,0 +1,1 @@
+We now hold Two Pair (Fours and Threes) with the first discard still available. Move Blueprint directly before Burnt Joker so discarding those four cards upgrades Two Pair twice, from level 15 to 17. We have four discards and three hands to rebuild Two Pair afterward; then restore Blueprint beside Hologram for ×16 scoring, easily beating the remaining 24,112 chips.

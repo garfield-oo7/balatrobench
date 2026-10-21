@@ -1,0 +1,1 @@
+Play Tens and Sixes as level-3 Two Pair for a guaranteed blind clear. All four scoring cards trigger Even Steven, Jolly Joker adds +8 Mult, and Supernova reaches +5: (60+10+10+6+6) × (4+16+8+5) = 3,036 chips. This exceeds the remaining 1,326 comfortably and preserves one unused hand for $1. No extra cards or Joker changes are needed.

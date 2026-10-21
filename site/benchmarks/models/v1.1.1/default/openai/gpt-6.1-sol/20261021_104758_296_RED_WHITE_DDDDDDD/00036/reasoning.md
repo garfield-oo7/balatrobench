@@ -1,0 +1,1 @@
+Use Wheel of Fortune now: all six Jokers are useful keepers, so a successful edition improves our scoring for free, and using it opens a consumable slot. Holding it offers no scoring benefit or improved odds; keep The Moon for an in-hand club conversion when it can complete a flush.

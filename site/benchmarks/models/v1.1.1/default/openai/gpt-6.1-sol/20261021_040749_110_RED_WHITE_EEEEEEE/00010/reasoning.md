@@ -1,0 +1,1 @@
+Jolly Joker is a cheap, reliable +8 Mult for pairs, two pair, trips, and full houses, complementing Even Steven and providing insurance when even-ranked cards are scarce. An even pair now has 18 Mult instead of 10; three Tens score 1,380 instead of 900. Buy for $3, retain $7 and an interest dollar, and avoid expensive packs or rerolls while building our economy.

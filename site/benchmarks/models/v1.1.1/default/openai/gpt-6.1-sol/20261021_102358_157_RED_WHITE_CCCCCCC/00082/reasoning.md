@@ -1,0 +1,1 @@
+Buy the discounted Jupiter for $2: recent suit conversion added three high Spades, making Spade flushes increasingly reliable. Its permanent +15 chips and +2 Mult improve those hands alongside Wrathful Joker, Splash, and Cavendish, while leaving $61—well above maximum-interest requirements. Supernova's current +3 Mult is not worth replacing any existing Joker.

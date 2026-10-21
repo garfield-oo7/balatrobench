@@ -1,0 +1,1 @@
+Buy The Hermit for $3 and use it next to gain $20, a guaranteed net profit of $17 with an empty consumable slot. This funds Seed Money and further Hologram growth through playing-card additions without sacrificing our strong Flush engine or interest reserves.

@@ -1,0 +1,1 @@
+Keep all five hearts: the existing flush scores (35+10+10+8+5+3)×4 = 284. Use the last discard on the three off-suit cards to seek a higher heart without risking this flush. Any heart ranked 7 or higher can replace the 3 for at least 300 points, winning in one hand and maximizing the unused-hand payout.

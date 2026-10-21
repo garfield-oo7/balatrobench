@@ -1,0 +1,1 @@
+Buy Venus for $1 to upgrade our primary Three of a Kind. Level 11 raises its base from 210 Chips ×21 Mult to 230 Chips ×23 Mult, a permanent improvement amplified by Ramen and compatible with Zany Joker. We have a free consumable slot and retain $33, comfortably above maximum-interest threshold; this guaranteed upgrade is better value than another speculative reroll.

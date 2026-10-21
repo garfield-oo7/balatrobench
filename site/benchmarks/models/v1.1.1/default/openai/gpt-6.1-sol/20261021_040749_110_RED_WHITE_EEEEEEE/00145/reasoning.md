@@ -1,0 +1,1 @@
+Use The Hermit now for its maximum $20 payout, raising money from $80 to $100 and freeing a consumable slot. There is no benefit to delaying at this balance; retain the intact Two Pair engine and evaluate Temperance next for another $16 before making further shop decisions.

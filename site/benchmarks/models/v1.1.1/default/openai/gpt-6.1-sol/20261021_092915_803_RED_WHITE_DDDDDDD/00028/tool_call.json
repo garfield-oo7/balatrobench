@@ -1,0 +1,10 @@
+[
+  {
+    "id": "call_9cR27RZxCFNz7NF25Hm8bc8B",
+    "function": {
+      "arguments": "{\"jokers\": [0, 1, 2, 4, 3]}",
+      "name": "rearrange"
+    },
+    "type": "function"
+  }
+]

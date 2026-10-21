@@ -1,0 +1,1 @@
+Place the Heart King first so it is the first scoring card in an Aces-and-Kings Two Pair. Hanging Chad will retrigger that King twice, combining Photograph's face-card doubling with Ancient Joker's Heart multiplier on every trigger. Keep the Steel Three in hand for another ×1.5 Mult. This ordering sets up a decisive hand rather than letting an Ace receive Chad's retriggers.

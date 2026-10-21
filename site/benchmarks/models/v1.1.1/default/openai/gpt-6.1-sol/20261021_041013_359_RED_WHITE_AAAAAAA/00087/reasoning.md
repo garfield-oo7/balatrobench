@@ -1,0 +1,1 @@
+Play the Ace pair to clear the remaining 1,923 points without risking the Glass Jack. With Heart Ace first, Hanging Chad supplies three Heart triggers, giving 54 chips × (2 × 1.5³ + 24 Green + 10 holographic) = about 2,200 points. Even if Spade Ace scores first instead, the pair scores 1,998, still enough. Win now with three hands unspent for income.

@@ -1,0 +1,1 @@
+Discard all five red cards, keeping the Spade Ace, Spade 4, and Club Queen. We need three more Spades for our level-6 flush, and clearing reds prepares Blackboard's ×3 multiplier. Use discards to assemble the Spade flush rather than spending hands and Seltzer charges on weak plays; Seltzer doubles both Arrowhead's chips and Wrathful/Fibonacci scoring bonuses.

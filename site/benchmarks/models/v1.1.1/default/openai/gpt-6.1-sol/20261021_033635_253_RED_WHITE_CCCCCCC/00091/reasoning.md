@@ -1,0 +1,1 @@
+Play the five non-debuffed spades (10, 10, 7, 6, 5) as a flush. This guarantees at least (35 base + 38 card chips + 50 foil) × (4 base + 15 Wrathful + 30 Bootstraps) = 6,027 points, comfortably exceeding the remaining 2,503 even before existing Hiker bonuses. All five cards gain permanent Hiker chips; winning immediately preserves three hands for income without using discards.

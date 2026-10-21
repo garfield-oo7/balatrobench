@@ -1,0 +1,1 @@
+Sell Justice as planned, recovering its $1 purchase price and increasing Campfire from ×3 to ×3.25. This is a guaranteed 8.3% boost to every hand through the Ante 8 boss at zero net cost, rather than an enhancement that must first be drawn and scored. Keep all five scoring Jokers in their current optimal order.

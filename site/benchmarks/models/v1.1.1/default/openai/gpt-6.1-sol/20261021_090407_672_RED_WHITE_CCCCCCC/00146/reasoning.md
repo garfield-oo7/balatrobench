@@ -1,0 +1,1 @@
+Skip to increase Red Card permanently from +36 to +39 Mult, benefiting every hand and amplified by Cavendish. The Star converts toward Diamonds rather than our established Spade strategy, Judgement cannot be used with all five Joker slots occupied, and Death offers only a single unenhanced Spade copy here. Guaranteed scoring growth is preferable to that modest deck change.

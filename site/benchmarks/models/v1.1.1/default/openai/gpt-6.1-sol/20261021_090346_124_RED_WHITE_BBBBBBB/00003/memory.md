@@ -1,0 +1,24 @@
+# Memory & Previous Actions
+
+
+## Recent Decision History
+
+Here is a list of your recent decisions (from oldest to newest):
+
+
+**1.** `discard({'cards': [2, 3, 5, 6, 7], 'reasoning': 'Keep A♣, Q♣, and 6♣ and draw five cards toward a club flush. Their 27 chips mean two additional clubs totaling at least 13 give a 300-point flush, clearing this blind in one hand and preserving the maximum unused-hand payout. Four discards give us ample room to improve rather than spend a hand on a weak pair.'})` - 
+
+**2.** `discard({'cards': [2, 3, 5, 7], 'reasoning': 'Keep the four clubs (A, Q, 8, 6) and draw four cards to complete a flush. Any club gives at least 288 points; a ten or higher clears the 300-point blind immediately. We have three discards remaining, so improving the flush before spending hands preserves our unused-hand payout.'})` - 
+
+
+
+## Strategic Context
+
+Based on your recent actions, consider:
+- How your decisions are building towards a cohesive strategy
+- Whether your current approach is working or needs adjustment
+- Patterns in your play that might need to change
+
+
+
+

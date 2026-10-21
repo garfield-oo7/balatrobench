@@ -1,0 +1,1 @@
+Buy Neptune for Campfire fuel, then sell it rather than upgrading an unused hand. The $3 purchase and $1 resale cost only $2 net to raise Campfire from ×2 to ×2.25, a guaranteed 12.5% boost for both remaining blinds. This is better value than the $7 reroll and preserves ample cash for a boss reroll.

@@ -1,0 +1,1 @@
+Take 4♦: it triggers Even Steven for +4 Mult when scored and joins Hearts/Diamonds flushes through Smeared Joker, supporting our enhanced red cards while letting us hold blue-seal 9♥. Adding it also permanently raises Hologram from ×4 to ×4.25. Neither 4 has listed modifiers, so prefer the red 4 over 4♠; 7♣ lacks Even Steven synergy.

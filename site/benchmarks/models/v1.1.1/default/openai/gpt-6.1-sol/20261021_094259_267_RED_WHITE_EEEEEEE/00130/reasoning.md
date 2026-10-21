@@ -1,0 +1,1 @@
+Use Temperance for $14, raising money to $94 without sacrificing any Jokers. Its payout is already available and using it frees both consumable slots for future rewards, especially Jupiter from the blue-seal 9♥ held at round end. Next, cycle the four black cards to seek a red Flush while retaining both Bonus cards and the blue seal.

@@ -1,0 +1,785 @@
+{
+  "generated_at": 1792552840,
+  "model": {
+    "vendor": "openai",
+    "name": "gpt-6.1-sol"
+  },
+  "strategy": {
+    "name": "Default",
+    "key": "default",
+    "description": "The default BalatroLLM strategy",
+    "author": "BalatroLLM",
+    "version": "1.0.0",
+    "tags": [
+      "conservative",
+      "financial"
+    ]
+  },
+  "runs": [
+    {
+      "id": "20261021_100940_413_RED_WHITE_BBBBBBB",
+      "model": {
+        "vendor": "openai",
+        "name": "gpt-6.1-sol"
+      },
+      "strategy": {
+        "name": "Default",
+        "key": "default",
+        "description": "The default BalatroLLM strategy",
+        "author": "BalatroLLM",
+        "version": "1.0.0",
+        "tags": [
+          "conservative",
+          "financial"
+        ]
+      },
+      "config": {
+        "seed": "BBBBBBB",
+        "deck": "RED",
+        "stake": "WHITE"
+      },
+      "run_won": true,
+      "run_completed": true,
+      "final_ante": 9,
+      "final_round": 24,
+      "providers": [
+        [
+          "OpenAI",
+          293
+        ]
+      ],
+      "stats": {
+        "calls_total": 293,
+        "calls_success": 293,
+        "calls_error": 0,
+        "calls_failed": 0,
+        "tokens_in_total": 4128761,
+        "tokens_out_total": 46373,
+        "tokens_in_avg": 14091.334470989761,
+        "tokens_out_avg": 158.26962457337885,
+        "tokens_in_std": 267.0174127373378,
+        "tokens_out_std": 89.91864092129364,
+        "time_total_ms": 1908038,
+        "time_avg_ms": 6512.0750853242325,
+        "time_std_ms": 2872.983383477904,
+        "cost_total": 3.0632794,
+        "cost_avg": 0.010454878498293515,
+        "cost_std": 0.0018741856096903366
+      }
+    },
+    {
+      "id": "20261021_092915_803_RED_WHITE_DDDDDDD",
+      "model": {
+        "vendor": "openai",
+        "name": "gpt-6.1-sol"
+      },
+      "strategy": {
+        "name": "Default",
+        "key": "default",
+        "description": "The default BalatroLLM strategy",
+        "author": "BalatroLLM",
+        "version": "1.0.0",
+        "tags": [
+          "conservative",
+          "financial"
+        ]
+      },
+      "config": {
+        "seed": "DDDDDDD",
+        "deck": "RED",
+        "stake": "WHITE"
+      },
+      "run_won": true,
+      "run_completed": true,
+      "final_ante": 9,
+      "final_round": 24,
+      "providers": [
+        [
+          "OpenAI",
+          268
+        ]
+      ],
+      "stats": {
+        "calls_total": 268,
+        "calls_success": 268,
+        "calls_error": 0,
+        "calls_failed": 0,
+        "tokens_in_total": 3795298,
+        "tokens_out_total": 44583,
+        "tokens_in_avg": 14161.559701492537,
+        "tokens_out_avg": 166.3544776119403,
+        "tokens_in_std": 274.28153368074675,
+        "tokens_out_std": 77.45621753808156,
+        "time_total_ms": 1840852,
+        "time_avg_ms": 6868.850746268657,
+        "time_std_ms": 2466.954752913152,
+        "cost_total": 2.848429,
+        "cost_avg": 0.010628466417910447,
+        "cost_std": 0.0010235018918098937
+      }
+    },
+    {
+      "id": "20261021_033635_253_RED_WHITE_CCCCCCC",
+      "model": {
+        "vendor": "openai",
+        "name": "gpt-6.1-sol"
+      },
+      "strategy": {
+        "name": "Default",
+        "key": "default",
+        "description": "The default BalatroLLM strategy",
+        "author": "BalatroLLM",
+        "version": "1.0.0",
+        "tags": [
+          "conservative",
+          "financial"
+        ]
+      },
+      "config": {
+        "seed": "CCCCCCC",
+        "deck": "RED",
+        "stake": "WHITE"
+      },
+      "run_won": true,
+      "run_completed": true,
+      "final_ante": 9,
+      "final_round": 24,
+      "providers": [
+        [
+          "OpenAI",
+          234
+        ]
+      ],
+      "stats": {
+        "calls_total": 234,
+        "calls_success": 234,
+        "calls_error": 0,
+        "calls_failed": 0,
+        "tokens_in_total": 3305437,
+        "tokens_out_total": 39242,
+        "tokens_in_avg": 14125.799145299145,
+        "tokens_out_avg": 167.7008547008547,
+        "tokens_in_std": 288.75092523367033,
+        "tokens_out_std": 68.79062778728913,
+        "time_total_ms": 1665299,
+        "time_avg_ms": 7116.6623931623935,
+        "time_std_ms": 15811.244687498069,
+        "cost_total": 2.4652479,
+        "cost_avg": 0.010535247435897436,
+        "cost_std": 0.0011067419455736325
+      }
+    },
+    {
+      "id": "20261021_102358_157_RED_WHITE_CCCCCCC",
+      "model": {
+        "vendor": "openai",
+        "name": "gpt-6.1-sol"
+      },
+      "strategy": {
+        "name": "Default",
+        "key": "default",
+        "description": "The default BalatroLLM strategy",
+        "author": "BalatroLLM",
+        "version": "1.0.0",
+        "tags": [
+          "conservative",
+          "financial"
+        ]
+      },
+      "config": {
+        "seed": "CCCCCCC",
+        "deck": "RED",
+        "stake": "WHITE"
+      },
+      "run_won": true,
+      "run_completed": true,
+      "final_ante": 9,
+      "final_round": 24,
+      "providers": [
+        [
+          "OpenAI",
+          188
+        ]
+      ],
+      "stats": {
+        "calls_total": 188,
+        "calls_success": 188,
+        "calls_error": 0,
+        "calls_failed": 0,
+        "tokens_in_total": 2634710,
+        "tokens_out_total": 27691,
+        "tokens_in_avg": 14014.41489361702,
+        "tokens_out_avg": 147.29255319148936,
+        "tokens_in_std": 341.7691596583453,
+        "tokens_out_std": 58.15730602180377,
+        "time_total_ms": 1141162,
+        "time_avg_ms": 6070.010638297872,
+        "time_std_ms": 2045.968669524943,
+        "cost_total": 1.9053102,
+        "cost_avg": 0.010134628723404255,
+        "cost_std": 0.0009957047542686675
+      }
+    },
+    {
+      "id": "20261021_090407_672_RED_WHITE_CCCCCCC",
+      "model": {
+        "vendor": "openai",
+        "name": "gpt-6.1-sol"
+      },
+      "strategy": {
+        "name": "Default",
+        "key": "default",
+        "description": "The default BalatroLLM strategy",
+        "author": "BalatroLLM",
+        "version": "1.0.0",
+        "tags": [
+          "conservative",
+          "financial"
+        ]
+      },
+      "config": {
+        "seed": "CCCCCCC",
+        "deck": "RED",
+        "stake": "WHITE"
+      },
+      "run_won": true,
+      "run_completed": true,
+      "final_ante": 9,
+      "final_round": 24,
+      "providers": [
+        [
+          "OpenAI",
+          189
+        ]
+      ],
+      "stats": {
+        "calls_total": 189,
+        "calls_success": 189,
+        "calls_error": 0,
+        "calls_failed": 0,
+        "tokens_in_total": 2649138,
+        "tokens_out_total": 27752,
+        "tokens_in_avg": 14016.603174603175,
+        "tokens_out_avg": 146.83597883597884,
+        "tokens_in_std": 334.723363376189,
+        "tokens_out_std": 56.25275006723857,
+        "time_total_ms": 1165454,
+        "time_avg_ms": 6166.423280423281,
+        "time_std_ms": 1981.3255531437144,
+        "cost_total": 1.9935983,
+        "cost_avg": 0.010548139153439154,
+        "cost_std": 0.0034182378191002067
+      }
+    },
+    {
+      "id": "20261021_100639_207_RED_WHITE_AAAAAAA",
+      "model": {
+        "vendor": "openai",
+        "name": "gpt-6.1-sol"
+      },
+      "strategy": {
+        "name": "Default",
+        "key": "default",
+        "description": "The default BalatroLLM strategy",
+        "author": "BalatroLLM",
+        "version": "1.0.0",
+        "tags": [
+          "conservative",
+          "financial"
+        ]
+      },
+      "config": {
+        "seed": "AAAAAAA",
+        "deck": "RED",
+        "stake": "WHITE"
+      },
+      "run_won": false,
+      "run_completed": true,
+      "final_ante": 5,
+      "final_round": 15,
+      "providers": [
+        [
+          "OpenAI",
+          100
+        ]
+      ],
+      "stats": {
+        "calls_total": 100,
+        "calls_success": 100,
+        "calls_error": 0,
+        "calls_failed": 0,
+        "tokens_in_total": 1411825,
+        "tokens_out_total": 20854,
+        "tokens_in_avg": 14118.25,
+        "tokens_out_avg": 208.54,
+        "tokens_in_std": 352.143949417154,
+        "tokens_out_std": 107.6604670323149,
+        "time_total_ms": 822915,
+        "time_avg_ms": 8229.15,
+        "time_std_ms": 3436.804733360993,
+        "cost_total": 1.1490101,
+        "cost_avg": 0.011490100999999999,
+        "cost_std": 0.003895863838246995
+      }
+    },
+    {
+      "id": "20261021_090346_124_RED_WHITE_BBBBBBB",
+      "model": {
+        "vendor": "openai",
+        "name": "gpt-6.1-sol"
+      },
+      "strategy": {
+        "name": "Default",
+        "key": "default",
+        "description": "The default BalatroLLM strategy",
+        "author": "BalatroLLM",
+        "version": "1.0.0",
+        "tags": [
+          "conservative",
+          "financial"
+        ]
+      },
+      "config": {
+        "seed": "BBBBBBB",
+        "deck": "RED",
+        "stake": "WHITE"
+      },
+      "run_won": true,
+      "run_completed": true,
+      "final_ante": 9,
+      "final_round": 24,
+      "providers": [
+        [
+          "OpenAI",
+          281
+        ]
+      ],
+      "stats": {
+        "calls_total": 281,
+        "calls_success": 281,
+        "calls_error": 0,
+        "calls_failed": 0,
+        "tokens_in_total": 3962725,
+        "tokens_out_total": 47327,
+        "tokens_in_avg": 14102.224199288255,
+        "tokens_out_avg": 168.42348754448398,
+        "tokens_in_std": 248.6217212341791,
+        "tokens_out_std": 88.32777036580055,
+        "time_total_ms": 1936250,
+        "time_avg_ms": 6890.569395017794,
+        "time_std_ms": 2901.231202251405,
+        "cost_total": 3.0278322,
+        "cost_avg": 0.010775203558718862,
+        "cost_std": 0.0025701070741844597
+      }
+    },
+    {
+      "id": "20261021_041013_359_RED_WHITE_AAAAAAA",
+      "model": {
+        "vendor": "openai",
+        "name": "gpt-6.1-sol"
+      },
+      "strategy": {
+        "name": "Default",
+        "key": "default",
+        "description": "The default BalatroLLM strategy",
+        "author": "BalatroLLM",
+        "version": "1.0.0",
+        "tags": [
+          "conservative",
+          "financial"
+        ]
+      },
+      "config": {
+        "seed": "AAAAAAA",
+        "deck": "RED",
+        "stake": "WHITE"
+      },
+      "run_won": false,
+      "run_completed": true,
+      "final_ante": 6,
+      "final_round": 18,
+      "providers": [
+        [
+          "OpenAI",
+          123
+        ]
+      ],
+      "stats": {
+        "calls_total": 123,
+        "calls_success": 123,
+        "calls_error": 0,
+        "calls_failed": 0,
+        "tokens_in_total": 1742284,
+        "tokens_out_total": 26303,
+        "tokens_in_avg": 14164.91056910569,
+        "tokens_out_avg": 213.84552845528455,
+        "tokens_in_std": 333.50832585104763,
+        "tokens_out_std": 118.46933839469798,
+        "time_total_ms": 902382,
+        "time_avg_ms": 7336.4390243902435,
+        "time_std_ms": 3194.9684165460712,
+        "cost_total": 1.3679595,
+        "cost_avg": 0.011121621951219513,
+        "cost_std": 0.0015937034502896117
+      }
+    },
+    {
+      "id": "20261021_031301_575_RED_WHITE_AAAAAAA",
+      "model": {
+        "vendor": "openai",
+        "name": "gpt-6.1-sol"
+      },
+      "strategy": {
+        "name": "Default",
+        "key": "default",
+        "description": "The default BalatroLLM strategy",
+        "author": "BalatroLLM",
+        "version": "1.0.0",
+        "tags": [
+          "conservative",
+          "financial"
+        ]
+      },
+      "config": {
+        "seed": "AAAAAAA",
+        "deck": "RED",
+        "stake": "WHITE"
+      },
+      "run_won": false,
+      "run_completed": true,
+      "final_ante": 5,
+      "final_round": 15,
+      "providers": [
+        [
+          "OpenAI",
+          104
+        ]
+      ],
+      "stats": {
+        "calls_total": 104,
+        "calls_success": 104,
+        "calls_error": 0,
+        "calls_failed": 0,
+        "tokens_in_total": 1466635,
+        "tokens_out_total": 21344,
+        "tokens_in_avg": 14102.259615384615,
+        "tokens_out_avg": 205.23076923076923,
+        "tokens_in_std": 348.5220388399164,
+        "tokens_out_std": 97.98763848817828,
+        "time_total_ms": 715758,
+        "time_avg_ms": 6882.288461538462,
+        "time_std_ms": 2580.4624582633146,
+        "cost_total": 3.8798715,
+        "cost_avg": 0.03730645673076923,
+        "cost_std": 0.0014852965757762011
+      }
+    },
+    {
+      "id": "20261021_033613_785_RED_WHITE_BBBBBBB",
+      "model": {
+        "vendor": "openai",
+        "name": "gpt-6.1-sol"
+      },
+      "strategy": {
+        "name": "Default",
+        "key": "default",
+        "description": "The default BalatroLLM strategy",
+        "author": "BalatroLLM",
+        "version": "1.0.0",
+        "tags": [
+          "conservative",
+          "financial"
+        ]
+      },
+      "config": {
+        "seed": "BBBBBBB",
+        "deck": "RED",
+        "stake": "WHITE"
+      },
+      "run_won": false,
+      "run_completed": true,
+      "final_ante": 1,
+      "final_round": 2,
+      "providers": [
+        [
+          "OpenAI",
+          15
+        ]
+      ],
+      "stats": {
+        "calls_total": 15,
+        "calls_success": 15,
+        "calls_error": 0,
+        "calls_failed": 0,
+        "tokens_in_total": 201774,
+        "tokens_out_total": 2768,
+        "tokens_in_avg": 13451.6,
+        "tokens_out_avg": 184.53333333333333,
+        "tokens_in_std": 486.13075842381573,
+        "tokens_out_std": 100.11127142668136,
+        "time_total_ms": 99848,
+        "time_avg_ms": 6656.533333333334,
+        "time_std_ms": 3304.6626122726025,
+        "cost_total": 0.2147837,
+        "cost_avg": 0.014318913333333332,
+        "cost_std": 0.00999027297802837
+      }
+    },
+    {
+      "id": "20261021_033825_498_RED_WHITE_DDDDDDD",
+      "model": {
+        "vendor": "openai",
+        "name": "gpt-6.1-sol"
+      },
+      "strategy": {
+        "name": "Default",
+        "key": "default",
+        "description": "The default BalatroLLM strategy",
+        "author": "BalatroLLM",
+        "version": "1.0.0",
+        "tags": [
+          "conservative",
+          "financial"
+        ]
+      },
+      "config": {
+        "seed": "DDDDDDD",
+        "deck": "RED",
+        "stake": "WHITE"
+      },
+      "run_won": true,
+      "run_completed": true,
+      "final_ante": 9,
+      "final_round": 24,
+      "providers": [
+        [
+          "OpenAI",
+          221
+        ]
+      ],
+      "stats": {
+        "calls_total": 221,
+        "calls_success": 221,
+        "calls_error": 0,
+        "calls_failed": 0,
+        "tokens_in_total": 3129469,
+        "tokens_out_total": 39692,
+        "tokens_in_avg": 14160.493212669684,
+        "tokens_out_avg": 179.60180995475113,
+        "tokens_in_std": 283.8411787011357,
+        "tokens_out_std": 77.18599022891566,
+        "time_total_ms": 1421774,
+        "time_avg_ms": 6433.366515837104,
+        "time_std_ms": 2406.819094036602,
+        "cost_total": 2.3802402,
+        "cost_avg": 0.010770317647058823,
+        "cost_std": 0.0010614436217229138
+      }
+    },
+    {
+      "id": "20261021_040749_110_RED_WHITE_EEEEEEE",
+      "model": {
+        "vendor": "openai",
+        "name": "gpt-6.1-sol"
+      },
+      "strategy": {
+        "name": "Default",
+        "key": "default",
+        "description": "The default BalatroLLM strategy",
+        "author": "BalatroLLM",
+        "version": "1.0.0",
+        "tags": [
+          "conservative",
+          "financial"
+        ]
+      },
+      "config": {
+        "seed": "EEEEEEE",
+        "deck": "RED",
+        "stake": "WHITE"
+      },
+      "run_won": true,
+      "run_completed": true,
+      "final_ante": 9,
+      "final_round": 24,
+      "providers": [
+        [
+          "OpenAI",
+          218
+        ]
+      ],
+      "stats": {
+        "calls_total": 218,
+        "calls_success": 218,
+        "calls_error": 0,
+        "calls_failed": 0,
+        "tokens_in_total": 3059316,
+        "tokens_out_total": 33847,
+        "tokens_in_avg": 14033.559633027522,
+        "tokens_out_avg": 155.26146788990826,
+        "tokens_in_std": 283.4305133088516,
+        "tokens_out_std": 73.43990603722902,
+        "time_total_ms": 1289189,
+        "time_avg_ms": 5913.711009174312,
+        "time_std_ms": 2450.3171136761243,
+        "cost_total": 2.2312426,
+        "cost_avg": 0.010235057798165137,
+        "cost_std": 0.0010195896098865846
+      }
+    },
+    {
+      "id": "20261021_104758_296_RED_WHITE_DDDDDDD",
+      "model": {
+        "vendor": "openai",
+        "name": "gpt-6.1-sol"
+      },
+      "strategy": {
+        "name": "Default",
+        "key": "default",
+        "description": "The default BalatroLLM strategy",
+        "author": "BalatroLLM",
+        "version": "1.0.0",
+        "tags": [
+          "conservative",
+          "financial"
+        ]
+      },
+      "config": {
+        "seed": "DDDDDDD",
+        "deck": "RED",
+        "stake": "WHITE"
+      },
+      "run_won": true,
+      "run_completed": true,
+      "final_ante": 9,
+      "final_round": 24,
+      "providers": [
+        [
+          "OpenAI",
+          252
+        ]
+      ],
+      "stats": {
+        "calls_total": 252,
+        "calls_success": 252,
+        "calls_error": 0,
+        "calls_failed": 0,
+        "tokens_in_total": 3574877,
+        "tokens_out_total": 43476,
+        "tokens_in_avg": 14186.019841269841,
+        "tokens_out_avg": 172.52380952380952,
+        "tokens_in_std": 270.5445953827416,
+        "tokens_out_std": 78.44765954075203,
+        "time_total_ms": 1573979,
+        "time_avg_ms": 6245.9484126984125,
+        "time_std_ms": 2306.988444398262,
+        "cost_total": 2.7095225,
+        "cost_avg": 0.010752073412698413,
+        "cost_std": 0.001019057260279591
+      }
+    },
+    {
+      "id": "20261021_094259_267_RED_WHITE_EEEEEEE",
+      "model": {
+        "vendor": "openai",
+        "name": "gpt-6.1-sol"
+      },
+      "strategy": {
+        "name": "Default",
+        "key": "default",
+        "description": "The default BalatroLLM strategy",
+        "author": "BalatroLLM",
+        "version": "1.0.0",
+        "tags": [
+          "conservative",
+          "financial"
+        ]
+      },
+      "config": {
+        "seed": "EEEEEEE",
+        "deck": "RED",
+        "stake": "WHITE"
+      },
+      "run_won": true,
+      "run_completed": true,
+      "final_ante": 9,
+      "final_round": 24,
+      "providers": [
+        [
+          "OpenAI",
+          190
+        ]
+      ],
+      "stats": {
+        "calls_total": 190,
+        "calls_success": 190,
+        "calls_error": 0,
+        "calls_failed": 0,
+        "tokens_in_total": 2680782,
+        "tokens_out_total": 31198,
+        "tokens_in_avg": 14109.378947368421,
+        "tokens_out_avg": 164.2,
+        "tokens_in_std": 326.00802336824995,
+        "tokens_out_std": 75.05442117268068,
+        "time_total_ms": 1276181,
+        "time_avg_ms": 6716.742105263158,
+        "time_std_ms": 2560.1741511977566,
+        "cost_total": 1.99783,
+        "cost_avg": 0.010514894736842105,
+        "cost_std": 0.0010879677339567027
+      }
+    },
+    {
+      "id": "20261021_104758_427_RED_WHITE_EEEEEEE",
+      "model": {
+        "vendor": "openai",
+        "name": "gpt-6.1-sol"
+      },
+      "strategy": {
+        "name": "Default",
+        "key": "default",
+        "description": "The default BalatroLLM strategy",
+        "author": "BalatroLLM",
+        "version": "1.0.0",
+        "tags": [
+          "conservative",
+          "financial"
+        ]
+      },
+      "config": {
+        "seed": "EEEEEEE",
+        "deck": "RED",
+        "stake": "WHITE"
+      },
+      "run_won": true,
+      "run_completed": true,
+      "final_ante": 9,
+      "final_round": 24,
+      "providers": [
+        [
+          "OpenAI",
+          231
+        ]
+      ],
+      "stats": {
+        "calls_total": 231,
+        "calls_success": 231,
+        "calls_error": 0,
+        "calls_failed": 0,
+        "tokens_in_total": 3246875,
+        "tokens_out_total": 37979,
+        "tokens_in_avg": 14055.735930735931,
+        "tokens_out_avg": 164.4112554112554,
+        "tokens_in_std": 285.4307567883328,
+        "tokens_out_std": 84.04015424152213,
+        "time_total_ms": 1400639,
+        "time_avg_ms": 6063.372294372294,
+        "time_std_ms": 2627.544851710585,
+        "cost_total": 2.3973094,
+        "cost_avg": 0.01037796277056277,
+        "cost_std": 0.001094673948796243
+      }
+    }
+  ]
+}

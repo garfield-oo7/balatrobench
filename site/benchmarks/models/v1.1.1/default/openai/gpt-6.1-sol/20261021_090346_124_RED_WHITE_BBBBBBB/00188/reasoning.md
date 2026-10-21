@@ -1,0 +1,1 @@
+Sell The Moon as planned: suit conversion does not support our level-9 three-of-a-kind build, whereas the sale raises Campfire from ×1.25 to ×1.5, increasing all scores by 20%. It also restores $33 and increases Bull to +66 Chips without sacrificing any scoring Joker. Preserve cash rather than paying another $6 reroll.

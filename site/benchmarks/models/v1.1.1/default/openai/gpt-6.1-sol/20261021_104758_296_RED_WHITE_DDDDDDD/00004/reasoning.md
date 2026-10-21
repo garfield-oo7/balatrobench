@@ -1,0 +1,1 @@
+Buy Scary Face for immediate, reliable scoring with no setup. Each scored face adds 30 chips; a flush with two faces gains 240 points, making early blinds substantially easier and helping preserve unused-hand income. This leaves $6, retaining $1 interest. Satellite currently earns nothing, and the voucher is too expensive for our early economy.

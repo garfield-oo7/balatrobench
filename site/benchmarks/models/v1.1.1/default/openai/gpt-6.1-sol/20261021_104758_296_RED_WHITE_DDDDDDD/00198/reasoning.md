@@ -1,0 +1,1 @@
+Buy The Hermit for $3 and use it for the full $20 payout, a guaranteed $17 net gain. This funds further Campfire scaling and preserves money for a potential boss reroll. Using Hermit is far more valuable than selling it for one Campfire increment; we can spend the extra money on additional consumable sales instead.

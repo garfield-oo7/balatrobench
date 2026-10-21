@@ -1,0 +1,1 @@
+Play the Kings with all four Spades. Splash makes every card score, including the Ace, Jack, and 8, and all four Spades trigger Wrathful Joker. This scores (10 Pair chips + 49 card chips + 50 foil chips) × (2 base Mult + 6 Red Card + 15 Gros Michel + 12 Wrathful) = 3,815, comfortably beating 2,000 in one hand and preserving three hands for payout. No further discards are needed.

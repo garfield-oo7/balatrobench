@@ -1,0 +1,1 @@
+Keep both Queens and both 7s, drawing four cards for either three of a kind or a full house. Either matching rank activates Zany Joker and comfortably clears 600 in one hand: trip 7s score 1,207 and trip Queens score 1,360. Three discards remain, so pursue the immediate win without spending a hand or triggering The Hook.

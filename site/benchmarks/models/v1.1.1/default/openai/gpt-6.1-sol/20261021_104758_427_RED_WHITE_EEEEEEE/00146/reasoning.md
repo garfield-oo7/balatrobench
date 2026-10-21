@@ -1,0 +1,1 @@
+Play Sevens and Threes as level-19 Two Pair. The debuffed Heart Seven still completes the pair, while Diamond Seven and both Threes add 13 chips. With Supernova reaching +16 Mult and Blueprint copying ×4 Hologram, this scores (380+13) × (20+16) ×16 = 226,368, easily defeating the 40,000 target. Keep the Gold Ace held for $3 and finish with three unused hands.

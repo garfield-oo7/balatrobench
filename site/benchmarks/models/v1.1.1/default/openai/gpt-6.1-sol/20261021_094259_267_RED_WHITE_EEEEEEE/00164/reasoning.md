@@ -1,0 +1,1 @@
+Buy The Hermit for $3 and use it next for $20, a guaranteed net gain of $17 with our free consumable slot. This funds additional targeted upgrades without altering our strong Flush engine or sacrificing maximum interest. Keep Chariot for applying Steel to a non-scoring card during a blind.

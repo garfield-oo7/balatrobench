@@ -1,0 +1,1 @@
+Use Jupiter now to upgrade our primary Flush from level 6 to 7 (+15 Chips and +2 Mult). This guaranteed permanent improvement strengthens our Spade-flush engine for the final boss and frees a consumable slot for further upgrades or buy/sell Campfire scaling. We do not have Observatory, so holding Jupiter provides no scoring benefit.

@@ -1,0 +1,1 @@
+Keep the Queen pair, held Steel King (×1.5 Mult), and Gold Ace ($3 at round end), cycling the four unrelated cards to find a second pair for our level-26 Two Pair. The first-discard upgrades have already triggered. Before scoring, move Blueprint next to Hologram for combined ×20.25 Mult; any Two Pair will then comfortably beat 75,000 without exhausting discards.

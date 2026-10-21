@@ -1,0 +1,1 @@
+Buy The Hierophant for $1 and then sell it for $1: a cost-neutral sale raises Campfire from ×4.75 to ×5, boosting all final-boss scoring without replacing any synergistic Joker. Bonus enhancements cannot be applied to deck cards in this shop, while the Campfire increase is guaranteed.

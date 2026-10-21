@@ -1,0 +1,1 @@
+Keep A♠, 8♠, and 3♠ and draw five toward a spade flush. Wrathful Joker makes a five-spade flush worth at least (35 + 11 + 8 + 3 + 2 + 4) × (4 + 15) = 1,197 chips, comfortably beating 450 in one hand. Four discards give ample chances to complete it while preserving unused-hand income; spade face cards also benefit from Scary Face.

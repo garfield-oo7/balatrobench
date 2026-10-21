@@ -1,0 +1,1 @@
+Play the pair of Aces for (10 + 11 + 11) × 2 = 64 chips, reaching 461 and safely beating the 450 target with our last hand. This exact Pair also earns $4 from To Do List, unlike Two Pair. No discards or consumables are needed; retain The Hermit to double a larger bankroll later.

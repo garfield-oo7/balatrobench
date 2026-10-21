@@ -1,0 +1,1 @@
+Play four 7s for (60 + 28) × (7 + 12) = 1,672 chips: Four of a Kind contains Three of a Kind, so Zany Joker activates. This comfortably clears the 600-chip boss in one hand, preserving three hands for $3 and our $27 bankroll for maximum interest. Save The Sun for a future round; no consumable or further discard is needed.

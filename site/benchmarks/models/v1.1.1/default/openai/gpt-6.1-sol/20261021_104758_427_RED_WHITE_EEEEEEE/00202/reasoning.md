@@ -1,0 +1,1 @@
+Buy The Hermit into our free consumable slot, then use it for $20. At $81, its $3 price produces a guaranteed net $17 profit, funding further final-ante upgrades without changing our strong Blueprint–Hologram engine or sacrificing The Chariot.

@@ -1,0 +1,1 @@
+Use Temperance now for its guaranteed $11 payout, completing the profitable purchase and increasing cash from $150 to $161. Bootstraps rises from +60 to +64 Mult, we retain maximum $10 interest, and a consumable slot opens for future Tarot or Planet opportunities. Keep Justice for a difficult blind.

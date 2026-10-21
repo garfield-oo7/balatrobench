@@ -1,0 +1,1 @@
+Buy Saturn for $1, then sell it for $1 to fuel Campfire at no net cash cost. The sale will raise Campfire from ×3.5 to ×3.75, boosting every scoring hand by about 7.1% for the final boss. Upgrading our unused Straight is much less useful than strengthening our level-9 Three of a Kind and level-11 Two Pair engine.

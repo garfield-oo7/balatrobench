@@ -1,0 +1,1 @@
+Sell Neptune as planned to gain $1 and raise Campfire from ×2 to ×2.25, a guaranteed 12.5% scoring increase through the remaining Ante 8 blinds. Straight Flush is unused and its upgrade does not support our level-6 Spade flush strategy. This also frees a consumable slot while preserving all core Jokers and ample money for final upgrades or a boss reroll.

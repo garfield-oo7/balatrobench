@@ -1,0 +1,1 @@
+Choose Uranus: Venus and Earth are absent, so upgrade our strongest supported fallback. Two Pair activates Clever Joker's +80 Chips, and Uranus adds +20 base Chips and +1 Mult, improving reliable scoring alongside Raised Fist. Flush has no lasting scoring synergy, and To Do List's Flush reward changes each round.

@@ -1,0 +1,1 @@
+Buy To Do List while its target is Pair, an easy hand to make. One activation next round repays the $4 purchase, and additional activations can fund scoring Jokers and build interest. We have four open Joker slots and are early enough to benefit from this economy engine. Keep Certificate for sealed-card generation; skip the situational Neptune and Standard Pack.

@@ -1,0 +1,1 @@
+Keep all four Clubs and the Steel H2; discard the off-suit aces and queen to find a fifth Club. A level-4 Club flush triggers Ancient Joker five times, with Even Steven's +Mult best scored early, while held Steel multiplies the resulting Mult. This is our strongest route to the remaining 17,625 points, and four discards give ample opportunity without sacrificing a hand.

@@ -1,0 +1,1 @@
+Sell Justice for $1 to complete the cost-neutral purchase–sale cycle and raise Campfire from ×5 to ×5.25. This reliably strengthens every final-boss hand without requiring us to draw and score a particular Glass card. Preserve the five synergistic Jokers and their correct additive-before-multiplicative order.

@@ -1,0 +1,1 @@
+Take the Diamond Four: an even rank triggers Even Steven and supports our level-19 Two Pair strategy. Adding it also raises Hologram from ×4 to ×4.25; with Blueprint copying Hologram, their combined multiplier rises from ×16 to ×18.0625, a 12.9% scoring increase. The Spade Four is equivalent with no current suit synergy; either Four is preferable to the odd-ranked Seven.

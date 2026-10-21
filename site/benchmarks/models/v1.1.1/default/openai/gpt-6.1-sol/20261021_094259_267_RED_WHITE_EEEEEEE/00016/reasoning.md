@@ -1,0 +1,1 @@
+Play Q♣, J♣, 10♠, 7♠, and 4♣ as a black flush through Smeared Joker. The 10 and 4 each trigger Even Steven for +4 Mult: (35+10+10+10+7+4) × (4+8) = 912 chips, exceeding the 800 target immediately. Preserve three unused hands for $3 and avoid unnecessary discards.

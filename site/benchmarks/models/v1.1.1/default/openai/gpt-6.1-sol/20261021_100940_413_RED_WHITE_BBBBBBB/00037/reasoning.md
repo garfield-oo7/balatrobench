@@ -1,0 +1,1 @@
+Use The Fool to recreate Temperance, the Tarot just used. Our Jokers have $11 total sell value, so using the copied Temperance next will provide another guaranteed $11 without selling any Jokers or compromising maximum interest.

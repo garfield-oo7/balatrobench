@@ -1,0 +1,1 @@
+Keep S_K, S_Q, and Fibonacci-boosted S_5 toward a Spade flush, and retain the steel C_9 for its held X1.5 Mult. Discard the two Diamonds to clear Blackboard blockers and the two ordinary Clubs to draw four cards toward the two missing Spades. We have three discards remaining, so prioritize assembling a strong flush without spending hands or Seltzer charges on weak plays.

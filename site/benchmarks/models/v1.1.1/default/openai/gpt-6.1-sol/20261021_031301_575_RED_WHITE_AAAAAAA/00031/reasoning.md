@@ -1,0 +1,1 @@
+Play Kings and Queens for Two Pair to finish immediately. All four face cards score, adding 120 chips from Scary Face; both Clubs trigger Ancient Joker. Total score is (20 + 40 + 120) × (2 × 1.5 × 1.5 + 10 from holographic Runner) = 2,610, exceeding the remaining 1,920. Preserve five unused hands for $5 and keep our maximum-interest savings intact.

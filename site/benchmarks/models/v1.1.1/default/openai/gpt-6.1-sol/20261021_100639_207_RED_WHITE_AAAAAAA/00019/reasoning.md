@@ -1,0 +1,1 @@
+Play the King with the off-suit 5, 3, and 2 for (5 + 10 + 30) × (1 + 10) = 495 chips. The extra cards do not score but cycle four draws without discards. Retain A♠ and 9♥–8♥–3♥ for potential pairs, two pair, or a heart flush. We need only 705 afterward, and have six hands remaining to find a strong follow-up; preserve all Jokers and cash.

@@ -1,5 +1,5 @@
 {
-  "generated_at": 1792523212,
+  "generated_at": 1792552840,
   "strategy": {
     "name": "Default",
     "key": "default",
@@ -12,6 +12,35 @@
     ]
   },
   "entries": [
+    {
+      "run_count": 15,
+      "run_wins": 11,
+      "run_completed": 15,
+      "avg_round": 20.933333333333334,
+      "std_round": 6.215954893505521,
+      "stats": {
+        "calls_total": 2907,
+        "calls_success": 2907,
+        "calls_error": 0,
+        "calls_failed": 0,
+        "tokens_in_total": 40989906,
+        "tokens_out_total": 490429,
+        "tokens_in_avg": 14100.414860681114,
+        "tokens_out_avg": 168.7062263501892,
+        "tokens_in_std": 304.48327810839135,
+        "tokens_out_std": 83.00242352804482,
+        "time_total_ms": 19159720,
+        "time_avg_ms": 6590.890952872377,
+        "time_std_ms": 5144.199656385805,
+        "cost_total": 33.6314665,
+        "cost_avg": 0.011569131922944616,
+        "cost_std": 0.0053239927566267825
+      },
+      "model": {
+        "vendor": "openai",
+        "name": "gpt-6.1-sol"
+      }
+    },
     {
       "run_count": 15,
       "run_wins": 0,

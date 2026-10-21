@@ -1,0 +1,1 @@
+Take Temperance for a guaranteed $14, raising our money from $31 to $45 while preserving maximum interest and funding meaningful scoring upgrades. Suit conversion is unreliable with Ancient Joker changing suits each round, and the offered enhancements or random planets are less valuable than this substantial guaranteed economic return.

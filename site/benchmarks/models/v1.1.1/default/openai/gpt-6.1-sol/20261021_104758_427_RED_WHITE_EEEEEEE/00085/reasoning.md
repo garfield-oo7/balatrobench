@@ -1,0 +1,1 @@
+The first-discard upgrades are complete, so move Blueprint immediately left of Hologram to copy its ×1.75 Mult instead of Burnt Joker. Then the existing Nines-and-Sixes Two Pair scores (140 + 9 + 9 + 6 + 6) × (8 base + 8 Even Steven + 10 Supernova) × 1.75² = 13,536.25, safely beating The Needle's 5,000 target with our only hand. No further discards or risky draws are necessary.

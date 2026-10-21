@@ -1,0 +1,1 @@
+Choose The Hermit: with $40 remaining after opening this pack, it grants the maximum $20, exceeding Temperance's listed $12. Guaranteed money funds future Standard Packs to scale Hologram and targeted upgrades for our Two Pair engine; two random planets offer much less reliable value.

@@ -1,0 +1,10 @@
+[
+  {
+    "id": "call_F4biz7lPjPnTMJn1lEeds4Yr",
+    "function": {
+      "arguments": "{\"card\": 0}",
+      "name": "pack"
+    },
+    "type": "function"
+  }
+]

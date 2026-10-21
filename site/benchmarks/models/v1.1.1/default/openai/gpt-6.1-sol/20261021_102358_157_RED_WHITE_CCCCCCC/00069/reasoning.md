@@ -1,0 +1,1 @@
+Open the cheaper Standard Pack for $3, keeping $60 and maximum interest. Red Card is our reliable scaling engine: unless the pack offers an exceptional enhanced or sealed Spade, skip it for a permanent +3 Mult, amplified to +9 effective Mult by Cavendish on every hand. Ordinary playing cards are not worth diluting the deck we are thinning with Trading Card.
