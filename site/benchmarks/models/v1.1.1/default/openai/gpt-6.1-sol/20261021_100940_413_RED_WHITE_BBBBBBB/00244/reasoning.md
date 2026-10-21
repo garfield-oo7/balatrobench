@@ -1,0 +1,1 @@
+Sell The Moon as planned to recover its $1 cost and raise Campfire from ×2.5 to ×2.75, a guaranteed 10% scoring increase through the Ante 8 boss. Suit conversion does not support our level-11 Three of a Kind strategy, whereas Campfire improves every hand without replacing any scoring Joker.

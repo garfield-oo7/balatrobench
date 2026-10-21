@@ -1,0 +1,1 @@
+Play exactly the three non-debuffed 4s for level-9 Three of a Kind, activating Half Joker while retaining the Steel Jack for ×1.5 Mult. Expected score is (190 + 12 + 76) × (19 × 1.5 + 15 + 20) × 1.86 × 1.5 = 49,253.67, comfortably exceeding the 40,000 target in one hand. No discards or sales are needed; preserve Ramen, cash, and three unused hands.

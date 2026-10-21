@@ -1,0 +1,1 @@
+Buy Ramen to fill the freed Joker slot with much-needed ×2 Mult for only $4, leaving $48 and maximum interest. It will be appended after all additive Mult Jokers, maximizing its effect, while restoring Abstract Joker to +15 Mult. Both level-6 Two Pair and level-5 Three of a Kind benefit; use discards selectively to limit Ramen's decay without sacrificing hand consistency.

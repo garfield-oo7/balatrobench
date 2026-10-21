@@ -1,0 +1,1 @@
+Take Pluto to raise High Card from level 4 to 5. Uranus is absent, so none of these choices improves our main Two Pair engine. High Card is our most developed fallback and can score while retaining steel cards; improving it provides useful insurance against awkward draws or hand-restriction bosses. This is a free permanent upgrade now that the pack is open.

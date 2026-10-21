@@ -1,0 +1,1 @@
+Buy Mars for $1, then sell it for $1 for a net-free Campfire increase from ×4.25 to ×4.5. Four of a Kind is undeveloped, so boosting every hand for the final boss is preferable to using this planet. Keep our current synergistic Jokers and additive-before-multiplicative ordering.

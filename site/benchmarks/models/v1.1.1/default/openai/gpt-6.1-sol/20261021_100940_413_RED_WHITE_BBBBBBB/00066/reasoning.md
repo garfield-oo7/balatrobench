@@ -1,0 +1,1 @@
+Neither Swashbuckler's modest +Mult nor Pluto improves our level-3 Three of a Kind core enough to buy, and an unseen Standard Pack risks diluting rank consistency. Spend $5 to seek scaling, ×Mult, Venus, or useful Tarots; $48 remaining preserves maximum interest and ample reserves. Our immediate scoring is strong, so only meaningful upgrades justify replacing a Joker.

@@ -1,0 +1,1 @@
+Use The Chariot on the Heart Five. Steel provides a reusable ×1.5 held-in-hand multiplier without Glass's destruction risk. The Five is a low odd rank, so we can hold it while scoring even-ranked Two Pairs for Even Steven; leave the paired Sixes unaltered as useful scoring cards. Judgement cannot be used with our full, synergistic Joker lineup.

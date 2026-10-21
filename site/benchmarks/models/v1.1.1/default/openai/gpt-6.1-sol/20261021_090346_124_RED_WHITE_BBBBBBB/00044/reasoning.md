@@ -1,0 +1,1 @@
+Destroy the unenhanced 6♦ and 5♠ to thin weak, unmatched ranks and improve Raised Fist without sacrificing our three 3s. Then play the three 3s while holding K♠, 10♥, and the enhanced 9♥. The Arm reduces Three of a Kind to level 2, but this still scores (50 + 9) × (5 + 12 + 18) = 2,065, enough to clear 1,600 in one hand. Preserve The Sun and all four discards.

@@ -1,0 +1,1 @@
+Discard the purple-sealed 9♦ to generate a free Tarot, along with the unhelpful 2♥. Keep 8♥–9♠–10♣–J♠: either a 7 or Queen completes a straight. Retain the Aces as a fallback pair for To Do List or a potential full house. We need 406 more points, so use our four available discards to improve scoring rather than spend another hand on a weak pair.

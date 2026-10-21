@@ -1,0 +1,1 @@
+Buy The Emperor for $2: using it frees its own consumable slot, allowing at least one random Tarot alongside Empress. Spade conversion, Death, enhancements, or an economy Tarot can improve our established flush engine at low cost while retaining maximum interest. Square Joker starts too slowly and conflicts with five-card flushes, so it is not a worthwhile replacement.

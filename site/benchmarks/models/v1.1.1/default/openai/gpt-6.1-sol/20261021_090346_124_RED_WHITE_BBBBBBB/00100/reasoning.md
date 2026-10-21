@@ -1,0 +1,1 @@
+Keep the Ace and both Mult-enhanced Kings; discard the five lower unpaired cards to find a second pair or third King. Level-5 Two Pair activates Clever Joker, while level-4 trips activates Zany; both benefit from the Kings' combined +8 Mult. Removing the 2 and 6 also raises Raised Fist's potential bonus. Preserve all four scoring hands rather than spend one on an unupgraded pair.

@@ -1,0 +1,1 @@
+Sell Mars as planned: Four of a Kind is unused, whereas the sale raises Campfire from ×1.5 to ×1.75 for the upcoming Ante 7 boss, a 16.7% scoring increase. Recover $1 to reach $53, preserving maximum Seed Money interest and ample boss-reroll reserves without sacrificing any synergistic Joker.

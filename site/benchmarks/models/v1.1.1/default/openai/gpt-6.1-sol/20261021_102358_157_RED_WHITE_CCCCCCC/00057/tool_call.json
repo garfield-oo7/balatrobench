@@ -1,0 +1,10 @@
+[
+  {
+    "id": "call_9POksD7GTd1pNQXybeUhWBJi",
+    "function": {
+      "arguments": "{\"skip\": true}",
+      "name": "pack"
+    },
+    "type": "function"
+  }
+]

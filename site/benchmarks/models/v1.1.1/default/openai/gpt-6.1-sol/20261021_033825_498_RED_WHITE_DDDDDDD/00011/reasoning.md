@@ -1,0 +1,1 @@
+Keep J♥ for Scary Face's +30 chips and 2♠ for Wrathful Joker, drawing five fresh cards toward spades and face-card combinations. The current pair of sevens scores only 48, so spending a hand on it is poor value. Four discards give room to find a strong scoring hand while preserving unused-hand income; a spade flush easily clears 600.

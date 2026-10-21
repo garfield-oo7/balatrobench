@@ -1,0 +1,1 @@
+Choose The Emperor to create two Tarot cards in our empty consumable slots. Two flexible Tarot effects offer more overall value than two fixed +30-chip enhancements or random planets unlikely to upgrade Flush. They can improve economy, enhance key cards, or manipulate suits for future Ancient Joker rounds, and can be held until useful targets are available.

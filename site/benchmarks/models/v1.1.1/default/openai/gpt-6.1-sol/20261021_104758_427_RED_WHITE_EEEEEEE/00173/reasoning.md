@@ -1,0 +1,1 @@
+Buy The Hermit for $3 and use it next for the maximum $20 payout: a guaranteed net $17 gain with empty consumable slots. Dusk is not a reliable improvement for our Two Pair engine, whereas the extra cash funds meaningful upgrades without sacrificing interest. Keep Blueprint copying Hologram.

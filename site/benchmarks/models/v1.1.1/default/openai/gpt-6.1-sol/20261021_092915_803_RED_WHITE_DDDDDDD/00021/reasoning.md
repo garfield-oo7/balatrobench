@@ -1,0 +1,1 @@
+Play the club flush for a guaranteed one-hand clear. A♣, K♣, Q♣, 8♣, and 4♣ contribute 43 chips, and the two faces add 60 from Scary Face. With Droll's +10 Mult, the score is (35 + 43 + 60) × (4 + 10) = 1,932, exceeding 1,200. Preserve three unused hands for $3; no further discards or Ancient Joker triggers are needed.

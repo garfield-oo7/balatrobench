@@ -1,0 +1,1 @@
+Sell The Hierophant as planned to raise Campfire from ×1.5 to ×1.75, increasing every hand's score by 16.7% through the final boss. The sale restores $57 and Bull's +114 Chips, frees our consumable slot for further discounted Campfire fuel, and offers more immediate, consistent value than two Bonus enhancements.

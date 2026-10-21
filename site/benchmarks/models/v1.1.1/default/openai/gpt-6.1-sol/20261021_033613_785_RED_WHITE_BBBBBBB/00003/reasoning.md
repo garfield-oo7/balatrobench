@@ -1,0 +1,1 @@
+Play the club flush: A♣, Q♣, 9♣, 8♣, 6♣ total 44 card chips, scoring (35 + 44) × 4 = 316. This immediately beats the 300-chip blind and preserves three hands for $3 extra income.

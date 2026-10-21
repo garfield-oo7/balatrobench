@@ -1,0 +1,1 @@
+Sell the Earth purchased as Campfire fuel. Full House is not our scoring plan; this sale raises Campfire from ×1.25 to ×1.5, a 20% increase for the upcoming Ante 7 boss, and returns us to $55 for maximum Seed Money interest. Preserve all six synergistic Jokers.

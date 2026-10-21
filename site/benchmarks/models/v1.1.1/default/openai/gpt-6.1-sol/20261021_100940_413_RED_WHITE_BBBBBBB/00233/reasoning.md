@@ -1,0 +1,1 @@
+Buy The Hierophant for $1, then sell it for $1 to raise Campfire from ×1.5 to ×1.75 at no net cost. This guarantees a 16.7% increase to every hand's score, more valuable immediately than its chip enhancement. Keep Empress for our level-11 Three of a Kind and preserve all five scoring Jokers; neither shop Joker improves this lineup.

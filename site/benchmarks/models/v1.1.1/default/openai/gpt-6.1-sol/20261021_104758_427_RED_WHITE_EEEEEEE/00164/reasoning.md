@@ -1,0 +1,1 @@
+Use The Hermit now for its maximum $20, increasing our money from $79 to $99 and freeing a consumable slot. There is no benefit to waiting because we are already above its payout cap. The extra money can fund targeted rerolls or deck improvements while retaining maximum interest; keep Blueprint copying Hologram.

@@ -1,0 +1,1 @@
+Buy Pluto to sell for Campfire fuel rather than upgrade our rarely played High Card. The $2 net buy/sell cost raises Campfire from ×3.25 to ×3.5, a guaranteed 7.7% increase for the final boss. Preserve our complete Spade-flush/Seltzer engine and ample funds for a possible $10 boss reroll.

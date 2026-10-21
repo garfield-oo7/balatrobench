@@ -1,0 +1,1 @@
+Complete the planned Fool–Temperance economy line: use the copied Temperance for $11, raising our money to $66 without sacrificing any Jokers. There is no benefit to delaying with no sell-value scaling, and freeing the slot allows future Tarot generation from our purple-seal card.

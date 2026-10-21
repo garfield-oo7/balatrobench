@@ -1,0 +1,1 @@
+Take The Hermit to gain $20 from our $28 balance, reaching $48. This guaranteed economy boost is worth more than a single +3 Mult Red Card skip and funds discounted Jokers, packs, and future scaling while preserving maximum interest. The Fool has no known useful previous target, and a single Gold enhancement provides much slower returns.

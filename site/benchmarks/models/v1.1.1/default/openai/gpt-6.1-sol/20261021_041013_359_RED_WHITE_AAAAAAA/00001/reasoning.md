@@ -1,0 +1,1 @@
+Play the diamond flush: (35 base chips + 11 + 10 + 10 + 7 + 6) × 4 = 316 chips, immediately beating the 300-chip Small Blind. No discards needed; preserving three hands earns $3 in unused-hand income.

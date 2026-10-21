@@ -1,0 +1,1 @@
+Take The Hermit for the full $20, raising our $37 to $57. This immediately reaches Seed Money's $50 threshold for maximum $10 interest per round and leaves $7 of spending room above it. That economy and future purchasing power outweigh two modest card enhancements, especially since Ancient Joker changes suits each round and we lack consistently scored targets.

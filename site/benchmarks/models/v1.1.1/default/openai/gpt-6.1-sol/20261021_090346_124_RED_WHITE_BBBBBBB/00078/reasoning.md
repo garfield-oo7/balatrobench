@@ -1,0 +1,1 @@
+Neither Drunkard nor an unscaled Runner improves our current two-pair/full-house engine enough to replace a Joker. Spend $5 to look for compatible ×Mult, strong scaling, or useful Planet/Tarot upgrades, leaving $43—comfortably above maximum-interest savings. Keep our existing scoring synergies intact unless a clear upgrade appears; Crystal Ball is not a scoring priority.

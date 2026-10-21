@@ -1,0 +1,1 @@
+Buy Saturn for $1 to sell for $1: Liquidation makes this cash-neutral Campfire fuel. Straight upgrades do not help our level-9 three-card trips build, whereas selling Saturn raises Campfire from ×1.5 to ×1.75, boosting every scoring hand by 16.7% while restoring our money and Bull chips. The Fool can subsequently provide another cash-neutral sale.

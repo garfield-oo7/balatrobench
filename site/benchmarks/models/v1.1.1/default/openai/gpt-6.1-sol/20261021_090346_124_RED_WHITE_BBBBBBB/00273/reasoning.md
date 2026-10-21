@@ -1,0 +1,1 @@
+Buy Mercury for $1 and then sell it for $1 to raise Campfire from ×3.75 to ×4 at no net cash cost. That boosts every hand by 6.7% for the final boss, far more useful than leveling our rarely played Pair. Keep the current five-Joker lineup and additive-before-multiplicative order.

@@ -1,0 +1,1 @@
+Keep 10♥, 8♥, and 2♥: all three gain +4 Mult from Even Steven before triggering Ancient Joker's ×1.5. Discard all five non-Hearts to maximize the chance of completing a Heart flush, with one further discard remaining if needed. A level-2 Heart flush with these even Hearts scored first should readily exceed 7,500, preserving hands and their end-of-round income.

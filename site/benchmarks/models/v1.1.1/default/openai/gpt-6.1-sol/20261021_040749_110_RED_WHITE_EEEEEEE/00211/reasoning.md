@@ -1,0 +1,1 @@
+Keep the queens plus T, 6, and 4; discard the unmatched king, jack, and five to seek a second pair, preferably an even-ranked one. Level-22 Two Pair with Supernova and Blueprint copying ×4.5 Hologram comfortably clears 75,000, with Seltzer repeating card chips and Even Steven bonuses. Use discards rather than waste a hand and a Seltzer charge on a weak hand.

@@ -1,0 +1,1 @@
+Play the Kings with J♦, 7♠, and 3♠. Splash makes all five cards score, and both Spades trigger Wrathful Joker. Expected score is (10 Pair chips + 40 card chips + 50 foil chips) × (2 Pair Mult + 6 Wrathful Mult + 18 Red Card Mult) × 3 Cavendish = 7,800, comfortably beating the 4,000 target in one hand and preserving three hands for payout.

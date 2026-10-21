@@ -1,0 +1,1 @@
+Discard A♥, K♥, Q♦, J♥, and 3♦ as a red Flush through Smeared Joker, triggering Burnt Joker to permanently upgrade Flush to level 9 (155 Chips, 20 Mult). Preserve 4♦ and 2♥ because each provides +4 Mult from Even Steven in our next red flush. Five replacements and three remaining discards give ample room to assemble a winning flush, with all four hands still available.

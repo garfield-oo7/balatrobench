@@ -1,0 +1,1 @@
+Reroll to find reliable +Mult, scaling, or a multiplicative Joker for our empty fifth slot. Our current build has good economy and +50 Chips but relies too heavily on spades for Mult; Earth and Superposition do not solve that weakness. With $64, spending $6 leaves ample purchasing power and preserves maximum interest.

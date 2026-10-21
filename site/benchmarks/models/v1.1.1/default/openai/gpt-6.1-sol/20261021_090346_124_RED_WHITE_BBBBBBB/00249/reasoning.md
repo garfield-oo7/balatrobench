@@ -1,0 +1,1 @@
+Buy Saturn for $1 and resell it for $1 to fuel Campfire at zero net cost. The sale raises Campfire from ×2.5 to ×2.75, increasing all scoring by 10% while restoring Bull's chips. Straight upgrades are far less useful than universal scaling for our level-9 Three of a Kind and level-10 Two Pair.

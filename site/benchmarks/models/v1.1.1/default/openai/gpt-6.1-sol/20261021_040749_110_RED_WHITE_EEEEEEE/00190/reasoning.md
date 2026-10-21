@@ -1,0 +1,1 @@
+Reroll for $5: Saturn and Pluto do not improve our level-21 Two Pair engine. With $100 and Ante 8 still ahead, seek Uranus, useful Tarot insurance, card additions to scale both Hologram and Blueprint, or a strong late-game scoring upgrade. Keep Blueprint copying ×4.25 Hologram; avoid Hieroglyph's unnecessary loss of a hand.

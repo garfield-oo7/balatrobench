@@ -1,0 +1,1 @@
+Use The Hermit now for its maximum $20 payout, increasing funds from $47 to $67 and freeing a consumable slot. Holding it provides no additional benefit since we are already above $20. These funds let us search for a strong fifth Joker or scaling upgrade while retaining the $25 maximum-interest reserve; neither current shop card meaningfully improves our scoring.

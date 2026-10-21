@@ -1,0 +1,40 @@
+# Memory & Previous Actions
+
+
+## Recent Decision History
+
+Here is a list of your recent decisions (from oldest to newest):
+
+
+**1.** `reroll({'reasoning': 'Reroll for $4, leaving $53 and maximum interest, to seek a compatible ×Mult or scaling Joker. Astronomer requires sacrificing a productive Joker and offers no immediate scoring; To Do List is unreliable with its current Four of a Kind target. Our level-4 trips and seal engine are working, but later antes need stronger scaling. Keep the current lineup until a clear upgrade appears.'})` - 
+
+**2.** `buy({'pack': 0, 'reasoning': "Open the $3 Celestial Pack to look for Venus: another upgrade to our level-4 Three of a Kind improves both chips and Mult on our main scoring hand. We retain $50 and maximum interest. The Family's ×4 is powerful but requires quads, which our current deck cannot reliably produce, while Midas Mask is not worth replacing a productive Joker. A cheap focused planet opportunity is preferable to forcing either purchase."})` - 
+
+**3.** `pack({'card': 2, 'reasoning': 'Take Uranus to upgrade Two Pair from level 3 to level 4 (80 Chips, 5 Mult). Venus is unavailable, and Two Pair is our established, easily formed backup when trips do not appear. Its additional chips and Mult work with Banner, Raised Fist, and Abstract; upgrading Flush or High Card would invest in much weaker, less-used alternatives.'})` - 
+
+**4.** `buy({'voucher': 0, 'reasoning': 'Buy Crystal Ball for $7, retaining $43 and maximum interest. Unlike earlier shops, both consumable slots are now occupied, and our deck has a Blue Seal plus multiple Purple Seals. A third slot lets those seals generate valuable planets and Tarots without first wasting Moon or Judgement, supporting repeated Venus upgrades and rank manipulation. Neither offered Joker is a reliable upgrade for our current trips-focused build.'})` - 
+
+**5.** `next_round({'reasoning': "Leave with $43 and maximum interest. The Family requires unreliable Four of a Kind, while Midas Mask does not improve our trips-focused scoring enough to replace an existing Joker. Our level-4 Three of a Kind, Zany, Banner, Raised Fist, and Abstract remain sufficient for current targets, and Certificate plus our seals can generate further upgrades. Having already rerolled twice this shop, preserve money and wait for the next shop's cheaper rerolls rather than pay $5 for another speculative search. Hold Judgement until a worthwhile Joker slot becomes available and Moon for a useful in-hand application."})` - 
+
+**6.** `play({'cards': [3, 4, 5, 6, 7], 'reasoning': "Play the pair of Twos with Seven, Six, and Three as unscored extras, retaining Ace, King, and Jack. This preserves Banner's +120 Chips and makes Jack the lowest held rank for Raised Fist's +20 Mult: (10 + 4 + 120) × (2 + 20 + 15) = 4,958. Cycling five cards sets up a reliable second-hand finish with only 2,542 remaining; even an Ace high-card hand with Banner and our minimum Raised Fist bonus can cover that. Avoid spending discards and weakening Banner merely to chase a possible one-hand trips finish."})` - 
+
+**7.** `play({'cards': [0, 1, 5, 6, 7], 'reasoning': "Play level-4 Two Pair, Aces and Eights, with the Two as an unscored extra. Removing the Two leaves only King, Queen, and Jack held, maximizing Raised Fist to +20 Mult, while preserving all four discards for Banner's +120 Chips. Expected score is (80 + 22 + 16 + 120) × (5 + 20 + 15) = 9,520, comfortably exceeding the remaining 4,476. Zany does not activate, but is unnecessary. Finish now with two hands unspent; no consumables or discards are needed."})` - 
+
+**8.** `reroll({'reasoning': "Reroll for $3, retaining $51 and maximum interest. Our level-4 trips/two-pair engine is adequate now, but the lineup has no multiplicative or scaling scoring for later antes. Seek a compatible ×Mult or strong scaling Joker before replacing anything; neither Neptune nor an additional off-focus consumable addresses that need. Keep Certificate's seal generation and the existing scoring Jokers until a clear upgrade appears."})` - 
+
+**9.** `buy({'pack': 1, 'reasoning': 'Open the discounted $3 Spectral Pack, retaining $48 and maximum interest. Our current scoring comfortably handles Ante 4, but we need stronger scaling or deck improvements for later antes. Spectral options such as Aura, Deja Vu, Cryptid, Trance, Medium, or Immolate could improve our scoring cards, seals, rank consistency, or economy without replacing a productive Joker. Avoid buying Flash Card at zero Mult and committing substantial reroll spending merely to catch up with our existing bonuses; Credit Card adds no value with this cash reserve. Evaluate the revealed Spectrals and skip any destructive option whose drawback outweighs its benefit.'})` - 
+
+**10.** `pack({'card': 0, 'targets': [3], 'reasoning': 'Apply Deja Vu to a Diamond Nine. Nines are a strong target for our level-4 Three of a Kind plan, with three Nines already present in this hand. The Red Seal adds a scoring retrigger and becomes substantially stronger if this card later receives a Bonus, Mult, Lucky, or Glass enhancement. Hex would destroy four productive Jokers for only one Polychrome upgrade, severely weakening our current engine.'})` - 
+
+
+
+## Strategic Context
+
+Based on your recent actions, consider:
+- How your decisions are building towards a cohesive strategy
+- Whether your current approach is working or needs adjustment
+- Patterns in your play that might need to change
+
+
+
+

@@ -1,0 +1,1 @@
+Neither shop Joker improves our full, synergistic lineup. Reroll for $4 to seek cheap consumables to buy and sell for permanent Campfire growth before the final boss, or a useful emergency Tarot. At $52 we can afford another search while reserving $10 for Director's Cut; avoid selling our scoring Jokers or spending on Magic Trick.

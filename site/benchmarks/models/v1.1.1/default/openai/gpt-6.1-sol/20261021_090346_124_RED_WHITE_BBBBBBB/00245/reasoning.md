@@ -1,0 +1,1 @@
+Buy The Moon for $1 to resell for $1, increasing Campfire from ×2.25 to ×2.5 at no net cost. This provides an 11.1% boost to every hand through the final boss while restoring Bull's chips after resale; changing suits does little for our leveled Three of a Kind and Two Pair strategy.

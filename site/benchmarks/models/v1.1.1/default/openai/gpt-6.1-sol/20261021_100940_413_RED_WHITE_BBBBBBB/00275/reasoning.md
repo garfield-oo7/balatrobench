@@ -1,0 +1,1 @@
+Choose The Chariot and turn the 2 of Spades into Steel. Holding it provides ×1.5 Mult, the strongest available improvement for our developed Three of a Kind and Two Pair hands. The low-rank singleton is a good card to keep unplayed, preserving the paired Aces and higher-chip ranks for scoring. Suit conversion and Wild provide little value to this rank-based build.

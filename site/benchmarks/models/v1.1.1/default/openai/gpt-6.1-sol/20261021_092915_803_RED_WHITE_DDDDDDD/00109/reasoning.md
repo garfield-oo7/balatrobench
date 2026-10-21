@@ -1,0 +1,1 @@
+Buy The Hermit for $3 and use it next for $20, a guaranteed $17 net profit. This raises our $78 bankroll to $95 after use, preserving Seed Money's maximum interest and funding stronger upgrades for our Ancient-powered flush strategy.

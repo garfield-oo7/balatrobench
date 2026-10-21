@@ -1,0 +1,1 @@
+Cycle the Jack, Ten, Seven, and Three while retaining the pair of 8s and King. The Jack scores 45 chips with Scary Face, and four fresh draws can complete Two Pair or a Full House for Mad Joker. Keeping the King provides a particularly strong pairing target: Kings and 8s would score 1,392, easily beating the boss.

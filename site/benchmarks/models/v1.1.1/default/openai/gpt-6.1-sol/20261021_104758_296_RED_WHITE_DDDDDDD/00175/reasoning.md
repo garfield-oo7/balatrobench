@@ -1,0 +1,1 @@
+Sell the Fool as planned, gaining $1 and raising Campfire from ×1 to ×1.25 for the remaining Ante 7 blinds. This is a guaranteed scoring upgrade at only $2 net cost, useful while Ancient targets Diamonds instead of our main Spade flushes. It also frees a consumable slot for further inexpensive Campfire fuel; no need to sell any core Jokers.

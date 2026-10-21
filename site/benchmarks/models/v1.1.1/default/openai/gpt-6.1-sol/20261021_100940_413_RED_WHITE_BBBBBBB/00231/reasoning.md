@@ -1,0 +1,1 @@
+Sell The Star as planned: its $1 sale refunds its purchase and raises Campfire from ×1.25 to ×1.5, a guaranteed 20% scoring increase at no net cost. Suit conversion does not support our level-11 Three of a Kind strategy. Retain Empress for scoring-card enhancements and keep all five scoring Jokers.

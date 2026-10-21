@@ -1,0 +1,1 @@
+Buy Jupiter for $3 to upgrade our primary Flush from level 4 to 5 (95 Chips, 12 Mult). Smeared Joker makes flushes consistent, and this guaranteed permanent upgrade compounds with Even Steven, Supernova, and Hologram. We retain $44, well above the maximum-interest threshold; keep all five synergistic Jokers rather than replacing one with an unscaled Ride the Bus.

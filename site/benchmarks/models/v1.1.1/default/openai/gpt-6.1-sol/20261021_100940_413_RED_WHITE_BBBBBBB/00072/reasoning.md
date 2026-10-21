@@ -1,0 +1,1 @@
+Use The Hermit now for its full $20 payout, increasing money from $54 to $74 and freeing our consumable slot. Holding it offers no larger payout; this funds future scaling or ×Mult upgrades while preserving maximum interest.

@@ -1,0 +1,1 @@
+Buy Neptune for $1, then resell it for $1 to raise Campfire from ×4.5 to ×4.75 at no net cost. This improves both our developed Three of a Kind and Two Pair for the final boss; upgrading an unused Straight Flush would provide little practical benefit. Preserve our synergistic Joker lineup and correct scoring order.

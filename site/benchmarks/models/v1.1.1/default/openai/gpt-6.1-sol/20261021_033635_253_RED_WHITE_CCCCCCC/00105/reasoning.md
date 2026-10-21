@@ -1,0 +1,1 @@
+Use Jupiter to upgrade Flush to level 3, adding +15 base Chips and +2 Mult permanently. Flush is our main scoring hand, and we have no Observatory reason to hold the planet. This improves both spade flushes and off-suit backup flushes without spending money or reducing Bootstraps.

@@ -1,0 +1,1 @@
+Use The Emperor now: consuming it frees its slot, allowing both random Tarots to be generated. This completes our planned $2 investment without spending more money or reducing Bootstraps' +30 Mult. Economy Tarots could increase Bootstraps further, while enhancements and deck manipulation can support our five-card Splash pair strategy.

@@ -1,0 +1,1 @@
+Play Aces and Kings with the five as an unscored kicker, removing our lowest card from Raised Fist's held-card check. The red-seal Ace scores twice, giving (20 + 33 + 20 + 80) × (2 + 18) = 3,060 chips, comfortably beating 1,200. Win in one hand to preserve three hands of income, both consumables, and our $35 interest bank.

@@ -1,0 +1,1 @@
+Turn the unenhanced diamond King into Steel for a reusable held-in-hand ×1.5 Mult. Preserve the blue-seal Mult King so it can generate Uranus when held through a Two Pair victory. We will discard low-value cards to find Two Pair, retaining the Steel King where possible; our level-25 Two Pair with Blueprint–Hologram already comfortably exceeds this 50,000 blind.

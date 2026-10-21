@@ -1,0 +1,1 @@
+Use The Hermit for the maximum $20 payout: our most recent purchase left $46, so it increases cash to $66. This exceeds Temperance's $14 and is more valuable than two random planets, since Burnt Joker already reliably upgrades our focused Flush strategy. The money can fund Standard Packs to scale Hologram and other meaningful upgrades while preserving maximum interest.

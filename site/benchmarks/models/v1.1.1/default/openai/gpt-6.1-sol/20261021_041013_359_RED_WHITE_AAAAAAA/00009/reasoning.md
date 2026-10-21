@@ -1,0 +1,1 @@
+Save the remaining $4. The Star does not support our Two Pair/Full House strategy, and either pack would exhaust our cash for an uncertain upgrade. Mad Joker plus Scary Face provides strong early scoring, while Burglar gives seven hands to find combinations and generate unused-hand income. Keep all three Jokers and build toward interest rather than spend on marginal options.

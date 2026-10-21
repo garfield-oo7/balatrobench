@@ -1,0 +1,10 @@
+[
+  {
+    "id": "call_Y3KICVaKenN7bFIQhIqEHXyO",
+    "function": {
+      "arguments": "{\"pack\": 0}",
+      "name": "buy"
+    },
+    "type": "function"
+  }
+]

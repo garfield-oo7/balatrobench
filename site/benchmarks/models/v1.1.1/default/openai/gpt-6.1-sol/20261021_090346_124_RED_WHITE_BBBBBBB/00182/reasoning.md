@@ -1,0 +1,1 @@
+Sell Judgement as planned to raise Campfire from ×1 to ×1.25 at no net purchase/sale cost, restoring $50 and Bull to +100 Chips. Our Joker slots are full, so Judgement cannot be used without sacrificing a valuable scoring Joker. This guaranteed 25% multiplier increase rebuilds our scoring after the boss reset and leaves ample funds for the discounted Grabber voucher.

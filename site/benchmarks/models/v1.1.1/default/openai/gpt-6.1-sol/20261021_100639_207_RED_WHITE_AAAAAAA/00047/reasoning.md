@@ -1,0 +1,1 @@
+Play three Kings for 1,950 chips: (30 base + 30 rank chips + 90 from Scary Face) × (3 base Mult + 10 holographic Mult). Include the Ace and diamond 3 as unscored cycling cards to draw five replacements. Retain the Jack for Scary Face scoring, the 8 for Even Steven, and the club 5 toward an Ancient Joker club flush. This secures 39% of the target while leaving six hands to finish.

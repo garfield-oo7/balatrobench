@@ -1,0 +1,1 @@
+Take Mercury as a free marginal upgrade to Pair, our most accessible fallback if a Spade flush is unavailable or hand restrictions require a different hand. None of these planets improves our primary flush engine, but skipping yields no benefit; Pair is easier to assemble than trips or two pair while retaining black cards for Blackboard.

@@ -1,0 +1,1 @@
+Use The Hermit now for its maximum $20 payout, raising our bankroll from $117 to $137 and freeing a consumable slot. There is no benefit to waiting because its payout is already capped. Keep the strong level-18 Two Pair engine and Blueprint copying Hologram; the extra money can fund selective late-game upgrades without compromising interest.

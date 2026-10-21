@@ -1,0 +1,1 @@
+Play the diamond flush, leading with 4♦ so Even Steven's +4 Mult is amplified by all five Ancient Joker ×1.5 triggers. Keep both Steel hearts held for another ×2.25 Mult. At level 2, this scores approximately (50 + 35 + 62) × ((6 + 4) × 1.5^7 + 18) = 27,763, comfortably beating the 10,000-point boss in one hand. Preserve three hands for income and save The Moon.

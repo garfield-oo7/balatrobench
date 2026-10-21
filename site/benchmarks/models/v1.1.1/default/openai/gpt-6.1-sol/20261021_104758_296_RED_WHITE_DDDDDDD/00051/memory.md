@@ -1,0 +1,40 @@
+# Memory & Previous Actions
+
+
+## Recent Decision History
+
+Here is a list of your recent decisions (from oldest to newest):
+
+
+**1.** `buy({'card': 0, 'reasoning': "Fill the slot freed by selling Droll with Abstract Joker. With six Jokers it supplies +18 Mult on every hand, a guaranteed upgrade over Droll's flush-only +10 for just $2 net including the prior sale. This leaves $34, preserving maximum interest. Ancient's multipliers trigger during card scoring and will not multiply Abstract's later bonus, but the flat +18 provides strong reliable backup when Ancient's chosen suit is difficult to assemble."})` - 
+
+**2.** `rearrange({'jokers': [0, 1, 4, 2, 3, 5], 'reasoning': "Move Even Steven before Ancient Joker so each scored even card receives its +4 Mult before that same card's ×1.5 Ancient trigger. Keep Wrathful before Ancient as well, so spades receive +3 Mult before multiplication while Ancient targets spades. Ancient activates during card scoring, so placing Abstract before it would not multiply Abstract's later +18; retain Abstract as reliable flat support. This is a free scoring improvement that preserves all six useful Jokers and our $34."})` - 
+
+**3.** `buy({'card': 0, 'reasoning': "Buy The Empress for $3, leaving $31 and preserving maximum interest. Its two permanent +4 Mult enhancements activate during card scoring, so Ancient Joker can multiply those bonuses—unlike Abstract's later flat Mult. Hold it until cards are available, then enhance cards useful for Ancient's current suit or an immediately playable flush, preferably cards already improved by Hiker. Keep The Moon as emergency flush support; no Joker replacement or expensive reroll is needed."})` - 
+
+**4.** `buy({'pack': 0, 'reasoning': "Open the Celestial Pack for $4, leaving $27 and preserving maximum interest. Flush is our established primary hand but remains level 1; finding Jupiter would improve both its base chips and the starting Mult amplified by Ancient Joker's repeated triggers. Our Joker lineup is already strong, so seeking a permanent hand upgrade is preferable to paying for a speculative reroll or replacing a useful Joker. Keep both held Tarots for use on suitable cards during a blind."})` - 
+
+**5.** `pack({'card': 0, 'reasoning': "Choose Jupiter to upgrade our primary hand, Flush, to level 2 (50 Chips × 6 Mult). We have played seven flushes, and Ancient Joker strongly rewards scoring five cards of its chosen suit. The extra starting Mult is amplified by Ancient's repeated ×1.5 triggers, while the additional 15 base Chips improves every flush. Earth and Saturn upgrade rarely or never used hands and offer less consistent value. Pack planets apply immediately, so our full consumable slots are not a problem."})` - 
+
+**6.** `next_round({'reasoning': 'Leave with $27 to retain maximum $5 interest. We already invested in level-2 Flush, Abstract Joker, and The Empress; our full six-Joker engine is strong for Ante 3. The remaining Arcana Pack would drop us below $25 for a speculative benefit, while Tarot Merchant and rerolling are unnecessary expenses. Save The Empress for useful scoring cards in hand and The Moon for a club-flush opportunity or emergency. Favor spade flushes while Ancient targets spades, scoring enhanced/even spades early so their additive Mult benefits from subsequent Ancient triggers.'})` - 
+
+**7.** `discard({'cards': [1, 2, 4, 5], 'reasoning': "Keep the four diamonds (Q♦, 10♦, 6♦, 3♦) and draw four toward a diamond flush. Clubs are debuffed, and chasing Ancient's spades from only one spade is much less consistent. A level-2 diamond flush with The Empress applied to two scoring diamonds will comfortably exceed 4,000 through Scary Face, Even Steven, and Abstract, even without Ancient. Use our four available discards to seek that one-hand clear and preserve hand income; do not use The Moon against The Club."})` - 
+
+**8.** `use({'consumable': 1, 'cards': [2, 3], 'reasoning': 'Enhance Q♦ and 10♦ with +4 Mult each, then play the five diamonds. That level-2 flush guarantees at least (50 base + 34 card chips + 30 Scary Face) × (6 base + 8 Even Steven + 8 Empress + 18 Abstract) = 4,560 chips, enough to beat the 4,000 target in one hand without further discards. Any existing Hiker bonuses only improve this. These high-value diamonds are useful permanent enhancement targets; preserve all four hands until the winning play and avoid The Moon because clubs are debuffed.'})` - 
+
+**9.** `play({'cards': [2, 3, 4, 5, 7], 'reasoning': 'Play the five diamonds for a level-2 flush. Guaranteed scoring is (50 base Chips + 34 card Chips + 30 from Scary Face on Q♦) × (6 base Mult + 8 from the two Mult enhancements + 8 from Even Steven on 10♦ and 6♦ + 18 from Abstract) = 4,560, exceeding the 4,000 target without Ancient Joker. Win in one hand, retain three hands for income, and improve all five scoring diamonds permanently with Hiker. Save The Moon; clubs are debuffed.'})` - 
+
+**10.** `buy({'card': 1, 'reasoning': "Buy The Chariot for $3, leaving $36 and preserving maximum interest. A Steel card held in hand supplies ×1.5 Mult before Ancient Joker's card-scoring multipliers, strengthening our flush engine without replacing any useful Joker. Hold it until a hand is available, then preferably enhance a low-value off-suit card we can retain while scoring Ancient's chosen suit; avoid overwriting the enhanced Q♦ and 10♦. Blue Joker is not a compelling replacement for our existing chip generation and Hiker scaling."})` - 
+
+
+
+## Strategic Context
+
+Based on your recent actions, consider:
+- How your decisions are building towards a cohesive strategy
+- Whether your current approach is working or needs adjustment
+- Patterns in your play that might need to change
+
+
+
+

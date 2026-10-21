@@ -1,0 +1,1 @@
+Play the five highest hearts for a flush worth (35+10+10+8+6+5)×4 = 296 chips. No available hand reaches 300, so take the strongest score now; any subsequent hand scores at least 7 chips and finishes the blind, preserving two unused hands.

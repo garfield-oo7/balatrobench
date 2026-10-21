@@ -1,0 +1,1 @@
+Play the heart flush: (35 + 11 + 10 + 10 + 6 + 4) × 4 = 304 chips, exceeding the 300 target immediately. Winning with three hands unused earns $3 in unused-hand income.

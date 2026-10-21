@@ -1,0 +1,1 @@
+Spend $7 seeking final-boss upgrades and discounted consumables to sell for Campfire growth. Neither Seance nor Supernova improves our full, well-ordered lineup. Only the showdown remains, so saved money has little future value; $11 left after this roll can fund useful Tarot cards, Venus/Uranus, or cost-neutral consumable sales.

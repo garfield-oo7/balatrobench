@@ -1,0 +1,1 @@
+Use our first discard on the debuffed heart two to activate Trading Card: permanently destroy a weak card and earn $3. This improves our deck and economy while preserving the pair of nines and three clubs as options for a strong scoring hand. Foil Trading Card adds +50 Chips to every hand, so we have ample scoring support for this 600-chip boss.

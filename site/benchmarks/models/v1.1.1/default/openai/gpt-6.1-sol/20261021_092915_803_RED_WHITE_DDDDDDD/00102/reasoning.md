@@ -1,0 +1,1 @@
+Neither 8 Ball nor holographic Mr. Bones is a meaningful upgrade over our full scoring lineup. Reroll for $6, leaving $58 and preserving maximum Seed Money interest. Seek retriggers, Blueprint, strong independent ×Mult, or Jupiter to improve our Ancient-powered flushes; avoid replacing a productive Joker for marginal utility.

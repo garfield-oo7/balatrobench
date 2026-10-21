@@ -1,0 +1,1 @@
+Activate Trading Card by destroying the club 8 on our single-card first discard, earning $3 and thinning a non-spade/non-diamond. Keep both pairs for potential full houses and all four diamonds for a possible flush and Rough Gem income. The replacement may also provide a spade for Wrathful Joker. All four hands remain, and The Arm cannot reduce our level-1 hands further.

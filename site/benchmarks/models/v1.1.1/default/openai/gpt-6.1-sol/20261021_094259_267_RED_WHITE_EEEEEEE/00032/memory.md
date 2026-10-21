@@ -1,0 +1,40 @@
+# Memory & Previous Actions
+
+
+## Recent Decision History
+
+Here is a list of your recent decisions (from oldest to newest):
+
+
+**1.** `play({'cards': [0, 1, 4, 5, 7], 'reasoning': 'Play A♥, K♥, 8♦, 6♥, and 2♥ as a red flush via Smeared Joker. Three even cards trigger Even Steven, scoring (35+11+10+8+6+2) × (4+12) = 1,152. With no discards remaining, take this strongest available score; only 48 chips remain with three hands available, and the retained 6♣ can itself score 55 as a high card if necessary.'})` - 
+
+**2.** `play({'cards': [0, 1, 2, 6, 7], 'reasoning': 'Play K♦, Q♥, J♥, 4♥, and 2♦ as a red flush through Smeared Joker. The 4 and 2 trigger Even Steven, scoring (35+10+10+10+4+2) × (4+8) = 852 chips, comfortably clearing the remaining 48. Finish immediately and preserve two unused hands for $2.'})` - 
+
+**3.** `buy({'card': 1, 'reasoning': 'Buy Supernova for $5: our five prior flushes already give +5 Mult, growing with every flush played. Smeared Joker makes repeated flushes reliable, so this provides immediate power and ongoing scaling alongside Even Steven. Spending down to $25 preserves maximum $5 interest. Fortune Teller currently gives no Mult, and speculative packs or Hieroglyph are less efficient.'})` - 
+
+**4.** `next_round({'reasoning': 'Keep $25 for maximum interest. Supernova now supplies growing Mult for our reliable Smeared flushes, complementing Even Steven and providing sufficient immediate scoring for Ante 2. Fortune Teller offers zero Mult with no Tarot investment; neither speculative pack nor a $5 reroll justifies reducing our economy. Skip Hieroglyph because losing a hand weakens safety without a strong scaling payoff. Seek Jupiter, chip support, and multiplicative Jokers in future shops.'})` - 
+
+**5.** `discard({'cards': [0, 1, 2, 3, 4], 'reasoning': 'The House hides all initial cards, so discard five unknown cards to draw five visible replacements while preserving all four scoring hands. With Smeared Joker we can build a red or black flush from revealed cards, prioritizing even ranks for Even Steven and our growing Supernova bonus. Four discards give ample room to overcome the hidden opening without gambling a hand.'})` - 
+
+**6.** `discard({'cards': [1, 2, 4, 5, 6], 'reasoning': 'Keep A♥, 4♦, and 2♦ as a red-flush core; the two even cards already provide +8 Mult. Discard both visible black cards and all three unknown cards to draw five face-up replacements. Smeared Joker makes any new hearts or diamonds compatible, while Supernova boosts our established flush strategy. Preserve all four hands and seek red even ranks for a strong opening score.'})` - 
+
+**7.** `play({'cards': [0, 1, 5, 6, 7], 'reasoning': "Play A♥, 10♦, 6♥, 4♦, and 2♦ as a flush through Smeared Joker. Four even ranks supply +16 Mult, and Supernova supplies +6 on our sixth flush: (35+11+10+6+4+2) × (4+16+6) = 1,768 chips. This beats The House's 1,600 target immediately, preserving three hands for income and both remaining discards."})` - 
+
+**8.** `buy({'pack': 0, 'reasoning': 'Open the $4 Buffoon Pack to seek chip support, economy, or multiplicative scaling for our reliable Smeared Joker flush build. We have two empty Joker slots and sufficient additive Mult from Even Steven and Supernova, making an additional complementary Joker valuable entering Ante 3. This leaves $31, preserving maximum interest and room for another useful purchase.'})` - 
+
+**9.** `pack({'card': 0, 'reasoning': 'Take Hologram as our scalable ×Mult engine. Even Steven and Supernova already provide additive Mult, and Hologram will multiply those bonuses as we add playing cards through Standard Packs or effects such as Certificate and spectral cards. It starts at ×1, so it needs investment, but we have an empty slot and $31 to develop it while retaining interest. Vagabond would require abandoning our strong bank and playing at $4 or less, making it a poorer fit for our current economy. Keep Hologram to the right of Supernova.'})` - 
+
+**10.** `reroll({'reasoning': 'Spend $5 to look for a useful fifth Joker, ideally chip support or a playing-card generator such as Certificate to grow Hologram. This leaves $26, preserving maximum interest. Our current shop Tarots do not reliably advance the flush engine, and the Celestial Pack does not guarantee Jupiter. Keep all four complementary Jokers and their correct ordering, with Hologram last.'})` - 
+
+
+
+## Strategic Context
+
+Based on your recent actions, consider:
+- How your decisions are building towards a cohesive strategy
+- Whether your current approach is working or needs adjustment
+- Patterns in your play that might need to change
+
+
+
+

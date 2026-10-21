@@ -1,0 +1,1 @@
+Play A♠, lucky K♠, Q♠, J♠, and 8♠ for a guaranteed winning level-8 flush. With no Diamonds, The Window has no effect: (140 + 49 card chips + 100 from two Foil Jokers) × (18 + 15 Wrathful + 42 Red Card + 72 Bootstraps) × 3 Cavendish = 127,449, exceeding 70,000 even without a Lucky trigger. Cavendish is already last. Preserve Justice for Ante 8 and earn four unused-hand dollars.

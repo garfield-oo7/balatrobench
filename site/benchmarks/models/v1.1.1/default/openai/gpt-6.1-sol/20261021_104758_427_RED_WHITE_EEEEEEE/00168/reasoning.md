@@ -1,0 +1,1 @@
+Cash Temperance for $16 now, increasing our money to $127 and freeing the slot for Blue Seal planets or useful shop consumables. Our established Joker lineup gives no reason to hold it for a higher payout. Next we can afford targeted rerolls for Two Pair upgrades, playing-card additions to scale Hologram, or a strong late-game improvement while retaining maximum interest.

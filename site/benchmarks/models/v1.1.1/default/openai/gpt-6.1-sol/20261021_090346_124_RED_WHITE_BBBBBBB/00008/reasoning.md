@@ -1,0 +1,1 @@
+Play the pair of 2s with 3♣ and 6♥ as non-scoring extras, earning $4 from To Do List while drawing four fresh cards. Keep 10♣, 9♠, 8♥, and 6♠: any 7 completes a straight, and higher draws offer alternative straights. This scores 28; with three hands and all four discards remaining, we have ample resources to find the stronger hands needed for the remaining 422 points.

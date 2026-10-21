@@ -1,0 +1,1 @@
+Play Kings and 8s as Two Pair. Mad Joker adds +10 Mult and Scary Face adds 60 chips from the two Kings: (20 + 10 + 10 + 8 + 8 + 60) × (2 + 10) = 1,392 chips. This comfortably clears the remaining 510 and preserves four unused hands for $4 income.

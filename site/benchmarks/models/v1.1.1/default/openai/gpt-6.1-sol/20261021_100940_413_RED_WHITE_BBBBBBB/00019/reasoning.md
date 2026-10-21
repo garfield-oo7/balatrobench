@@ -1,0 +1,1 @@
+Discard 8♣, 6♣, and 3♦, keeping the two Jacks plus K-Q-T. A third Jack gives level-2 trips worth (50 + 30) × (5 + 12) = 1,360 chips, enough to win immediately. Keeping K-Q-J-T also preserves eight straight outs (any Ace or nine), which can earn $4 from To Do List. Use our plentiful discards before playing so The Hook cannot randomly discard these useful cards.

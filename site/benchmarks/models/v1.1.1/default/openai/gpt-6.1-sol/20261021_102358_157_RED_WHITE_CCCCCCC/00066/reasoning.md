@@ -1,0 +1,1 @@
+Use the first discard on only the 3 of Diamonds to trigger Trading Card: permanently remove a weak non-Spade and earn $3. Preserve both Spades for Wrathful Joker and high cards for Splash. With Red Card +18, foil +50 chips, and Cavendish ×3, a strong five-card play should readily clear 4,000 after the replacement draw.

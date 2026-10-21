@@ -1,0 +1,1 @@
+Use Jupiter now to permanently raise Flush from level 4 to 5 (95 Chips, 12 Mult). Flush is our primary hand with Smeared Joker, so both bonuses reliably improve scoring and compound with Hologram. We have no Observatory incentive to hold this planet; using it also frees a consumable slot for future Tarot or blue-seal generation.

@@ -1,0 +1,1 @@
+Keep the 9s and 6s and draw four cards for a full house or four of a kind. Either full house scores at least 340, beating the blind in one hand and preserving the $3 unused-hand bonus. Two discards will remain if this draw misses.

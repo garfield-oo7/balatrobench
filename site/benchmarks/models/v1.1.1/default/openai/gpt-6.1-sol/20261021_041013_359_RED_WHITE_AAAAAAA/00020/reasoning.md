@@ -1,0 +1,1 @@
+Play the heart flush K-J-9-8-2 to win immediately. Scary Face adds 60 chips from King and Jack, Even Steven adds +8 Mult from 8 and 2, and holographic Runner adds +10 Mult: (35 + 10 + 10 + 9 + 8 + 2 + 60) × (4 + 8 + 10) = 2,948 chips. This comfortably clears the remaining 1,024 and preserves five unused hands for $5 income.

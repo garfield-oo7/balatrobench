@@ -1,0 +1,1 @@
+Choose the guaranteed Steel enhancement over Wheel's gamble or Fool's unspecified previous consumable. Put Steel on the diamond Two, a low-chip card we can hold rather than score while playing our level-26 Two Pair. Its held ×1.5 Mult strengthens our final-boss scoring, and keeping the Ace and Ten pairs unaltered preserves strong scoring ranks.

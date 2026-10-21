@@ -1,0 +1,1 @@
+The low two pair scores only 60 and does not benefit from either Joker, so conserve hands and draw five. Keep 8♠ as the start of a powerful spade flush, plus A♥ and 3♥ as a secondary suited option. Prioritize newly drawn spades and face cards; four discards give us room to improve rather than spend a hand on negligible points.

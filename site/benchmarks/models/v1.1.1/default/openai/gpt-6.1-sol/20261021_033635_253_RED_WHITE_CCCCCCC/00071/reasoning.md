@@ -1,0 +1,1 @@
+Use the first discard on the weak non-spade 3♣ to trigger Trading Card: permanently thin the deck and earn $3. Preserve 9–Q as a potential straight draw, our valuable spade for Wrathful Joker, and higher-chip cards for Splash. After drawing, reassess for a strong five-card scoring hand; we have ample hands and discards to beat 5,000.

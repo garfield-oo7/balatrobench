@@ -1,0 +1,1 @@
+Sell The Fool as planned to increase Campfire from ×1.75 to ×2, a guaranteed 14.3% scoring increase for the upcoming blind. This restores $46 and Bull's +92 Chips, making the buy–sell cycle cash-neutral. The last-used consumable is not identified, so selling is more reliable than using Fool; retain all five scoring Jokers.

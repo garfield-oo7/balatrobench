@@ -1,0 +1,1 @@
+Play the club flush A♣, K♣, Q♣, 8♣, 4♣. Scary Face adds 60 chips from the king and queen, and Droll Joker adds 10 Mult, giving (35 + 11 + 10 + 10 + 8 + 4 + 60) × (4 + 10) = 1,932 chips. This safely clears the 1,200 target in one hand, preserving three hands for $3 and avoiding unnecessary discards.

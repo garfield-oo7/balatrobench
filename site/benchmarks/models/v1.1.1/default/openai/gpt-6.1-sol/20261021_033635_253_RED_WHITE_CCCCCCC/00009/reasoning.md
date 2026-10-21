@@ -1,0 +1,1 @@
+Keep A-K-J-10 and draw four cards for a queen to complete Broadway, worth 324 chips. With four discards available, pursuing this strong straight before spending hands is preferable to the current weak pair. If we miss, high-rank pairs or trips remain useful fallbacks with Splash making all five played cards score.

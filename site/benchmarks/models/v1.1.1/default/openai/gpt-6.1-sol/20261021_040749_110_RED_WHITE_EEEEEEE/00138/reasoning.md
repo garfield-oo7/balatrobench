@@ -1,0 +1,1 @@
+Play Sevens and Threes for level-16 Two Pair. The debuffed Heart Seven still completes the hand, while the Diamond Seven and both Threes score: (320+7+3+3) × (17+16 Supernova) ×4 Blueprint ×4 Hologram = 175,824, safely exceeding 40,000. Keep the Gold Ace in hand for $3 and finish with three unused hands; no further discards or upgrades are needed.

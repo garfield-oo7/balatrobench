@@ -1,0 +1,1 @@
+Choose Jupiter to upgrade our primary Flush from level 4 to level 5, raising its base scoring to 95 Chips × 12 Mult. Flush is our most-played hand and spade flushes reliably activate all five Wrathful bonuses while building Hiker chips. This permanent upgrade benefits our established strategy more consistently than improving rarely played alternatives, with no further money cost.

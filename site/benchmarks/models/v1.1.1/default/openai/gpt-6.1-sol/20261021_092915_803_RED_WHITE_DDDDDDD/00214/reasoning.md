@@ -1,0 +1,1 @@
+Play the Spade flush A-J-10-3-2, retaining only black cards (C_A, S_9, C_8) to activate Blackboard. Three Fibonacci ranks supply +24 Mult, five Spades supply +15 Mult and +250 Chips, and Blackboard plus Campfire multiply by 4.5. Expected score is (110+36+250) × (14+24+15) ×3×1.5 = 94,446, comfortably exceeding the remaining 49,663 and winning with three hands unspent.

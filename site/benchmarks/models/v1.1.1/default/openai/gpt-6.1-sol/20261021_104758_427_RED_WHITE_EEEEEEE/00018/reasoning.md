@@ -1,0 +1,1 @@
+Play Queens and Tens as two pair for (20+20+20) × (2+8 from the two Tens via Even Steven+8 from Jolly Joker) = 1,080 chips, exceeding the 800 target in one hand. Preserve three unused hands for $3; no further discard is needed.

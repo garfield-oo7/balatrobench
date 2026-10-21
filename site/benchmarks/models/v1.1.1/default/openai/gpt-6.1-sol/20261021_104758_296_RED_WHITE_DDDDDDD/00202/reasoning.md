@@ -1,0 +1,1 @@
+Sell Earth as planned: Full House is not our scoring focus, while the sale raises Campfire from ×1.25 to ×1.5, a guaranteed 20% increase to every hand through Ante 8 until the boss is defeated. Recover $1 and free the consumable slot without sacrificing any synergistic Joker.

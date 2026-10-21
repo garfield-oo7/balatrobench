@@ -1,0 +1,1 @@
+Use The Hermit now for its maximum $20 payout, increasing money from $76 to $96 and freeing a consumable slot. There is no benefit to delaying at this balance; retain The Chariot for Steel-card insurance and keep Blueprint copying Hologram.

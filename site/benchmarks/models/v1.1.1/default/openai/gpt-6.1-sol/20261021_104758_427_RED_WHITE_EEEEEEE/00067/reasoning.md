@@ -1,0 +1,1 @@
+Play Queens and Fives as level-4 Two Pair to finish the blind immediately. Its 110 chips × (5 base Mult +8 Jolly Joker +8 Supernova) ×1.25 Hologram scores about 2,887, comfortably exceeding the remaining 500 without any Even Steven triggers. Preserve both unused hands for $2 income; no discard or extra cycling is needed.

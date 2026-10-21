@@ -1,0 +1,1 @@
+Use Temperance now for $11 while all five Jokers remain, raising our money from $44 to $55. This also makes Temperance the last used Tarot so The Fool can recreate it for another $11, completing the planned guaranteed economy gain.

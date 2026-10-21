@@ -1,0 +1,1 @@
+Use Trading Card's first-discard trigger to destroy the debuffed Club Four and gain $3. This removes a low-value off-suit card permanently while preserving both spades and our remaining discard resources to pursue a level-5 spade flush. Our existing Joker order is optimal, and Justice can remain in reserve.

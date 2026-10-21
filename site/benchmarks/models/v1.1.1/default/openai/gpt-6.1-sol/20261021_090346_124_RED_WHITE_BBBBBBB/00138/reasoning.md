@@ -1,0 +1,1 @@
+Move Half Joker before Ramen so its +20 Mult is multiplied rather than added afterward. On our level-7 three-card Three of a Kind, this gains 20 additional Mult at Ramen's full ×2 strength, with no cost. Keep Clever Joker for level-7 Two Pair as a fallback; the remaining shop offers are not worthwhile upgrades.

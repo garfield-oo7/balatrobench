@@ -1,0 +1,1 @@
+Keep both tens and both nines and use the final discard to draw four cards. Any remaining ten or nine completes a full house worth 352 or 348 chips, winning immediately and preserving three unused hands. If the draw misses, the two pair still provides 116 chips and we retain all four hands to finish the blind.

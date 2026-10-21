@@ -1,0 +1,1 @@
+Play Aces and Queens as Two Pair to activate Mad Joker: (20 + 11 + 11 + 10 + 10) × (2 + 10) = 744 chips. With our existing 30 chips this comfortably beats the 450 target, preserving four unused hands for $4 income.

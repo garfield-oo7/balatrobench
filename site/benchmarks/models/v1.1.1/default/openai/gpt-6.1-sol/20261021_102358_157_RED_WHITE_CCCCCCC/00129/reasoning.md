@@ -1,0 +1,1 @@
+Use the purchased Jupiter now to raise Flush from level 6 to 7, increasing its base to 125 Chips and 16 Mult. We do not have Observatory, so holding it provides no benefit; the permanent upgrade strengthens our primary scoring hand and frees a consumable slot while retaining Justice for an emergency.

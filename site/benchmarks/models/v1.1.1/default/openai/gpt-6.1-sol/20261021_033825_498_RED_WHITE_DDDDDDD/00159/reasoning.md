@@ -1,0 +1,1 @@
+Reroll for $4 to seek reliable ×Mult, retriggers, Jupiter, or strong Tarot support. Faceless Joker offers no scoring improvement, and random Standard Packs are low priority. Ancient Joker now targets Diamonds rather than our supported Spades, so we need more consistent scoring for Ante 7–8. This leaves $32, retaining purchasing power and a $10 Director's Cut reserve.

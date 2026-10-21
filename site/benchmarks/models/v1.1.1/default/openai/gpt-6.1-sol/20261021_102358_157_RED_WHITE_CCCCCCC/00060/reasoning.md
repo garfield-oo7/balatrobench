@@ -1,0 +1,1 @@
+Play the King-high straight: K♥, Q♣, J♦, T♥, 9♥. It scores (30 base chips + 49 card chips + 50 from foil Trading Card) × (4 base Mult + 12 Red Card) × 3 Cavendish = 6,192, comfortably exceeding the 3,000 target. Win immediately to preserve three hands for payout; no additional discards are needed.

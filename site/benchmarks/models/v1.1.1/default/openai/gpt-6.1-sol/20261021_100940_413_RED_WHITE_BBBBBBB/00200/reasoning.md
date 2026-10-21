@@ -1,0 +1,1 @@
+Choose Uranus to upgrade our established secondary hand, Two Pair, to level 7 (140 Chips, 8 Mult). Venus is unavailable, and Two Pair is much more accessible than Four of a Kind while preserving discards for Banner and Ramen. This permanent improvement also helps after Campfire resets at the boss; Mars and Pluto would upgrade rarely used, low-level alternatives.

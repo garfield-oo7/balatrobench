@@ -1,0 +1,1 @@
+Play two pair, 8s and 3s. The debuffed Hearts still establish the pairs but contribute no chips. With Foil Trading Card, this scores (20 + 8 + 3 + 50) × 2 = 162, reaching 602 total and defeating The Head immediately while preserving two hands for income.

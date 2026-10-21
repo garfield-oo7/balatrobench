@@ -1,0 +1,1 @@
+Buy Justice for $1, then sell it for $1 to increase Campfire from ×3 to ×3.25 at zero net cost. That gives every hand 8.3% more score through the final boss, without relying on drawing a particular Glass card or risking its destruction. Preserve our five scoring Jokers and their already-correct order.

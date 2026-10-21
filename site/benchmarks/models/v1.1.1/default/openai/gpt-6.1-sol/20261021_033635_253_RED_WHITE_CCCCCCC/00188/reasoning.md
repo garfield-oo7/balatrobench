@@ -1,0 +1,1 @@
+Only 514 points remain. Play the five-Spade level-6 Flush for a guaranteed finish, triggering both Gold Seal Aces for $6 and Hiker on all five cards. Hold the Gold King for its $3 end-of-round payout and the Steel Six for ×1.5 held-card Mult. This preserves both consumables and two unused hands for income.

@@ -1,0 +1,1 @@
+Use the free Blue Seal Uranus to raise Two Pair from level 7 to 8 (160 base Chips, 9 Mult). This directly strengthens our successful Clever Joker/Ramen fallback and frees a consumable slot for further Blue Seal generation. We have no Observatory, so holding the planet provides no benefit.

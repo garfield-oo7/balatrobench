@@ -1,0 +1,1 @@
+Only 261 points remain. Play the Heart Jack alone: Scary Face supplies +30 chips, Ancient Joker multiplies the base Mult by 1.5, and Green Joker grows to +12 with +10 holographic Mult. This scores (5 + 10 + 30) × (1.5 + 12 + 10) = 1,057.5, comfortably winning now. Preserve two unused hands for income and retain $29 for maximum interest; no other actions are needed.

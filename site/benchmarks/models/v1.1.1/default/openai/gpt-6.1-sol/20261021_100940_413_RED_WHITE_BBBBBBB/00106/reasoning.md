@@ -1,0 +1,1 @@
+Use Venus now to permanently raise Three of a Kind to level 5 (110 Chips, 11 Mult), strengthening our primary hand and freeing a consumable slot for Blue/Purple Seal generation next round. We have no Observatory incentive to hold it, and delaying offers no advantage.

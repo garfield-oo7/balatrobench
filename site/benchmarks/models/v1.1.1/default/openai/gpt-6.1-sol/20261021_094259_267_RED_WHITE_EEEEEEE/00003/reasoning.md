@@ -1,0 +1,1 @@
+Keep K♥, Q♥, 8♥, and 5♥ and draw four cards toward a flush. A heart of rank 7 or higher makes a flush worth at least 300, winning in one hand; a lower heart still gives a strong score. With two discards remaining, this four-heart draw is more promising than continuing to chase a full house.

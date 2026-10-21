@@ -1,0 +1,1 @@
+Play Queens and Eights for a guaranteed blind-winning Two Pair: (20+20+16) × (2+8 Even Steven+8 Jolly Joker+3 Supernova) = 1,176 chips. This exceeds the remaining 520, preserves two unused hands for $2, and adds another play to Supernova's Two Pair scaling. No consumables, sales, or additional cycling are needed.

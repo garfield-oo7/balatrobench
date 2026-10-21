@@ -1,0 +1,1 @@
+Keep the two highest pairs (9s and 6s) and draw four cards to seek a full house or four of a kind. With four discards available, improving the hand before spending hands is preferable to playing two pair for only 100 chips; unused hands earn money.

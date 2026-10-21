@@ -1,0 +1,1 @@
+Keep A♠, J♠, 9♠, and 6♠ and draw four toward a spade flush. Discarding the purple-sealed 9♦ also generates a Tarot card, potentially providing immediate scoring or economy help. We still need 437 chips with only three hands, so use our four available discards to build strong scoring hands rather than spend a hand on an unboosted pair for money.

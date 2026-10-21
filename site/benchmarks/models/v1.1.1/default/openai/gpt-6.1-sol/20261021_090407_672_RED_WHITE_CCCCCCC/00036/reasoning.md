@@ -1,0 +1,1 @@
+Trigger Trading Card with a single-card first discard: destroy the unpaired club seven and gain $3, reaching $27 and maximum interest. Preserve the tens and fives for full-house possibilities and all four diamonds for a potential flush that also pays $4 from To Do List. The Arm cannot reduce our level-1 hands further. Reassess the replacement before choosing the next draw.

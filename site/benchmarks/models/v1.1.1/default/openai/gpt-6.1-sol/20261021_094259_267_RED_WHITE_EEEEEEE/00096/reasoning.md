@@ -1,0 +1,1 @@
+Use The Hermit now to gain the full $20, increasing our money from $56 to $76 and freeing the consumable slot. There is no benefit to delaying at this balance. This funds Seed Money's higher interest cap and Standard Pack additions to scale Hologram while preserving ample reserves.

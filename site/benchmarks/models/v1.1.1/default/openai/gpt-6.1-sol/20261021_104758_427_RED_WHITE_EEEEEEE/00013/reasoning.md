@@ -1,0 +1,1 @@
+Play Queens full of Fours, using exactly five cards to satisfy The Psychic. The full house scores (40+30+8) × (4+8 from Even Steven's two Fours+8 from Jolly Joker) = 1,560 chips, comfortably beating 600 in one hand and preserving three hands for $3.

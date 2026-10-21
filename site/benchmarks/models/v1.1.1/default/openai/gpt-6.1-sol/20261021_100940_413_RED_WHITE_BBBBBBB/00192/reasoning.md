@@ -1,0 +1,1 @@
+Buy Mars for $1 and then resell it for $1 to raise Campfire from ×2.5 to ×2.75 at zero net cost, improving all scores by 10%. Four of a Kind is unupgraded and unused, so this guaranteed universal boost is more valuable than using Mars; our main scoring hand remains level-11 Three of a Kind. The sale will restore $31 and preserve maximum interest.

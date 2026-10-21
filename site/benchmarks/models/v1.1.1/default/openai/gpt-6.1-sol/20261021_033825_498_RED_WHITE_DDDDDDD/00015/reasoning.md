@@ -1,0 +1,1 @@
+Keep the four spades (8♠, 7♠, 6♠, 4♠) and draw four for a spade flush. Any fifth spade wins immediately: even 2♠ gives (35 + 8 + 7 + 6 + 4 + 2) × (4 + 15) = 1,178 chips, exceeding 800. Three discards remain, so pursue this strong one-hand finish rather than spending a hand on low two pair.

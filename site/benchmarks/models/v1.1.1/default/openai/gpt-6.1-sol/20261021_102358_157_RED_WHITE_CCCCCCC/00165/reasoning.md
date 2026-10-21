@@ -1,0 +1,1 @@
+Play the five highest Spades for a guaranteed one-hand win. This level-8 flush scores at least (140 + 49 card chips + 100 Foil chips) × (18 + 15 Wrathful + 39 Red Card + 66 Bootstraps) × 3 = 119,646, comfortably exceeding 52,500 even without a Lucky trigger. Cavendish is already correctly last. Preserve Justice, collect four unused-hand dollars, and retain maximum interest.

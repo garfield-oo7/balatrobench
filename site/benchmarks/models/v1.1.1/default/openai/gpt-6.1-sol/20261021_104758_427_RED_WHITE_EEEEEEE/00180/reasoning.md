@@ -1,0 +1,1 @@
+The first discard has already upgraded Two Pair to level 21, so move Burnt Joker out from between Blueprint and Hologram. Blueprint now copies Hologram for two ×4.25 multipliers after Even Steven and Supernova. We have Aces and Fours ready to play while retaining the Steel Five; this Two Pair comfortably exceeds the 52,500 target without further discards.

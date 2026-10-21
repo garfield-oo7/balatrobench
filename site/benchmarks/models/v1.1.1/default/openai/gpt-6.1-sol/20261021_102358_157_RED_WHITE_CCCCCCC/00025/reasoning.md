@@ -1,0 +1,1 @@
+Activate Trading Card by making the first discard exactly one card: destroy the non-Spade 2 of Clubs and earn $3. This thins a weak card and raises our money to $12 without spending a hand. Preserve the four Diamonds, pair of 5s, and Spade King while drawing a replacement, then use the remaining three discards to develop a strong scoring hand.

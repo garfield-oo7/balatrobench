@@ -1,0 +1,1 @@
+Use The Empress on the six of Spades and six of Hearts. Two matching even-ranked Mult cards directly support our level-18 Two Pair strategy: scoring both adds +8 Mult on top of Even Steven's bonuses, amplified by Blueprint copying Hologram for a combined ×18.0625. This provides permanent, reliable improvement without Glass breakage or Wheel of Fortune's 75% failure chance.

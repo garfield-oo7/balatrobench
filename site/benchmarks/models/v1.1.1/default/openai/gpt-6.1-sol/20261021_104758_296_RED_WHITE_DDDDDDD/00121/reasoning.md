@@ -1,0 +1,1 @@
+Buy The Hermit for $3 and use it next for $20, a guaranteed net $17 profit. This funds meaningful upgrades while preserving the $50 needed for maximum Seed Money interest. Afterward, Grabber is an excellent permanent safety upgrade, providing another scoring/cycling hand each round without sacrificing our discards.

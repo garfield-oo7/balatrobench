@@ -1,0 +1,1 @@
+Burnt Joker and its Blueprint copy have already upgraded Two Pair to level 15 this round. Restore Blueprint immediately before Hologram for two ×4 triggers (×16 combined). Next, retain the Kings and even-ranked cards while discarding weak unmatched cards to find a second pair; any Two Pair will comfortably exceed the 20,000 target with this arrangement.

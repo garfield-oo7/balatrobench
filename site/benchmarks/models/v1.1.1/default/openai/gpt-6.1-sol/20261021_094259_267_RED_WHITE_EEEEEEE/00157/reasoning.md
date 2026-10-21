@@ -1,0 +1,1 @@
+Play the guaranteed black Flush: C10, C9, S5, Bonus S4, and Wild S2. Smeared Joker combines clubs and spades, and the wild also qualifies. This scores approximately (350+30+30) × (46+22) × 4.25² = 503,582, far above the 70,000 target. Blueprint already copies Hologram after Supernova, so no rearrangement or further discards are needed; finish with three hands remaining.

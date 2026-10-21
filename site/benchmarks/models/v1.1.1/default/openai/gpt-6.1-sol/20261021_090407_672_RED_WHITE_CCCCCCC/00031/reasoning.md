@@ -1,0 +1,1 @@
+Use the first single-card discard to destroy the club nine with Trading Card and earn $3, bringing money to $20 for an additional interest dollar. Preserve all three pairs for an excellent full-house draw, and retain the spade two as a possible spade-flush card. The unpaired non-spade nine contributes least to either route; reassess the replacement before using further discards.

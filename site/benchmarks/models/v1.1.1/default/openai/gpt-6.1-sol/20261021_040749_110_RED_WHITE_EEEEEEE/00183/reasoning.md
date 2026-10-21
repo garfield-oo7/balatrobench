@@ -1,0 +1,1 @@
+Discard the nines and twos as Two Pair. Blueprint is currently immediately before Burnt Joker, so the first discard upgrades our primary hand twice, from level 18 to 20. Then move Blueprint before Hologram for scoring; three remaining discards and four hands give ample opportunity to find another Two Pair, which should comfortably beat 70,000 with the doubled Hologram multiplier.

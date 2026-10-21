@@ -1,0 +1,1 @@
+Buy Even Steven as our first scoring Joker. Each scored even-rank card adds +4 Mult, giving flexible, substantial early scoring across pairs, flushes, and other hands. This reliable $4 upgrade helps clear upcoming blinds in fewer hands while retaining $5 for interest; prioritize guaranteed scoring over gambling on a pack.

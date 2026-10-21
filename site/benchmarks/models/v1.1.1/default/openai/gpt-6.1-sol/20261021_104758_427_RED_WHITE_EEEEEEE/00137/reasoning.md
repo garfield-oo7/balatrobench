@@ -1,0 +1,1 @@
+The first discard has already upgraded Two Pair to level 17, so Burnt Joker has no further effect this round. Move Blueprint immediately before Hologram to copy its ×4 Mult, restoring ×16 combined scaling. Then retain the Kings and seek a second pair with our three remaining discards; even an unenhanced Two Pair will comfortably beat the remaining 24,112 chips.

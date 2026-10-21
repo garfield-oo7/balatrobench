@@ -1,0 +1,1 @@
+Play the club flush for (35 base + 40 card chips + 50 Foil Trading Card) × (4 base + 3 Red Card) = 875 chips. This brings our total to 1,743, beating the 1,600 target immediately, and To Do List earns another $4. Preserve two unused hands for income; no further discards or adjustments are needed.

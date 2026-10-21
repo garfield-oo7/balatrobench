@@ -1,0 +1,1 @@
+Open the $3 Celestial Pack, retaining $31 and maximum interest. Venus directly strengthens our level-7 Three of a Kind main hand, while Uranus improves our frequent Two Pair fallback; either is a useful permanent upgrade amplified by Ramen. Neither Wrathful Joker nor currently inactive Erosion improves the existing engine, so keep our Jokers intact.

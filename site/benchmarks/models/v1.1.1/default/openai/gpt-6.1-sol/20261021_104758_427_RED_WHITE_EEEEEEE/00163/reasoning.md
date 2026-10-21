@@ -1,0 +1,1 @@
+Use The Emperor now: it consumes itself, leaving both consumable slots available to create two Tarot cards. These can improve our Two Pair consistency, enhance scoring, generate money, or copy playing cards to scale both Hologram and Blueprint. There is no benefit to delaying this free generation; our current Joker order already correctly copies ×4.25 Hologram.

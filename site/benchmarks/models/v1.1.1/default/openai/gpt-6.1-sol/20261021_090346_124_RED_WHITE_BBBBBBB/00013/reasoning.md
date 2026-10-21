@@ -1,0 +1,1 @@
+Use The Hermit before spending to gain $17, raising our bankroll to $34. We can then buy Zany Joker for reliable early scoring on trips and full houses while retaining $30 for maximum interest. Waiting for the final $3 of Hermit value would delay a needed scoring upgrade or require carrying a weaker economy into the boss.

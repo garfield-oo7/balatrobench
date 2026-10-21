@@ -1,0 +1,1 @@
+Move Foil Bootstraps before Cavendish so its +28 Mult is tripled rather than added afterward. A spade flush with 49 card chips now scores (80+49+100) × (10+15+21+28) ×3 = 50,838 instead of 38,014. Keep both foil Jokers and the Trading Card economy/thinning engine; Half Joker does not support five-card flushes.

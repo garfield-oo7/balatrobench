@@ -1,0 +1,1 @@
+Sell The Magician as planned, recovering $1 and raising Campfire from ×2.5 to ×2.75. This guarantees 10% more scoring on every hand through the remaining two blinds, whereas Lucky cards require suitable targets and random activations. Preserve all six synergistic Jokers and ample funds for a potential boss reroll.

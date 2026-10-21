@@ -1,0 +1,1 @@
+Use the Jupiter we just bought to permanently upgrade Flush from level 2 (50 Chips, 6 Mult) to level 3 (65 Chips, 8 Mult). Flush is our primary hand with nine plays, and the increased base Mult is amplified by Ancient Joker's matching-suit scoring triggers. We have no Observatory reason to hold it; using it now also frees a consumable slot while preserving $40.

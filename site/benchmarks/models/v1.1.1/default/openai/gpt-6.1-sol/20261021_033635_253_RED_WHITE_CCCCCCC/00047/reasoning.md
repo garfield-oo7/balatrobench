@@ -1,0 +1,1 @@
+Use Trading Card on our first discard: destroy the weak off-suit 3 of Hearts and earn $3 while permanently thinning the deck. Retain both pairs and all spades/diamonds; the current kings-and-eights two pair with the spade Jack already scores about 2,968 chips (106 chips × 28 Mult), enough to beat this blind in one hand after the replacement draw.

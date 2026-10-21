@@ -1,0 +1,1 @@
+Open the Standard Pack to add a card and raise Hologram from ×4.5 to ×4.75. Blueprint copies that increase, raising their combined multiplier from ×20.25 to ×22.5625—about 11.4% more scoring for only $4, with potential additional value from an enhanced or sealed card. This is a reliable final-boss upgrade without sacrificing any core Joker; skip Hieroglyph and its hand penalty.

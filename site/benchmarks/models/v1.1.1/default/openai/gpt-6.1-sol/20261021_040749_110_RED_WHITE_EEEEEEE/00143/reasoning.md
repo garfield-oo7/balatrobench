@@ -1,0 +1,1 @@
+The Emperor is a useful $3 investment with both consumable slots empty: it generates two Tarot cards that may provide Steel/Glass enhancements, deck improvement, money, or Death copies that also grow Hologram. Buy it and use it before considering more increasingly expensive rerolls. Preserve our existing Two Pair engine and Blueprint–Hologram ordering.

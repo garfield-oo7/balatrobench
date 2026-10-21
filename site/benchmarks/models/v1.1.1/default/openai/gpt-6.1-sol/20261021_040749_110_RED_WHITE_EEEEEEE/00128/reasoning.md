@@ -1,0 +1,1 @@
+Temporarily place Blueprint immediately before Burnt Joker to double the first-discard upgrade. This opening hand has no Two Pair to discard, so upgrading High Card twice while cycling unwanted singletons is a useful fallback investment. Keep both steel cards and seek Two Pair with the remaining discards, then return Blueprint beside Hologram before scoring for combined ×16 Mult.

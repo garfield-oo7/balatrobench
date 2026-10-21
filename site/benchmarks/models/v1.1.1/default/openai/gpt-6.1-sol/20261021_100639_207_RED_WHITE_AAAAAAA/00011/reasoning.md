@@ -1,0 +1,1 @@
+Play the Jack with the Ten, Seven, and Three for 45 chips via Scary Face, cycling four cards while retaining K-8-8. No two pair or stronger hand is currently available. Keeping the eights preserves our Mad Joker setup, and the King offers a valuable face-pair draw: eights plus Kings would score 1,392. Burglar gives ample remaining hands to find the second pair.

@@ -1,0 +1,1 @@
+Sell The Star now that Campfire is owned: gain $1 and raise Campfire from X1 to X1.25. Converting cards to Diamonds undermines our established Spade flush engine, Arrowhead, and Blackboard, while Ancient's Diamond target is temporary. This also frees both consumable slots for buying and selling inexpensive Tarot or Planet cards to scale Campfire further.

@@ -1,0 +1,1 @@
+Choose Uranus to raise Two Pair from level 8 to 9 (180 Chips, 10 Mult). Venus is unavailable, and Two Pair is our established fallback that can reliably repeat for Card Sharp's ×3. This strengthens a frequently played hand; Earth would improve a much weaker Full House that would also interrupt our preferred repeated Three of a Kind.

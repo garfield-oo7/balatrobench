@@ -1,0 +1,1 @@
+Keep $7 and its $1 interest rather than spend on speculative packs or Hallucination. Even Steven plus Jolly Joker already provides strong Ante 1 scoring: three Tens score 1,380, and two even-ranked pairs comfortably exceed the normal 600-chip boss target. Neither a $5 reroll nor a random planet is needed; save toward $25 and stronger future upgrades.

@@ -1,0 +1,1 @@
+Sell the purchased Mars for $1 to complete its net-free buy–sell cycle, increasing Campfire from ×4.25 to ×4.5 for the final boss. This strengthens our developed level-11 Three of a Kind and level-9 Two Pair, unlike upgrading the unused Four of a Kind. Preserve all five synergistic Jokers.

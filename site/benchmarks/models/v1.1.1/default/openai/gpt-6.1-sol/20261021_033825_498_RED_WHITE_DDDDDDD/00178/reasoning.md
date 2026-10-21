@@ -1,0 +1,1 @@
+Use The Hermit now for its maximum $20 payout, increasing our money from $35 to $55. There is no benefit to waiting because the payout is already capped. This funds searches for reliable multiplicative scoring or retriggers to strengthen our Spade Flush engine while Ancient targets Diamonds, while preserving $10 for a potential Director's Cut boss reroll.

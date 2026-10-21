@@ -1,0 +1,1 @@
+Sell Saturn as planned: Straight upgrades do not support our level-9 three-card trips strategy. The sale raises Campfire from ×1.5 to ×1.75, improving every hand by 16.7%, and restores $46 for Bull chips and maximum interest. Then The Fool can be bought and sold for another cash-neutral Campfire increase without sacrificing a scoring Joker.

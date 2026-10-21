@@ -1,0 +1,1 @@
+Buy Saturn for resale to scale Campfire, not for Straight levels. Its $2 net cost after selling buys another X0.25 Mult, raising Campfire from X3.5 to X3.75 for the final boss. We have ample cash and should retain at least $10 for Director's Cut insurance; keep all six synergistic Jokers.

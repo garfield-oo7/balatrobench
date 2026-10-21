@@ -1,0 +1,1 @@
+Play the Diamond 9 as High Card, cycling the Heart 6 and Spade 2 as unscored extras. Keep all four Clubs and the Steel 3. This scores 14 × (1 × 1.5 + 10) = 161 and draws three cards toward a fifth Club. A level-2 Club flush with Ancient Joker should comfortably cover the remaining target, and four hands will remain after this cycling play.

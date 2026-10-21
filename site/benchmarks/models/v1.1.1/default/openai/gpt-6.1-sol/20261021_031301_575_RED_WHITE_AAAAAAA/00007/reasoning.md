@@ -1,0 +1,1 @@
+Play Aces and Queens as Two Pair, activating Mad Joker's +10 Mult. This scores (20 + 11 + 11 + 10 + 10) × (2 + 10) = 744 chips, comfortably clearing the remaining 420. Win immediately and preserve four unused hands for $4.

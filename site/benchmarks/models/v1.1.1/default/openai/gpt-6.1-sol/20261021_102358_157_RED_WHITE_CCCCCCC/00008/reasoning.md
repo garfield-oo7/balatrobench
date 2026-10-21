@@ -1,0 +1,1 @@
+Save the $6 toward interest and an immediate scoring Joker in the next shop. Mars improves an unreliable hand, Reserved Parking would exhaust our cash without adding scoring, and spending $6 on a pack just to skip for Red Card's +3 Mult is poor value. Ante 1's Big Blind remains manageable with two strong five-card hands and Red Deck's extra discard; avoid an expensive reroll.

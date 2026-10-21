@@ -1,0 +1,1 @@
+Cycle five unpaired cards as a High Card, retaining the Bonus Four, second Four, and King. Preserve our first discard until we draw a second pair: then Blueprint can copy Burnt Joker to upgrade Two Pair twice. Our ×12.25 Hologram engine makes a single subsequent Two Pair easily sufficient to beat this blind, so spending one hand to secure permanent Two Pair scaling is worthwhile.

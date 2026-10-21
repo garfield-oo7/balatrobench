@@ -1,0 +1,1 @@
+Buy the $1 Pluto to sell for $1 immediately afterward: this is free Campfire fuel, increasing its multiplier from ×1.5 to ×1.75 with no net loss of money. That is a reliable 16.7% scoring increase for the upcoming Ante 6 boss, substantially better than upgrading our rarely used High Card. Keep all five scoring Jokers and preserve maximum interest.

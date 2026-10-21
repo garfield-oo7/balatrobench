@@ -1,0 +1,1 @@
+Keep the pairs of 10s and 9s and draw four cards. Either remaining 10 or 9 completes a full house worth 352 or 348 points, clearing the 300-point blind in one hand. Two discards remain, so improving these high pairs preserves the chance of maximum unused-hand income while retaining a solid fallback.

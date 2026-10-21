@@ -1,0 +1,1 @@
+Use Venus now to raise Three of a Kind to level 8 (170 Chips, 17 Mult). Three-card trips activate Half Joker and benefit from Bull and Ramen, so this is a permanent improvement to our strongest compact hand. It costs no additional money and frees a consumable slot.

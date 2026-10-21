@@ -1,0 +1,1 @@
+Choose Uranus to upgrade our frequently played Two Pair from level 10 to 11, raising its base from 200 Chips ×11 Mult to 220 ×12. This directly strengthens our reliable fallback alongside level-9 Three of a Kind, with both Ramen and Campfire multiplying the improvement. Venus is absent, and the other planets improve infrequent, substantially lower-level hands.

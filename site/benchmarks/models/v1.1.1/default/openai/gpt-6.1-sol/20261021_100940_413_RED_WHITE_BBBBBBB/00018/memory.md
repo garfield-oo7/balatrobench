@@ -1,0 +1,40 @@
+# Memory & Previous Actions
+
+
+## Recent Decision History
+
+Here is a list of your recent decisions (from oldest to newest):
+
+
+**1.** `play({'cards': [3, 5, 6, 7], 'reasoning': 'Play the pair of twos with 6♠ and 3♣ as non-scoring cycling cards. This earns $4 from To Do List and scores 28 chips while preserving 10♣, 9♠, 8♥, and 6♥: any seven completes a straight. Drawing four new cards improves our options, and all four discards remain available to secure the remaining 422 points over three hands.'})` - 
+
+**2.** `discard({'cards': [1, 3, 5, 7], 'reasoning': 'Keep A♠, J♠, 9♠, and 6♠ and draw four toward a spade flush. Discarding the purple-sealed 9♦ also generates a Tarot card, potentially providing immediate scoring or economy help. We still need 437 chips with only three hands, so use our four available discards to build strong scoring hands rather than spend a hand on an unboosted pair for money.'})` - 
+
+**3.** `discard({'cards': [2, 4, 5, 7], 'reasoning': 'Keep A♠, J♠, 9♠, and 6♠; draw four cards to seek the fifth spade. That flush scores at least 292 chips, putting the remaining 437 within reach over our three hands. We have three discards available, so prioritize strong scoring hands rather than spend another hand on a low-scoring Pair. Save The Hermit until we have more money to double.'})` - 
+
+**4.** `play({'cards': [0, 2, 3, 5, 6], 'reasoning': 'Play the completed spade flush for (35 + 11 + 10 + 10 + 9 + 6) × 4 = 324 chips, bringing our total to 337. We then need only 113 points with two hands and two discards remaining. Keep A♥, 10♦, and 5♥ for the next draw, and save The Hermit for a larger payout after earning more money.'})` - 
+
+**5.** `play({'cards': [1, 2, 3, 7], 'reasoning': 'Play the queens for (10 + 10 + 10) × 2 = 60 chips and collect $4 from To Do List. Include 10♦ and 2♦ to cycle four cards, retaining A♥, 5♥, 5♣, and 4♥. We will need just 53 more chips with one hand and two discards available; the retained pair of fives provides a strong starting point for two pair, trips, or a full house, while three hearts preserve a flush route. Save The Hermit until our money is higher.'})` - 
+
+**6.** `play({'cards': [0, 1], 'reasoning': 'Play the pair of Aces for (10 + 11 + 11) × 2 = 64 chips, reaching 461 and safely beating the 450 target with our last hand. This exact Pair also earns $4 from To Do List, unlike Two Pair. No discards or consumables are needed; retain The Hermit to double a larger bankroll later.'})` - 
+
+**7.** `use({'consumable': 0, 'reasoning': "Use The Hermit now to turn $16 into $32. We urgently need scoring support because neither current Joker adds Chips or Mult. This funds the $4 Zany Joker while leaving $28, above the maximum-interest threshold. Waiting for a full $20 Hermit payout would delay that scoring upgrade or reduce this round's interest."})` - 
+
+**8.** `buy({'card': 1, 'reasoning': "Buy Zany Joker for our first scoring support, leaving $28 and retaining maximum interest. Its +12 Mult makes level-1 trips score roughly 630–990 chips and also boosts full houses and four of a kind, providing a practical route through the Ante 1 boss. Certificate's extra opening card helps find matching ranks. This is a substantial immediate upgrade for only $4; preserve the remaining bankroll rather than reroll or buy speculative packs."})` - 
+
+**9.** `buy({'card': 0, 'reasoning': 'Buy Venus for $3, leaving $25 and preserving maximum interest. Level-2 Three of a Kind synergizes directly with Zany Joker: trips will score (50 + card chips) × (5 + 12), versus (30 + card chips) × 15 now. Even three twos then score 952, comfortably exceeding the normal Ante 1 boss target. This is a guaranteed, inexpensive scoring upgrade; skip the speculative packs and the permanent hand penalty from Hieroglyph.'})` - 
+
+**10.** `use({'consumable': 0, 'reasoning': "Use Venus now to upgrade Three of a Kind to level 2 (50 chips, 5 Mult), freeing a consumable slot for Certificate's purple or blue seal rewards. With Zany Joker, even three twos score (50 + 6) × (5 + 12) = 952, enough for a normal Ante 1 boss. This costs no money and preserves our $25 interest bank."})` - 
+
+
+
+## Strategic Context
+
+Based on your recent actions, consider:
+- How your decisions are building towards a cohesive strategy
+- Whether your current approach is working or needs adjustment
+- Patterns in your play that might need to change
+
+
+
+

@@ -1,0 +1,1 @@
+Buy Saturn for $1 and then sell it for $1 to gain another free +0.25× Campfire increment, increasing it from ×1.75 to ×2. Our level-11 Three of a Kind is the scoring priority, so upgrading an unused Straight is less valuable than boosting every hand. Follow with the same buy/sell cycle on The Fool to reach ×2.25 while preserving $36.

@@ -1,0 +1,1 @@
+Play A♥, 10♦, 6♥, 4♦, and 2♦ as a flush through Smeared Joker. Four even ranks supply +16 Mult, and Supernova supplies +6 on our sixth flush: (35+11+10+6+4+2) × (4+16+6) = 1,768 chips. This beats The House's 1,600 target immediately, preserving three hands for income and both remaining discards.

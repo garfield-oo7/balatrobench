@@ -1,0 +1,1 @@
+Skip to grow Red Card from +42 to +45 Mult, directly improving every Flush. Jupiter is absent, and upgrading Full House, Straight, or Two Pair provides little benefit to our established level-7 Spade Flush build this late in the run. The guaranteed +3 Mult is more useful for the remaining blinds while preserving our Glass/Steel contingency.

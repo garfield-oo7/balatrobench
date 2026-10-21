@@ -1,0 +1,1 @@
+Use Uranus now to permanently raise Two Pair to level 2 (40 Chips, 3 Mult), strengthening our Clever Joker fallback after The Arm reduced it. We have no Observatory benefit from holding it, and freeing the consumable slot allows Certificate-generated blue and purple seals to produce more rewards.

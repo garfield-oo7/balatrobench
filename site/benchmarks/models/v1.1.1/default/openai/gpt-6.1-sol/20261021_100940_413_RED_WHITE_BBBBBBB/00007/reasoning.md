@@ -1,0 +1,1 @@
+Leave with $2: nothing remaining is affordable, and selling either useful economy Joker to buy a niche Neptune or speculative Standard Pack would weaken our position. Keep Certificate for sealed-card generation and To Do List for $4 Pair payouts, then seek scoring support in the next shop.

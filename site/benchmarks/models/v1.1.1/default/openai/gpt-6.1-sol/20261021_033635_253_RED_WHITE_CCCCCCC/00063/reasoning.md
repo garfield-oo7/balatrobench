@@ -1,0 +1,1 @@
+Make K♥ Gold before finishing the blind. We can leave it held and play both 9s, both 3s, and 7♠: Splash scores all five for 121 Chips, with 3 base + 2 Supernova + 6 Wrathful + 30 Bootstraps = 41 Mult, totaling 4,961—comfortably above 4,000. The held Gold King earns $3 at round end without sacrificing a hand or spending money.

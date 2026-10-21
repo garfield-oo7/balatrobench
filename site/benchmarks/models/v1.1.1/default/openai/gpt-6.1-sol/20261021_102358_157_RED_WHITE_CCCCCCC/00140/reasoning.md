@@ -1,0 +1,1 @@
+Open the $3 Arcana Pack for Spade conversion, duplication, enhancements, or economy to strengthen our level-7 flush engine. If none are useful, skipping adds +3 permanent Red Card Mult. Spending leaves $130, preserving Bootstraps at +52 Mult and maximum $10 interest. Keep the current synergistic Jokers and Cavendish last; neither shop Joker nor Magic Trick improves this build.

@@ -1,0 +1,1 @@
+Cycle the five unpaired lower cards, retaining A-K-Q as high-value pairing targets for Mad Joker. No scoring combination is currently available, and there are no discards. This scores 15 chips while drawing five new cards; any Two Pair using two of the retained ranks will score at least 720, easily clearing the blind.

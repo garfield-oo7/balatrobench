@@ -1,0 +1,1 @@
+Buy discounted Seed Money for $7, retaining $72. With our existing bankroll it immediately raises round interest from $5 to $10, paying back its cost in two rounds and accelerating Bootstraps growth. Our foil chips, Red Card, Spade bonuses, and Cavendish already provide strong scoring, so this permanent economy upgrade is preferable to Half Joker or speculative rerolls.

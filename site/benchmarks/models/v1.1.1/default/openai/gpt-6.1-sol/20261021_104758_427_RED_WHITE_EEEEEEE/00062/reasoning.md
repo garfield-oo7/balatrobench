@@ -1,0 +1,1 @@
+Sell Mars for $1 and clear our consumable slots for useful Tarot cards or Uranus. Four of a Kind has not been played this run and does not support our level-4 Two Pair engine. Keep all five synergistic Jokers and preserve maximum-interest savings rather than buy off-strategy Saturn, Reserved Parking, or Blank.

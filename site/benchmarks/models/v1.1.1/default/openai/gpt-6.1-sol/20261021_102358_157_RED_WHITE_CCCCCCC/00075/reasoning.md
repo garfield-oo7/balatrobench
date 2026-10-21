@@ -1,0 +1,1 @@
+Use the first discard on the 3 of Clubs alone to trigger Trading Card, destroying a weak non-Spade and earning $3. Keep Q-J-T-9 for a possible straight, plus the 6 of Spades for Wrathful Joker. Our scoring engine should clear 5,000 in one strong five-card play; wait for the replacement before choosing Empress targets.

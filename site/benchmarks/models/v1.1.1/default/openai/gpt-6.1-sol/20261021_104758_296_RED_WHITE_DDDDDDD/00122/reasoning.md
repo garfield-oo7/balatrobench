@@ -1,0 +1,1 @@
+Use The Hermit now for the full $20 payout, increasing money from $69 to $89 and freeing the consumable slot. There is no benefit to delaying at this balance. This funds Grabber and potential scoring upgrades while retaining the $50 required for maximum $10 Seed Money interest.

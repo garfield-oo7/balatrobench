@@ -1,0 +1,1 @@
+Buy Temperance for $3, then use it for $11 and copy it with The Fool for another $11: a guaranteed $19 net gain without changing our effective Joker lineup. The free consumable slot was prepared for this line, and our balance stays above the maximum-interest threshold.

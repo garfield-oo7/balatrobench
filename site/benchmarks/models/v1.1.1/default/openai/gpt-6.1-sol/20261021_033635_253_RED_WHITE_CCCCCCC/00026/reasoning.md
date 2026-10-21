@@ -1,0 +1,1 @@
+Activate Trading Card by destroying only the club 6, earning $3 and thinning a weak non-spade/non-diamond. Preserve both aces, both eights, and the spade 2: that five-card Two Pair already scores (20 + 11 + 11 + 8 + 8 + 2 + 50) × (2 + 9) = 1,210, enough to beat 1,200 in one hand, while the diamond ace earns another $1. The replacement draw may improve that winning play further.

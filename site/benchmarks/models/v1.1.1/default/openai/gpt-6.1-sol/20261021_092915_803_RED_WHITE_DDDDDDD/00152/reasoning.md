@@ -1,0 +1,1 @@
+Neither Gros Michel nor Banner improves our full, synergistic lineup enough to replace a Joker. Reroll for $4, leaving $62 and preserving maximum Seed Money interest. Seek Jupiter to scale our level-4 Flush, or a substantial upgrade such as Blueprint, Brainstorm, retriggers, or strong multiplicative scoring; avoid speculative Standard Pack spending.

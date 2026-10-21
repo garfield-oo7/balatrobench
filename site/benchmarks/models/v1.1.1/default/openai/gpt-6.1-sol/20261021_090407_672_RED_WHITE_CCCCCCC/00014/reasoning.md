@@ -1,0 +1,1 @@
+Play aces and jacks as Two Pair for (20 + 11 + 11 + 10 + 10) × 2 = 124 chips. This raises our total to 484, beating the 450-chip blind immediately and preserving two unused hands for $2.

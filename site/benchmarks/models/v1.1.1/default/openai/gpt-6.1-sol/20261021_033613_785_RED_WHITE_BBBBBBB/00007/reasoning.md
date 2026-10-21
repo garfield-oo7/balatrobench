@@ -1,0 +1,1 @@
+Leave with $2: nothing available is affordable, and selling either productive Joker to fund Neptune or a speculative Standard Pack would weaken our economy. Certificate supplies sealed cards, while To Do List can earn $4 per Pair next round; prioritize earning that money when safe, then finding a reliable scoring Joker.

@@ -1,0 +1,1 @@
+Take Jupiter to upgrade our primary Flush from level 5 to 6 (+15 Chips, +2 Mult). With two Foil Jokers and substantial additive Mult from Red Card and Bootstraps, the added base Chips make this substantially stronger than skipping for +3 Mult alone. It improves every flush regardless of suit and compounds with Cavendish, strengthening our established strategy for later blinds.

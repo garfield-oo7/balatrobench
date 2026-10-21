@@ -1,0 +1,1 @@
+Keep the four Spades, especially the red-seal 6, and hold the steel 2 for ×1.5 Mult. Discard the three off-suit non-steel cards to find a fifth Spade. A Spade flush activates six Ancient Joker and Arrowhead triggers through the red seal, giving our best chance to clear 35,000 in one hand; two discards remain, so preserve hands rather than play a weak pair.

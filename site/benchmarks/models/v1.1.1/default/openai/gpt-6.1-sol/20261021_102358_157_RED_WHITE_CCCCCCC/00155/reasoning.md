@@ -1,0 +1,1 @@
+Buy Temperance for $2, then use it for the displayed $11 payout: a guaranteed $9 net profit with our free consumable slot. This increases Bootstraps' Mult while preserving maximum $10 interest, and leaves Justice available for an emergency. Spare Trousers starts unscaled and does not fit our established level-7 Spade-flush build.

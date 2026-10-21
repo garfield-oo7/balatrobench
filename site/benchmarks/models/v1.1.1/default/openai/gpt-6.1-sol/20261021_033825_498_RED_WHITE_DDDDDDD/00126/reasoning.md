@@ -1,0 +1,1 @@
+Keep C_Q, C9, C8 and C2 plus the held Steel H2. Discard the three non-Steel off-suit cards to seek a fifth Club using our three remaining discards. A Club flush gives five Ancient Joker triggers, and placing the even Clubs first compounds Even Steven's bonuses; Steel then adds ×1.5 while held. This is the most reliable route to the remaining 17,625 points without spending a hand.

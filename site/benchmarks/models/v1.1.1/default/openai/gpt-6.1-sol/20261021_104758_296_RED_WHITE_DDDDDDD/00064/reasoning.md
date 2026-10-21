@@ -1,0 +1,1 @@
+Keep all four hearts (Q♥, 8♥, 3♥, 2♥) and the Steel 4♦; use the last discard to cycle the three off-suit cards for a fifth heart. A heart flush activates Ancient Joker five times, with Even Steven on 8♥ and 2♥ and held Steel, comfortably exceeding 7,500. If we miss, all four hands remain available to cycle cards while retaining the heart core.

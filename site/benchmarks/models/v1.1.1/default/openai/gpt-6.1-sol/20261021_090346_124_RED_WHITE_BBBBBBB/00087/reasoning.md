@@ -1,0 +1,1 @@
+Take Temperance for a guaranteed $7, raising our bankroll from $57 to $64 to fund searches for scaling or compatible ×Mult. The World does not support our trips/two-pair engine, and The Emperor can create only one Tarot with The Sun occupying the other consumable slot. Guaranteed cash is more valuable than that single random Tarot here.

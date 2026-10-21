@@ -1,0 +1,1 @@
+Take the Ten of Hearts: adding it raises Hologram from ×1.5 to ×1.75, a permanent 16.7% scoring increase. All three choices activate Even Steven, but Ten contributes the most chips when scored and adds another matching rank for our level-4 Two Pair strategy. Its enhancement is unspecified, so this choice is strong without assuming any additional benefit.

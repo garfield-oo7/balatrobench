@@ -1,0 +1,1 @@
+Destroy the debuffed Diamond 9 with Trading Card's first single-card discard, gaining $3 and thinning a useless off-suit card. Reaching $51 also raises Bootstraps from +18 to +20 Mult. Retain our ready-made level-7 Spade flush (Ace, three Kings, Ten), Lucky King, and The World for later consistency; the replacement may provide Steel or another useful scoring option.

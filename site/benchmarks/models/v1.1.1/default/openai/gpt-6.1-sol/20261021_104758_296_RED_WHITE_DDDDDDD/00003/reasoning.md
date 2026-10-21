@@ -1,0 +1,1 @@
+Play the heart flush: A♥, K♥, 10♥, 6♥, 4♥. It scores (35 + 11 + 10 + 10 + 6 + 4) × 4 = 304, beating the 300-chip blind in one hand and preserving three unused hands for $3.

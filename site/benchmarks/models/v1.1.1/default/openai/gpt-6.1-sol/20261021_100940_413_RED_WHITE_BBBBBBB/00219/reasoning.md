@@ -1,0 +1,1 @@
+Use the purchased Uranus to permanently raise Two Pair to level 8 (+20 Chips and +1 Mult). This strengthens our reliable backup hand, especially after Campfire resets following the imminent Ante 7 boss, and frees a consumable slot for inexpensive buy/sell opportunities. Keep Empress for enhancing scoring cards when a hand is available.

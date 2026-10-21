@@ -1,0 +1,1 @@
+Play both 9s, both 3s, and 7♠ as level-2 Two Pair. Splash scores every card: 40 base + 31 card chips + 50 foil = 121 Chips. Mult is 3 base + 2 Supernova (including this play) + 6 from the two spades + 30 Bootstraps = 41, totaling 4,961 and defeating the 4,000 boss in one hand. Keep Gold K♥ held for $3 and preserve three unused hands for income.

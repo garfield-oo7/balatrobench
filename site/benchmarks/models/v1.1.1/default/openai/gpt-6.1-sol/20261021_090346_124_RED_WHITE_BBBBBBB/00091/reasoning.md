@@ -1,0 +1,1 @@
+Choose Uranus to upgrade Two Pair to level 4 (80 Chips, 5 Mult). This strengthens our established fallback and synergizes directly with Clever Joker's +80 Chips, plus Raised Fist and Abstract Joker. Jupiter and Pluto improve unsupported hand types; neither benefits our main level-4 trips strategy.

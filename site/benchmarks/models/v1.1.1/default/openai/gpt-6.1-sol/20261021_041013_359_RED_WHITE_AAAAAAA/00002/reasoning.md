@@ -1,0 +1,1 @@
+Mad Joker provides affordable early scoring: Two Pair gains +10 Mult, making even low pairs strong enough to beat the next 450-chip blind in one hand. It also works with Full Houses, keeps our discards for finding matching ranks, and leaves $6 for interest and future upgrades. This guaranteed scoring boost is preferable to gambling on a pack or spending everything on Paint Brush.

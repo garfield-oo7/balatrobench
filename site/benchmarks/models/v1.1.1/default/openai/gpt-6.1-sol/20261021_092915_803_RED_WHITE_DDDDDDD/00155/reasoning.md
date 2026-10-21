@@ -1,0 +1,1 @@
+Cash in Temperance now for $21, raising money to $75 without selling any Jokers and freeing a consumable slot to buy Jupiter. Flush is our primary hand, so its guaranteed upgrade is valuable; this profit also preserves maximum Seed Money interest while funding improvements.

@@ -1,0 +1,1 @@
+Keep both 10s and both 9s and draw four cards toward a full house or four of a kind. Either full house scores over 300 (352 for tens over nines, 348 for nines over tens), winning with one hand. These higher pairs also give a stronger fallback two pair than keeping the sixes. Use the remaining discards before spending limited hands.

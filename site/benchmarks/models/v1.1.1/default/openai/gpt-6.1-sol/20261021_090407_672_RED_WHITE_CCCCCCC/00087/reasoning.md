@@ -1,0 +1,1 @@
+Skip to increase Red Card permanently from +18 to +21 Mult, amplified by Cavendish into +9 effective Mult on every hand. These low-rank off-suit cards have no clearly specified valuable modifiers and would dilute our increasingly spade-focused deck, undermining level-3 flush consistency and Trading Card thinning. Guaranteed universal scaling is substantially better.

@@ -1,0 +1,1 @@
+The House hides the opening hand, so discard five unknown cards to draw five visible replacements while preserving all four scoring hands. With four discards available, we can then build an even-ranked paired hand to exploit Even Steven and Jolly Joker, ideally a full house to clear 1,600. There is no reliable rank or suit information to distinguish these face-down cards.

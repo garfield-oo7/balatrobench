@@ -1,0 +1,1 @@
+Play nines full of kings for (40 + 27 + 20) × 4 = 348 chips, exceeding the 300-chip blind in one hand and retaining three hands for $3 in end-of-round income.

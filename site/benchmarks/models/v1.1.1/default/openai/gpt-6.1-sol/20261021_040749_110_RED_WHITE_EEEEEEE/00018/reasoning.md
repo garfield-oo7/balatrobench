@@ -1,0 +1,1 @@
+Play Queens and Tens as Two Pair for an immediate win: (20 base Chips + 40 card Chips) × (2 base Mult + 8 from the two Tens via Even Steven + 8 from Jolly Joker) = 1,080, exceeding the 800 target. No further discards are needed; preserve three unused hands for $3.

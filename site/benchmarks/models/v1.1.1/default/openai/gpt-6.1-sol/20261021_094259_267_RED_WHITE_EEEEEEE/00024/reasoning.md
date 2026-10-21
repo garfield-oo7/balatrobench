@@ -1,0 +1,1 @@
+Buy Supernova for $5: our five prior flushes already give +5 Mult, growing with every flush played. Smeared Joker makes repeated flushes reliable, so this provides immediate power and ongoing scaling alongside Even Steven. Spending down to $25 preserves maximum $5 interest. Fortune Teller currently gives no Mult, and speculative packs or Hieroglyph are less efficient.

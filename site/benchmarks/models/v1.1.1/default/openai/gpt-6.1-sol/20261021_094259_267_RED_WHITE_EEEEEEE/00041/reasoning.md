@@ -1,0 +1,1 @@
+Play A♥, Q♦, 6♦, 4♦, and 2♥ as a red flush through Smeared Joker. This scores (65+11+10+6+4+2) × (8+12+8) = 2,744: three even ranks add +12 Mult and our eighth Flush adds +8. No discards remain, so take the reliable score and draw five new cards while retaining 7♣, 4♣, and 2♣ as a black-flush core. Only 256 points will remain, with three hands available to finish.

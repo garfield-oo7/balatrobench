@@ -1,0 +1,11 @@
+{
+  "id": "request-00111",
+  "status": "success",
+  "provider": "OpenAI",
+  "tokens_in": 14153,
+  "tokens_out": 127,
+  "time_ms": 4767,
+  "cost_in": 0.008949799999999999,
+  "cost_out": 0.00127,
+  "cost_total": 0.0102198
+}

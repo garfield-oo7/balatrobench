@@ -1,0 +1,1 @@
+Keep all four Spades and discard J♥ and 10♦ to seek a fifth Spade. Only 4,421 points remain; a level-6 Spade Flush comfortably wins in one hand, preserving two unused hands for income. We have two discards available, so use them before spending a hand on a much weaker combination. Save The Sun rather than converting useful Spades.

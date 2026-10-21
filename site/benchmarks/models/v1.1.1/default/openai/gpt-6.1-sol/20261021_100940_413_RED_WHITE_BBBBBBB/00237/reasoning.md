@@ -1,0 +1,1 @@
+Buy Uranus for $1 and then sell it for $1 to increase Campfire from ×2 to ×2.25 at no net cost. This guarantees 12.5% more scoring for our level-11 Three of a Kind and all backup hands, substantially better than upgrading Two Pair. Earth offers another free Campfire increase afterward; keep the existing Joker lineup and additive-before-multiplicative order.

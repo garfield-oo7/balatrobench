@@ -1,0 +1,1 @@
+Use Temperance for $6, raising money from $22 to $28 to fund final-boss improvements. This also makes Temperance the last-used Tarot, allowing our held Fool to create another Temperance for an additional $6. That guaranteed income is more valuable than selling this card for one +0.25 Campfire increment; we can still buy and resell the $1 Mars afterward for a free Campfire boost.

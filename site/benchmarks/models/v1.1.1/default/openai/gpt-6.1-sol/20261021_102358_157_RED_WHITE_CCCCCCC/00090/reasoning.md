@@ -1,0 +1,1 @@
+Take Jupiter to upgrade Flush to level 3 (65 chips, 8 Mult). Recent Spade conversions make flushes increasingly consistent and synergize with Wrathful Joker. On flushes, +15 base chips and +2 Mult provide a larger scoring improvement than skipping for Red Card's +3 Mult, with Cavendish multiplying the improved result. Venus and Uranus benefit less-developed hand types.

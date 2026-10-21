@@ -1,0 +1,1 @@
+Play D_K, H_T, D_T, D_6, and H_5 as a red Flush through Smeared Joker. Level-20 Flush and Supernova yield (320+41) × (42+21), then Blueprint copying Hologram and Hologram each multiply by 4.25, scoring approximately 410,785—far beyond the 52,500 target. Win immediately while preserving three hands for payout; no further discards are needed.

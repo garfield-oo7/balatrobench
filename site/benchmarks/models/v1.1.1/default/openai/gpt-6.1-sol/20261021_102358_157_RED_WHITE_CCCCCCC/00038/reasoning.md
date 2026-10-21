@@ -1,0 +1,1 @@
+Play the completed Club flush for (35 + 11 + 10 + 10 + 5 + 4 + 50) × (4 + 3) = 875 chips. This brings our total to 1,743, exceeding the 1,600 target and beating The Arm immediately. Level-1 Flush cannot be reduced further. Preserve two unused hands for income and keep our $30 economy intact.

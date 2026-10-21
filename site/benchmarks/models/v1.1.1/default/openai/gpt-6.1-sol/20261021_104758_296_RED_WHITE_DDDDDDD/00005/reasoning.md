@@ -1,0 +1,1 @@
+Open the Buffoon Pack to find a complementary +Mult or economy Joker. Scary Face supplies chips but no Mult, and four Joker slots are empty; an early second scoring Joker can secure efficient wins for several rounds. Spending $4 costs only $1 of next-round interest and is preferable to Satellite, which currently earns nothing, or an expensive reroll.

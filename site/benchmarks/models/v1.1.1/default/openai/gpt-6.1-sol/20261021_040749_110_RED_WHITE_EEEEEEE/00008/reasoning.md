@@ -1,0 +1,1 @@
+Save the remaining $5 to earn interest and rebuild our economy. Even Steven already provides enough early scoring: two pair of even ranks gains +16 Mult, while flushes with even cards can comfortably beat the next blind. To Do List requires specific hands and the Buffoon Pack is a gamble; neither is necessary before the next round.

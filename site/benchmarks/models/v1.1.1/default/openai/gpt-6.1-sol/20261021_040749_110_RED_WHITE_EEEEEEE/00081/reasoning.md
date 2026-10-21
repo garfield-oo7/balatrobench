@@ -1,0 +1,1 @@
+Play Tens and Sixes as level-7 Two Pair. All four cards trigger Even Steven for +16 Mult, Supernova adds approximately +10, and Blueprint copies Hologram for two ×1.75 multipliers. Expected score is about (140 + 32) × (8 + 16 + 10) × 1.75² = 17,909, safely exceeding The Needle's 5,000 in our only hand. No further discards or sales are needed.

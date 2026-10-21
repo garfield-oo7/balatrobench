@@ -1,0 +1,1 @@
+Keep 8♠ as the seed for a Wrathful-powered spade flush, with A♥ and 3♥ as a secondary heart-flush option, and draw five. The existing low two pair scores only 60 and does not activate either joker. With four discards available, prioritize finding spades and face cards before spending hands; a spade flush easily exceeds the 800 target and preserves unused-hand income.

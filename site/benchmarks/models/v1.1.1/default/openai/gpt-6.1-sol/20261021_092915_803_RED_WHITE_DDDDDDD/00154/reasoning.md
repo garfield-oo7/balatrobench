@@ -1,0 +1,1 @@
+Buy Temperance into the empty consumable slot, then use it for $21 from our current Joker sell values. This is a guaranteed $18 net profit without selling any Jokers, funding Jupiter and further upgrades while preserving maximum Seed Money interest.

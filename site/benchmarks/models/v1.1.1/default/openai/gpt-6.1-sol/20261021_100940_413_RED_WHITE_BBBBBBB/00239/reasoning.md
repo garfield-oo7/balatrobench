@@ -1,0 +1,1 @@
+Buy Earth for $1, then sell it for $1 to increase Campfire from ×2.25 to ×2.5 at zero net cost. This boosts every hand's score by 11.1%, whereas upgrading level-2 Full House does little for our primary level-11 Three of a Kind. Preserve all five scoring Jokers and their current additive-before-multiplicative ordering.

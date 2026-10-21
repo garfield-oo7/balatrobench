@@ -1,0 +1,1 @@
+Keep both Aces and the King, cycling five other cards with a Burglar hand since we have no discards. The Ten scores (5 + 10) × (1 + 10) = 165 through holographic Runner. Any new pair alongside our Aces makes Two Pair worth at least 1,012 chips with Mad Joker and Runner, enough to win next hand; pairing the King also benefits from Scary Face.

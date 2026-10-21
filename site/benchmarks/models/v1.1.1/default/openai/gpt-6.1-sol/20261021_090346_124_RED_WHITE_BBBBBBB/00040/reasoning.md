@@ -1,0 +1,1 @@
+Buy Venus for $2 to improve our reliable Three of a Kind fallback from level 2 to level 3. With Zany Joker, its base Mult becomes 19 before Raised Fist, and its base Chips rise to 70, making missed Full House draws substantially safer. We retain $34, above maximum-interest savings; use the planet immediately to reopen the consumable slot.

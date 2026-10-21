@@ -1,0 +1,1 @@
+Buy Saturn for $1, then sell it for $1 to raise Campfire from ×2.75 to ×3 at zero net cost. This increases all scoring by 9.1% through the final boss, far more useful than upgrading our unused Straight. Justice can subsequently provide another free Campfire increase; retain our scoring Jokers and their already-correct order.

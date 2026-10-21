@@ -1,0 +1,1 @@
+Use Venus now to strengthen our Zany Joker synergy and free a consumable slot for Certificate-generated seal rewards. Level-2 Three of a Kind has 50 base chips and 5 Mult; with Zany's +12 Mult, even three 2s score 56 × 17 = 952 before other bonuses. There is no benefit to holding this Planet without Observatory.

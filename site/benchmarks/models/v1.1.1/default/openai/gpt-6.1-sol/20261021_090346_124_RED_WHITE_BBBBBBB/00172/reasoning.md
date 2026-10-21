@@ -1,0 +1,1 @@
+Sell the unneeded Sun to fuel Campfire from ×1 to ×1.25 while increasing money to $40 and Bull to +80 Chips. Suit conversion does little for our level-9 three-card trips strategy; the guaranteed 25% scoring increase is much more valuable, particularly for the upcoming Ante 6 boss. This also frees both consumable slots for discounted buy-and-sell fuel.

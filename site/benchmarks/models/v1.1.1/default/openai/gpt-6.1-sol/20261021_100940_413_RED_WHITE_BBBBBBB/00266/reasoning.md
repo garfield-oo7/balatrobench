@@ -1,0 +1,1 @@
+Sell Mars for $1, completing its net-free buy–sell cycle and increasing Campfire from ×4 to ×4.25. Four of a Kind is undeveloped, whereas this upgrade strengthens every hand against the final boss, including our level-11 Three of a Kind and level-9 Two Pair. Preserve The Fool and the existing Joker lineup.

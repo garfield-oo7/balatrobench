@@ -1,0 +1,1 @@
+Buy The Hermit for $3 and use it immediately for $20, a guaranteed $17 net profit. Our level-18 Two Pair engine already clears current targets comfortably; this free funding supports selective late-game upgrades while retaining Blueprint copying Hologram. Popcorn is temporary and not worth replacing our established Jokers.

@@ -1,0 +1,1 @@
+Use Jupiter now for permanent level-2 Flushes (+15 chips and +2 Mult), freeing the consumable slot. Our recent conversion of three high cards to Spades improves flush consistency, and Wrathful Joker rewards those flushes. There is no Observatory or other benefit to holding this planet; Cavendish amplifies the upgraded Mult.

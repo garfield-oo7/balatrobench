@@ -1,0 +1,1 @@
+Buy The Star for $3 specifically to sell it for $1, increasing Campfire from X1.5 to X1.75. Converting cards to Diamonds conflicts with our Spade/Arrowhead/Blackboard strategy, but the $2 net cost buys a reliable 16.7% scoring increase for both remaining Ante 8 blinds. Cheap consumable sales are a better immediate investment than replacing our synergistic Jokers.

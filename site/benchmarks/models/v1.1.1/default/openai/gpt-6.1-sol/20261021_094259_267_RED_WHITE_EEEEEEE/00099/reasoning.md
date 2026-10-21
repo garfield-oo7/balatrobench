@@ -1,0 +1,1 @@
+Take the 8♥: it contributes 8 chips and +4 Mult from Even Steven, and Smeared Joker lets it join any red Flush. It is stronger than the unmodified 2♦ on rank chips and better aligned with Even Steven than J♦. Its enhancement is unspecified, so no extra benefit is assumed. Adding it permanently raises Hologram from ×3.75 to ×4, boosting all scoring by 6.7%.

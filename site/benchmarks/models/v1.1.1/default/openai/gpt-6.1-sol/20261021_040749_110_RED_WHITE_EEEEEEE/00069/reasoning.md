@@ -1,0 +1,1 @@
+Play the three Kings, including the Mult-enhanced King. Only 556 chips remain; this scores (30+30) × (3+4 Mult enhancement+8 Jolly Joker+2 Supernova) ×1.75 Hologram = 1,785, safely winning the blind. No discards or consumables are needed, and finishing now preserves two unused hands for income.

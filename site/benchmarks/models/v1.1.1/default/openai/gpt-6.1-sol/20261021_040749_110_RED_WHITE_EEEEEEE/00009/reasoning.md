@@ -1,0 +1,1 @@
+Play three Tens for an immediate win: (30 base chips + 30 card chips) × (3 base Mult + 12 from Even Steven) = 900 chips, comfortably exceeding 450. No discards or extra cards are needed; winning now preserves three unused hands for $3.

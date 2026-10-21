@@ -1,0 +1,1 @@
+Keep A♥ K♥ 10♥ 4♥ and draw four toward a winning heart flush. The existing flush scores only 288; adding any heart ranked 5 or higher makes at least 300. Four available discards give ample opportunity to finish in one hand and preserve the $3 unused-hand reward.

@@ -1,0 +1,1 @@
+Buy Mars for $1, then sell it for $1 to fuel Campfire at no net cost. Four of a Kind upgrades do not support our level-9 three-card trips and Half Joker strategy. The sale will raise Campfire from ×2.25 to ×2.5, increasing scores by 11.1% while restoring $43 and Bull's +86 Chips; keep all five scoring Jokers.

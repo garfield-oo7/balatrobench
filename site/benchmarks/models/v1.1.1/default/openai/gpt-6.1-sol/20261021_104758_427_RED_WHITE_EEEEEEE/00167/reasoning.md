@@ -1,0 +1,1 @@
+Choose The Fool to create Temperance, the last Tarot used, then cash it for $16 with our current Jokers. Both consumable slots are empty, so creation is safe. The Lovers and The World offer little benefit to our level-19 Two Pair build, while the money can fund more Standard Packs to scale Hologram and Blueprint or other useful upgrades.

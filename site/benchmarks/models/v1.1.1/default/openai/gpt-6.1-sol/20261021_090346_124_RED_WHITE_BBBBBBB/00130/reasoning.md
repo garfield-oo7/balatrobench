@@ -1,0 +1,1 @@
+Reroll for $3: Mercury does not improve our level-7 trips or level-6 Two Pair, and an unscaled Wee Joker is too slow at Ante 5. With $54 we can seek a stronger chip engine, scaling Mult, or additional ×Mult while remaining above $25 for maximum interest. Ramen is already correctly ordered last; keep the existing scoring core until a concrete upgrade appears.

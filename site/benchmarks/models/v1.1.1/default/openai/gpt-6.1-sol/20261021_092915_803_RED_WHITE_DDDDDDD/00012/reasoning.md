@@ -1,0 +1,1 @@
+Play queens full of jacks for a guaranteed boss clear: all five face cards score, so Scary Face adds 150 chips. (40 base + 50 card chips + 150) × 4 = 960, exceeding the 600 target. No further discards or spades are needed; winning now preserves three hands for $3.

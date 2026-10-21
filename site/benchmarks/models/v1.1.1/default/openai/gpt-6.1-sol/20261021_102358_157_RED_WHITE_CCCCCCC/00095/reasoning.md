@@ -1,0 +1,1 @@
+Fill the open slot with foil Bootstraps: at $79 remaining it supplies +30 Mult and +50 chips, a major boost to our Spade flush engine. Place it before Cavendish afterward so its additive Mult is tripled. Seed Money is also a strong subsequent investment at this bankroll, increasing interest while supporting Bootstraps scaling.

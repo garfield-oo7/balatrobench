@@ -1,0 +1,1 @@
+Scary Face is a reliable $4 early scoring upgrade with no setup: each scored face adds 30 chips, helping flushes and face-card pairs clear the next blinds efficiently. Buying it leaves $6, retaining $1 interest. Satellite currently earns nothing, while the voucher and reroll are too expensive for our early economy.

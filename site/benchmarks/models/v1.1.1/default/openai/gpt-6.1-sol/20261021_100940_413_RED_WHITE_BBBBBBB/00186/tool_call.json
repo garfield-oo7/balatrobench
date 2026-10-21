@@ -1,0 +1,10 @@
+[
+  {
+    "id": "call_t7DdFZZf8yrAJ0dS4HpEgBPX",
+    "function": {
+      "arguments": "{\"consumable\": 0}",
+      "name": "sell"
+    },
+    "type": "function"
+  }
+]

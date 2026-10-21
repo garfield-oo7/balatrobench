@@ -1,0 +1,1 @@
+Play Aces and Sixes as level-12 Two Pair for a guaranteed win: 274 chips × (13 base Mult + 8 Even Steven + 4 Mult Six + 13 Supernova) × 3.75² = approximately 146,419 points, even without a Lucky trigger. Leave the Gold Ace held for $3 and the blue-seal King held to generate Uranus, while preserving three hands for payout. No further discards or Fish-affected draws are needed.

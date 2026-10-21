@@ -1,0 +1,1 @@
+Keep A♥, K♥, 10♥ and 4♥, and draw four cards toward a heart flush. Any heart 5 or higher produces at least 300 chips, winning in one hand and preserving $3 of unused-hand income. With three discards remaining, pursuing the flush is preferable to spending a hand on the king pair.

@@ -1,0 +1,1 @@
+Use Jupiter now to permanently upgrade our primary Flush from level 3 to level 4 (80 base Chips, 10 base Mult). We do not have Observatory, so holding it provides no scoring benefit. This strengthens our spade flushes without reducing money, Bootstraps Mult, or maximum Seed Money interest, and frees a consumable slot for future useful Tarots or Planets.

@@ -1,0 +1,1 @@
+Keep A♥, K♥, 10♥, and 4♥; discard all four non-hearts to find a flush. A fifth heart ranked 5 or higher scores at least 300 and wins in one hand, preserving $3 from unused hands. Two further discards remain if this draw misses.

@@ -1,0 +1,1 @@
+Use The Hermit now for its maximum $20 payout, increasing money from $73 to $93 and freeing the consumable slot. There is no benefit to delaying: we already exceed the $20 threshold, and the extra funds can support future Standard Packs to scale Hologram while preserving maximum interest. Keep the current synergistic Joker lineup.

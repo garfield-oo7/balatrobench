@@ -1,0 +1,1 @@
+Discard the two debuffed spades and ordinary 9♥, keeping Q♦, 7♦, and 4♦ as diamond-flush anchors and both Steel hearts for held ×2.25 Mult. Two more diamonds complete a powerful Ancient Joker flush; with two discards and all four hands left, continue drawing without consuming scoring hands or either Steel card.

@@ -1,0 +1,1 @@
+Restore Blueprint immediately left of Hologram now that Burnt Joker's first-discard upgrades are complete. Copying ×4 Hologram gives ×16 combined Mult. We can then play the two Aces and two Tens, retaining the steel Three: guaranteed score is (280 + 22 + 20) × (15 + 14 Supernova + 8 Even Steven) × 1.5 × 16 = 285,936, before any Lucky Ace bonus, easily clearing 20,000 in one hand.

@@ -1,0 +1,1 @@
+Play the five highest hearts for a flush: (35 + 10 + 10 + 8 + 6 + 5) × 4 = 296 chips. No available hand reaches 300 immediately, so take the strongest score now; only 4 more chips are needed, and any subsequent hand will win. Retain the pair of 3s as a guaranteed finishing hand.

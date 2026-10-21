@@ -1,0 +1,1 @@
+Open the remaining discounted Jumbo Celestial Pack. Jupiter would further scale our primary Flush with +15 chips and +2 Mult; if the choices are poor, skipping adds +3 permanent Mult to Red Card. Spending $4 leaves $65, preserving maximum $10 Seed Money interest and the same +26 Mult from Bootstraps. This is a low-cost upgrade opportunity without replacing any synergistic Jokers.

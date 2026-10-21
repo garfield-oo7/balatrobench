@@ -1,0 +1,1 @@
+Keep A♣, Q♣, 8♣, and 6♣ and draw four cards toward a club flush. A fifth club ranked 5 or higher scores at least 300, winning in one hand and preserving all three unused-hand dollars. We have three discards remaining, so pursuing the four-card flush is preferable to spending a hand on the pair of eights.

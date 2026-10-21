@@ -1,0 +1,1 @@
+Retain Nines full of Sevens, worth (40+27+14)×(4+8)=972, and cycle the three singletons. A fourth Nine makes four of a kind worth 1,440; any new even-ranked pair can replace the Sevens for a full house worth at least 1,420. With three discards and all four hands remaining, pursuing a one-hand clear preserves income while keeping a strong fallback.

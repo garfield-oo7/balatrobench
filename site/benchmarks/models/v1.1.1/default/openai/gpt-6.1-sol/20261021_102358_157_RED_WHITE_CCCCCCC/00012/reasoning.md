@@ -1,0 +1,1 @@
+Preserve Kings full of Jacks, a guaranteed 360-point full house, and use the final discard to seek the fourth King for a 700-point immediate win. If it misses, we still have the full house and all four hands available, needing only 90 additional points afterward; fresh draws may also provide a useful follow-up pair.

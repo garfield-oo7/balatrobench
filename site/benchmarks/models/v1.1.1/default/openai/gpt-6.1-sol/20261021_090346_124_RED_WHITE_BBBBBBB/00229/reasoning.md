@@ -1,0 +1,1 @@
+Sell The Star as planned: its $1 sale restores our money to $51 and increases Campfire from ×1 to ×1.25, a 25% scoring improvement at no net purchase/resale cost. Suit conversion offers little benefit to our level-9 Three of a Kind and level-10 Two Pair strategy. This also frees the consumable slot for further discounted cards to fuel Campfire before the final ante.

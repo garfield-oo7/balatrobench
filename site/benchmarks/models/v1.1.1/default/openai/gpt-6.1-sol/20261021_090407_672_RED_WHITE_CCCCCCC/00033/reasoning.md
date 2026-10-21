@@ -1,0 +1,1 @@
+Play the five-spade flush to win immediately. It scores (35 base + 40 card chips + 50 Foil) × (4 base + 3 Red Card + 15 Wrathful Joker) = 2,750 chips, comfortably exceeding 1,200. No further discards are needed; preserve three unused hands for $3 income.

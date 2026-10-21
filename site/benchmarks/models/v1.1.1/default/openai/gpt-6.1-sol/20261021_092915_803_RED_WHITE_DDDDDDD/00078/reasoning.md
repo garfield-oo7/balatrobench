@@ -1,0 +1,1 @@
+Use the last discard on debuffed 6♠ and both off-suit 3s, retaining all four Diamonds and Steel 7♥. We need one more Diamond for five Ancient Joker triggers, with the Steel card further multiplying that Mult. Preserve all four hands; if this misses, we can cycle unwanted draws through a played hand while keeping the Diamond core.

@@ -1,0 +1,1 @@
+Sell The Magician as planned: no playing-card targets are available in this shop, and the sale increases Campfire from X2.5 to X2.75, a guaranteed 10% scoring increase for the remaining blinds. This frees the consumable slot while retaining our strong Seltzer–Arrowhead–Fibonacci Spade-flush engine and $51 for further improvements or a necessary boss reroll.

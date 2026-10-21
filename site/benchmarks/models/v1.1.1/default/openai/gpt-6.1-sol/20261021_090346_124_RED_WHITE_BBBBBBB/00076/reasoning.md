@@ -1,0 +1,1 @@
+Choose Uranus to raise Two Pair to level 3 (60 Chips, 4 Mult). This directly strengthens our reliable fallback hand and synergizes with Clever Joker's +80 Chips and our substantial additive Mult. Jupiter lacks suit support, while Mars improves a much rarer hand that does not activate Clever Joker; Uranus gives the most consistent immediate benefit.

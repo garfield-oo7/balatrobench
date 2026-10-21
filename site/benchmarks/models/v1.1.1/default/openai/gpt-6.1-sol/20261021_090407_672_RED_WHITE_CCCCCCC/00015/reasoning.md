@@ -1,0 +1,1 @@
+Buy Foil Trading Card: its unconditional +50 Chips provides immediate scoring support, while destroying one weak card on the first single-card discard each round earns $3 and improves deck consistency. Bought this early, its recurring income quickly repays the $8 cost and supports future Red Card scaling. Save the remaining $4 rather than spending on a speculative planet or pack.

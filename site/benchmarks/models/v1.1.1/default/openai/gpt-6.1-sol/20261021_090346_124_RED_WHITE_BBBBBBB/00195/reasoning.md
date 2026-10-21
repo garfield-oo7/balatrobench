@@ -1,0 +1,1 @@
+Buy The Fool for $1, then sell it for $1 to raise Campfire from ×1.75 to ×2 at no net cost. This boosts all scores by 14.3% while restoring $46 and Bull's +92 Chips. Recreating a previously used consumable is less reliably valuable than this guaranteed scoring increase for the approaching Ante 7 boss; retain all five scoring Jokers.

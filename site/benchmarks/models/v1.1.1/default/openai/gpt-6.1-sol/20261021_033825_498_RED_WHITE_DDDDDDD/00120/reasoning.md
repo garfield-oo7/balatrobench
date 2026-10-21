@@ -1,0 +1,1 @@
+Take Jupiter to upgrade our dominant Flush from level 3 to level 4 (80 base Chips, 10 base Mult). We have played Flush 15 times, and its increased base Mult compounds through Ancient Joker's scored-card ×1.5 triggers, making this a substantial, reliable upgrade to our established engine. The other planets support rarely used backup hands.

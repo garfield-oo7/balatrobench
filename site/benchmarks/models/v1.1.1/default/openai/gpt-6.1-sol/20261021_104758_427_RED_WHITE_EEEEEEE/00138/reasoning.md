@@ -1,0 +1,1 @@
+Keep the King pair, Lucky Eight, and Mult Six; discard the Nine, Five, Four, and Two to seek a second pair with four fresh draws. Two Pair is level 17 and will easily exceed the remaining 24,112 points with Blueprint copying ×4 Hologram. Retaining the enhanced even cards provides particularly strong matching targets, and we still have two more discards if necessary.

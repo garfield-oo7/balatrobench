@@ -1,0 +1,1 @@
+Buy Arrowhead into the slot freed by selling Hiker. A five-Spade flush gains +250 Chips, multiplying the value of Ancient Joker's current five ×1.5 triggers and Wrathful Joker's Mult; this is a substantial immediate upgrade for Ante 7. It also raises Abstract Joker from +15 to +18 Mult. The $7 purchase leaves $44 for further improvements and potential boss rerolls.

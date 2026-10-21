@@ -1,0 +1,1 @@
+Play the guaranteed five-Spade flush. Wrathful Joker adds +15 Mult and Foil Trading Card adds +50 Chips, yielding (35 + 11 + 10 + 9 + 8 + 2 + 50) × (4 + 15) = 2,375 chips, comfortably exceeding the 1,200 target. Win immediately to preserve three hands for income and retain both unused discards.

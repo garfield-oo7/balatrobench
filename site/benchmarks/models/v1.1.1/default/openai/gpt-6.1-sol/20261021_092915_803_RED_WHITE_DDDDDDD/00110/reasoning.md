@@ -1,0 +1,1 @@
+Use The Hermit now for its maximum $20 payout, increasing our bankroll from $75 to $95 and freeing a consumable slot. This safely funds shop improvements while preserving Seed Money's maximum interest at $50.

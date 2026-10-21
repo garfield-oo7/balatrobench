@@ -1,0 +1,1 @@
+Keep 4♦, 5♦, 6♣, and 7♠ and draw four cards for an open-ended straight: any 3 or 8 completes it. With Foil Trading Card and Wrathful Joker, that straight scores at least 735–770 chips, nearly clearing the 800 target, and a second scoring Spade can make it an immediate win. Three discards and all four hands remain, so improve the hand before spending scoring opportunities.

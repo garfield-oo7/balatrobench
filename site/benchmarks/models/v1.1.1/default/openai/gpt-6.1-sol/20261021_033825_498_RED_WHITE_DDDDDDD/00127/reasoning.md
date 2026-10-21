@@ -1,0 +1,1 @@
+Play the Club flush, scoring C8 and C2 first so Even Steven's +4 Mult bonuses compound through all five Ancient Joker ×1.5 triggers. Keep Steel H2 held for another ×1.5 Mult. With level-4 Flush and Blue Joker, this scores approximately 37,412 chips before any existing Hiker bonuses—comfortably exceeding the remaining 17,625 and winning with three hands unused.

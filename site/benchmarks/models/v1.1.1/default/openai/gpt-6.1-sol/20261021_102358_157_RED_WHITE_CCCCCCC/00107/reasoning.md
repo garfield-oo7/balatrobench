@@ -1,0 +1,1 @@
+Use Jupiter now to raise Flush from level 4 to level 5 (95 chips, 12 Mult). We do not have Observatory, so holding it offers no scoring benefit. This permanently improves our main flush option, benefits from Cavendish's ×3, and frees a consumable slot without spending money or reducing Bootstraps.

@@ -1,0 +1,1 @@
+Open the $4 Celestial Pack while retaining $27 and maximum interest. Jupiter would strengthen our Spade-flush plan, and Saturn or Earth could improve viable backup hands. If the choices are unhelpful, skipping instead activates Red Card for a permanent +3 Mult, giving this purchase a useful scoring fallback. Pass the unreliable Idol, speculative To Do List, and Planet Merchant.

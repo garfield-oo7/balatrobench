@@ -1,0 +1,1 @@
+Play the ready-made five-Spade level-7 flush to defeat The Manacle immediately. Even without enhancements, it scores (125 + 44 card chips + 100 from two Foil Jokers) × (16 + 15 Wrathful + 39 Red Card + 52 Bootstraps) × 3 Cavendish = 98,454, comfortably exceeding 40,000. Preserve Justice, keep four hands unused for payout, and retain all Jokers with Cavendish correctly last.

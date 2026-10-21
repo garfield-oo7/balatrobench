@@ -1,0 +1,1 @@
+Buy Death for $3 as inexpensive Campfire fuel, then sell it for $1 to raise Campfire from X2.25 to X2.5. This gives a guaranteed 11.1% scoring increase for both remaining blinds at only $2 net cost, without disturbing our strong Seltzer–Arrowhead–Fibonacci Spade engine. No deck targets are available in the shop, and we retain ample money for a boss reroll.

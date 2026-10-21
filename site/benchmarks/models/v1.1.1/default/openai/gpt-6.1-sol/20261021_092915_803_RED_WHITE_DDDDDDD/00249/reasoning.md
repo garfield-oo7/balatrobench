@@ -1,0 +1,1 @@
+Sell Saturn as planned: Straight upgrades do not support our level-6 Spade flush strategy. The sale raises Campfire from X3.25 to X3.5, a guaranteed 7.7% increase in final-boss scoring, and frees the consumable slot while preserving all six synergistic Jokers.

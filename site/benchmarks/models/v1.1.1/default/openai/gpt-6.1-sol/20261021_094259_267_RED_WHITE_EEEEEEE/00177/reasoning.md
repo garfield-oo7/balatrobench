@@ -1,0 +1,1 @@
+Choose Jupiter to upgrade our primary Flush from level 25 to 26, increasing base Chips from 395 to 410 and base Mult from 52 to 54. Smeared Joker makes Flushes consistent, Supernova rewards our 23 prior Flush plays, and Blueprint copying ×4.5 Hologram amplifies the improvement with a combined ×20.25 multiplier. The other planets upgrade unused hands and provide far less value.

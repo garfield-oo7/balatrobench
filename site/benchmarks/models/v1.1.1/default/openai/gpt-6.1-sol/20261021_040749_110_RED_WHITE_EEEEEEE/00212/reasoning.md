@@ -1,0 +1,1 @@
+Play queens and sixes for level-22 Two Pair. Seltzer retriggers all four cards, giving 64 card chips and +16 Mult from the sixes. With Supernova reaching +21 Mult, the score is (440+64) × (23+16+21) × 4.5 × 4.5 = 612,360, comfortably clearing 75,000 in one hand. Preserve three unused hands and avoid unnecessary discards; Blueprint is already correctly copying Hologram.

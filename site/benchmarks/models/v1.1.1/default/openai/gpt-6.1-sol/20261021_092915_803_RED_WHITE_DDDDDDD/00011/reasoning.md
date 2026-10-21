@@ -1,0 +1,1 @@
+Keep J♥ for Scary Face and 2♠ as a start toward a Wrathful-powered spade flush; cycle the other five cards. The pair of sevens scores only 48, and a heart flush with just one face is insufficient for 600. Drawing five maximizes chances of finding spades and face-card combinations, with three more discards available before spending any hands.

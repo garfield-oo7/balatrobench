@@ -1,0 +1,1 @@
+Use the copied Temperance to gain $6, bringing cash to $34 for final-boss preparation. This guaranteed income is more valuable than selling it for one Campfire increment. Next, the $1 Mars can be bought and resold at no net cost to increase Campfire, while preserving all five synergistic Jokers.

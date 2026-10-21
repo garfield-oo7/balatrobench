@@ -1,0 +1,1 @@
+Only 4 chips remain. Play the single 5 of Spades as High Card for (5+5)×1 = 10 chips, beating the blind immediately and preserving two unused hands for $2 income. Keep Flush as the most-played hand rather than adding another flush play unnecessarily.

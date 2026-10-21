@@ -1,0 +1,1 @@
+Choose Jupiter to upgrade our primary Flush from level 2 to level 3, increasing its base Chips from 50 to 65 and Mult from 6 to 8. We have played Flush 13 times, and its added base Mult compounds through Ancient Joker's repeated ×1.5 triggers and held Steel cards. This directly strengthens our established scoring engine; the other planets improve rarely used backup hands.

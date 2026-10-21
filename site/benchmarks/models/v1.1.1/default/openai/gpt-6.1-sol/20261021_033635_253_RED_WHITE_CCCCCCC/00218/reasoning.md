@@ -1,0 +1,1 @@
+Play a level-7 Spade Flush using both Aces, the ordinary King, and both Nines. Photograph, Wrathful Joker, Bootstraps, and our chip bonuses comfortably exceed the remaining 5,447 points without spending Justice. The Gold-seal Ace earns $3, while retaining the Gold-enhanced King earns another $3 at round end. Finish now to preserve two unused hands for income.

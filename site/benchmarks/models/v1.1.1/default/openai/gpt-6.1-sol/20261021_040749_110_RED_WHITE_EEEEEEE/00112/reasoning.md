@@ -1,0 +1,1 @@
+Buy The Hermit for $3, then use it for the capped $20 payout: a guaranteed $17 net profit with no sacrifice to our strong Two Pair engine. This funds further Standard Pack purchases to scale both Hologram and Blueprint while preserving maximum interest.

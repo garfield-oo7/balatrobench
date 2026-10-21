@@ -1,0 +1,1 @@
+Use Jupiter now to upgrade our primary Flush from level 4 (80 Chips, 10 Mult) to level 5 (95 Chips, 12 Mult). This permanent, guaranteed scoring improvement compounds with Ancient Joker, Blackboard, and our Steel card, strengthens us for the Ante 6 boss, and frees a consumable slot without spending any additional money.

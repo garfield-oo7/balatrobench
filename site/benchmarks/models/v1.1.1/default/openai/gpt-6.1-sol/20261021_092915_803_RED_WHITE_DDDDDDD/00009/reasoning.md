@@ -1,0 +1,1 @@
+Play the spade flush for a guaranteed one-hand win. Scary Face adds 60 chips for K♠ and J♠, and Wrathful adds 15 Mult: (35 + 11 + 10 + 10 + 8 + 3 + 60) × (4 + 15) = 2,603 chips, comfortably exceeding 450 and preserving three unused hands for $3.

@@ -1,0 +1,1 @@
+Buy The Hanged Man for $2, retaining $32 and maximum interest. During the next blind, remove two low, unenhanced cards outside our useful rank groups to improve Raised Fist and concentrate draws toward trips and full houses. Preserve enhanced and sealed cards. Our current scoring comfortably handles Ante 2, so favor this cheap permanent deck improvement over another $6 reroll.

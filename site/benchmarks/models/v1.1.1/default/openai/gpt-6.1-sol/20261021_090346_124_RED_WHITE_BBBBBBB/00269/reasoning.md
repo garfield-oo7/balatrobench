@@ -1,0 +1,1 @@
+Complete the planned Saturn sale: recover $1 and increase Campfire from ×3.5 to ×3.75, a 7.1% scoring boost across all hands for the final boss. A Straight upgrade is far less useful than improving our level-9 Three of a Kind and level-11 Two Pair engine. Preserve all five synergistic Jokers.

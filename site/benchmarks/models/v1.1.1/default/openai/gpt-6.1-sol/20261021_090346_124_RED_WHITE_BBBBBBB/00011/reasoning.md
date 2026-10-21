@@ -1,0 +1,1 @@
+Play Aces full of Jacks for (40 + 33 + 20) × 4 = 372 chips, bringing our total to 416/450. That leaves only 34 points with two hands and two discards available; a pair of 4s or higher will finish and earn $4 from To Do List. Keep The Hermit until after that payout, or until we have more money, to increase its value.

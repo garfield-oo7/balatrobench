@@ -1,0 +1,1 @@
+Spend $3 on the first, discounted reroll to look for Jupiter, useful Tarot cards, or cheap consumables to sell for Campfire. This leaves $50, still earning maximum Seed Money interest. Keep all six synergistic Jokers; Ancient now targeting Spades makes our Spade flushes particularly strong, so there is no need for expensive upgrade chasing or Joker replacements.

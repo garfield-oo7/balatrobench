@@ -1,0 +1,1 @@
+Play the pair of Queens for (10 + 10 + 10) × 2 = 60 chips, clearing the remaining 34 points and earning $4 from To Do List. Preserve the last hand for an extra $1 payout. Hold The Hermit until after round rewards increase our money, maximizing its eventual return.

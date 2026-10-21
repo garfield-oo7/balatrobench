@@ -1,0 +1,1 @@
+Discard only 3♦ as our first discard to activate Trading Card: destroy a weak non-spade permanently and earn $3. Money rises from $74 to $77, increasing Bootstraps from +28 to +30 Mult. Keep both pairs and K♠ for a strong five-card Two Pair with Splash and Wrathful Joker, then reassess the replacement card before playing.

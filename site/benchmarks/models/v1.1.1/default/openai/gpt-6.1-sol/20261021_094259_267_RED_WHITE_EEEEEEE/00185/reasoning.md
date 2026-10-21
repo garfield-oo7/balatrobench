@@ -1,0 +1,1 @@
+The first-discard double upgrade is complete: Flush is now level 28. Move Burnt Joker ahead of Blueprint so Blueprint copies Hologram's ×4.5, giving ×20.25 combined after Supernova. We already hold six black cards, so Smeared Joker guarantees a winning Flush while retaining the Gold Ace for $3; restore scoring order before playing.

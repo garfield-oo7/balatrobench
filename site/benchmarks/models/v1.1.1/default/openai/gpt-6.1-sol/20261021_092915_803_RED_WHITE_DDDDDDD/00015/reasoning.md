@@ -1,0 +1,1 @@
+Keep 8♠, 7♠, 6♠, and 4♠; discard all four non-spades to complete a spade flush. Any fifth spade guarantees at least (35 + 8 + 7 + 6 + 4 + 2) × (4 + 15) = 1,178 chips, beating 800 in one hand. Drawing 5♠ even makes a straight flush. With three discards remaining, pursue this reliable one-hand clear to preserve hand income.

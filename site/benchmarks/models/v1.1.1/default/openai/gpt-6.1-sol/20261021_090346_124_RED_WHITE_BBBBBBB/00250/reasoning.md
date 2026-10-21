@@ -1,0 +1,1 @@
+Sell Saturn as planned to increase Campfire from ×2.5 to ×2.75 at zero net purchase/resale cost. This boosts every hand by 10%, restores $39 and Bull's +78 Chips, and frees the consumable slot. A Straight level is much less useful than universal scaling for our level-9 Three of a Kind and level-10 Two Pair heading into the final blinds.

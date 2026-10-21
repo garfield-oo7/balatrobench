@@ -1,0 +1,1 @@
+Choose Venus to upgrade our primary Three of a Kind from level 7 to level 8, raising its base to 170 Chips and 17 Mult. This consistently strengthens the hand that activates Zany Joker, with the extra Mult amplified by Ramen. Mars and Earth improve infrequent hands that remain far weaker than our invested trips and Two Pair.

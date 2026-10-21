@@ -1,0 +1,1 @@
+Play queens full of jacks. All five face cards trigger Scary Face, scoring (40 base + 50 card chips + 150 bonus chips) × 4 = 960. This guarantees beating the 600-chip Manacle in one hand, preserving three unused hands for $3 without spending further discards.

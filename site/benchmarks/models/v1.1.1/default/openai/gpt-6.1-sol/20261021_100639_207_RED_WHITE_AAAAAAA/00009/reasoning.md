@@ -1,0 +1,1 @@
+Leave with $2: nothing remaining is affordable, and selling useful Jokers to fund speculative purchases would weaken the build. Mad Joker and Scary Face strongly reward face-card two pairs and full houses, while Burglar provides seven hands to find them and generate unused-hand income. Save for interest and future upgrades; current Joker order needs no change.

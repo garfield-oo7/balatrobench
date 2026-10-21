@@ -1,0 +1,1 @@
+Play Kings and threes as Two Pair for a guaranteed win without further discards. The hand scores (20 base + 26 card chips + 50 Foil Trading Card) × (2 base + 12 Red Card + 3 Wrathful from the spade three + 3 Supernova including this play) × 3 Cavendish = 5,760, exceeding the 4,000 target. Winning immediately preserves three unused hands for $3.

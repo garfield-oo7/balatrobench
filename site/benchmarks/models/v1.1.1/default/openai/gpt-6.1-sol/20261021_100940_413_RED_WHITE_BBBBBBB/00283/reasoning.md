@@ -1,0 +1,1 @@
+Take Mercury to improve our frequently used fallback Pair from 25 chips/3 Mult to 40 chips/4 Mult. Neither Venus nor Uranus is available for our primary hands, and Full House remains substantially weaker than our level-11 Three of a Kind even after Earth. Pair is easy to repeat for Card Sharp, making this the most practical backup upgrade.

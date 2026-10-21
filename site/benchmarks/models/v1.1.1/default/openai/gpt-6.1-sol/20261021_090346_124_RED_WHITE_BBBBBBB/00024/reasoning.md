@@ -1,0 +1,1 @@
+Keep both Queens and both 4s; draw four cards seeking either remaining Queen or 4. Either match activates Zany Joker and produces a one-hand win: even level-2 trip 4s score 62 × 17 = 1,054 before Raised Fist. Keeping two pairs also offers a full house. With four discards available, pursue the reliable 800-chip clear while preserving hands for income and saving The Sun.

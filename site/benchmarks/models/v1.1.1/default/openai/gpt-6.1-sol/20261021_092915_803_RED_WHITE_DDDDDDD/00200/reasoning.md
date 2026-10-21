@@ -1,0 +1,1 @@
+Use The Hermit now for its maximum $20 payout, increasing money from $66 to $86 and freeing the consumable slot. This funds further shop searches and cheap consumable sales to scale Campfire for all three Ante 8 blinds, while preserving a Director's Cut reserve. The $20 payout is substantially more valuable than selling Hermit for one Campfire increment.

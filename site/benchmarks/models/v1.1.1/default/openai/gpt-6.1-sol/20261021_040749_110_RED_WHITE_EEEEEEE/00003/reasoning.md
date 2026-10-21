@@ -1,0 +1,1 @@
+Keep K♥, Q♥, 8♥, and 5♥ and draw four cards toward a heart flush. Any heart completes the flush, and a 7 or higher makes it worth at least 300 chips for an immediate win. This four-card flush draw is more promising than continuing to chase a full house from two pairs; we still have another discard if needed.

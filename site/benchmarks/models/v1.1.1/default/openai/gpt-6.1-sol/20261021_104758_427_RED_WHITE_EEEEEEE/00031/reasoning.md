@@ -1,0 +1,1 @@
+Play Eights and Sevens for a guaranteed boss clear: (20+16+14) × (2+8 from Even Steven+8 from Jolly Joker+3 from Supernova) = 1,050 chips. Only 520 more are required, so this wins immediately and preserves two unused hands for $2. No consumables, sales, or further cycling are needed.

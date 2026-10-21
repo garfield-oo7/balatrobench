@@ -1,0 +1,1 @@
+Buy The Fool for $2: the last Tarot or Planet used was Venus, so it can generate another Venus and upgrade our primary Three of a Kind to level 6 (130 Chips, 13 Mult). This is a guaranteed permanent improvement for our trips/Zany engine, unlike another speculative $5 reroll, and leaves $32 for maximum interest. Use Fool, then the generated Venus, before leaving.

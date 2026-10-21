@@ -1,0 +1,1 @@
+Play the completed spade flush: 10♠, 9♠, 5♠, 3♠, 2♠. It scores at least (35 + 10 + 9 + 5 + 3 + 2) × (4 + 5×3 + 10) = 64 × 29 = 1,856 chips from Wrathful Joker and Droll Joker. Added to our 415 points, this comfortably exceeds the 1,600 target on our final hand. Hiker also permanently improves all five scored cards.

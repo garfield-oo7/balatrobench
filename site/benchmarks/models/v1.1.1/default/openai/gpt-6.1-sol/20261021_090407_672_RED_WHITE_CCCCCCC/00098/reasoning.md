@@ -1,0 +1,1 @@
+Use The Emperor now. It frees its own slot, so with Empress held we have room for one random Tarot. This can provide useful spade conversion, deck manipulation, enhancements, or money at no further cost. Keep Empress for playing-card targets next round; Square Joker is not an upgrade to our established five-card flush engine.

@@ -1,0 +1,1 @@
+Buy The Empress for only $2, retaining $58 and maximum interest. Splash lets both enhanced cards score even as kickers, so enhancing two Spades next round can add +8 Mult, amplified by Cavendish to +24 effective Mult when both are played. This is an efficient permanent upgrade without replacing any of our synergistic Jokers.

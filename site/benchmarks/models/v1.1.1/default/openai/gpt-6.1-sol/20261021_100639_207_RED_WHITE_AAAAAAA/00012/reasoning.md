@@ -1,0 +1,1 @@
+Play Kings and eights for two pair. Mad Joker supplies +10 Mult and Scary Face adds +60 chips for the two Kings: (20 + 10 + 10 + 8 + 8 + 60) × (2 + 10) = 1,392 chips. This comfortably exceeds the remaining 510, defeats The Manacle immediately, and preserves four hands for $4 income.

@@ -1,0 +1,1 @@
+Trigger Trading Card with a one-card first discard: destroy the unpaired, non-Spade 9 of Clubs and earn $3, raising money to $23. Preserve all three pairs (Aces, 8s, and 6s) for full-house draws and retain every Spade for Wrathful Joker. This improves the deck and economy while keeping all four scoring hands and three further discards available.

@@ -1,0 +1,1 @@
+With no pairs and no discards, use a hand to cycle five cards: play the Jack and four low cards for 15 chips, retaining A-K-Q. Drawing five new cards maximizes our chances to form high-ranking two pairs or a full house, activating Mad Joker to clear the remaining 435 chips. Burglar leaves six hands to finish.

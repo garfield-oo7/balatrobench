@@ -1,0 +1,1 @@
+Buy Venus for $2 to improve our established backup hand from level 4 to level 5 (+20 Chips, +2 Mult). Trips activates Zany Joker and provides an alternative when Two Pair is unavailable or a boss restricts hand types. We retain $40, comfortably above maximum-interest requirements; Seltzer is temporary and does not justify replacing our permanent scoring or seal-generation Jokers.

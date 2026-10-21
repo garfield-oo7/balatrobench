@@ -1,0 +1,1 @@
+Buy Mad Joker for reliable early scoring at only $4. Two Pair now scores roughly 500–750 chips, enough to beat the upcoming 450-chip Big Blind in one hand; Full House also activates its +10 Mult. This supplies our first scoring engine while retaining $6 rather than exhausting our economy on the voucher or speculative packs.

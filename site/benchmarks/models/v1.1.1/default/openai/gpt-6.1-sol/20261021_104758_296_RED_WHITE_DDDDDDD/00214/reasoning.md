@@ -1,0 +1,1 @@
+Buy The Star to sell for Campfire fuel, not to convert our Spades into Diamonds. The $3 purchase and $1 resale cost only $2 net and increase Campfire from ×1.5 to ×1.75, a guaranteed 16.7% improvement to every scoring hand. This is much better value than another increasingly expensive speculative reroll, and leaves ample funds for additional upgrades and a boss reroll.

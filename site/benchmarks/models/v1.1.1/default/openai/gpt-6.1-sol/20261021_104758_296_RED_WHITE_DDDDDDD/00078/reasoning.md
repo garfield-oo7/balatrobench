@@ -1,0 +1,1 @@
+Play two pair, sixes and fives, with 5♦ last so Ancient Joker multiplies both Even Steven bonuses. Retain both Steel cards for ×2.25 held Mult. Before any existing Hiker bonuses, this scores (20+6+6+5+5) × (((2+4+4)×1.5×2.25)+18) = 2,173.5 chips, comfortably exceeding the remaining 1,576 and beating The Goad with two hands unspent.

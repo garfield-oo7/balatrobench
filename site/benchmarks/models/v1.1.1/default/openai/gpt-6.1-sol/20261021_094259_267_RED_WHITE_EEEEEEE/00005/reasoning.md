@@ -1,0 +1,1 @@
+Play the five highest hearts for a flush worth (35+10+10+8+6+5)×4 = 296. No discards remain, so take the near-complete blind now; only 4 points will remain, which any subsequent hand can supply. Keep both Threes for a guaranteed scoring pair next hand.

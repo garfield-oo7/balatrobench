@@ -1,0 +1,1 @@
+Open the $4 Buffoon Pack to seek chip support, economy, or multiplicative scaling for our reliable Smeared Joker flush build. We have two empty Joker slots and sufficient additive Mult from Even Steven and Supernova, making an additional complementary Joker valuable entering Ante 3. This leaves $31, preserving maximum interest and room for another useful purchase.

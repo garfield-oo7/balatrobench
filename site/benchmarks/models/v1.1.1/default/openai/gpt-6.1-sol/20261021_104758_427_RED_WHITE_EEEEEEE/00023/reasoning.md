@@ -1,0 +1,1 @@
+Play Nines full of Eights for (40 + 27 + 16) × (4 + 8 from the two Eights triggering Even Steven + 8 from Jolly Joker) = 1,660 chips. This exceeds the 1,200 target immediately, preserving three hands for $3 and avoiding any further discards.

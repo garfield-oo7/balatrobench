@@ -1,0 +1,1 @@
+Skip these unmodified cards to increase Red Card from +12 to +15 Mult. With Cavendish this adds 9 effective Mult to every hand, a reliable permanent improvement that outweighs adding a plain King of Spades. None of the cards has an enhancement, edition, or seal worth diluting our Trading Card-thinned deck.

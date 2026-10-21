@@ -1,0 +1,1 @@
+Buy Earth for $3 as guaranteed Campfire fuel, then sell it for $1. The $2 net investment raises Campfire from ×1.25 to ×1.5, a 20% increase to all scoring through Ante 8. Full House levels do not support our level-6 Spade-flush engine, so selling is more valuable than using it. Preserve our synergistic Joker lineup and ample cash for later shops and a potential boss reroll.

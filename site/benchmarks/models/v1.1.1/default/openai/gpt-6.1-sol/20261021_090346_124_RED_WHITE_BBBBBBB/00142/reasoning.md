@@ -1,0 +1,1 @@
+Open the $3 Buffoon Pack to look for a meaningful scaling or ×Mult upgrade for Ante 6–8. Our current additive Jokers are serviceable, but stronger multiplication would improve both level-7 trips and level-8 Two Pair. We retain $45 and maximum interest. Inspect the options before selling anything; only replace a current Joker if the revealed choice is a concrete improvement.

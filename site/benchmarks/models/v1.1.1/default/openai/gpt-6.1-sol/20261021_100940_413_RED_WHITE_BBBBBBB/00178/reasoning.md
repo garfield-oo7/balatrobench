@@ -1,0 +1,1 @@
+Buy Judgement for $1, then sell it for $1 to fuel Campfire for zero net cost. With all Joker slots occupied, using Judgement is unavailable, while selling it increases Campfire from ×1.25 to ×1.5—a 20% improvement to every scoring hand. Preserve the current scoring lineup and ample cash for further discounted Campfire fuel.

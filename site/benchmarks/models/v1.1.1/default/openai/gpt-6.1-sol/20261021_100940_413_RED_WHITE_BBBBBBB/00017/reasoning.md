@@ -1,0 +1,1 @@
+Use Venus now to upgrade Three of a Kind to level 2 (50 chips, 5 Mult), freeing a consumable slot for Certificate's purple or blue seal rewards. With Zany Joker, even three twos score (50 + 6) × (5 + 12) = 952, enough for a normal Ante 1 boss. This costs no money and preserves our $25 interest bank.

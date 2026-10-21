@@ -1,0 +1,1 @@
+Play tens and sixes with the queen. Splash scores all five cards, giving (20 + 10 + 10 + 10 + 6 + 6) × 2 = 124 chips. This reaches 484, beating the 450 target immediately and preserving two hands for income; no discards are needed.

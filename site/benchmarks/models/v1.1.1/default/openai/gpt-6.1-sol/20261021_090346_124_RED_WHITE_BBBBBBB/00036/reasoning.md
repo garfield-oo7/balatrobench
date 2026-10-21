@@ -1,0 +1,1 @@
+Use Temperance now for a guaranteed $7, raising money to $45 and freeing a consumable slot for Certificate's blue/purple-seal rewards. Our current Joker sell values are unlikely to rise soon, so holding it offers little benefit. Keep the full-house scoring core intact; Riff-raff cannot generate anything with all Joker slots filled.

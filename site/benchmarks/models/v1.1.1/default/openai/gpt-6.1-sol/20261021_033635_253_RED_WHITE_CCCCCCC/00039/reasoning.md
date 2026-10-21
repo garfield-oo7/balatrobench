@@ -1,0 +1,1 @@
+Use the copied Hermit now for the full $20 payout, increasing money from $44 to $64. There is no benefit to waiting at this balance; freeing the consumable slot also allows future Tarot generation and gives us more funds to find a reliable scoring or scaling Joker while preserving maximum interest.

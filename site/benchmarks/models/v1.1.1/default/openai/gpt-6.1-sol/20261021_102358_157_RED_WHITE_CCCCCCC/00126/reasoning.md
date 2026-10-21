@@ -1,0 +1,1 @@
+Use the first discard on 5♦ to trigger Trading Card: permanently remove a weak off-suit card and earn $3, raising money to $107 and Bootstraps from +40 to +42 Mult. Preserve the already-complete A♠ J♠ 10♠ 8♠ 7♠ flush, which will easily beat 20,000 in one hand (about 80,442 after the money gain). This secures deck thinning and income without spending a hand or Justice.

@@ -1,0 +1,1 @@
+Keep Nines full of Sevens as a guaranteed 972-point fallback and discard the three unpaired cards. A fourth Nine scores 1,440; any even-ranked pair replacing the Sevens makes a full house worth at least 1,420, beating 1,200 in one hand. Use free discards to seek that immediate win while preserving all four hands.

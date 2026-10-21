@@ -1,0 +1,1 @@
+Reroll for $5: Ride the Bus is too slow to replace our established Jokers, and Blank provides no immediate power. With $127, we can comfortably search for Uranus, useful Tarot cards, or a major Joker upgrade while preserving maximum interest. Keep Blueprint copying ×4.25 Hologram; their combined ×18.0625 multiplier strongly supports our level-19 Two Pair engine.

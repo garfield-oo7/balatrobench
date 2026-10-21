@@ -1,0 +1,1 @@
+Use Uranus now to upgrade Two Pair, our most-played scoring hand, from 20 chips ×2 Mult to 40 chips ×3 Mult. The permanent +20 chips scales well with Green Joker's +12 Mult and holographic +10, and improves our reliable Burglar-powered pair cycling without spending more money. We have no Observatory incentive to hold it.

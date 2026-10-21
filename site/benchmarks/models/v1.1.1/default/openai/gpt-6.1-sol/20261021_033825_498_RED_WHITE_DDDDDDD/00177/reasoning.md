@@ -1,0 +1,1 @@
+Buy The Hermit for $3, then use it immediately to gain $20: with $38 now, this yields a guaranteed net $17 and brings us to $55. That funds additional searches for multiplicative scoring or retriggers while preserving a $10 Director's Cut reserve. Our consumable slots are empty, so there is no opportunity cost to taking this guaranteed economy upgrade.

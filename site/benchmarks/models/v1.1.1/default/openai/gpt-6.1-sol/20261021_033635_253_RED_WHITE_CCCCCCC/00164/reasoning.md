@@ -1,0 +1,1 @@
+Our level-5 Spade flush engine needs compatible ×Mult to scale into Antes 7–8; Mercury, Mad Joker, and Magic Trick do not help. Reroll for options such as Blackboard, Card Sharp, or a copying Joker. Spending $6 leaves $54, preserving maximum $10 Seed Money interest and retaining +20 Bootstraps Mult. Do not sell any current Joker until a definite replacement appears.

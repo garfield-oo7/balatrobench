@@ -1,0 +1,1 @@
+Use The Hermit now for the full $20 payout, increasing money from $110 to $130 and freeing the consumable slot. Waiting cannot increase its capped return. This funds late-game upgrades while preserving maximum interest; Dusk and Blank do not improve our established Two Pair engine.

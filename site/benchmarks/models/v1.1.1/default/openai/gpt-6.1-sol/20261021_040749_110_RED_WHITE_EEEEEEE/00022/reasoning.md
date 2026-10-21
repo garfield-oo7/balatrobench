@@ -1,0 +1,1 @@
+Preserve Nines full of Sevens, worth (40+27+14)×(4+8)=972, and cycle the three unpaired cards using a free discard. A fourth Nine yields 1,440, or any even-ranked pair replacing the Sevens produces a full house worth at least 1,420, clearing 1,200 in one hand. We retain the guaranteed full house and four hands if the draw misses.

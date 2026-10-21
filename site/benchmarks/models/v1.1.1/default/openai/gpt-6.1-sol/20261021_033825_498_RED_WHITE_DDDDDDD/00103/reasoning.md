@@ -1,0 +1,1 @@
+Buy The Hermit for $3 and then use it for $20, a guaranteed net gain of $17. With $68 already available and an empty consumable area, this funds Grabber and further targeted upgrades while maintaining the $50 balance needed for maximum Seed Money interest. Keep Even Steven before Ancient Joker, since its per-card Mult must precede Ancient's per-card multiplier.

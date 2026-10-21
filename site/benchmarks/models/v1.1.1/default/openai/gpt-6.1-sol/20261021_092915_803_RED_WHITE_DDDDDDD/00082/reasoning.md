@@ -1,0 +1,1 @@
+Delayed Gratification is unreliable because Ancient Joker flushes often require several discards, and Venus does not improve our main hand. Reroll for $4, keeping $54 and maximum Seed Money interest. Look for retriggers, Blueprint/Brainstorm, or stronger scoring and flush-consistency support; our full Joker lineup needs a meaningful upgrade rather than another economy Joker.

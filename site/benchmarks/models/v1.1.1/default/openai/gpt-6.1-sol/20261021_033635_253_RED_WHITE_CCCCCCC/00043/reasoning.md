@@ -1,0 +1,1 @@
+The last Tarot used was The Hermit, so The Fool creates another Hermit. With $51 and empty consumable slots, we can use it for the full $20 payout, funding future scaling upgrades while preserving maximum interest. This guaranteed return is stronger than two Lucky enhancements or a Wild card here.

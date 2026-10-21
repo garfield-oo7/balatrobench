@@ -1,0 +1,1 @@
+Buy Pluto for $1 to sell immediately for $1. High Card upgrades do not support our level-9 trips strategy, whereas this cash-neutral sale will raise Campfire from ×1.25 to ×1.5—a 20% scoring increase without permanently reducing Bull's chips or interest. Keep all five scoring Jokers.

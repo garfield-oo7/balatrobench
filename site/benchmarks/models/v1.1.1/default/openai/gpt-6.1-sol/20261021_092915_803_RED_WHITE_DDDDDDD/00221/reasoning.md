@@ -1,0 +1,1 @@
+Buy Neptune to sell rather than use: Straight Flush upgrades are unreliable for our Spade-flush build, while the $2 net buy/sell cost raises Campfire from X2 to X2.25, a guaranteed 12.5% scoring increase for both remaining blinds. We have ample funds and should keep our strong Seltzer/Arrowhead/Fibonacci lineup intact.

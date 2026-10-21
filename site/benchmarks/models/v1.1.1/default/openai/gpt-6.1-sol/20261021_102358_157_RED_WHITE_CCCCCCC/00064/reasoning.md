@@ -1,0 +1,1 @@
+Skip to increase Red Card from +15 to +18 Mult, adding +9 effective Mult with Cavendish to every hand. Saturn is the best offered planet, but its extra chips and Mult apply only to straights, with no Shortcut or Four Fingers to ensure consistency. Our Splash–Wrathful engine scores flexible five-card hands, so universal scaling is more reliable than upgrading a situational hand.

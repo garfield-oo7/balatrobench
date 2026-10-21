@@ -1,0 +1,1 @@
+Reroll for $5, leaving $57 and maximum interest. Neither Tower nor Superposition meaningfully strengthens our current build. With two empty Joker slots, level-1 hands, and only +6 flat Mult plus Spade bonuses, we need stronger scoring or scaling before later antes. Our large bankroll and Clearance Sale make searching for useful Jokers or focused planets worthwhile.

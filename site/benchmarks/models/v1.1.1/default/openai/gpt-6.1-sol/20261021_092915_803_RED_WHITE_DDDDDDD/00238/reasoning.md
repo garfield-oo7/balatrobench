@@ -1,0 +1,1 @@
+Buy Pluto to sell for $1, using its $2 net cost to raise Campfire from X3 to X3.25. This guarantees an 8.3% increase to our powerful retriggered Spade-flush scoring, whereas upgrading High Card contributes little. Keep all six synergistic Jokers and ample money for further upgrades and a possible Director's Cut boss reroll.

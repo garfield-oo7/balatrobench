@@ -1,0 +1,1 @@
+Keep A♣, Q♣, 8♣, and 6♣; discard the four non-clubs to seek a flush while preserving all four hands. These clubs total 35 chips, so any club of rank 5 or higher completes a flush worth at least 300 and wins immediately; a lower club still puts us close to the target.

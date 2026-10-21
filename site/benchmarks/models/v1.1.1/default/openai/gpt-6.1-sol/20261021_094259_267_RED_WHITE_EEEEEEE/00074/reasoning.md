@@ -1,0 +1,1 @@
+Take A♣ to increase Hologram permanently from ×1.75 to ×2, boosting every hand's score by 14.3%. None of the offered cards has an enhancement or triggers Even Steven, so the Ace's 11 chips make it the strongest standalone scoring choice. Smeared Joker lets it join either Clubs or Spades for our level-8 Flush engine.

@@ -1,0 +1,1 @@
+Sell Saturn as planned, raising Campfire from X3.5 to X3.75 for a guaranteed 7.1% scoring increase against the final boss. Straight upgrades do not help our level-7 Spade-flush engine. This also restores $1 and frees the consumable slot; preserve all six synergistic Jokers and keep funds for further upgrades and Director's Cut.

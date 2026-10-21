@@ -1,0 +1,1 @@
+Take 10♥ to raise Hologram permanently from ×1.5 to ×1.75, a 16.7% increase to every hand's score. All three choices activate Even Steven, but the Ten supplies the most chips while fitting red flushes through Smeared Joker. Its enhancement is unspecified, so no additional benefit is assumed; the high even rank and guaranteed Hologram scaling already justify taking it.

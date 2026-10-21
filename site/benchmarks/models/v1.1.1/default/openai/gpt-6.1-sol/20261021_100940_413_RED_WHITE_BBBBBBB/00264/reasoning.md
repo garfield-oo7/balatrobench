@@ -1,0 +1,1 @@
+Sell Mercury for $1 to complete the zero-net-cost buy–sell and increase Campfire from ×3.75 to ×4. Pair is not our main scoring hand; this boosts every hand against the final boss without changing The Fool's copy target. Next, Mars can provide another free Campfire increase through the same buy–sell sequence.

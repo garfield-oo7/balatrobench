@@ -1,0 +1,1 @@
+Play the complete level-6 Spade flush for (110 base + 46 card chips + 100 Foil chips) × (14 base + 15 Wrathful + 36 Red Card + 42 Bootstraps) × 3 Cavendish = 82,176 chips, comfortably exceeding 20,000. Trading Card has already earned its thinning and income this round. Win in one hand, preserving four hands for payout and saving Justice.

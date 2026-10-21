@@ -1,0 +1,1 @@
+Play the diamond flush for (35 + 11 + 10 + 10 + 7 + 6) × 4 = 316 chips, immediately beating the 300-chip blind and preserving three hands for $3 in extra income. No discards or upgrades are needed.

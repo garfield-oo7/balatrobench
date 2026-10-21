@@ -1,0 +1,1 @@
+Use Uranus to raise our primary Two Pair from level 12 to 13, increasing its base chips from 240 to 260 and Mult from 13 to 14. We have no Observatory, so holding it provides no benefit; using it also frees space for future blue-seal planets. Keep Blueprint copying Hologram for scoring, and prioritize the Standard Pack next to improve both Hologram multipliers.

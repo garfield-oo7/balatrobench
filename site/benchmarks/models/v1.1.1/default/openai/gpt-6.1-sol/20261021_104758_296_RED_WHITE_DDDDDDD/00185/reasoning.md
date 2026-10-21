@@ -1,0 +1,1 @@
+Buy Earth as Campfire fuel, then sell it rather than upgrading our unused Full House. The $2 net cost raises Campfire from ×1.25 to ×1.5, a 20% scoring increase for the upcoming Ante 7 boss. We have $57, so this investment preserves maximum Seed Money interest after the sale and leaves ample funds for a boss reroll. Keep all six synergistic Jokers.

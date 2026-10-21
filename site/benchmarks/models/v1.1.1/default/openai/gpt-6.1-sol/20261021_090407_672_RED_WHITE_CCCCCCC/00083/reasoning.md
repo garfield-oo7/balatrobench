@@ -1,0 +1,1 @@
+Use the Jupiter we just purchased to permanently raise Flush to level 3 (65 base Chips, 8 Mult). This strengthens spade flushes alongside Wrathful Joker and Cavendish, costs no further money, and frees a consumable slot for Tarot generation or purchases. Keep The Empress for useful targets during play; without Observatory there is no benefit to holding Jupiter.

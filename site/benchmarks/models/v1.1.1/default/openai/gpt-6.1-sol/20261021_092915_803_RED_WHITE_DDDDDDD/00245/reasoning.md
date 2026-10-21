@@ -1,0 +1,1 @@
+Discard all five red cards, retaining S_K, S_5 and C_Q. We need to draw toward a level-6 Spade flush while clearing held red cards to enable Blackboard's X3. S_5 is particularly valuable with Fibonacci and Seltzer retriggers. Use our four discards before spending hands or Seltzer charges on weak plays.

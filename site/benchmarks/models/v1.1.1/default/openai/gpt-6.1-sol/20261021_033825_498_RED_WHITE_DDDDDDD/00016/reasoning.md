@@ -1,0 +1,1 @@
+Play the strongest available spade flush: K♠, J♠, 8♠, 7♠, 6♠. It scores (35 base + 41 card chips + 60 from Scary Face) × (4 base Mult + 15 from Wrathful Joker) = 2,584, comfortably beating 800 in one hand. Preserve three unused hands for $3 and avoid unnecessary discards.

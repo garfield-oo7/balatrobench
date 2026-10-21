@@ -1,0 +1,1 @@
+Discard A♦, K♦, Q♦, 7♦, and 3♥ as a red Flush through Smeared Joker. Burnt Joker upgrades Flush permanently to level 4 (80 Chips, 10 Mult), helping offset The Flint's halved base scoring. Retain A♠, J♠, and especially 8♠ as a black-flush core, then draw five replacements to find even ranks for Even Steven. All four hands and three further discards remain to reach 4,000.

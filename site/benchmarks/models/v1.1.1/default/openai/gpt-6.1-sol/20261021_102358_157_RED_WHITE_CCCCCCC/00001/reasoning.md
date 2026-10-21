@@ -1,0 +1,1 @@
+Keep the pairs of 9s and 6s and draw four cards toward a full house. Either 99966 (316 chips) or 66699 (304 chips) wins this blind in one hand, maximizing unspent-hand income. With four discards available, improving this two pair is better than spending a hand for only 100 chips.

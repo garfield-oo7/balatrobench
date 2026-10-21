@@ -1,0 +1,1 @@
+Open the $3 Standard Pack. A strong enhanced spade or a useful blue/purple-seal card could improve our flush engine; otherwise, skipping gives Red Card a permanent +3 Mult on every hand, amplified by Cavendish. This is a cheap guaranteed path to scaling without replacing our synergistic Jokers, and leaves $64, comfortably above the maximum-interest threshold.

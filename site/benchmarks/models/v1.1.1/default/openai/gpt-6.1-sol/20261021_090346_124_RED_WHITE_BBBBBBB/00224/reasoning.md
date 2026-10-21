@@ -1,0 +1,1 @@
+Play exactly the three Nines as level-9 Three of a Kind. This activates Zany and scores at least (190 + 27 + 96) × (19 + 15 + 12 + 10) × 1.54 × 3 = 80,979, exceeding the 70,000 target in one hand. The Gold Seal also earns $3. Do not include the two Tens: that would make a much weaker level-1 Full House. Preserve all remaining hands and avoid any further Ramen-reducing discards.

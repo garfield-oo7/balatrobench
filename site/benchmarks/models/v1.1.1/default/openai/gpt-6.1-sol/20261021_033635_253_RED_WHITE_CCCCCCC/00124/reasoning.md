@@ -1,0 +1,1 @@
+Use The Emperor now: consuming it frees its slot, allowing both random Tarot cards to be generated into our two empty consumable slots. This converts our $2 investment into opportunities for economy, spade conversion, duplication, or enhancements before deciding whether to leave the shop. The Order does not fit our Ouija-concentrated same-rank spades.

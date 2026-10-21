@@ -1,0 +1,1 @@
+Play the completed level-5 Diamond flush. It scores (95 base + 35 card chips + 100 from the two Foil Jokers) × (12 base + 33 Red Card + 36 Bootstraps) × 3 Cavendish = 55,890, safely exceeding the 22,000 target. Clubs are the only debuffed suit, so all five Diamonds score normally. Win in one hand to retain four hands for payout, saving Justice and avoiding unnecessary discards.

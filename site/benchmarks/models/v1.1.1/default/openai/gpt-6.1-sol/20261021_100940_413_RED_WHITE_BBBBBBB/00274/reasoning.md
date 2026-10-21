@@ -1,0 +1,1 @@
+Open the $2 Arcana Pack before spending on more rerolls. Hermit, Temperance, or Fool could fund further final-boss preparation; otherwise Glass, Steel, Mult enhancements or deck manipulation can improve scoring and consistency. Keep our synergistic Joker lineup and its correct ordering intact; Smeared Joker does not support our developed Three of a Kind and Two Pair hands.

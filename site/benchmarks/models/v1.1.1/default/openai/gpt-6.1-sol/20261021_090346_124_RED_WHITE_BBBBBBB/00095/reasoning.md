@@ -1,0 +1,1 @@
+Use The Fool to copy Uranus, the last Tarot or Planet used (the recent Celestial Pack selection). This will let us upgrade Two Pair to level 5, improving the reliable Clever Joker fallback. Temperance was used earlier, before Uranus; do not spend on the unrelated Neptune or another expensive reroll.

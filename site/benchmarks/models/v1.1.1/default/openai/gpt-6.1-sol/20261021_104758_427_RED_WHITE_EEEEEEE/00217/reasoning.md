@@ -1,0 +1,1 @@
+Use Uranus now to raise our primary Two Pair to level 26 (+20 Chips and +1 Mult), improving every subsequent scoring hand and freeing a slot for more blue-seal planets. We have no Observatory incentive to hold it. Keep Blueprint copying Hologram; the current Joker order is already correct.

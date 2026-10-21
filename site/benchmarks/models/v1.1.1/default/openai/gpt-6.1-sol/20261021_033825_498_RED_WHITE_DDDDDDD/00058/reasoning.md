@@ -1,0 +1,1 @@
+Buy Jupiter for $3 to upgrade our dominant hand, Flush (9 plays), from 35 chips/4 Mult to 50 chips/6 Mult. The extra base Mult is amplified by Ancient Joker's five ×1.5 triggers, making this a reliable scoring investment for later antes. We retain $39 and maximum current interest; use the planet immediately after purchasing.

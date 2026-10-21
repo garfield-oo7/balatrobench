@@ -1,0 +1,1 @@
+Only 25 chips remain. Play the Queen alone for (5 + 10 + 30 from Scary Face) × (1 + 10 from holographic Runner) = 495 chips, comfortably defeating The House. Finish immediately to preserve four unused hands for $4 income; no resources or Joker sales are needed.

@@ -1,0 +1,1 @@
+Sell Earth as planned: Full House levels do not support our level-6 Spade flush engine. The sale earns $1 and increases Campfire from X1.25 to X1.5, a guaranteed 20% improvement to all scoring until the Ante 8 boss is defeated, without sacrificing a synergistic Joker.

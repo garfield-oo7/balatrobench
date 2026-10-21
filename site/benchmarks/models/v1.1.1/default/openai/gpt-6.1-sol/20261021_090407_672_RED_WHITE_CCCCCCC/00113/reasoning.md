@@ -1,0 +1,1 @@
+Enhance both spade Kings with +4 Mult permanently: they are premium cards for our spade-flush build and also form a strong pair together. No further discards are needed—playing Kings and Eights afterward already clears this blind comfortably (about 32,292 with these enhancements), preserving all four unused hands for income. Cavendish is already correctly positioned last.

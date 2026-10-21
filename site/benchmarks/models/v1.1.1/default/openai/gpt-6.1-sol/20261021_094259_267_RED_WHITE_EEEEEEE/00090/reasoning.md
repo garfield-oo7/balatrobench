@@ -1,0 +1,1 @@
+Take the 10♦: it triggers Even Steven for +4 Mult, supplies 10 rank chips, and joins either Hearts or Diamonds flushes through Smeared Joker. Among these unmodified cards it is slightly stronger than the 8♦ and more synergistic than the odd ranks or Queen. Adding it also permanently raises Hologram from ×3.5 to ×3.75, improving every scoring hand by about 7.1%.

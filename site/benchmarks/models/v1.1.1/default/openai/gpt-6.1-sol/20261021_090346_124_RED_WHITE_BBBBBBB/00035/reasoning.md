@@ -1,0 +1,1 @@
+Buy Temperance for $2 and use it for $7 from our current Joker sell values, a guaranteed $5 net profit. We have a free consumable slot and remain above the $25 interest cap. Riff-raff cannot generate Jokers with all five slots occupied, so it is not an upgrade to our effective Full House scoring core.

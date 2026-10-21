@@ -1,0 +1,1 @@
+Keep HJ, H9, and H3 and discard all five non-Hearts to seek the two Hearts needed for an Ancient-powered level-4 flush, ideally drawing even Hearts early in scoring and a Steel card to hold. We still need 28,208 chips; the current two pair is far too weak, and playing it would let The Hook discard our retained Hearts. Use the available discards before risking those cards.

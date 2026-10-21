@@ -1,0 +1,1 @@
+Sell The Devil as planned to raise Campfire from X1 to X1.25 for all three Ante 8 blinds, while gaining $1 and freeing a consumable slot. Its Gold enhancement offers little immediate value this late; the guaranteed 25% scoring increase supports our level-6 Spade flushes while Ancient targets Diamonds. Keep all six synergistic Jokers.

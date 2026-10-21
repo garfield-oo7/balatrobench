@@ -1,0 +1,1 @@
+Reroll for $7: Egg and Mercury offer no meaningful improvement to our level-18 Two Pair engine. With $118 we can afford a few selective searches while staying well above the interest cap. Seek Uranus, useful Tarot cards, or a strong permanent multiplier to improve Ante 8 boss safety; preserve Blueprint copying Hologram and do not sell an existing Joker without a clear upgrade.

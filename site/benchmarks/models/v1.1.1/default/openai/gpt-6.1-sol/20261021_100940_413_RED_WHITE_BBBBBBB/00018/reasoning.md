@@ -1,0 +1,1 @@
+Keep $25 for maximum interest and advance. Level-2 Three of a Kind with Zany Joker scores at least 952 chips, sufficient for the normal Ante 1 boss, while Certificate provides extra opening cards and ongoing seal value. The packs and reroll offer only speculative improvements; Hieroglyph's permanent loss of a hand is unnecessary here.

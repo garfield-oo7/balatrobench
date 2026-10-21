@@ -1,0 +1,1 @@
+Play the five Hearts as a level-2 flush, with 8♥ first so Even Steven adds +4 Mult before all five Ancient Joker ×1.5 triggers. Steel 7♥ must be played to complete the flush. Expected score is (50 + 40 + 48) × ((6 + 4) × 1.5^5 + 18) ≈ 12,963, exceeding the 11,000 target in one hand and preserving three hands for payout.

@@ -1,0 +1,1 @@
+Skip to raise Red Card permanently from +15 to +18 Mult, adding 9 effective Mult to every hand with Cavendish. None of these cards is a spade or has a listed seal or edition; the unspecified enhancement on the diamond five is not enough to justify diluting our thinned, spade-focused deck over guaranteed universal scaling.

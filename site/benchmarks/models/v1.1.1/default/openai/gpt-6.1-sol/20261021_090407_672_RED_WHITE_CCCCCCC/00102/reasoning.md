@@ -1,0 +1,1 @@
+Play our five highest non-debuffed spades: both Aces, Ten, Nine, and Eight. This level-4 Flush scores approximately (80 + 49 + 50 Foil) × (10 + 15 Wrathful + 21 Red Card + 5 Supernova) × 3 Cavendish = 27,387, comfortably exceeding the 10,000 target in one hand. Avoid the debuffed Jack, preserve Empress for a future round, and finish with four unused hands for income.

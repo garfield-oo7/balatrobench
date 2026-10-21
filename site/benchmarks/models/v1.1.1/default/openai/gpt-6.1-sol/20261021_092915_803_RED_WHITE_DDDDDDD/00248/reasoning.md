@@ -1,0 +1,1 @@
+Buy Saturn for $3 to sell rather than use: Straight levels do not support our Spade-flush engine, while the $2 net buy/sell cost raises Campfire from X3.25 to X3.5, a guaranteed 7.7% scoring increase for the final boss. Preserve the entire synergistic Joker lineup and ample cash for further consumables and Director's Cut insurance.

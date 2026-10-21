@@ -1,0 +1,1 @@
+Sell Saturn for $1 to raise Campfire from ×1.75 to ×2 at no net purchase/sale cost. An unused level-1 Straight upgrade is much less valuable than increasing all scores by about 14%, especially our level-11 Three of a Kind. Then the remaining $1 Fool can likewise be bought and sold for another free Campfire increment.

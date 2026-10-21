@@ -1,0 +1,1 @@
+Choose The Emperor: both consumable slots are empty, so it generates two Tarot cards we can hold and use strategically. This offers greater flexible value than two random planets, which are unlikely to upgrade Flush, or Bonus enhancements on this mixed-suit hand. Potential Hermit or Temperance improves our economy, while enhancements and suit changes support the flush engine.

@@ -1,0 +1,1 @@
+Take The Hermit for the full $20 gain. At $159 this raises cash to $179 and Bootstraps from +62 to +70 Mult, an immediate +8 Mult on every hand, exceeding the +3 from skipping and the occasional benefit of two Mult enhancements. It preserves maximum interest and provides spending flexibility without altering our reliable Spade-flush deck.

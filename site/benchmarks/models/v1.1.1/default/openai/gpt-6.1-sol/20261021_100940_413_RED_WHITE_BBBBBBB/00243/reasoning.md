@@ -1,0 +1,1 @@
+Buy The Moon for $1 and sell it for $1 afterward to raise Campfire from ×2.5 to ×2.75 at no net cost. This adds 10% to every hand's score through the Ante 8 boss without disturbing our strong Joker lineup. Our existing Joker order already places additive Mult before Ramen and Campfire.

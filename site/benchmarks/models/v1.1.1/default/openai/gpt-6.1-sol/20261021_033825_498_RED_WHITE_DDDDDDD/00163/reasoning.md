@@ -1,0 +1,1 @@
+Keep the Ace and 4 of Spades to build a level-5 flush supported by Arrowhead and Wrathful Joker. Retain the Diamond Jack as a secondary Ancient Joker option, and cycle the other five cards to find more Spades, enhanced cards, or held Steel support. No current hand scores enough to justify spending one of our five hands against 52,500; use discards to improve the draw first.

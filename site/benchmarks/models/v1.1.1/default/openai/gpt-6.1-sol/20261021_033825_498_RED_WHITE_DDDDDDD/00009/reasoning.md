@@ -1,0 +1,1 @@
+Play the five-spade flush to win immediately: (35 + 11 + 10 + 10 + 8 + 3 + 60 from two face cards) × (4 + 15 from five spades) = 2,603 chips, comfortably exceeding 450. This preserves three unused hands for $3 income; no further discards or rearrangement are needed.

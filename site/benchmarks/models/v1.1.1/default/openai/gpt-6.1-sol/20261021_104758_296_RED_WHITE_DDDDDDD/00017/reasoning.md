@@ -1,0 +1,1 @@
+Play K♠, J♠, 8♠, 7♠, 6♠ for a spade flush. Scary Face adds 60 chips and Wrathful Joker adds 15 Mult, yielding (35 + 10 + 10 + 8 + 7 + 6 + 60) × (4 + 15) = 2,584 chips. This comfortably clears 800 in one hand and preserves three unused hands for $3.

@@ -1,0 +1,1 @@
+Sell Pluto as planned: High Card is unused, while this sale increases Campfire from ×1.25 to ×1.5, a 20% increase to every scoring hand. It also restores money to $38, improving Bull to +76 Chips and preserving maximum interest. Keep all five scoring Jokers intact.

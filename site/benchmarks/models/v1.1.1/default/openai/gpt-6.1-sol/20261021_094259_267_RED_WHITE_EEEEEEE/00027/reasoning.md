@@ -1,0 +1,1 @@
+Keep A♥, 4♦, and 2♦ as a red-flush core; the two even cards already provide +8 Mult. Discard both visible black cards and all three unknown cards to draw five face-up replacements. Smeared Joker makes any new hearts or diamonds compatible, while Supernova boosts our established flush strategy. Preserve all four hands and seek red even ranks for a strong opening score.

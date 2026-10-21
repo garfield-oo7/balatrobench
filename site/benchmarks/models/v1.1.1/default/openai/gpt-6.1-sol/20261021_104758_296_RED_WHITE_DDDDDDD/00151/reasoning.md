@@ -1,0 +1,1 @@
+Reroll for $3, leaving $62 and preserving maximum $10 Seed Money interest. Mars and Devious Joker do not support our established flush engine, and the Standard Pack is less targeted. Look for Jupiter, useful Tarot cards, or a strong multiplicative/retrigger Joker that could improve our Ante 7–8 scaling; Hiker is a potential replacement only for a clear upgrade.

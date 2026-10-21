@@ -1,0 +1,1 @@
+Use Cryptid on the Spade Ace just given a Gold Seal by Talisman. Its two copies inherit the seal, adding high-chip Spades that improve level-7 Flush consistency and earn $3 each when scored, supporting Bootstraps scaling. This is substantially more valuable than +3 Red Card Mult from skipping. Avoid Incantation's uncontrolled deck dilution and Ectoplasm's hand-size penalty.

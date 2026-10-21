@@ -1,0 +1,1 @@
+Keep 8♠, 7♠, 6♠, and 4♠ and draw four for a spade flush. Any fifth spade guarantees at least (35 + 8 + 7 + 6 + 4 + 2) × 19 = 1,178 points, beating the 800 target in one hand; a spade face card adds another 30 chips. With three discards remaining, this is much stronger than spending a hand on the weak pair of sixes.

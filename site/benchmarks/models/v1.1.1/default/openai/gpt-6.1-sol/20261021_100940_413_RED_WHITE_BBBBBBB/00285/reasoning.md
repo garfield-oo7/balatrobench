@@ -1,0 +1,1 @@
+Buy Justice for $1 to sell back for $1, increasing Campfire from ×5 to ×5.25 at no net cost. This guarantees a 5% improvement to every scoring hand in the final boss without changing our strong, correctly ordered Joker lineup. Seeing Double's conditional ×2 is not a clear upgrade over our existing multipliers.

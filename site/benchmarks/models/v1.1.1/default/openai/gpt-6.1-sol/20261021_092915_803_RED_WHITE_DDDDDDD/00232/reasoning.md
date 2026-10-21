@@ -1,0 +1,1 @@
+Buy Mercury for $3 to sell for $1, increasing Campfire from X2.75 to X3. This is a guaranteed 9.1% increase to our established Spade-flush engine for only $2 net, substantially more efficient than another $8 reroll. Pair levels do not support our primary hand; keep all six synergistic Jokers and preserve funds for boss insurance.

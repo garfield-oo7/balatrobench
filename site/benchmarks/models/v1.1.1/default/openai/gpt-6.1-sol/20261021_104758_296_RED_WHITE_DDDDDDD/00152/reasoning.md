@@ -1,0 +1,1 @@
+Reroll for $4, leaving $58 and retaining maximum $10 Seed Money interest. Scholar is not a meaningful upgrade to our full Joker lineup, and Wheel of Fortune is an unreliable investment. Seek Jupiter, Spade conversion/copying Tarots, or a strong retrigger or multiplicative Joker to improve flush consistency and Ante 7–8 scoring; replace Hiker only for a clear upgrade.

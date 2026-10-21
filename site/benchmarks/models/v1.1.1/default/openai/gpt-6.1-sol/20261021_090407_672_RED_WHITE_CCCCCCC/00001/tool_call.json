@@ -1,0 +1,10 @@
+[
+  {
+    "id": "call_1YsUWIj5hrsrryD7Zh4nljH4",
+    "function": {
+      "arguments": "{\"cards\": [0, 1, 6, 7]}",
+      "name": "discard"
+    },
+    "type": "function"
+  }
+]

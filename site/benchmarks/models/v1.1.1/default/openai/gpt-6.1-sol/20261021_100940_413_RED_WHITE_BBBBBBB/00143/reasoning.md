@@ -1,0 +1,1 @@
+Buy Venus for $2 to upgrade our primary Three of a Kind to level 9 (190 Chips, 19 Mult). Both increases compound with Zany Joker and Ramen, providing a permanent improvement while leaving $40 and maximum interest. Bull is currently weaker than Banner's +120 Chips with four preserved discards, so it does not justify replacing a Joker.

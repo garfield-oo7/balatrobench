@@ -1,0 +1,1 @@
+Keep both kings and both jacks, drawing four cards toward a full house or four of a kind. Either full house scores 360, leaving only 90 for a subsequent Splash-assisted hand; four of a kind clears the blind outright. With three discards and all four hands remaining, improving these two high pairs is preferable to playing the current 142-point two pair.

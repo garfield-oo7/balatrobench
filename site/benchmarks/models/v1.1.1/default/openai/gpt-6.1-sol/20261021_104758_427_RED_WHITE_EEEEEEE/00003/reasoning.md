@@ -1,0 +1,1 @@
+Keep K♥, Q♥, 8♥ and 5♥ and draw four cards toward a flush. Four hearts now offer a stronger draw than the previous two-pair plan: any heart completes a flush worth at least 280, and a 7♥ or higher scores at least 300 to win immediately. We still have another discard to improve the flush if needed, preserving all four hands.

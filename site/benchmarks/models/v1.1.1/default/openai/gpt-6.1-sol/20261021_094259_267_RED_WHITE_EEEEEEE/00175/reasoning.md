@@ -1,0 +1,1 @@
+Take the heart Ace: no specific enhancements or seals are shown, so its 11 scoring Chips make it the strongest listed addition for our Smeared Flush build. Adding it also raises Hologram from ×4.25 to ×4.5; Blueprint copies that increase, improving their combined multiplier from ×18.0625 to ×20.25, about 12%. This guaranteed engine upgrade outweighs the small deck dilution.

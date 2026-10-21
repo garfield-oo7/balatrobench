@@ -1,0 +1,1 @@
+Keep A♠, 8♠, and 3♠ and draw five toward a spade flush. Any completed spade flush comfortably beats 450 thanks to Wrathful Joker's +15 Mult, even without face cards. We have four discards to find two more spades, and drawing spade faces also opens strong Scary Face combinations. Use discards before spending hands to preserve the one-hand-win payout.

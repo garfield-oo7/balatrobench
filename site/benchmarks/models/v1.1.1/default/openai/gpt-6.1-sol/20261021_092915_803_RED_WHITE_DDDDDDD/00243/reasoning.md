@@ -1,0 +1,1 @@
+Neither shop Joker improves our full, synergistic lineup. Reroll for $10, leaving $44, to find Jupiter, useful Tarots, or cheap consumables to sell for Campfire scaling. With Ante 8 nearly finished, spending surplus money on final scoring power is worthwhile; retain at least $10 for Director's Cut boss insurance.

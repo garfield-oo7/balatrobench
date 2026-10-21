@@ -1,0 +1,1 @@
+Choose Uranus to raise Two Pair to level 4 (80 Chips, 5 Mult). It is our most-used scoring hand and reliably scores four cards, supporting Even Steven, Scary Face, and Ancient Joker. The extra 20 base chips and 1 Mult improve our consistent scoring immediately; Saturn helps Runner but requires less reliable straights with no discards, while Earth upgrades a rarely played hand.

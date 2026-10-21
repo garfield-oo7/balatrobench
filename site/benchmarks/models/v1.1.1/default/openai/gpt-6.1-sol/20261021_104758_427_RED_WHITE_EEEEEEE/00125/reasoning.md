@@ -1,0 +1,1 @@
+Move Blueprint immediately before Burnt Joker to copy its first-discard upgrade. We already hold Two Pair (Nines and Eights), so discarding those four cards next will upgrade our main hand twice, from level 13 to 15. With four discards and four hands available, we can readily find another Two Pair afterward, then restore Blueprint beside Hologram for ×16 scoring.

@@ -1,0 +1,1 @@
+Buy Venus for only $2 to upgrade Three of a Kind from level 2 to level 3 (70 Chips, 7 Mult). This directly strengthens our Zany Joker-supported hand, adding reliable scoring without needing a Joker slot, while leaving $49 and maximum interest intact.

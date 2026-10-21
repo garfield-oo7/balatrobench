@@ -1,0 +1,1 @@
+Play the Jack with 7, 6, and 5 to score 45 chips through Scary Face while drawing four fresh cards. Retain the pair of 8s and King to build Two Pair or Full House for Mad Joker; pairing the King also activates Scary Face twice. This preserves our existing pair while efficiently cycling weak cards with Burglar's extra hands.

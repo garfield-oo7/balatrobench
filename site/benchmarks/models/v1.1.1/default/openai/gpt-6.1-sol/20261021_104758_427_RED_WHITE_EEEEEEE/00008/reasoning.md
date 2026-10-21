@@ -1,0 +1,1 @@
+Even Steven already provides sufficient scoring for Ante 1: two pair of even ranks gains +16 Mult, and flushes benefit from each scored even card. Keep $5 to earn $1 interest and rebuild our economy rather than spend $4 on a speculative Joker or To Do List's changing hand requirement. Save for stronger upgrades in later shops.

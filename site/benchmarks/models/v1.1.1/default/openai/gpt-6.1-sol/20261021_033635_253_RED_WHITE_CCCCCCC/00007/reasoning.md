@@ -1,0 +1,1 @@
+Take Splash for immediate scoring support with no Jokers currently owned. It lets extra cards score in pairs, two pairs, and trips, improving early-blind consistency without further spending. Red Card starts at +0 Mult and requires skipping future packs to grow, making it a slower, costly foundation while our economy is still developing.

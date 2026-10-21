@@ -1,0 +1,1 @@
+Leave with $1: nothing is affordable, and selling either Joker would weaken our strong early engine. Smeared Joker makes red/black flushes consistent, while Even Steven adds +4 Mult per scoring even rank, providing ample power for the next blinds. Preserve both Jokers and rebuild money through blind rewards and unused hands.

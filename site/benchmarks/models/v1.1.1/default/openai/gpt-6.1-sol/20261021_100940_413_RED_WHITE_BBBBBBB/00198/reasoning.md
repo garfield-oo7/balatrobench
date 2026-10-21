@@ -1,0 +1,1 @@
+Sell Uranus for $1 to raise Campfire from ×3 to ×3.25, improving every hand by 8.3% for the rest of Ante 7 while increasing cash to $29. Our primary scoring hand is level-11 Three of a Kind; a universal multiplier increase is more useful now than upgrading the secondary Two Pair hand. This completes the High Priestess value plan without sacrificing any scoring Joker.

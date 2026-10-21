@@ -1,0 +1,1 @@
+Play all three Twos plus the unscored Seven, leaving A, Q, J, and the Blue Seal Nine held. Raised Fist supplies +18 Mult, so level-5 Three of a Kind scores (110+6) × (11+12+18+15) × 2 = 12,992, beating the 11,000 target in one hand. This preserves three hands for income, keeps Ramen at ×2, and the held Blue Seal generates Venus in our open consumable slot.

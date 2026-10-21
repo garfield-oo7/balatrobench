@@ -1,0 +1,1 @@
+Reroll for $6 to look for a strong fifth Joker, scaling Mult, or a multiplier. Splash adds nothing to our main five-card flushes and full houses, while our current scoring needs improvement for upcoming Antes. With $60, this leaves $54, comfortably preserving maximum interest and enough money to purchase a meaningful upgrade.

@@ -1,0 +1,1 @@
+Play the five Spades for our level-7 Flush, including the King to activate Photograph and the Gold-Seal Ace to earn $3. Keep the Steel Diamond 6 held for ×1.5 Mult. Only 7,770 more chips are needed; this flush comfortably clears the blind even without optimizing card order, preserving three unused hands for payout and saving Justice for a later blind.

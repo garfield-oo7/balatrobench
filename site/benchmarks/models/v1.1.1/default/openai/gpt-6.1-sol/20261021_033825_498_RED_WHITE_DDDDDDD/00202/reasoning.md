@@ -1,0 +1,1 @@
+Play the five Hearts for a guaranteed winning level-5 Flush. Seltzer scores each Heart twice, giving ten Ancient Joker ×1.5 triggers: (95 + 2×41) × (12×1.5^10 + 18) ≈ 125,666, comfortably exceeding 75,000 even with the Steel 7 played rather than held. Preserve Death and The Magician for the final boss, and finish with four unused hands and minimal Seltzer consumption.

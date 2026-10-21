@@ -1,0 +1,1 @@
+Skip these unmodified cards to raise Red Card from +18 to +21 Mult. With Cavendish, that adds +9 effective Mult to every hand without diluting our Trading Card-thinned deck. The ordinary King of Spades fits Wrathful Joker but is less valuable than guaranteed universal scaling.

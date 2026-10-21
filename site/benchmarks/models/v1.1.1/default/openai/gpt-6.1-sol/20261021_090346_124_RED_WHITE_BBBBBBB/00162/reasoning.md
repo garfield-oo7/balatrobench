@@ -1,0 +1,1 @@
+Use Venus immediately to raise Three of a Kind to level 9 (190 Chips, 19 Mult), permanently strengthening our primary hand without reducing cash or Bull's +88 Chips. Playing exactly three matching cards also activates Half Joker, with all additive Mult amplified by Ramen ×1.91. This frees a consumable slot for future useful cards.

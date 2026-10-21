@@ -1,0 +1,1 @@
+Use Temperance now for $6, raising cash from $33 to $39. This guaranteed profit is more valuable than selling it for one Campfire increment: it funds additional discounted consumable purchases and sales while keeping maximum interest. It also frees a consumable slot without sacrificing any scoring Joker.

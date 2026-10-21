@@ -1,0 +1,1 @@
+Use Jupiter now to permanently upgrade our primary Flush from level 5 to 6, raising its base from 95 Chips ×12 Mult to 110 Chips ×14 Mult. This directly strengthens our Spade-flush engine without reducing money, Bootstraps, or interest, and frees a consumable slot. We have no Observatory incentive to hold it.

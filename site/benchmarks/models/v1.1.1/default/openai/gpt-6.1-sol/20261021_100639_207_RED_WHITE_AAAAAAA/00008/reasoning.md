@@ -1,0 +1,1 @@
+Buy Scary Face to supply chips alongside Mad Joker's +10 Mult. A face-card pair contributes +60 chips, adding 720 points to a two-pair hand with Mad Joker; full houses benefit too. This is a reliable $4 upgrade that helps clear the upcoming boss and Ante 2 in fewer hands, improving Burglar's unused-hand income. Keep the remaining $2 rather than gamble on packs or reroll.

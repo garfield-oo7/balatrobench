@@ -1,0 +1,1 @@
+Activate Trading Card with a single-card first discard: destroy the debuffed Heart 2 and earn $3, improving both our economy and deck quality. Preserve the pair of 9s and three Clubs while drawing a replacement; we still have three discards to develop a full house, flush, or straight supported by Trading Card's +50 Chips.

@@ -1,0 +1,1 @@
+Ramen now supplies the needed ×Mult and is correctly placed last, so stop paying escalating reroll costs. Open a discounted $3 Arcana Pack for potential rank consolidation, enhancements, deck thinning, or economy; Death and Strength can improve our Two Pair/trips consistency without discarding and weakening Ramen. This leaves $45, comfortably above the maximum-interest threshold.

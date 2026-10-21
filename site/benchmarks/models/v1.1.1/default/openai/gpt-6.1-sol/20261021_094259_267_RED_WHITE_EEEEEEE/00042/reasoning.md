@@ -1,0 +1,1 @@
+Play J♣, 10♠, 9♠, 4♣, and 2♣ as a black Flush through Smeared Joker. Three even ranks supply +12 Mult and our ninth Flush adds +9 from Supernova, scoring (65+10+10+9+4+2) × (8+12+9) = 2,900. This comfortably covers the remaining 256 points, wins the blind now, and preserves two hands for income.

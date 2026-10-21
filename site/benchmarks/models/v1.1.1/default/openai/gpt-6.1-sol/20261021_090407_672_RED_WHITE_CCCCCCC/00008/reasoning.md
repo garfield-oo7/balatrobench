@@ -1,0 +1,1 @@
+Save the $6 to retain $1 interest and build toward stronger scoring purchases. Reserved Parking consumes all our cash without improving scoring; Mars is unreliable with an unmodified deck, and paying $6 just to skip the Celestial Pack for Red Card's +3 Mult is too expensive now. Ante 1's Big Blind is still manageable with natural flushes, straights, or full houses.

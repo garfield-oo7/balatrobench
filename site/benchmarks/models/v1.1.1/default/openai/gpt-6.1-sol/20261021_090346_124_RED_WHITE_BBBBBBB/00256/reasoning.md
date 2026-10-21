@@ -1,0 +1,1 @@
+Buy Justice for $1 to resell for $1, giving Campfire another ×0.25 at zero net cost and restoring Bull's chips afterward. With the Ante 8 boss next, increasing Campfire from ×2.75 to ×3 provides a reliable 9.1% boost to every hand; our open consumable slot allows this without sacrificing The Fool.

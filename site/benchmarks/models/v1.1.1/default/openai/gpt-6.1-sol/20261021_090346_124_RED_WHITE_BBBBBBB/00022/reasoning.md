@@ -1,0 +1,1 @@
+Buy Raised Fist for $5, leaving $29 and maximum interest. It provides flexible Mult on every hand, improving weak draws that cannot trigger Zany Joker and adding further power to level-2 trips. Cycle low held cards when practical to increase its bonus. Smeared Joker is less aligned with our trips investment, and neither speculative Standard Packs nor a paid reroll is needed now.

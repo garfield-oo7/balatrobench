@@ -1,0 +1,40 @@
+# Memory & Previous Actions
+
+
+## Recent Decision History
+
+Here is a list of your recent decisions (from oldest to newest):
+
+
+**1.** `pack({'card': 0, 'reasoning': 'Take Grim to add two enhanced Aces, permanently raising Hologram from ×3 to ×3.5. With Blueprint copying Hologram, the combined multiplier rises from ×9 to ×12.25, about 36% more score on every hand. The additional Aces also support making our level-9 Two Pair, and only one random card is destroyed. This guaranteed engine-wide scaling is more valuable here than a single Gold or Purple Seal.'})` - 
+
+**2.** `buy({'pack': 0, 'reasoning': 'Open the Jumbo Spectral Pack for $6, retaining $42 and maximum interest. With Blueprint copying Hologram, any card-adding spectral scales both multipliers: Incantation would raise ×3.5 to ×4.5 (combined ×12.25 to ×20.25), while Grim or Cryptid gives ×4 (combined ×16). Four choices also offer useful seals, Immolate, or Black Hole. Avoid effects that destroy our Joker engine or unnecessarily reduce hand size. Neither Scholar nor Strength is a compelling purchase for our established level-9 Two Pair build.'})` - 
+
+**3.** `pack({'card': 1, 'targets': [0], 'reasoning': "Add a Blue Seal to the King of Clubs. Holding it through a Two Pair victory generates Uranus for permanent Two Pair scaling, complementing Burnt Joker's upgrades without risking our excellent Joker engine. The King does not trigger Even Steven, so it is a natural card to hold while scoring even-ranked pairs. With $42 already securing maximum interest, this repeatable source of useful planets is more valuable than Immolate's extra money and random thinning; Ankh would dismantle our engine."})` - 
+
+**4.** `next_round({'reasoning': 'Leave with $42 and maximum interest: neither Scholar nor Strength materially improves our established Two Pair engine, and Reroll Surplus is unnecessary without planned heavy rerolling. Level-9 Two Pair, Supernova, Even Steven, and Blueprint copying ×3.5 Hologram already provide excellent scoring (roughly 90,000 on four even cards). Preserve all five synergistic Jokers. Next round, temporarily put Blueprint immediately left of Burnt Joker before the first Two Pair discard for two upgrades, then restore it immediately left of Hologram before scoring. Hold the blue-seal King when feasible to generate Uranus.'})` - 
+
+**5.** `play({'cards': [0, 1, 2, 3, 7], 'reasoning': 'Play these five unmatched cards to cycle toward a second pair while retaining both Fours, including the Bonus Four. Preserve the first discard for Two Pair: once assembled, Blueprint can copy Burnt Joker to upgrade our main hand twice, then return to copying Hologram for scoring. This High Card also scores with the current ×12.25 multiplier, and we have ample hands to finish with a powerful Two Pair.'})` - 
+
+**6.** `rearrange({'jokers': [0, 1, 3, 2, 4], 'reasoning': 'We now have Two Pair available: two Aces and both Fours. Move Blueprint immediately left of Burnt Joker before our first discard so discarding exactly those four cards upgrades Two Pair twice, from level 9 to 11. The third Ace must not be included, since that would make Full House. We have four discards and three hands remaining to find another Two Pair afterward; restore Blueprint to copying Hologram before scoring.'})` - 
+
+**7.** `discard({'cards': [0, 1, 4, 5], 'reasoning': 'Discard exactly two Aces and both Fours as Two Pair. This is our first discard, and Blueprint is copying Burnt Joker, so Two Pair receives two permanent upgrades from level 9 to 11. Do not include the third Ace, which would make Full House instead. With three discards and three hands remaining afterward, we have ample opportunities to find another Two Pair; then move Blueprint back beside Hologram for ×12.25 scoring.'})` - 
+
+**8.** `rearrange({'jokers': [0, 1, 3, 2, 4], 'reasoning': 'Restore Blueprint immediately left of Hologram now that the doubled Burnt Joker upgrades are complete. Blueprint currently copies Burnt Joker and provides no scoring benefit; copying Hologram gives two ×3.5 multipliers (×12.25 total). Our available Aces-and-Sevens Two Pair then scores approximately (220 + 36) × (12 + 12) × 12.25 = 75,264, easily clearing the remaining 14,969 points without further discards.'})` - 
+
+**9.** `play({'cards': [0, 1, 3, 4], 'reasoning': 'Play Aces and Sevens as level-11 Two Pair. With Supernova reaching +12 Mult and Blueprint copying Hologram, this scores (220 + 36) × (12 + 12) × 3.5 × 3.5 = 75,264, comfortably exceeding the remaining 14,969 points. The steel Ace must be played to form this guaranteed winning hand; no further discards or consumables are needed, and we preserve two hands for payout.'})` - 
+
+**10.** `buy({'card': 1, 'reasoning': 'Buy Uranus for $3 to upgrade our primary Two Pair from level 11 to 12 (+20 Chips and +1 Mult). This provides reliable permanent scaling for the Blueprint–Hologram engine while leaving $49, comfortably above maximum-interest savings. Keep all five synergistic Jokers and skip The Lovers, which does not support our rank-based strategy.'})` - 
+
+
+
+## Strategic Context
+
+Based on your recent actions, consider:
+- How your decisions are building towards a cohesive strategy
+- Whether your current approach is working or needs adjustment
+- Patterns in your play that might need to change
+
+
+
+

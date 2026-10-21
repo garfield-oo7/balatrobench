@@ -1,0 +1,1 @@
+Use Deja Vu on the Ace of Diamonds. Its red seal retriggers its 11 chips when scored and will also retrigger future Bonus, Mult, Lucky, or Glass enhancements, giving a permanent upgrade on a desirable high-ranked pairing card. Hex would destroy four Jokers and dismantle our current scoring engine for only ×1.5 Mult, so it is far too costly.

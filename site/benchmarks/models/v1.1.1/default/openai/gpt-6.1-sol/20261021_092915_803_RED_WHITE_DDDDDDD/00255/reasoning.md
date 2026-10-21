@@ -1,0 +1,1 @@
+Reroll the empty shop for $4 to find Jupiter, useful emergency Tarots, or inexpensive consumables to sell for further Campfire scaling. Our six Jokers already form a strong Spade-flush engine, so avoid replacing them or buying Magic Trick. With $50 we can invest further while retaining at least $10 for a Director's Cut boss reroll.

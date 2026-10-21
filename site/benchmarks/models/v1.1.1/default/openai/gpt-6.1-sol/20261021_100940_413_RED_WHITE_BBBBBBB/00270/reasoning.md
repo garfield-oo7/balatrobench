@@ -1,0 +1,1 @@
+Use The Fool to copy the just-used Temperance. Our Jokers have $6 total sell value, so the resulting Temperance gives a guaranteed $6 to fund more final-boss Campfire scaling. This is better than selling The Fool for only one +0.25 increment, and requires no change to our strong Joker lineup.

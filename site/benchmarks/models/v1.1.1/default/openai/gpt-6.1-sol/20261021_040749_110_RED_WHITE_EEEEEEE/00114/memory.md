@@ -1,0 +1,40 @@
+# Memory & Previous Actions
+
+
+## Recent Decision History
+
+Here is a list of your recent decisions (from oldest to newest):
+
+
+**1.** `buy({'pack': 1, 'reasoning': 'Open the Jumbo Standard Pack to add a useful playing card and scale Hologram from ×3.5 to ×3.75. Blueprint copies that increase, raising their combined multiplier from ×12.25 to ×14.0625—about 14.8% more scoring on every hand. Five choices give a good chance of an enhanced even-ranked card or valuable seal to support Two Pair. The $6 purchase leaves $43, safely above maximum-interest savings.'})` - 
+
+**2.** `pack({'card': 0, 'reasoning': 'Take the Ten of Diamonds: its even rank triggers Even Steven and its 10 chips are the highest among the even-ranked options, making it slightly preferable to the Eight without further deck-composition information. Adding it also raises Hologram from ×3.5 to ×3.75; Blueprint copies this, increasing their combined multiplier from ×12.25 to ×14.0625, about a 14.8% scoring improvement.'})` - 
+
+**3.** `next_round({'reasoning': 'Leave with $43 and maximum interest. Our level-12 Two Pair, Supernova, Even Steven, and Blueprint copying ×3.75 Hologram already score roughly 90,000–160,000 per Two Pair; no current purchase meaningfully improves this engine. Skip the speculative Celestial Pack and unnecessary reroll voucher. Next round, move Blueprint beside Burnt Joker before the first Two Pair discard for two permanent levels, then restore it beside Hologram before scoring. Preserve the blue-seal King in hand when feasible for additional Uranus generation.'})` - 
+
+**4.** `play({'cards': [2, 3, 4, 6, 7], 'reasoning': 'Cycle five cards while retaining both Aces and the Mult-enhanced Six to build Two Pair. This High Card scores about 3,516 with Even Steven, Supernova, and the doubled ×3.75 Hologram. Preserve the first discard so we can upgrade Two Pair twice by temporarily moving Blueprint beside Burnt Joker once a second pair is available. The Fish will hide replacement cards, but keeping a known pair gives us a reliable foundation and three remaining hands.'})` - 
+
+**5.** `rearrange({'jokers': [0, 1, 3, 2, 4], 'reasoning': 'Temporarily put Blueprint beside Burnt Joker to double the still-unused first-discard upgrade. Next discard the five face-down cards, retaining both known Aces and the Mult Six; The Fish hides draws after plays, so discarding lets us draw visible replacements and find a second pair. We cannot identify the discarded hand in advance, but its two free upgrades are permanent. Restore Blueprint beside Hologram before playing; any Two Pair comfortably clears the remaining 18,485 points.'})` - 
+
+**6.** `discard({'cards': [0, 3, 4, 6, 7], 'reasoning': 'Discard the five unknown cards while keeping our known pair of Aces and Mult-enhanced Six. This draws visible replacements under The Fish and gives four new opportunities to pair a replacement or match the Six for our powerful level-12 Two Pair. Blueprint currently copies Burnt Joker, so this first discard also upgrades its resulting hand type twice. Restore Blueprint beside Hologram before scoring; a Two Pair will comfortably clear the remaining 18,485 points.'})` - 
+
+**7.** `rearrange({'jokers': [0, 1, 3, 2, 4], 'reasoning': 'The first discard is complete, so move Blueprint immediately left of Hologram to copy its ×3.75 rather than Burnt Joker. Then play the available Aces-and-Fours Two Pair while retaining the steel Three: even without the Lucky Ace triggering, this will score (240 + 30) × (13 + 13 + 8) × 1.5 × 3.75² ≈ 193,641, comfortably clearing the remaining 18,485 points.'})` - 
+
+**8.** `play({'cards': [0, 1, 5, 6], 'reasoning': 'Play Aces and Fours as level-12 Two Pair, retaining the steel Three for ×1.5 Mult. Even without the Lucky Ace triggering, this scores (240 + 22 + 8) × (13 + 13 Supernova + 8 Even Steven) × 1.5 × 3.75² ≈ 193,641, far above the remaining 18,485. Blueprint is correctly copying Hologram. Win immediately and preserve two hands for payout.'})` - 
+
+**9.** `buy({'card': 1, 'reasoning': 'Buy The Hermit for $3, then use it for the capped $20 payout: a guaranteed $17 net profit with no sacrifice to our strong Two Pair engine. This funds further Standard Pack purchases to scale both Hologram and Blueprint while preserving maximum interest.'})` - 
+
+**10.** `use({'consumable': 0, 'reasoning': 'Use The Hermit now for its maximum $20 payout, increasing money from $51 to $71 and freeing the consumable slot. There is no benefit to delaying: we already exceed its payout cap. This funds Standard Packs to scale Hologram and Blueprint while preserving maximum interest.'})` - 
+
+
+
+## Strategic Context
+
+Based on your recent actions, consider:
+- How your decisions are building towards a cohesive strategy
+- Whether your current approach is working or needs adjustment
+- Patterns in your play that might need to change
+
+
+
+

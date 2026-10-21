@@ -1,0 +1,1 @@
+Buy Uranus for $1 to upgrade our main fallback, Two Pair, from level 9 to 10 (+20 Chips and +1 Mult). This improves repeated Two Pair hands by roughly 12%, valuable for Card Sharp during the final boss. Keep our strong, correctly ordered Joker lineup; neither Half Joker nor Troubadour warrants replacing one, and we cannot afford another reroll.

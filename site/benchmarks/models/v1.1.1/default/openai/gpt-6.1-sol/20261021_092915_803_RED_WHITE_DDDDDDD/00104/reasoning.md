@@ -1,0 +1,1 @@
+Keep C♣J and C♣8 to build an Ancient Joker-powered Club flush, and hold the Steel H7 for ×1.5 Mult. Discard the other five cards to maximize Club draws; four discards give us room to assemble the much stronger flush without spending hands. C8 adds +12 Mult before its Ancient ×1.5 trigger, and holding Steel can help a Club flush clear the 16,500 target in one hand.

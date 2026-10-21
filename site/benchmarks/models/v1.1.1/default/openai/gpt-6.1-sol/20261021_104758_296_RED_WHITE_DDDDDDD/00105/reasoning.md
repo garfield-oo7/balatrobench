@@ -1,0 +1,1 @@
+Buy The Hermit for $3 and use it next for $20, a guaranteed net $17 profit. This raises our funds from $63 to $80 after use, preserving maximum $10 Seed Money interest while funding further searches for Ancient Joker synergies or Flush upgrades. We have both consumable slots free.

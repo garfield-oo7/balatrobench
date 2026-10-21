@@ -1,0 +1,1 @@
+Take Uranus to upgrade Two Pair from level 3 to level 4 (80 Chips, 5 Mult). Venus is unavailable, and Two Pair is our established, easily formed backup when trips do not appear. Its additional chips and Mult work with Banner, Raised Fist, and Abstract; upgrading Flush or High Card would invest in much weaker, less-used alternatives.

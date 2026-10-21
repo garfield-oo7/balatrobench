@@ -1,0 +1,1 @@
+Play Queens full of Fours, meeting The Psychic's five-card requirement and winning immediately. Full House scores (40 + 30 + 8) × (4 + 8 from Even Steven + 8 from Jolly Joker) = 1,560, comfortably above 600. Preserve all three remaining unused hands for $3.

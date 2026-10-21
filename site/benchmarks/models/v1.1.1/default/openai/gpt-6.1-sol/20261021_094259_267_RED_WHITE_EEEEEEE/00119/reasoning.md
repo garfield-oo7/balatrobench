@@ -1,0 +1,1 @@
+Use Jupiter now to raise Flush to level 15 (245 Chips, 32 Mult). We have no Observatory, so holding it provides no benefit; the permanent upgrade strengthens every Flush, compounds with Steel cards and ×4 Hologram, and frees a consumable slot.

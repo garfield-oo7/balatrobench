@@ -1,0 +1,1 @@
+Play the pair of sixes with 3♣ and 2♠ as unscored cycling cards: score 44 chips and earn $4 from To Do List. Keep 10♣, 9♠, and 8♥ as a useful straight core, with 2♥ retained rather than accidentally turning this into Two Pair and losing the payout. We still have three hands and all four discards to find stronger scoring hands for the remaining 406 chips.

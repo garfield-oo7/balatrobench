@@ -1,0 +1,1 @@
+Play the red Flush: Smeared combines Hearts and Diamonds, and the Wild 2 completes it. At level 25, its 395 base Chips plus 40 card Chips and 30 Bonus Chips give 465 Chips; Supernova and Blueprint copying Hologram yield roughly 630,000 points, easily clearing 50,000 in one hand. Preserve Chariot for a later blind where Steel might matter and collect the three-unused-hand reward.

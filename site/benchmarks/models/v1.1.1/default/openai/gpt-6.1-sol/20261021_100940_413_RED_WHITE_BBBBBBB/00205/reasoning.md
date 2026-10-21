@@ -1,0 +1,1 @@
+Move holographic Zany ahead of Ramen and Campfire so both its +12 conditional Mult and +10 holographic Mult are multiplied by ×2 and ×3.5. On level-11 Three of a Kind, total Mult becomes (23+15+12+10)×2×3.5 = 420 rather than (23+15)×7+22 = 288, a roughly 46% scoring increase at no cost. Preserve the full scoring lineup and $38.

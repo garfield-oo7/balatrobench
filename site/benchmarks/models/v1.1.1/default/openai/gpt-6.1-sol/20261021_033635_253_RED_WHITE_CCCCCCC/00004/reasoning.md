@@ -1,0 +1,1 @@
+Keep both tens and both nines; use the last discard on the ace, eight, four, and two to seek a full house or four of a kind. Either full house clears 300 immediately (352 with three tens, 348 with three nines), preserving three hands for income. If the draw misses, the retained two pair scores 116 and leaves all four hands available to finish the blind.

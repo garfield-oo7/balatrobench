@@ -1,0 +1,1 @@
+Play Aces and Sixes with the unpaired Three to cycle five cards. Two Pair scores (20+22+12) × (2+8 Even Steven+8 Jolly Joker+2 Supernova) = 1,080, leaving just 520 with three hands remaining. Retain the Queen, Eight, and Seven as higher-value pairing options; another even-ranked pair or suitable two pair can finish the blind.

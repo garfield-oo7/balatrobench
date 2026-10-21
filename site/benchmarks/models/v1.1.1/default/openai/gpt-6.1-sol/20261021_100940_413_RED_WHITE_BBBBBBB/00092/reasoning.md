@@ -1,0 +1,1 @@
+Reroll for $3 while retaining $57 and maximum interest. Neither Oops! All 6s nor Juggler is a clear upgrade over our productive full lineup. We need compatible multiplicative or scaling scoring for later antes; prioritize those rather than more flat Mult. Keep Certificate for seal generation and hold Judgement until an actual replacement opportunity justifies freeing a slot.

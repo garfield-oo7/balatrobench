@@ -1,0 +1,1 @@
+Use The Hermit now for the full $20 payout, raising cash from $50 to $70 with no downside and freeing a consumable slot. This realizes the guaranteed profit from our purchase and funds useful upgrades while preserving maximum interest. Next priorities are using Uranus to strengthen Two Pair and the Standard Pack to scale Hologram and its Blueprint copy.

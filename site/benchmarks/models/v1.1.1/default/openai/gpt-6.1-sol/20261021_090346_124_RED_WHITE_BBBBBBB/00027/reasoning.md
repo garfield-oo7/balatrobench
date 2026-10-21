@@ -1,0 +1,1 @@
+Buy Clearance Sale now that $38 lets us pay $10 while retaining $28 and maximum interest. With most of the run still ahead, permanent shop discounts can repay the investment through future Jokers and packs. Our full-house scoring core is already strong for Ante 2, so no immediate Joker replacement or reroll is necessary; Wee Joker lacks dedicated 2 support.

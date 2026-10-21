@@ -1,0 +1,1 @@
+Use The Emperor now: it frees its own slot and creates up to two Tarot cards, potentially providing money, Steel/Glass enhancements, or useful deck manipulation. Evaluate the generated cards before spending more on expensive rerolls; our level-16 Two Pair and Blueprint copying ×4 Hologram already form a strong scoring engine.

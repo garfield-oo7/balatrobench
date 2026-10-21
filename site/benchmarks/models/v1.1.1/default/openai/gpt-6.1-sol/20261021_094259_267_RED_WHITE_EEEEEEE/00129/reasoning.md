@@ -1,0 +1,1 @@
+Use The Hermit now for its full $20 payout, increasing money to $80. There is no benefit to holding it at this balance, and freeing a consumable slot allows the blue-seal 9♥ to generate Jupiter if retained when we win. Then use Temperance for another $14 before cycling the black cards to find a red Flush while preserving the blue seal.

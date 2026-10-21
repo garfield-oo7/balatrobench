@@ -1,0 +1,1 @@
+We have no Jokers, so an early scoring Joker is the highest priority for clearing upcoming blinds reliably. The $4 Buffoon Pack offers a choice of two Jokers while retaining $6, making it preferable to the non-scoring Reserved Parking, a speculative Mars upgrade, or an expensive reroll.

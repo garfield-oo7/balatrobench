@@ -1,0 +1,1 @@
+Keep A♣, K♣, Q♣, and 8♣; discard the four non-clubs to find a club flush. With Scary Face and Droll, even a 2♣ completes a flush scoring (35 + 11 + 10 + 10 + 8 + 2 + 60) × 14 = 1,904, comfortably beating 1,200 in one hand. Four available discards make this immediate four-card flush draw preferable to breaking it up to chase Ancient Joker's diamonds.

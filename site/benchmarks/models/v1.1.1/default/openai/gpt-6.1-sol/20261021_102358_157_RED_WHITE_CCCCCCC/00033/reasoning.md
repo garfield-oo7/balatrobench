@@ -1,0 +1,1 @@
+Skip to give Red Card a permanent +3 Mult on every hand. None of these planets improves our primary Spade-flush plan; Earth's upgrade only helps full houses, whereas Red Card also strengthens flushes and all backup hands. Our last Spade flush would improve from 2,375 to 2,750 points with the same cards, and we retain $27 for maximum interest.

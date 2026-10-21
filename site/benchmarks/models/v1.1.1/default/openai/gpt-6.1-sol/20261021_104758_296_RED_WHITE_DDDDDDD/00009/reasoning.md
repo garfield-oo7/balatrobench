@@ -1,0 +1,1 @@
+Play the completed spade flush: A♠, K♠, J♠, 8♠, 3♠. Scary Face adds 60 chips for the king and jack, and Wrathful Joker adds 15 Mult. The hand scores (35 + 11 + 10 + 10 + 8 + 3 + 60) × (4 + 15) = 2,603, comfortably beating 450 in one hand and preserving three hands for $3.

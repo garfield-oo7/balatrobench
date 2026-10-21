@@ -1,0 +1,1 @@
+Destroy the club 2 with Trading Card's first-discard effect, earning $3 and permanently removing a weak non-spade. Preserve the spade king for Wrathful Joker, the pair of fives, and four diamonds as possible scoring routes. This leaves all four hands and three discards to build a strong play.

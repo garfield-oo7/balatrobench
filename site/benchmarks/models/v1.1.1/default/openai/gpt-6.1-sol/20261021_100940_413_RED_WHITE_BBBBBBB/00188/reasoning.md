@@ -1,0 +1,1 @@
+Complete the planned zero-net-cost Fool buy/sell cycle: recover $1 and increase Campfire from ×2 to ×2.25, boosting every scoring hand by 12.5%. The Fool's copied card is unspecified, while this sale guarantees immediate scaling for Ante 7 and restores $36, above the maximum-interest threshold.

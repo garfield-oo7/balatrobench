@@ -1,0 +1,1 @@
+Sell Pluto as planned to increase Campfire from X3 to X3.25, an 8.3% scoring increase for both remaining Ante 8 blinds. High Card levels do little for our level-6 Spade flush engine; this sale frees a consumable slot and preserves all six synergistic Jokers, with $67 available afterward for upgrades and boss-reroll insurance.

@@ -1,0 +1,1 @@
+Sell The Fool as planned to increase Campfire from ×3 to ×3.25, giving every final-boss hand 8.3% more score while recovering $1. Its copied card is unknown, whereas this upgrade is guaranteed. Keep the entire synergistic Joker lineup and ample money for final-shop improvements and a potential $10 boss reroll.

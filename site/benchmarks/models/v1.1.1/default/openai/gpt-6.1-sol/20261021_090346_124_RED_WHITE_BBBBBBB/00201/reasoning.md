@@ -1,0 +1,1 @@
+Sell Mars as planned. Four of a Kind is not our main scoring hand: level-9 three-card trips benefits from Half Joker. This sale restores $43 and Bull's +86 Chips while increasing Campfire from ×2.25 to ×2.5, an 11.1% multiplier improvement for the upcoming blind, at no net cost for the buy–sell cycle.

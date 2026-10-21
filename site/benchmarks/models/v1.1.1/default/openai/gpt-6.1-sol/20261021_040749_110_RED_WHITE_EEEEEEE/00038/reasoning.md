@@ -1,0 +1,1 @@
+Play Sixes full of Twos for a guaranteed one-hand win. All five cards are even, so Even Steven adds +20 Mult; Jolly adds +8 and Supernova adds +3 on our third Full House. Score: (40+18+4) × (4+20+8+3) ×1 = 2,170, exceeding the 2,000 target. Preserve three unused hands for $3 and save all remaining discards.

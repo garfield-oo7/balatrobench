@@ -1,0 +1,1 @@
+Skip because all five Joker slots are occupied and this action offers no way to sell or replace a Joker. Card Sharp would be a worthwhile upgrade over Zany Joker if we could first free a slot, since repeated Two Pair or Three of a Kind hands would gain ×3 Mult, but it cannot currently be added. Half Joker likewise requires room and is not worth disrupting our existing engine.

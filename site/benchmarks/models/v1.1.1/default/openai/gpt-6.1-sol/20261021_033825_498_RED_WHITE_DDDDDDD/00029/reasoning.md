@@ -1,0 +1,1 @@
+Move Even Steven before Ancient Joker so each scored even club adds +4 Mult before that card's ×1.5 trigger; this also benefits future Ancient spade rounds alongside Wrathful. Ancient triggers during card scoring, so Droll's later +10 cannot be multiplied merely by moving Droll. Keep the current team and save money rather than purchase Fortune Teller at +0 or speculative packs.

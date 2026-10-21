@@ -1,0 +1,1 @@
+Enhance both 4s with +4 Mult each, supporting our existing pair as we draw toward level-8 trips or Two Pair. Both enhancements score in either target hand and are amplified by Ramen. This also opens a consumable slot for a future Purple Seal discard if we need to abandon the 4s. A plain pair is too weak here; preserve all four hands while searching for a strong upgraded hand.

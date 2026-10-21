@@ -1,0 +1,1 @@
+Use Uranus to raise Two Pair to level 6 (120 Chips, 7 Mult) and free a consumable slot for Blue Seal generation. Two Pair is our reliable fallback when level-7 trips are unavailable, and its extra chips and Mult are amplified by Banner, Raised Fist, Abstract, and Ramen. We have no Observatory, so holding this planet provides no benefit.

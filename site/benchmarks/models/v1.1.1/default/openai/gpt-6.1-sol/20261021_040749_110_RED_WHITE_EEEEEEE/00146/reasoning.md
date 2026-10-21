@@ -1,0 +1,1 @@
+Cash Temperance for $16 now, raising our reserve to $116 and freeing the consumable slot. Its payout is guaranteed with our current Jokers, while holding it provides no scoring benefit and risks blocking useful generated consumables. Keep Blueprint copying Hologram and preserve the strong level-16 Two Pair engine.

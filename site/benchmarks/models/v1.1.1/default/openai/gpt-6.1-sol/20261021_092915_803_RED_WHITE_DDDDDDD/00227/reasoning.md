@@ -1,0 +1,1 @@
+Buy The Magician for $3 and then sell it for $1 as cheap Campfire fuel. Raising Campfire from X2.5 to X2.75 improves all scoring by 10% for the remaining Ante 8 blinds, whereas Lucky enhancements would require accessible playing-card targets and provide less predictable value. Preserve our synergistic Joker lineup and ample cash for a necessary boss reroll.

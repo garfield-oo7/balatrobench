@@ -1,0 +1,1 @@
+Buy Uranus for $1 to sell for $1, raising Campfire from ×1.75 to ×2 at no net cost and restoring Bull's chips after resale. This provides a reliable 14.3% boost to every hand through the final boss, more valuable than leveling only our backup Two Pair hand.

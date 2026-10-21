@@ -1,0 +1,1 @@
+Play the three Kings, including the Mult-enhanced King, to win immediately without discarding. Three of a Kind scores (30 + 30) × (3 base + 4 enhancement + 8 Jolly + 2 Supernova) × 1.75 Hologram = 1,785 chips, comfortably exceeding the remaining 556. Preserve two unused hands for income; Joker order already places additive Mult before Hologram.

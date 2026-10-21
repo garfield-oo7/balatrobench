@@ -1,0 +1,1 @@
+Destroy the Diamond King and Ten to thin two off-suit red cards that obstruct Blackboard. Our winning engine needs Spade flushes, and this opening has no Spades; removing these cards before discarding lets us dig deeper while retaining the Steel 7 for its held-in-hand multiplier. Preserve Justice for a strong scoring Spade, where Glass can be retriggered by Seltzer.

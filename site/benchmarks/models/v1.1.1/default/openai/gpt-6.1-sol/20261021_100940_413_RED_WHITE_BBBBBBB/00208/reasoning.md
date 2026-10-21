@@ -1,0 +1,1 @@
+Complete the planned Sun buy-and-sell: recover $1 and increase Campfire from ×3.5 to ×3.75 at no net cost. Suit conversion does not improve our primary level-11 Three of a Kind strategy. Preserve the current scoring Jokers and maximum interest; this sale strengthens every hand for the rest of Ante 7.

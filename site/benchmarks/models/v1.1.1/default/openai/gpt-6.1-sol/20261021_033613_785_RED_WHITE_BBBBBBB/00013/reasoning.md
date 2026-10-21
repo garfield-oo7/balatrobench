@@ -1,0 +1,1 @@
+Play the spade flush for (35 + 11 + 10 + 10 + 9 + 2) × 4 = 308 chips, bringing our total to 352. This leaves just 98 chips to earn with two hands. Retain K♦, Q♥, and 4♥ for follow-up combinations; prioritize completing the blind over a low-scoring Pair payout. Save The Hermit until more money is earned.

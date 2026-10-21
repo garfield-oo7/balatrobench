@@ -1,0 +1,1 @@
+Leave with $41 and maximum interest. Neptune does not support our level-4 trips or level-5 two-pair engine, Crystal Ball is unnecessary with a consumable slot open, and another $7 reroll is poor value after extensive searching. Preserve funds for fresh, cheaper shops and a meaningful scaling or ×Mult upgrade; current Joker ordering has no multiplicative effects to optimize.

@@ -1,0 +1,1 @@
+Play queens full of jacks. All five face cards trigger Scary Face, scoring (40 base + 50 card chips + 150 Scary Face chips) × 4 = 960, comfortably beating the 600 target in one hand. Preserve three unused hands for $3 rather than spending more discards seeking spades.

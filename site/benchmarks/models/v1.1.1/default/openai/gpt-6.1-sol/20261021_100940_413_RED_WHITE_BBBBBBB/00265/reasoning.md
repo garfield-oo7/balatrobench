@@ -1,0 +1,1 @@
+Buy Mars for $1 to resell for $1, giving a net-free Campfire increase from ×4 to ×4.25 before the final boss. Four of a Kind is not our developed hand, so selling this planet improves our level-11 Three of a Kind and level-9 Two Pair more reliably than using it. Preserve The Fool's existing copy target and our correctly ordered Joker lineup.

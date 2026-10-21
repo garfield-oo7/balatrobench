@@ -1,0 +1,1 @@
+Play the five-spade flush for a guaranteed win: (35 base + 10 + 9 + 8 + 5 + 3 card chips + 50 Foil) × (4 base Mult + 15 from Wrathful Joker) = 2,280 chips. Added to 496, this comfortably exceeds 1,600. The Arm cannot reduce a level-1 Flush further. Save the remaining two hands for income; no discard or other action is needed.

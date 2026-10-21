@@ -1,0 +1,1 @@
+No pair or completed straight/flush is available, and Burglar removed our discards. Play J-7-6-5-4 as a five-card cycling hand for 15 chips, retaining A-K-Q to seek high pairs. Drawing five fresh cards gives strong chances to form Two Pair for Mad Joker's +10 Mult; high pairs should clear the 450-chip blind with a single subsequent hand.

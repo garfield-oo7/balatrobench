@@ -1,0 +1,1 @@
+Use The Hermit now for its maximum $20 payout, increasing cash from $60 to $80 and freeing a consumable slot. Waiting cannot increase its reward. This preserves the full $10 Seed Money interest at $50 while funding targeted upgrades to our Ancient Joker flush engine.

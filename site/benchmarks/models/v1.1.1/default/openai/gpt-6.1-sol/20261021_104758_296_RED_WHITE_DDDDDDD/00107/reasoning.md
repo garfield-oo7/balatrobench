@@ -1,0 +1,1 @@
+Open the Jumbo Celestial Pack to look for Jupiter: Flush is our primary hand, and upgrading level 3 to 4 increases base Mult from 8 to 10 and chips from 65 to 80, strengthening every Ancient-powered flush. Five offered planets give a good chance of finding it. The $6 cost leaves $74, well above the $50 maximum Seed Money interest threshold.

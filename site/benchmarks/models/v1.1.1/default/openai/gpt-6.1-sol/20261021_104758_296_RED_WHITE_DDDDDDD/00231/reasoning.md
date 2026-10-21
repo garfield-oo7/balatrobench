@@ -1,0 +1,1 @@
+Sell Mercury as planned: Pair is not our primary hand, while this sale raises Campfire from ×2.75 to ×3, increasing every scoring hand by 9.1% through the remaining Ante 8 blinds. Recover $1, free the consumable slot, and preserve the complete Spade-flush engine and funds for a possible boss reroll.

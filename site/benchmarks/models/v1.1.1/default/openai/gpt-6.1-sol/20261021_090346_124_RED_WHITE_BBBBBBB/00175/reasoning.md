@@ -1,0 +1,1 @@
+Use Temperance now for $6, increasing money from $36 to $42 and Bull from +72 to +84 Chips while retaining maximum interest. The guaranteed cash is better than selling Temperance for $1 and one Campfire increment: it funds additional discounted consumable buy/sell opportunities to scale Campfire for the upcoming boss without sacrificing our scoring Jokers.

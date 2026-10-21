@@ -1,0 +1,1 @@
+Use the first discard on just the 5 of Clubs to trigger Trading Card: destroy a low off-suit card and gain $3. Keep both Kings and both threes toward a level-2 Full House, which easily clears 4,000 with our Jokers, while retaining both spades for Wrathful Joker. We still have three discards and all four hands to find a winning combination.

@@ -1,0 +1,1 @@
+Sell Pluto for $1 and raise Campfire from ×2.75 to ×3, increasing every hand's score by about 9%. Leveling our rarely played High Card is much less useful than boosting our level-11 Three of a Kind engine. This also frees a consumable slot and increases cash to $28 while preserving maximum interest.

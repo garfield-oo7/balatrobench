@@ -1,0 +1,1 @@
+Spend $5 to look for a useful fifth Joker, ideally chip support or a playing-card generator such as Certificate to grow Hologram. This leaves $26, preserving maximum interest. Our current shop Tarots do not reliably advance the flush engine, and the Celestial Pack does not guarantee Jupiter. Keep all four complementary Jokers and their correct ordering, with Hologram last.

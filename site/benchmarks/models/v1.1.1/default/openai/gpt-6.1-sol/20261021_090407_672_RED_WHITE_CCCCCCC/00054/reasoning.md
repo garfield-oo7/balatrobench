@@ -1,0 +1,1 @@
+Play Kings and Eights for a guaranteed winning Two Pair: (20 base + 36 card chips + 50 Foil) × (2 base + 6 Red Card + 6 from two spades + 15 Gros Michel) = 3,074, exceeding the 2,000 target. No further discards or speculative draws are needed; winning immediately preserves three hands for $3.

@@ -1,0 +1,40 @@
+# Memory & Previous Actions
+
+
+## Recent Decision History
+
+Here is a list of your recent decisions (from oldest to newest):
+
+
+**1.** `discard({'cards': [1, 2, 4, 6, 7], 'reasoning': 'Keep K♥, 8♥, and Steel 7♥; discard the five non-Hearts to seek an Ancient Joker Heart flush and our second Steel card. Two discards and all four hands remain, so drawing five now is safer than spending a hand on low-scoring pairs. Ideally retain Steel 7♥ in hand and score five other Hearts, but use it in the flush if necessary. The Moon cannot help the current Heart bonus.'})` - 
+
+**2.** `discard({'cards': [0, 1, 3, 7], 'reasoning': "Keep all four Hearts and use the final discard on the four non-Hearts. One additional Heart completes our level-2 flush with five Ancient Joker ×1.5 triggers; two additional Hearts could let us retain Steel 7♥ for another ×1.5. Lead any eventual Heart flush with 8♥ (or another even Heart) to amplify Even Steven's +4 through subsequent Ancient triggers. All four hands remain for scoring and cycling if this draw misses; The Moon cannot help assemble Hearts."})` - 
+
+**3.** `play({'cards': [5, 0, 1, 4, 6], 'reasoning': 'Play the five-Heart flush, leading with 8♥ so Even Steven adds +4 Mult before all five Ancient Joker ×1.5 triggers. At minimum this scores (50 base + 45 card chips + 50 Blue Joker) × ((6 + 4) × 1.5^5 + 18 Abstract) ≈ 13,621, exceeding the 11,000 target in one hand. Steel 7♥ must score to complete the flush; holding it instead would sacrifice the flush and an Ancient trigger. Save The Moon and preserve three hands for income.'})` - 
+
+**4.** `buy({'voucher': 0, 'reasoning': "Buy Reroll Surplus now that $70 gives us room to invest while retaining Seed Money's maximum $10 interest at $50. Across the remaining antes, five paid rerolls repay its cost, and we need shop access to find stronger scaling or retriggers for Ancient Joker as targets rise. This leaves $60 and makes the first reroll $3. Skip Delayed Gratification, which conflicts with our discard-heavy suit hunting, and Venus, which does not strengthen our primary Flush engine."})` - 
+
+**5.** `reroll({'reasoning': 'Reroll for $3, leaving $57 and preserving maximum $10 Seed Money interest. Delayed Gratification conflicts with our discard-heavy Ancient Joker suit hunting, and Venus does not improve our primary Flush. We need upgrades for rising targets: retriggers such as Dusk or Sock and Buskin, copy effects, strong multiplicative support, or Jupiter. Hiker is a potential replacement only if a clearly stronger scoring option appears; keep the current engine intact otherwise.'})` - 
+
+**6.** `reroll({'reasoning': "Neither offer improves our Ancient Joker flush engine: Tower removes a card's suit, and Scary Face is not a reliable upgrade over Blue Joker or our other occupied slots. Reroll for $4, leaving $53 and retaining maximum $10 Seed Money interest while looking for Jupiter, retriggers, copy effects, or stronger multiplicative support. Keep The Moon for assembling the upcoming Club-boosted hand."})` - 
+
+**7.** `buy({'pack': 0, 'reasoning': 'Open the $4 Arcana Pack for economical improvement while keeping $49, just $1 below maximum Seed Money interest. Prioritize Hermit or Temperance to fund future upgrades, otherwise a useful Steel/Glass enhancement or deck improvement. Splash and The Duo do not improve our Ancient Joker flush engine enough to replace an existing Joker, and another $5 reroll is less attractive. Keep The Moon for assembling the upcoming Club-boosted hand.'})` - 
+
+**8.** `pack({'card': 1, 'targets': [0, 4, 5], 'reasoning': "Use The World on A♦, 8♦, and 6♥. This adds three Spades, including two even ranks that combine Wrathful Joker's +3 Mult with Even Steven's +4 Mult. It improves our reliable Spade-flush fallback and strengthens future Spade rounds for Ancient Joker, while preserving both Clubs for its current bonus. Death improves only one card here, and a Gold card is less valuable than this three-card improvement to our flush engine."})` - 
+
+**9.** `next_round({'reasoning': "Leave with $49 to earn $9 Seed Money interest rather than spend further on speculative upgrades. Splash adds nothing to our five-card flushes, and The Duo does not activate on ordinary flushes, so neither merits replacing a current Joker. Preserve The Moon to assemble a Club flush for Ancient Joker's current suit; prioritize scoring even Clubs early in the played-card order so their Even Steven bonuses benefit from subsequent Ancient triggers. The existing Joker order already puts Even Steven before Ancient for each scoring card."})` - 
+
+**10.** `discard({'cards': [3, 4, 7], 'reasoning': "Keep J♣, the three even cards (10♠, 8♠, 6♠), and Steel 7♥. Draw three cards seeking another natural Club before using The Moon: with one additional Club, Moon can convert all three retained evens to complete a powerful Club flush while Steel stays held. Leading with the even Clubs compounds Even Steven through Ancient Joker's five ×1.5 triggers. Delay Moon until after drawing to preserve flexibility; all four hands and three further discards remain."})` - 
+
+
+
+## Strategic Context
+
+Based on your recent actions, consider:
+- How your decisions are building towards a cohesive strategy
+- Whether your current approach is working or needs adjustment
+- Patterns in your play that might need to change
+
+
+
+

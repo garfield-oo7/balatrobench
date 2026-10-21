@@ -1,0 +1,1 @@
+Buy The Moon for $1, then sell it for $1 as cash-neutral Campfire fuel. Converting suits does little for our level-9 three-of-a-kind strategy; the sale instead raises Campfire from ×1.25 to ×1.5, increasing every hand's score by 20% while restoring $33 and Bull's +66 Chips. Retain all five scoring Jokers and avoid further expensive rerolls.

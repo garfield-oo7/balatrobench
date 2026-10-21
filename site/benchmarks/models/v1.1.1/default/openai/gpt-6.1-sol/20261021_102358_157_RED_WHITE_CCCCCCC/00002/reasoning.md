@@ -1,0 +1,1 @@
+Keep both 9s and both 6s, drawing four cards toward a full house or four of a kind. A third 9 makes a 316-point full house, and a third 6 makes a 304-point full house—either clears the blind in one hand and preserves the maximum unused-hand payout. The low pair of 3s is less valuable than four fresh draws.
