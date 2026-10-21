@@ -1,0 +1,1 @@
+Open the $2 Celestial Pack for a chance to upgrade the Level 10 Two Pair, the run's most-played and strongest established hand. The five-joker lineup is cohesive and Burglar is particularly valuable for both extra hands and keeping Mystic Summit active at zero discards, so avoid replacing it for either modest shop Joker. Save the remaining money for the final Ante.

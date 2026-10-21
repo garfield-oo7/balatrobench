@@ -1,0 +1,1 @@
+Free a slot by selling The Idol, whose single changing target card is inconsistent and often contributes nothing. The established strategy is almost entirely Level-6 Flush, so a reliable +10 Mult whenever a Flush is played from Droll Joker is a much steadier scoring upgrade. Keep Hiker, Bootstraps, Supernova, and Mystic Summit, which all support the current engine.

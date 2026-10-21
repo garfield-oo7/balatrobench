@@ -1,0 +1,1 @@
+Play the available Full House (two Aces and three Tens) as a strong scoring hand and cycle all five cards. It scores the current Ace of Spades for The Idol’s ×2 Mult, benefits from Hiker and odd-rank bonuses on the Aces, and advances Supernova for Full Houses. Keep the Hearts and 7 in hand as useful flush-building material for the next draw.

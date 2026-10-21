@@ -1,0 +1,1 @@
+Play a five-card Flush using K♠, Q♠, the Wild 9♦, 3♠, and the Glass 9♠. This preserves the level-4 Flush engine and scores both 9s; the Wild 9 may also satisfy The Idol’s 9 of Hearts condition while counting as a Spade for Wrathful Joker. Put the Glass 9 last in the selection so its ×2 Mult applies after the additive scoring triggers as far as card order allows.

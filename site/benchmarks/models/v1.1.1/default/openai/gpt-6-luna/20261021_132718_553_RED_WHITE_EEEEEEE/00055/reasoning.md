@@ -1,0 +1,1 @@
+Play the Kings and Jacks as a Level 5 Two Pair, with the even-rank 4 as the fifth Splash-scored card. Jolly Joker adds +8 Mult, Supernova adds the existing Two Pair count, and Even Steven adds +4 Mult for the 4. This should comfortably cover the 2,144 points remaining while using only one of our two remaining hands.

@@ -1,0 +1,1 @@
+Use Pluto for a permanent High Card upgrade at no cost. High Card has been played four times, including this round, so the +10 chips and +1 Mult improve an occasional fallback without sacrificing any shop money; then proceed with the remaining $1.

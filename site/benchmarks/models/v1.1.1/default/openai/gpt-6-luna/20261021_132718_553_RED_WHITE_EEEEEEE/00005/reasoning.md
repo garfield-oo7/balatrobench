@@ -1,0 +1,1 @@
+The pair of Aces will score well over the remaining 8 chips needed to clear the Small Blind. Include three other cards as unscored cycling cards; there is no reason to risk a discard when one hand guarantees the target.

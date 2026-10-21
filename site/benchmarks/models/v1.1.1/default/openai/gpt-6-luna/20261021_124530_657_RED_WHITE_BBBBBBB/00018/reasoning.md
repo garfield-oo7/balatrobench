@@ -1,0 +1,1 @@
+Keep both pairs (Queens and Jacks) and discard the Ace, King, 7, and 3 to draw four fresh cards. This preserves the chance of upgrading into a Full House or Three of a Kind, both far stronger than the current Two Pair; a normal discard also avoids triggering The Hook's random loss of two held cards after a played hand.

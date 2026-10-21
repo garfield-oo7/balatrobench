@@ -1,0 +1,1 @@
+Use the held Jupiter to raise Flush from level 2, strengthening the established Flush engine that triggers both Crafty and Droll. Keep the $10 rather than buying Seed Money now: its higher interest cap only pays off above the current $25 threshold (and reaches the full benefit at $50), so preserving cash is more valuable at this point.

@@ -1,0 +1,1 @@
+Keep the four Clubs together as the best route to a Level-6 Flush, supported by the very large +23 Mult from Supernova. Discard the off-suit Queen and two Hearts to draw three cards and seek the fifth Club; the pair of Queens is a fallback, but a Flush is far more valuable with only three hands left and a 20,560-point gap.

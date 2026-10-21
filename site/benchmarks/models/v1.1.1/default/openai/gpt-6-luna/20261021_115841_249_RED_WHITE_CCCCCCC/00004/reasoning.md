@@ -1,0 +1,1 @@
+Play the Kings and Eights as Two Pair. This easily exceeds the remaining 12 points needed to clear the blind, and there is no future hand to preserve cards for.

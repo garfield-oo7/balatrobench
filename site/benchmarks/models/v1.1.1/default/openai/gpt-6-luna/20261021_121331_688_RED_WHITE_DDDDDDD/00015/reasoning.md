@@ -1,0 +1,1 @@
+Play the five Hearts as a Flush. This activates Crafty Joker (+80 Chips), scores Q/J/T for Scary Face (+90 Chips), and scores 9/7 for Odd Todd (+62 Chips). The Flush's base score plus these bonuses comfortably clears the 600 target in one hand, preserving the remaining hands for payout.

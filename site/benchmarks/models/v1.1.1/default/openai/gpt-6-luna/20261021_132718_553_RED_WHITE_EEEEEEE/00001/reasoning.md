@@ -1,0 +1,1 @@
+Play the two pair of Queens and Fives for a solid opening score, and include the low Two as an unscored fifth card to cycle it while preserving the Ten and connected 4–6 ranks for possible future hands.

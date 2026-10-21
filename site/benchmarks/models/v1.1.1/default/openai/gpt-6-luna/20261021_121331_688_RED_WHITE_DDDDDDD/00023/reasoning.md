@@ -1,0 +1,1 @@
+Buy Droll Joker for $4: its +10 Mult triggers on every Flush, directly matching the established Crafty Joker flush strategy and offering a large immediate scoring gain. It is a much more reliable and affordable upgrade than Ancient Joker's suit-dependent effect, while leaving $5 in reserve.

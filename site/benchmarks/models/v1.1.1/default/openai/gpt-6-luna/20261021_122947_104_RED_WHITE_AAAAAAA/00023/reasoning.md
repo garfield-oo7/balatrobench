@@ -1,0 +1,1 @@
+Use Jupiter to permanently improve Flush as a useful alternate hand type and fallback against restrictions or debuffs. The Two Pair Joker core remains the primary plan, but this is a free permanent upgrade and the consumable slot is otherwise occupied.

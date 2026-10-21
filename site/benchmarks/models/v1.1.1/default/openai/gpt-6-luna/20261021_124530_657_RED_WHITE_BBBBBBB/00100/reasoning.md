@@ -1,0 +1,1 @@
+Play the J–10–9–8–7 straight for the strongest immediate score. Its 30 base chips plus 44 card chips combine with the straight's 4 Mult, Mystic Summit's +15, Raised Fist's +12 from a lowest held rank of 6, and Smiley Face's +5 for the scored Jack. This should score about 2,660 and cycle five cards while retaining the pair of sixes and the Gold-Seal Six for future hands.

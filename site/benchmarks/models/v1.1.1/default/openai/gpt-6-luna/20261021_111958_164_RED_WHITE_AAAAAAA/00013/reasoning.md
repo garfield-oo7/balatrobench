@@ -1,0 +1,1 @@
+Play the five non-7 cards as a High Card, scoring the Jack with Scary Face for roughly 45 chips while preserving the pair of 7s. This cycles the maximum five cards with no discards, giving a chance to draw into Two Pair or another stronger hand and keeping the 7 pair available for later.

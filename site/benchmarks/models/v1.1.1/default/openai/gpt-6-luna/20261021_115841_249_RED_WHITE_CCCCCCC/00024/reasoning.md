@@ -1,0 +1,1 @@
+Play the pair of Jacks, adding the three off-suit cards as a five-card cycle while preserving all three Spades (Q, 4, 3) as a strong flush draw. The pair scores better than a Spade high card with our current +Mult, and playing rather than discarding keeps all four discards unused for Delayed Gratification’s end-of-round payout.

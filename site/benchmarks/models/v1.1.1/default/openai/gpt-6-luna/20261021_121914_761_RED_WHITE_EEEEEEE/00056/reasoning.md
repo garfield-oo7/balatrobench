@@ -1,0 +1,1 @@
+Play the pair of Fives as a Two Pair? Actually this is only a Pair, so despite the high Two Pair/Supernova synergies it will score less; however, retain the connected 9-T-J-K cards as a possible Straight setup and cycle the 8 and 2 alongside the pair. This also triggers Vagabond at $0 to generate a Tarot, while keeping all hands and discards available.

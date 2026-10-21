@@ -1,0 +1,1 @@
+Play a Level-4 Heart Flush, the strongest available hand and the established scoring engine. Use both Aces, the Jack for Smiley Face's +5 Mult, the Glass 9 for its ×2 Mult, and one 4; omit the duplicate 4. Put the Jack before the Glass card so its additive Mult is applied before the Glass multiplier. The Club debuff does not affect these Hearts.

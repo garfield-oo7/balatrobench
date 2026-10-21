@@ -1,0 +1,1 @@
+Play the Two Pair of Tens and Sixes, which activates Mad Joker and receives the strong additive bonuses from Runner’s Holographic edition and Swashbuckler. At Level 5, this should comfortably clear the remaining 1,962-point deficit. Play only the four scoring cards so the pair of Threes stays intact rather than being needlessly cycled.

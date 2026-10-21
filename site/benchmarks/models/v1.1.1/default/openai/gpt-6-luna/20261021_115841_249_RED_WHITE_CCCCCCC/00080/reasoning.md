@@ -1,0 +1,1 @@
+Play the pair of Sevens with the highest-rank kickers, Queen of Hearts and Ten of Diamonds, plus the 3 of Spades. Splash scores all five cards, while the Spade adds +3 Mult from Wrathful Joker; together with Red Card's +3 Mult this comfortably clears the remaining 211 points in the final hand.

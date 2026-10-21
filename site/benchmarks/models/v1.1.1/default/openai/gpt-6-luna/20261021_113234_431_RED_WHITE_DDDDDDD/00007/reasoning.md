@@ -1,0 +1,1 @@
+Keep the three Spades (Ace, 8, and 3) and discard all five off-suit cards to maximize the chance of drawing two more Spades for a flush, which activates Crafty Joker and should be enough to clear the blind in one hand.

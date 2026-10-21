@@ -1,0 +1,1 @@
+There are already four Hearts in hand, so discard the four off-suit cards and retain the heart flush draw. Drawing four cards gives a strong chance to find a fifth Heart, which should comfortably clear the remaining 88 points with one hand.

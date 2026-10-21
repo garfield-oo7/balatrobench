@@ -1,0 +1,1 @@
+Play Two Pair with both Aces and both Fours to activate Clever Joker's +80 Chips. Include the Nine as an unscored fifth card to cycle it while retaining the low Two in hand for Raised Fist's +4 Mult; the Red Seal Ace also retriggers its scoring effects. This is the strongest reliable hand available and preserves the Two as the Raised Fist anchor.

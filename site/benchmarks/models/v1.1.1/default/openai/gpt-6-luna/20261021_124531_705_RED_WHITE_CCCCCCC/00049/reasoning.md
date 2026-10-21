@@ -1,0 +1,1 @@
+Play the five-card Diamond Flush, including the targeted 4 of Diamonds. This is the strongest reliable hand available and activates The Idol's x2 Mult on the 4♦; all five scored Diamonds also trigger Rough Gem for $5. Splash adds no extra benefit here, but the flush should score roughly 600 chips and cycle five cards toward another scoring hand.

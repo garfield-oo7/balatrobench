@@ -1,0 +1,1 @@
+Sell the Emperor to free a consumable slot. Its random Tarot generation is less valuable than keeping space open for Vagabond, and the World remains available for suit manipulation. The open slot also lets any useful Tarot from a pack or Vagabond actually enter the inventory.

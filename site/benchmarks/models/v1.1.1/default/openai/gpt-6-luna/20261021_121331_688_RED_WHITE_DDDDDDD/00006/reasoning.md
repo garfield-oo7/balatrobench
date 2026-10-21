@@ -1,0 +1,1 @@
+With only $1, none of the remaining shop items are affordable, and selling a scoring Joker would still not provide enough money for the $4 Spectral Pack. Keep both synergistic scoring Jokers and advance to the next blind.

@@ -1,0 +1,1 @@
+Free the slot by selling Scary Face, the least synergistic flat-chip Joker in this lineup. Droll Joker directly complements the established Flush plan and Crafty Joker: each Flush gains +10 Mult alongside +80 Chips, a substantial scoring upgrade worth the modest sale loss.

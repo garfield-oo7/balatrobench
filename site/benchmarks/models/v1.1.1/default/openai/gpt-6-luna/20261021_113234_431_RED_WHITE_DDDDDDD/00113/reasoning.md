@@ -1,0 +1,1 @@
+Keep the four Hearts (including the Steel Queen) intact and use the remaining discard to cycle all four off-suit cards, maximizing the chance to complete the established Flush strategy. Playing the current pair would score far less and risk consuming a useful Heart.

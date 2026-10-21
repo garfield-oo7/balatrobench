@@ -1,0 +1,1 @@
+Use Uranus to level Two Pair, one of the core hands supported by Clever Joker and already played frequently. The permanent +20 chips and +1 mult improve this strategy immediately and free a consumable slot.

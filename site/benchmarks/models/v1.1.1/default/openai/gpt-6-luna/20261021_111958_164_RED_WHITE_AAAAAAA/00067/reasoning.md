@@ -1,0 +1,1 @@
+Play the three Kings as a Three of a Kind. This activates Zany Joker's +12 Mult and Half Joker's +20 Mult because exactly three cards are played, yielding roughly (30 base chips + 30 King chips) × (3 + 32) = 2,100 points. Adding extra cards would disable Half Joker, so keep the play to the trips.

@@ -1,0 +1,1 @@
+Nothing in the shop is affordable with $3: Runner and the Mega Spectral Pack cost $8, the Celestial Pack costs $4, and the voucher costs $10; rerolling also exceeds my funds. Keep the complementary scoring Jokers and Burglar's extra hands, preserve cash, and advance to the next blind.

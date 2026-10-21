@@ -1,0 +1,1 @@
+Buy Half Joker for $5. It gives a strong +20 Mult on three-card Three of a Kind hands, stacking with Zany Joker’s +12, and on two-card Pairs it stacks with Mad Joker when applicable. This is a high-impact fit for the current hand-synergy build; retain the remaining $3 rather than spending on an unrelated Straight planet or a low-certainty pack.

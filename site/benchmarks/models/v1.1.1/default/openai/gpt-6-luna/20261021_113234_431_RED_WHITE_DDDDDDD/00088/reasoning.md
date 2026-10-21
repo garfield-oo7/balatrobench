@@ -1,0 +1,1 @@
+Keep the three Hearts (7, 6, 5) as the foundation for the Flush engine that activates both dedicated Jokers. Discard the five non-Hearts to draw toward two additional Hearts; a successful Flush is far more valuable than the available Two Pair, and there are ample hands and discards remaining if the draw misses.

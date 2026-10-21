@@ -1,0 +1,1 @@
+Play the guaranteed five-heart flush immediately. It scores about 288 chips, nearly clearing the 300 target; then use a small follow-up hand, such as the remaining pair of Aces, to finish safely.

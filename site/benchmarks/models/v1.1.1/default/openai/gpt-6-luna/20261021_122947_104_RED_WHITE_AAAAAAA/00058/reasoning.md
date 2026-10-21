@@ -1,0 +1,1 @@
+Take Uranus to level up Two Pair, the established primary hand: it has been played five times and activates Mad Joker’s +10 Mult. The +20 Chips and +1 base Mult improve this reliable, already-synergistic scoring line more than an extra Flush level or an unused Full House upgrade.

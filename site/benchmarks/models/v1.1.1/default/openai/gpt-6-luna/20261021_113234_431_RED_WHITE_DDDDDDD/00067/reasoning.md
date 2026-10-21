@@ -1,0 +1,1 @@
+Advance without spending. The Flush setup is already strong, while Mail-In Rebate is a non-scoring Joker that would require replacing one of five useful Jokers. Seed Money costs $10 and provides no extra interest at the current $16 balance; the Standard Pack is an uncertain purchase that dilutes the deck. Keep cash for interest and a higher-impact shop opportunity.

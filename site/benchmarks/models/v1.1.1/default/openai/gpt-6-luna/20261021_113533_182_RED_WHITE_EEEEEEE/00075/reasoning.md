@@ -1,0 +1,1 @@
+Play the Level 3 Two Pair with both 9s and both 4s, while adding the Ten as an unscored fifth card to cycle it. This triggers Jolly Joker, the +9 Two Pair Supernova bonus, +8 from the scored even 4s, +4 from the Mult 9, and Ride the Bus; keep the Steel King in hand for its ×1.5 held-in-hand Mult. Retain the 8 as a possible straight connector.

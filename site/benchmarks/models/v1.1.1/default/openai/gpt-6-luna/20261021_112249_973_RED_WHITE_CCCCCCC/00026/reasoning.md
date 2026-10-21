@@ -1,0 +1,1 @@
+Play the five Spades as a Flush. All five score and trigger Wrathful Joker for +15 Mult, making this far stronger than the three-of-a-kind line and enough to clear the 800 target in one hand.

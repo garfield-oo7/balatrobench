@@ -1,0 +1,1 @@
+Sell The Emperor for $1 to open a consumable slot and reach $5; its random Tarot generation is less valuable than a targeted deck-thinning option, especially with both slots currently occupied. Keep the more useful Tower for a scoring enhancement, then buy The Hanged Man for $3 to remove up to two weak cards during the next blind.

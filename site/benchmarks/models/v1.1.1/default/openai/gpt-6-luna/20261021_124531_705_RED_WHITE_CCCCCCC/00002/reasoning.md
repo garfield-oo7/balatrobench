@@ -1,0 +1,1 @@
+Play the two pair of fours and threes for immediate scoring, adding the Jack as an unscored fifth card to cycle more of the hand. This keeps the Ten, Five, and Two in hand while replacing five cards, and uses a reliable scoring hand rather than discarding.

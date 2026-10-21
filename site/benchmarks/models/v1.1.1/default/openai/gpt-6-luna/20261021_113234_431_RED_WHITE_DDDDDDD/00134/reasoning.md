@@ -1,0 +1,1 @@
+Keep the four Clubs, including the Steel King, and discard all four off-suit cards to maximize the chance of completing the established Flush engine on the next draw. A Flush triggers Crafty, Droll, and Supernova; the Steel King also benefits from staying held. The Hook only removes cards after a played hand, so use this discard to improve the scoring opportunity first.

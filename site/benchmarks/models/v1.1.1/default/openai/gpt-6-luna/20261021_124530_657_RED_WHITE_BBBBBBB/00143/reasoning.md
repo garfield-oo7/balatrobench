@@ -1,0 +1,1 @@
+Take Venus: Three of a Kind is already a demonstrated secondary hand (played five times, including once this round), so its +20 chips and +2 mult provide a reliable fallback alongside the Level 6 Two Pair core. The other planets upgrade hand types used less often; this is a useful immediate scoring boost without changing the established strategy.

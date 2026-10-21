@@ -1,0 +1,1 @@
+An early scoring Joker is important, and the $4 Buffoon Pack gives a choice of up to two Jokers for better upside than buying Scary Face immediately. It leaves $5, preserving at least the first interest tier; I can then choose the strongest Joker offered.

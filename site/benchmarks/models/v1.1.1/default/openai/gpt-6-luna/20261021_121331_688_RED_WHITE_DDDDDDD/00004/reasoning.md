@@ -1,0 +1,1 @@
+Take Crafty Joker: the run has already shown a Flush this round, so this provides a reliable +80 Chips on the hand type we can already make. Wrathful Joker needs Spades among scoring cards and is less aligned with the demonstrated Hearts Flush.

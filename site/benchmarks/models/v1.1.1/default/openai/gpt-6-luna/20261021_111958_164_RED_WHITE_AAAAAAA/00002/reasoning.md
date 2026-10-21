@@ -1,0 +1,1 @@
+Mad Joker is an unusually efficient early scoring boost for $4: +10 Mult on Two Pair, a hand that occurs naturally with an 8-card hand and can be pursued reliably. Buying it leaves enough cash to add Burglar as a strong early-round hand-economy joker if the shop state remains available.

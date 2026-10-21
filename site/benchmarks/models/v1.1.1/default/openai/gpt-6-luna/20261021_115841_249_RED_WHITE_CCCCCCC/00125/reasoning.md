@@ -1,0 +1,1 @@
+Keep the three Hearts as the strongest seed for the established Level-4 Flush strategy, and cycle the off-suit Ace, debuffed Wild 9, debuffed Club 6, and Spade 2. A Flush benefits from its high level plus Supernova's accumulated +21 Mult and Bootstraps' +16, so spending a discard to seek two more Hearts is more promising than taking the current low-value pair.

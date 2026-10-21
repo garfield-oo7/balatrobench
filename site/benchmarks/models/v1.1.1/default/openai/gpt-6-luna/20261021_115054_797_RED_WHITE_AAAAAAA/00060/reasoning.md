@@ -1,0 +1,1 @@
+Free a slot by replacing Raised Fist, whose bonus is often only +6 to +10 Mult depending on the lowest held card. Swashbuckler will provide an unconditional +11 Mult after this sale, benefiting every hand type and making scoring less dependent on preserving a low card in hand. The cash cost is modest and the stronger generic scaling is valuable entering Ante 4.

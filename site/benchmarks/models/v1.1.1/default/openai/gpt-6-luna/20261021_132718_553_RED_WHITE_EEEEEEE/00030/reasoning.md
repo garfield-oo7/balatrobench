@@ -1,0 +1,1 @@
+Play the guaranteed pair of Aces while including all three face-down cards as fillers. The hidden cards may improve the actual hand to Two Pair, Trips, or better, and this clears the unknown cards while cycling five cards. Jolly Joker will trigger on the pair, and Supernova adds its Pair bonus; the three visible singletons are retained for now.

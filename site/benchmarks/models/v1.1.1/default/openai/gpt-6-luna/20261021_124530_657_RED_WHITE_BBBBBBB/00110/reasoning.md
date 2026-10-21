@@ -1,0 +1,1 @@
+Skip the $3 Standard Pack: an unknown single deck addition is unlikely to improve the current Two Pair/Photograph scoring engine enough to justify the cost, and adding an uncurated card can dilute draws. Avoid a $7 reroll with all five Joker slots occupied and no current shop offers; replacing a Joker would require selling one at a loss. Keep $22 for the next shop and advance.

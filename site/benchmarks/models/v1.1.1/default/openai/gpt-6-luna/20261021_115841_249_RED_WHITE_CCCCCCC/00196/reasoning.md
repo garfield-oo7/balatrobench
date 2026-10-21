@@ -1,0 +1,1 @@
+Convert the Jack of Hearts, 5 of Clubs, and 4 of Hearts to Spades. This strengthens the established Level-6 Flush strategy and makes future Spade flushes substantially easier, while the Hermit likely adds nothing near the $55 balance implied by Bootstraps and the Empress would provide only temporary scoring on two cards.

@@ -1,0 +1,1 @@
+Keep all four Hearts and discard the three Diamonds plus the Club to draw toward a Flush. Flush is our level-4 engine, with +18 Mult from Supernova and +12 Mult from Bootstraps, so completing one is far stronger than playing a weak Pair or High Card. We have ample discards and five hands available, making this a good first attempt to find a fifth Heart.

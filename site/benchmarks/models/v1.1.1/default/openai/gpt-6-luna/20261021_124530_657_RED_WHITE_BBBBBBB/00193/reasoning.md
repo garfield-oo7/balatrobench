@@ -1,0 +1,1 @@
+Play a High Card with the Queen as the highest ranked card, plus the Stone for its +50 chips. Leaving the Ace out ensures Queen is the scored face card, triggering Photograph's ×2 Mult; Mystic Summit adds +15 Mult and Ramen doubles the Mult again. The other selected cards are unpaired and can be cycled without disrupting the hand.

@@ -1,0 +1,1 @@
+Buy Scary Face for $4. It complements Crafty Joker: face cards included in a flush will add +30 chips each, stacking with Crafty's +80-chip flush bonus and helping clear the next blind reliably. Satellite is unaffordable, and the Spectral Pack is a riskier use of nearly all available cash.

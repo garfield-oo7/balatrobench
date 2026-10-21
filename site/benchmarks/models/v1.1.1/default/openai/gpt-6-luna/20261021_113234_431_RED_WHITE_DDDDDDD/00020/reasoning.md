@@ -1,0 +1,1 @@
+Play the five Spades as a Flush to activate Crafty Joker’s +80 Chips. The scored Jack adds Scary Face chips and the 7 adds Odd Todd chips; Ride the Bus currently supplies +1 Mult. This should comfortably clear the remaining 566 points, so preserve hands and avoid an unnecessary discard.

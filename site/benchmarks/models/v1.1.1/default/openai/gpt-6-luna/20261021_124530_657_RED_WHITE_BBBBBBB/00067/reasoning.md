@@ -1,0 +1,1 @@
+Skip the weak Four of a Kind planet, off-strategy Seance, and random Standard Packs. Rerolling is risky with all five Joker slots occupied, and the $7 voucher does not repay itself soon. Keeping $26 preserves the maximum $5 interest while the current Two Pair/Three of a Kind Joker package is already functioning; retain Judgement for when a Joker slot opens and advance.

@@ -1,0 +1,1 @@
+Play the known Jack pair with both A♣ and Q♣ plus one face-down card. This guarantees at least a pair, and the hidden card can upgrade it to Two Pair by matching the Ace or Queen, activating Mad Joker while scoring two Club cards for Ancient Joker's multiplicative bonus. The pair-only result is still a strong fallback, and this uses the maximum five cards to cycle efficiently.

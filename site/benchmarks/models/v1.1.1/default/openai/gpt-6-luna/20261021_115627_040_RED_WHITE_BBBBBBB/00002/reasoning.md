@@ -1,0 +1,1 @@
+Play two pair (Jacks and Eights) for a substantially stronger score than another isolated pair. The fifth card is an expendable low 2, cycling it while retaining A-Q-T for potential future combinations.

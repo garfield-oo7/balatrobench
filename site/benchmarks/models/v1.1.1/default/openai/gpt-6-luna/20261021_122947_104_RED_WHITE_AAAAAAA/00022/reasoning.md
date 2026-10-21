@@ -1,0 +1,1 @@
+Use High Priestess now while there is one free consumable slot; it can generate a Planet upgrade at no monetary cost, and the Two Pair-focused Joker core can benefit from a useful random Planet. This also preserves the option to hold the generated Planet for a later round.

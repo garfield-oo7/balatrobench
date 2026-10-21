@@ -1,0 +1,1 @@
+Buy Even Steven for $4 as a useful additive Mult Joker alongside Mad Joker and Holographic Runner. Our two-pair strategy often scores even-rank cards, so +4 Mult per scored even card can materially improve those hands; keep the remaining $6 rather than spending on an uncertain pack or random Planet generation.

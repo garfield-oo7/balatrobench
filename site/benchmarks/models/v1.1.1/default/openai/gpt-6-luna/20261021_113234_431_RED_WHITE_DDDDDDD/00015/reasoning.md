@@ -1,0 +1,1 @@
+Play the five Hearts as a Flush, preserving both the pair cards off-suit. Crafty Joker adds +80 Chips, Scary Face boosts the scored Q and J, and Odd Todd boosts the 9 and 7; together this should score well above the 600 target in one hand even without relying on Acrobat's final-hand multiplier.

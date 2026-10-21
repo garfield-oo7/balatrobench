@@ -1,0 +1,1 @@
+With only $3, the $4 Joker and Buffoon Pack are unaffordable, while the voucher and reroll are far out of reach. Keep Even Steven and preserve the cash rather than selling or making a poor transaction; advance to the next blind and build funds for a later shop.

@@ -1,0 +1,1 @@
+Play the two pair of Tens and Eights for a dependable 112-point hand, and use the fifth card slot to cycle the low Four. This keeps the Jack and connected 6–7 in hand for future possibilities.

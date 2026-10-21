@@ -1,0 +1,1 @@
+No pair, flush, or straight is available in the current hand, so take the best immediate High Card score using the Mult-enhanced Queen as the scoring card. Playing five cards cycles the otherwise weak Nine, Eight, Seven, and Three while retaining the Ace and King for strong ranks in the next draw. This is not the final hand yet, so preserve Acrobat's ×3 for the round's last hand.

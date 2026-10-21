@@ -1,0 +1,1 @@
+Play the two pair of Aces and Queens for the strongest hand type available. Two Pair is Level 1 but benefits from its 16 prior plays on Supernova, Bootstraps' +16 Mult, and Mystic Summit's +15 Mult with no discards remaining. Include the 4 of Hearts as an unscored fifth card to cycle it while preserving the 6 of Spades as a possible flush card.

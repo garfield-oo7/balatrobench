@@ -1,0 +1,1 @@
+Play the pair of Aces for the strongest available scored hand and To Do List's Pair payout. Include three low, unpaired cards to cycle them, while preserving the J♠ and pair of 2s as useful follow-up scoring options.

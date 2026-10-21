@@ -1,0 +1,1 @@
+Keep the established scoring lineup rather than selling a useful Joker to make room for Walkie Talkie: its 10/4-dependent bonuses are less dependable than Mad Joker, Half Joker, the Holographic Runner, or Ancient Joker’s conditional multiplier. The $4 packs are random and would leave only $1, while the voucher is unaffordable. Preserve the $5 reserve and advance.

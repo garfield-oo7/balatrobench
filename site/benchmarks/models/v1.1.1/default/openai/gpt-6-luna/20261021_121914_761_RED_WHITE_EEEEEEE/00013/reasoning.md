@@ -1,0 +1,1 @@
+The Psychic requires exactly five cards. This selection makes Two Pair with the Queens and Sevens, activating Jolly Joker’s +8 Mult; the Six is an unscored fifth card. Two Pair scores about (20 base chips + 34 card chips) × (2 base Mult + 8) = 540, the strongest legal hand available from this hand. Keep the Ace and Nine in hand for the next play toward the remaining target.

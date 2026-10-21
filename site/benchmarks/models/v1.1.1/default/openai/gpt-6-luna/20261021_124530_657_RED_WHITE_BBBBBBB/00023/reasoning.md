@@ -1,0 +1,1 @@
+Play the three Aces as Three of a Kind to trigger Zany Joker's +12 Mult. At level 2, this hand scores far more than the 188 points needed to reach 600. Include the Jack and one Eight as unscored cards; there is no reason to preserve them with the blind about to be cleared.

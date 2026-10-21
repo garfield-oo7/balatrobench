@@ -1,0 +1,1 @@
+Pursue a Diamond Flush because Hearts are debuffed and Diamonds are the strongest available suit foundation. Keep D_Q (Mult enhancement), D_J, and D_2; discard both Spades, the Club, and both debuffed Hearts to draw five fresh cards toward the two additional Diamonds needed. Save the supported Flush for Acrobat’s final-hand multiplier.

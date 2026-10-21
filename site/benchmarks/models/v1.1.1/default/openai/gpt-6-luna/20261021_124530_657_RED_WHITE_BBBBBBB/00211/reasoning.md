@@ -1,0 +1,1 @@
+Mercury is a cheap incremental upgrade that preserves the $25 interest threshold: spending $1 leaves $28. Pair is a useful fallback when Two Pair cannot be assembled, and leveling it improves its base chips and Mult without sacrificing any core Joker.

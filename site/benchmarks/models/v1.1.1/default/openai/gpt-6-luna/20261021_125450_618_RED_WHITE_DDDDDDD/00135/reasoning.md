@@ -1,0 +1,1 @@
+Convert three of the four held Diamonds into Hearts. This sets up a Heart Flush, which will trigger both Flush Jokers and let the active Heart Ancient Joker multiply three scored cards for a substantial score boost. Preserve the fourth Diamond only as a possible replacement if the draws do not complete the flush.

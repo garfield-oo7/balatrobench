@@ -1,0 +1,1 @@
+Play the strongest available five-card Diamond Flush: the level-4 Flush benefits from Crafty (+80 Chips), Droll (+10 Mult), Abstract (+15 Mult), and Ancient’s per-scored-Diamond ×1.5 effect. Choose the Ace, Ten, Eight, Seven, and Four for the highest card values. Preserve Acrobat’s ×3 by not using it yet; with three hands remaining, reserve it for the round’s final hand.

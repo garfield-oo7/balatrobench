@@ -1,0 +1,1 @@
+Play the two Sixes with three nonmatching kickers, keeping this classified as a Pair to trigger To Do List's $4 payout. Playing five cards maximizes the draw while preserving the pair of Twos and the Three for follow-up options; the pair's modest score is a worthwhile setup toward the 450 target.

@@ -1,0 +1,1 @@
+Open the Arcana Pack for $4 rather than spending $6 on Fortune Teller's current +1 Mult or rerolling. A Tarot can immediately provide money, useful card enhancements, or deck shaping; keeping $4 also preserves some economy while the established Two Pair/Jolly Joker/Supernova scoring engine is already effective.

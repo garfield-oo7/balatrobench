@@ -1,0 +1,1 @@
+Take Venus to strengthen the best available fallback hand. Two Pair remains the core build, but it has no Planet option here; upgrading the already Level 4 Three of a Kind adds +20 chips and +2 Mult, a larger direct improvement than the offered Level 1 Straight or Flush upgrades.

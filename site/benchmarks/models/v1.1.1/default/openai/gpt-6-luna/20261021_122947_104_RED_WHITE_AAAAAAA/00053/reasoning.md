@@ -1,0 +1,1 @@
+Apply Steel to the Bonus Ace, which can stay held while I play the three Tens. The Arm reduces the played hand's level, but Three of a Kind still scores substantially; keeping this high-value card in hand lets Steel multiply the hand's Mult.

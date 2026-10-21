@@ -1,0 +1,1 @@
+Play the five Spades as a Flush: A-K-J-T-7 are all the same suit. This scores about (35 base chips + 48 card chips) × 4 = 332, enough to clear the remaining 132 chips in one hand and preserve the last hand for end-of-round income.

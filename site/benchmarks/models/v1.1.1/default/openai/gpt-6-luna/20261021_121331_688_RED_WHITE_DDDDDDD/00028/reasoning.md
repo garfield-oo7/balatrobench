@@ -1,0 +1,1 @@
+Play the five Clubs as a Flush. This activates both Crafty Joker (+80 Chips) and Droll Joker (+10 Mult), with the Ace also triggering Odd Todd (+31 Chips). The resulting score should comfortably exceed the 1200 target in one hand, preserving the remaining hands for economy.

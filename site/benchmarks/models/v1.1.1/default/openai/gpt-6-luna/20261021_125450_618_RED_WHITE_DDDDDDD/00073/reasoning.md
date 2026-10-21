@@ -1,0 +1,1 @@
+Preserve the three Diamonds (D_T, D_8, D_4) and draw five replacements to pursue a Flush, which activates both Crafty and Droll and can potentially clear the 7,500 blind in one hand. The triple Fours is a solid fallback if the draw does not complete the Flush.

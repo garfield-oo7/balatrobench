@@ -1,0 +1,1 @@
+Take Uranus to level Two Pair, the hand already played most often this round and supported by Jolly Joker's Pair bonus. The +20 chips and +1 Mult improve a reliable hand directly; Flush, Straight, Straight Flush, and High Card are less supported or less consistently available.

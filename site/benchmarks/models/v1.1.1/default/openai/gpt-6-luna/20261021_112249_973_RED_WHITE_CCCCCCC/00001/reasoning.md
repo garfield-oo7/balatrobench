@@ -1,0 +1,1 @@
+Play the strongest available scoring hand, Two Pair using the 9s and 6s, while adding the Jack as an unscored fifth card to cycle as many cards as possible. This should score about 100 chips and preserves the Ace and 4-pair for future hands.

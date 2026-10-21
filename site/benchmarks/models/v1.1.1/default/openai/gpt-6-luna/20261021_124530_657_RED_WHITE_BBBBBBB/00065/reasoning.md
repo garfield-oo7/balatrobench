@@ -1,0 +1,1 @@
+Play the three Tens as a Three of a Kind to trigger Zany Joker, while Mystic Summit is active because discards are exhausted. Add the 2 and 4 as unscored cards so they cycle out and raise the lowest card left in hand to the 5, improving Raised Fist from +8 to +10 Mult. With level-2 Three of a Kind, this should clear the 3,000 target in one hand.

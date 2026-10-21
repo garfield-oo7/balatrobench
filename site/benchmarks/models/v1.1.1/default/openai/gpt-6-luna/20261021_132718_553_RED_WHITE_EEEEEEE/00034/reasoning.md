@@ -1,0 +1,1 @@
+Open the Buffoon Pack for $4. The scoring core is functional but three Jokers leave two slots open, and a strong additional Joker offers more immediate and lasting value than a random Planet from the $3 High Priestess. Keep Justice in its consumable slot for a future high-rank Glass target; prioritize a Joker that boosts Two Pair, adds Mult/Chips, or supplies a multiplier.

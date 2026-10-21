@@ -1,0 +1,1 @@
+Open the Jumbo Celestial Pack for a focused scoring upgrade. Two Pair is the established engine with Mad Joker and is already Level 4, so choose Uranus if offered to add chips and Mult to the hand we rely on. Wasteful is negated by Burglar, while Chaos would consume a Joker slot and the scoring value of the current lineup is more important at Ante 4.

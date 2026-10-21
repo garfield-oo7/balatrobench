@@ -1,0 +1,1 @@
+Buy Clearance Sale for $10: at Ante 3, there are enough future shops and likely purchases for the permanent 25% discount to repay its cost, and $32 leaves a reasonable cash reserve. Preserve the full Joker lineup rather than replacing a situational Joker for Superposition, and skip both packs afterward to grow Red Card by +6 Mult.

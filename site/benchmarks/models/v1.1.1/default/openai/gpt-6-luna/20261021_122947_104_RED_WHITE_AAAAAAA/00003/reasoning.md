@@ -1,0 +1,1 @@
+Burglar is a strong guaranteed early-game upgrade: +3 hands provides substantial scoring and safety across each blind, and Mad Joker can already turn Two Pair into a potent scoring hand. Losing discards is manageable with the extra hands, so this is a better use of the $6 than gambling on a pack or an expensive reroll.

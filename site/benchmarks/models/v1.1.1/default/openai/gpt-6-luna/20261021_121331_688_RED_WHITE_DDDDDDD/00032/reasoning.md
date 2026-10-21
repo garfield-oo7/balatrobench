@@ -1,0 +1,1 @@
+Play the pair of Queens for a modest score while cycling five cards with no discards. Keep the three Spades together in hand to preserve the best route toward a Flush on the next draw; the Ace, Club 8, and Heart 2 are weaker draws and can be cycled. This is not the final hand, so save Acrobat’s ×3 bonus for a later hand if needed.

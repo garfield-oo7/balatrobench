@@ -1,0 +1,1 @@
+Seltzer's one-round retrigger effect has already expired, so it is currently an inactive Joker occupying a critical slot. Sell it to make room for Hanging Chad, a persistent retrigger effect that can improve scored-card value and especially benefit enhanced scoring cards. The sale also raises cash enough to afford the replacement.

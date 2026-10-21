@@ -1,0 +1,1 @@
+Keep all three Clubs (C_J, C_6, C_3) as the strongest route toward the established Level-6 Flush engine. Discard the two Hearts, Spade, and Diamond to draw four replacements; this gives a solid chance to find the two additional Clubs needed for a Flush, which will benefit from the +22 Supernova Mult, Bootstraps, Popcorn, and Hiker.

@@ -1,0 +1,1 @@
+I have no Jokers yet, so an early Buffoon Pack is the best investment for building scoring power before blind targets rise. It costs only $4 and gives a choice between Jokers, while the available Mars is unlikely to help without a Four of a Kind strategy and Reserved Parking adds money but no scoring.

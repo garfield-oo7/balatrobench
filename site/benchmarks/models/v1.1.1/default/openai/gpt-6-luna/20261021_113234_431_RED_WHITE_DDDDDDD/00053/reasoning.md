@@ -1,0 +1,1 @@
+Enhance the two retained high-rank Diamonds, D_Q and D_T, as Mult Cards. They are core components of the four-card Flush draw and will reliably score if a fifth Diamond arrives, stacking +8 Mult with the Flush-specific Jokers.

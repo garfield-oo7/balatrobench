@@ -1,0 +1,1 @@
+The hand has no made pair or straight, so use a discard to dig for a scoring combination. Keep the Steel King held for its multiplier, and retain the even 8, 4, and 2 as potential Even Steven scorers; discard the unmatched Ace, 9, 7, and 5. This avoids scoring a face card, preserving Ride the Bus.

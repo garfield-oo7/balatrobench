@@ -1,0 +1,1 @@
+Keep the four Hearts needed for the Flush build and retain the Steel C_K in hand so its held-card ×1.5 Mult bonus can boost scoring. Discard the debuffed S_6 and the off-suit C_3 to draw two chances at the fifth Heart; a completed Flush activates both Crafty and Droll.

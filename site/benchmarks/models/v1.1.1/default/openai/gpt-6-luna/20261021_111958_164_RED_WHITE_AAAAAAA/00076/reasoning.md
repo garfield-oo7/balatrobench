@@ -1,0 +1,1 @@
+The only affordable shop Joker, Chaos the Clown, would require replacing a useful scoring Joker despite my five-slot lineup already having strong +Mult and multiplicative support; its free reroll is not worth that sacrifice. The $6 packs and $10 voucher are unaffordable, so preserve the $4 and keep The Devil for a useful card enhancement during play, then advance.

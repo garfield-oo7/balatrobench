@@ -1,0 +1,1 @@
+No two-pair is currently available, so preserve both Aces and the Ten while cycling the four low cards. Score the King as a High Card: its face-card trigger adds +30 chips, and Runner's Holographic edition adds +10 Mult to this hand, giving a strong opening score while drawing five fresh cards to build a better hand.

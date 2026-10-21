@@ -1,0 +1,1 @@
+Move Supernova’s additive Mult ahead of both multiplicative Jokers. The Flush build keeps Crafty’s +80 Chips and Droll’s +10 Mult up front, then adds Supernova’s accumulated Mult before Ancient’s suit-based ×1.5 effects and Acrobat’s final-hand ×3. This improves scoring without spending money or sacrificing a core Joker.

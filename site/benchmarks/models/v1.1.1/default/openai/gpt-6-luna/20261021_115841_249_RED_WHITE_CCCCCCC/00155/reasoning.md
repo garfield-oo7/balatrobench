@@ -1,0 +1,1 @@
+Ride the Bus is currently at +0 Mult and requires carefully avoiding scoring face cards to scale; with a Level-6 Flush plan, Odd Todd offers a reliable immediate bonus on odd-ranked scored cards. Free the slot for this off-the-shelf scoring upgrade, while retaining Hiker, Supernova, Bootstraps, and The Idol.

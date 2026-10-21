@@ -1,0 +1,1 @@
+Take Earth to raise Full House from level 2 to 3, adding +25 Chips and +2 Mult to a substantial fallback hand. No Flush Planet is available, and the established Flush engine remains the priority; this is a better secondary scoring upgrade than investing in Pair, High Card, Four of a Kind, or Three of a Kind.

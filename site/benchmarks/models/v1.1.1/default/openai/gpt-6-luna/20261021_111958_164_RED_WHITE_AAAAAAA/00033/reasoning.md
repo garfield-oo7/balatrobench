@@ -1,0 +1,1 @@
+Sell Scary Face to free a Joker slot and fund Half Joker. Scary Face is conditional on scored face cards, whereas Half Joker’s +20 Mult works on exact 2-card pairs and 3-card trips; on trips it combines with Zany Joker’s +12 Mult, making a much stronger and more consistent scoring line. Keep Burglar for its extra hands, plus Mad Joker and Even Steven.

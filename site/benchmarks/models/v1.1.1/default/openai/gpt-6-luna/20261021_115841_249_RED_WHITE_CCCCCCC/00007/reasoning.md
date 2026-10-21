@@ -1,0 +1,1 @@
+The only affordable item is Mars, which levels Four of a Kind while this run has been repeatedly winning with Two Pair; spending all $3 on an off-strategy Planet is poor value. The Joker and pack are unaffordable, and rerolling costs more than our cash, so preserve the money and advance.

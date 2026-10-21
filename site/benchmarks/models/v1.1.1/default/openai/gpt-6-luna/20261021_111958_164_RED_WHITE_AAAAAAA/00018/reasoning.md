@@ -1,0 +1,1 @@
+Play the Queens and sixes as Two Pair to trigger Mad Joker’s +10 Mult. Both Queens score as face cards and add +30 Chips each from Scary Face. This should easily clear the remaining 243 points; the other cards do not improve the scoring hand.

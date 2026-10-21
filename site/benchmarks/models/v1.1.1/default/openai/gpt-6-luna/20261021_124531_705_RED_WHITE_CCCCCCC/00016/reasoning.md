@@ -1,0 +1,1 @@
+Make the first discard of the round a single-card discard to trigger Trading Card: the Heart 2 is debuffed by The Head and contributes nothing, while the effect destroys it and earns $3. Keep the pair of 9s and other useful cards, and draw a replacement.

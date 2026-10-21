@@ -1,0 +1,1 @@
+Leave the Mercury behind: it upgrades Pair, not the Level 8 Two Pair hand that drives this build, so its small fallback benefit is not worth spending even $1. A $3 reroll is also speculative with only $12 and no visible pack or voucher; preserve cash and advance with the established Two Pair/Joker engine intact.

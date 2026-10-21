@@ -1,0 +1,1 @@
+Play the pair of Sevens now and use the other three slots to cycle five cards, keeping the Steel King in hand for its held-in-hand multiplier. The unpaired cards do not score, so the Jack does not interrupt Ride the Bus; this should bank roughly a thousand points while drawing toward a stronger final hand.

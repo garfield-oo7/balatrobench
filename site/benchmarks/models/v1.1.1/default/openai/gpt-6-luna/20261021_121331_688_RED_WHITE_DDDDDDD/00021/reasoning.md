@@ -1,0 +1,1 @@
+Play the five Spades (K, 8, 7, 6, 4) as a Flush. This triggers Crafty Joker’s +80 Chips, Scary Face for the scored King, and Odd Todd for the scored 7. Even if Ride the Bus’s +1 Mult resets because the King scores, the flush should still comfortably cover the 524 points remaining and clear the blind immediately.

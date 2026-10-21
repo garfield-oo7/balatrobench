@@ -1,0 +1,1 @@
+The House has concealed every card in the opening hand, so there is no information to target a pair or straight. Play five hidden cards rather than waste a discard: this gives a chance to score a real hand with our Joker bonuses and cycles five cards into a visible hand for the next decision. Keep the action within the five-card limit.

@@ -1,0 +1,1 @@
+Keep the three Spades (Ace, 8, 3) and discard all five non-Spades to maximize the chance of drawing two more Spades for a Flush, which activates Crafty Joker's +80 Chips. We have all hands and discards available, so setting up this strong hand is preferable to spending a hand on the weak pair of 3s.

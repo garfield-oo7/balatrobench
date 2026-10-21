@@ -1,0 +1,1 @@
+Open the $3 Spectral Pack while both consumable slots are empty. This is a low-cost chance at a high-impact effect such as Black Hole, a useful card enhancement, or a strong Joker-related outcome; avoid replacing the existing full five-Joker Flush engine based on a merely situational shop Joker.

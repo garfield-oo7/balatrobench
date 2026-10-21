@@ -1,0 +1,1 @@
+Advance without spending: at $2, the only purchasable item would require selling a useful consumable, and The Tower's Stone enhancement is not worth sacrificing The World or The Devil. Keep both consumables for a suitable hand, preserve money, and proceed to the next blind.

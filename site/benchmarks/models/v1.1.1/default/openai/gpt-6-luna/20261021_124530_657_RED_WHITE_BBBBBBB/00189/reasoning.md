@@ -1,0 +1,1 @@
+Buy Grabber for $5. The permanent extra hand is especially valuable with Burglar: selecting the blind adds three hands while removing discards, and an extra hand gives more scoring/cycling capacity for the Ante 7 blind. It strengthens the run more reliably than the shop's low-impact Egg or a speculative reroll.

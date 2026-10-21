@@ -1,0 +1,1 @@
+Play the three 2s as Three of a Kind and include the King and 9 as the two extra cards. Splash makes all five played cards score; the hand’s base 30 chips plus the scored card values, multiplied by 3, should comfortably cover the remaining 106 chips and clear the blind.

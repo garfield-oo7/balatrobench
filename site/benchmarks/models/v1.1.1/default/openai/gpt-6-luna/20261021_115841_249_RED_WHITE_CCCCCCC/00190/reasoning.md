@@ -1,0 +1,1 @@
+Keep all three Spades, including both Aces, and discard the three off-suit cards to draw toward a Flush. Flush is the engine's dominant hand (Level 6) and activates Droll Joker; pairing would score far less and would sacrifice key Spades if used to cycle cards.

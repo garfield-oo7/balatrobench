@@ -1,0 +1,1 @@
+Play the available Two Pair using both 4s and both 3s; it benefits from the hand's accumulated +12 Supernova Mult and Bootstraps' +16 Mult. Include the Jack as an unscored fifth card to cycle it while retaining the Ace, Ten, and Spade 3 as a useful flush seed. The Club debuff does not affect these scoring cards.

@@ -1,0 +1,1 @@
+Keep the three Tens intact as the strongest scoring core for Zany Joker. Discard all five off-rank cards to dig for a fourth Ten or stronger supporting cards, then use the final discard before scoring so Mystic Summit can activate.

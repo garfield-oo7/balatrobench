@@ -1,0 +1,1 @@
+Take Crafty Joker. It adds a substantial +80 Chips whenever a Flush is played, and Flush has already been a reliable hand this run; unlike Wrathful Joker, its value does not depend on drawing five Spades. This is a strong early scoring boost that complements Scary Face without requiring a narrow suit strategy.

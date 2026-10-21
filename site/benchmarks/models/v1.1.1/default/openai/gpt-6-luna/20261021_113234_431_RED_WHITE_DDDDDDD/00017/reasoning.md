@@ -1,0 +1,1 @@
+Nothing in the shop is affordable with $1, and selling a useful scoring Joker to scrape together cash would weaken a functioning Flush engine. Preserve Crafty Joker, Scary Face, Acrobat, Odd Todd, and Ride the Bus, then advance to the next blind.

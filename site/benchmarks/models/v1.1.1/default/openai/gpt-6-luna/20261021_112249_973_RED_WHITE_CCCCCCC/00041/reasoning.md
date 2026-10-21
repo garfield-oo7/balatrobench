@@ -1,0 +1,1 @@
+Play the two pair of Nines and Eights. Wrathful Joker adds +3 Mult for each scored Spade (the 9♠ and 8♠), making this substantially stronger than the available Flush. Include the low 3♦ as an unscored fifth card to cycle it while preserving 7♦, 5♦, and 4♦ toward a possible follow-up Flush. The Arm lowers the hand level, but Two Pair is already at level 1.

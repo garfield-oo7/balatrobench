@@ -1,0 +1,1 @@
+Take Jupiter as the most practical alternate hand upgrade. Flush is generally easier to assemble than Four of a Kind or a Straight/ Straight Flush and gives a useful scoring fallback if the current Pair/Two Pair plan is disrupted. The current pack has no planet for the hands most supported by our Jokers, so this is a modest backup improvement rather than a reason to pivot.

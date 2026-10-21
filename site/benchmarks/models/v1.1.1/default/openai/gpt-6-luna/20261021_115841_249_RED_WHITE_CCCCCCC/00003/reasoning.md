@@ -1,0 +1,1 @@
+Play the Jacks and Tens as Two Pair for a reliable 120-point hand, which brings the round close enough to the 300 target for one remaining hand. Include the low 4 as an unscored fifth card to cycle it, while preserving the Ace and spade cards for a potentially stronger follow-up.

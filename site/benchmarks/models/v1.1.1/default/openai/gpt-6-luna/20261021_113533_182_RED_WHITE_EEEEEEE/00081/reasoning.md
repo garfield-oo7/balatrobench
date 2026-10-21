@@ -1,0 +1,1 @@
+Buy the Arcana Pack for its immediate Tarot choice and to reduce money from $8 to $4, which activates Vagabond's Tarot generation during the next blind. Droll Joker is off-strategy for our strongly supported Pair/Two Pair hands, and replacing a current Joker would sacrifice more synergy than it adds.

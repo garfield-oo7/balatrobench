@@ -1,0 +1,1 @@
+Buy The Empress for just $1 and use the open consumable slot to add two Mult-enhanced cards next round, ideally targeting cards likely to score in Two Pair hands. The current Joker lineup is cohesive and all five slots are occupied, so the small Spade-specific Wrathful Joker is not worth replacing a core Joker or paying to reroll.

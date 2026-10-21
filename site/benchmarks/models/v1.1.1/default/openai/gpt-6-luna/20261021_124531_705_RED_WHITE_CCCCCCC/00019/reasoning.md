@@ -1,0 +1,1 @@
+Play the pair of Fours, using the Ten, Nine, and Eight as the extra cards. Splash makes all non-debuffed played cards score, and the Foil Trading Card adds 50 chips; the Heart Four is debuffed and contributes no card value, but can still complete the pair. This is the strongest reliable hand and should leave only a small remainder for the final hand.

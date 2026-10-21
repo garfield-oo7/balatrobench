@@ -1,0 +1,1 @@
+The Level-7 Flush engine is the proven scoring plan, and a Celestial Pack has a chance to offer Jupiter for a permanent +2 Mult and +15 Chips on Flushes. That is a much stronger use of $3 than the Standard Pack; avoid Obelisk because Flush is by far the most-played hand and would interrupt its scaling.

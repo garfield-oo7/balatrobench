@@ -1,0 +1,1 @@
+Free a Joker slot for Red Card by selling Delayed Gratification, our least useful slot: its $2 payout requires ending the round without discards, conflicting with Trading Card's incentive to make a one-card discard and with normal cycling. Red Card can scale into a substantial permanent +Mult by skipping the available Booster Packs and future packs.

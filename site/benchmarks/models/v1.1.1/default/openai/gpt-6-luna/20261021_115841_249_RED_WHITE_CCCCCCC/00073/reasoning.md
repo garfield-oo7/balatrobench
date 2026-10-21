@@ -1,0 +1,1 @@
+Play the pair of Kings and include the Ace, Spade 5, and 6 as scored kickers via Splash. This captures both Mult-enhanced cards and the Spade-triggered +3 Mult, maximizing the immediate score while using all five card slots.

@@ -1,0 +1,1 @@
+Redeem Tarot Merchant for a persistent boost to Tarot availability while there are several Antes remaining. I have no shop cards to improve the scoring engine, and the extra Tarot access can provide cash, card enhancements, or deck manipulation in future shops. Spending down to $0 sacrifices this round’s interest, but the voucher’s value compounds across the remaining shops.

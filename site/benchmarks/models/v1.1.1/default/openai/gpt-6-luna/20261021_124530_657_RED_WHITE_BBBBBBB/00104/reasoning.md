@@ -1,0 +1,1 @@
+Take Deja Vu and add the Red Seal to the Queen of Spades. It preserves the current Joker engine and gives a reusable scoring trigger; when this face card is scored, Smiley Face's +5 Mult should trigger again as well. Hex is too risky with all five Joker slots occupied: it would destroy four useful Jokers for a random Polychrome survivor.

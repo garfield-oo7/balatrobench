@@ -1,0 +1,1 @@
+Free a slot by replacing Abstract with Supernova. Flush has been played 19 times, so Supernova adds +19 Mult immediately and will keep scaling, outperforming Abstract’s fixed +15 Mult on the established Flush build. This is a high-value upgrade for only a small net cash cost.

@@ -1,0 +1,1 @@
+Play the five Hearts as a Level 5 Flush. This is the strongest available hand and activates Droll Joker, Lusty Joker on all five scored cards, and possibly Ancient Joker if Hearts are its current suit. It also uses the five-card scoring hand to cycle the off-suit cards while preserving the established Flush engine.

@@ -1,0 +1,1 @@
+Keep all four Clubs (A, K, Q, 8) and discard the four off-suit cards to dig for a fifth Club, the strongest route given Crafty Joker and Droll Joker’s Flush bonuses. This preserves the suited core while using one of four available discards to pursue a flush capable of clearing the 1,200 target efficiently.

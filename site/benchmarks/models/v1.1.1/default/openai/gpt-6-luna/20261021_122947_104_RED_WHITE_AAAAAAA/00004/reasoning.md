@@ -1,0 +1,1 @@
+There are no affordable shop items: the only voucher costs $10 and both packs cost $4, while I have $0. Keep both Jokers—Mad Joker provides a strong Two Pair scoring route, and Burglar adds three hands at blind selection—and advance rather than waste resources trying to reroll.

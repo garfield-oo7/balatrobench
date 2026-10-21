@@ -1,0 +1,1 @@
+Play the five highest Hearts as a Flush. This is the strongest made hand available and scores five cards under Splash; the lower Hearts can be kept for future Flushes, while the lone Spade offers no useful Joker trigger here. The Flush plus Red Card's +3 Mult is the best immediate score toward the 3,000-point blind.

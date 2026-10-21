@@ -1,0 +1,1 @@
+Buy the Celestial Pack for $4: Flush has been our most-used scoring hand, so a Jupiter upgrade would directly improve the established strategy, and the pack is affordable while preserving funds for a Joker or future interest.

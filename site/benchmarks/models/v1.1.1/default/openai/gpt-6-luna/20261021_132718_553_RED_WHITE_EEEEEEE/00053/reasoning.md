@@ -1,0 +1,1 @@
+Play the pair of Fives with three even-rank cards (T, 8, 2). Splash makes all five played cards score, triggering Even Steven three times; Jolly Joker and Pair Supernova also add Mult. Keep the Steel King in hand for its held-card multiplier, and use this high-value cycling hand to build progress while preserving three hands.

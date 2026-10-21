@@ -1,0 +1,1 @@
+Buy To Do List for $4: there is an open Joker slot, and it can generate $4 by playing a Pair during the next round. Our Level 6 Two Pair/Mad Joker engine remains intact, and Swashbuckler gains another +2 Mult from To Do List’s sell value. Burglar’s extra hands provide flexibility to score a Pair for the payout without sacrificing the core Two Pair strategy.

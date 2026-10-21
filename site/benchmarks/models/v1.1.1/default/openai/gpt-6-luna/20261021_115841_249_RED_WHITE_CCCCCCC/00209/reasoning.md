@@ -1,0 +1,1 @@
+Play the five Spades as the established Level-7 Flush, scoring the Glass Ace and the 8 of Spades for Glass ×2 and Walkie Talkie bonuses. Keep the Glass Ace last in the played-card order so its multiplier effect is applied after the other scored cards; this is the strongest available hand and begins working toward the 52,500 target.

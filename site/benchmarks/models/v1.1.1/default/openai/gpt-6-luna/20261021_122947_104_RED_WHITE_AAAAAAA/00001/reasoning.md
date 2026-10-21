@@ -1,0 +1,1 @@
+Play the five Diamonds as a Flush. It scores approximately (35 base chips + 44 card chips) × 4 = 316, enough to clear the 300 Small Blind in one hand and preserve the remaining hands for the end-of-round bonus.

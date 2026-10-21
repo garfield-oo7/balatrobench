@@ -1,0 +1,1 @@
+Buy the $4 Celestial Pack as the best affordable scoring upgrade. Pair is currently our most-played hand, with Two Pair also a viable Mad Joker trigger; a Planet choice can permanently strengthen one of those hand types. The other pack costs $6 and The High Priestess only produces random planets, so the Celestial Pack offers the most direct value while preserving $2.

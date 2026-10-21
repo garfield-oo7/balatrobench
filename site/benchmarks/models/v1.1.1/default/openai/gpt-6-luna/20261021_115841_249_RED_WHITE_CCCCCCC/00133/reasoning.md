@@ -1,0 +1,1 @@
+The Flush is the established engine and most-played hand (22 times), so a Jumbo Celestial pack has a good chance to offer Jupiter and improve the hand's base chips and Mult. At $4 this is an efficient permanent scoring upgrade, while keeping ample cash for interest and preserving the strong four-Joker lineup.

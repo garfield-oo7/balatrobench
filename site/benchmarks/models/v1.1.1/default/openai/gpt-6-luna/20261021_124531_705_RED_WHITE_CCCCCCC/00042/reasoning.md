@@ -1,0 +1,1 @@
+Play the Full House: three Tens and the pair of Eights. Full House is Level 3, so The Arm lowers it to Level 2 (65 base chips and 6 Mult). Splash makes all five cards score, and the Foil Trading Card adds 50 chips; the card ranks add 46 chips, for roughly (65+50+46)×6 = 966, enough to cover the 946 points still needed. The Diamond Ten also earns $1 from Rough Gem.

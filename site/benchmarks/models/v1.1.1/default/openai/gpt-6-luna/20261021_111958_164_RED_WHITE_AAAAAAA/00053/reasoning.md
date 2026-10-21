@@ -1,0 +1,1 @@
+Play the Queen-and-Six two pair. At Level 2, its base 40 chips plus 32 card chips scores with 3 base Mult; both scored sixes add +8 Mult from Even Steven, for roughly 72 × 11 = 792 chips. This beats a compact pair that activates Half Joker, while preserving the Kings for later hands.

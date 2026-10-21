@@ -1,0 +1,1 @@
+The pair of Sevens is the strongest hand available, and Level 2 Pair scores 25 chips and 3 Mult. Play it with the King, Queen, and Ten as kickers; Splash makes all five selected cards score, and the Foil Trading Card adds +50 chips. This comfortably clears the remaining 174 points, while the Diamond Seven also earns $1 from Rough Gem.

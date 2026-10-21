@@ -1,0 +1,1 @@
+Enhance the Ace of Spades into a Glass Card so it can double the Mult on the likely Flush hand; the Ace is a premium card to keep and score, and the 1-in-4 destruction risk is worthwhile against this 52,500-point blind.

@@ -1,0 +1,1 @@
+Free a slot for Hiker by selling Splash. Splash can add value to weak hands, but the established Flush strategy scores all five cards already, so it provides little benefit on the core hand. Retain Red Card, Wrathful Joker, The Idol, and Supernova for current Mult and Flush synergy.

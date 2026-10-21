@@ -1,0 +1,1 @@
+Play the available five-card Diamond Flush. The Head only debuffs Hearts, so all five Diamonds score; this should yield roughly (35 base chips + 33 rank chips) × 4 = 272, far more than the available Two Pair. Playing the full flush also cycles five cards toward a stronger follow-up while preserving all four hands for the 600-point blind.

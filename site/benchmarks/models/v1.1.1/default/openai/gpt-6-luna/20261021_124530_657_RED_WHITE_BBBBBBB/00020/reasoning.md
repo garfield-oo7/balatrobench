@@ -1,0 +1,1 @@
+Play the strongest available Two Pair using the Tens and Sevens, with the Four as an unscored fifth card. This scores about 108 points toward the 276 still needed, while cycling five cards. The Hook will remove two cards from the leftovers, so I avoid leaving both Fours exposed; the remaining hands should be enough to finish the blind.

@@ -1,0 +1,1 @@
+Buy the Celestial Pack for a permanent hand-level upgrade rather than replacing a useful Joker in a full lineup. Three of a Kind is especially valuable with Zany Joker and Half Joker, while Pair is our most-played fallback; choose the best available relevant planet and preserve the remaining $5.

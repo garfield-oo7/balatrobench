@@ -1,0 +1,1 @@
+Convert the King, Jack, and Five to Spades to improve flush potential without changing the pair-scoring line. This also frees a consumable slot so Vagabond can generate a Tarot on the next hand at our current $2.

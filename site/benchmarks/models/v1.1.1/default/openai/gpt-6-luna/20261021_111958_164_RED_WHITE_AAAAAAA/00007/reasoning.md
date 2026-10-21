@@ -1,0 +1,1 @@
+Play the pair of sixes, adding three non-club cards as cycling fodder. This earns more than a high-card hand while preserving all four clubs (9, 7, 6, 4) in hand, leaving a strong draw toward a flush on the next play. Two Pair is not currently available to trigger Mad Joker.

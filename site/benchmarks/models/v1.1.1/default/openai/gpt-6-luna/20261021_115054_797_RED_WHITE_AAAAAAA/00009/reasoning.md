@@ -1,0 +1,1 @@
+Play the two Aces and two Threes as Two Pair to trigger Mad Joker's +10 Mult; this comfortably clears the remaining 74 chips. Include the Two as an unscored fifth card for an extra cycle, since the scoring pair structure is unchanged.

@@ -1,0 +1,1 @@
+At Ante 7, the existing Flush engine is functional but lacks a true multiplicative Joker. I can afford one targeted reroll while keeping the Seed Money interest cap and most of Bootstraps' bonus; if a strong xMult or Flush Joker appears, I can replace the weakest fit rather than spend on the low-impact Standard pack or Splash, which adds little to already-scoring Flush cards.

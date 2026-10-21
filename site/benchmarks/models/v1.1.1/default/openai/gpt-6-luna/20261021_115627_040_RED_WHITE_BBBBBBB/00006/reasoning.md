@@ -1,0 +1,1 @@
+Buy To Do List for a reliable early economy engine: Pair is easy to make, and earning $4 from a qualifying hand can repay its full cost quickly. Neptune only upgrades the very rare Straight Flush, while the Standard Pack is unlikely to be as consistently valuable as recurring cash.

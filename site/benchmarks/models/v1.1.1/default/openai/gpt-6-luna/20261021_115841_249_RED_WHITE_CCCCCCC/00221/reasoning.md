@@ -1,0 +1,1 @@
+Keep the three non-debuffed Spades (Ace, 7, and 5) as the core of the Flush plan; the two Diamonds are debuffed by The Window, and the Club 7 does not help that strategy. Discard these three cards to draw toward a four-card Flush, enabled by Four Fingers, rather than spending a hand on a weak pair.

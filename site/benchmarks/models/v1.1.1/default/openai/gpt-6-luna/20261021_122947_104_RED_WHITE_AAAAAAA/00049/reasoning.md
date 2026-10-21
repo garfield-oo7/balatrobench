@@ -1,0 +1,1 @@
+Take Uranus to level up Two Pair, a hand we have already played repeatedly and that activates Mad Joker’s +10 Mult. The upgrade adds +20 Chips and +1 base Mult, improving our most synergistic hand type; the other options either support less consistently used hands or offer smaller gains.

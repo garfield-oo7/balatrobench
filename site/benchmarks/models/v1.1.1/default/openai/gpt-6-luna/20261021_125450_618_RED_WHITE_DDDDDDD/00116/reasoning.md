@@ -1,0 +1,1 @@
+Play the off-suit Ace and 7 as a High Card to score while cycling two cards, preserving the ready five-Spade Flush and the Steel King in hand. Keep the Flush for the final hand so Crafty and Droll apply and Acrobat can multiply the decisive score by ×3; the held Steel King adds another ×1.5.

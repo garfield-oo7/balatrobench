@@ -1,0 +1,1 @@
+Enhance D_Q and D_T as Mult Cards so their +4 Mult applies if they score in the likely Flush. There are already four Diamonds in hand, and pursuing a fifth Diamond can activate both Flush Jokers; this improves those key suit cards without spending a hand.

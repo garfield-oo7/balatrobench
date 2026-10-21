@@ -1,0 +1,1 @@
+Buy the Celestial Pack to take a Two Pair planet if offered. Mad Joker makes Two Pair my reliable scoring hand, and a permanent level increase scales every future Two Pair; this is stronger than the situational +30 Chips from Scary Face. Keep the remaining $5 for interest and future shop opportunities.

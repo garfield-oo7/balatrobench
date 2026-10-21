@@ -1,0 +1,1 @@
+Play the Ace pair with the Five of Clubs as the third card. The Arm lowers Pair from Level 2 to Level 1, but the 3-card hand still activates Half Joker’s +20 Mult; it should score about (10 base chips + 22 Ace chips) × (2 base Mult + 20) = 704. Keep the three remaining Hearts and cycle only the low Five, while preserving Half Joker's bonus.

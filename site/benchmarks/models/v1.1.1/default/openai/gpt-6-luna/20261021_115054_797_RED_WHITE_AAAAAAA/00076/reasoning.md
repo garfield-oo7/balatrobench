@@ -1,0 +1,1 @@
+Wasteful is effectively blank with Burglar removing all discards at blind selection, so do not spend $10 on it. Reroll the empty card slots once for a potential scoring upgrade; at $18 the $5 cost does not reduce the current interest tier, and the five-Joker limit can be managed by replacing the weakest option only if something clearly stronger appears.

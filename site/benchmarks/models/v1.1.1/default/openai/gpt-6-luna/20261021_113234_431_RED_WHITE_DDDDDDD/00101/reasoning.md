@@ -1,0 +1,1 @@
+Grabber permanently adds one hand in every remaining round, improving both scoring flexibility and end-of-round economy through extra unused hands. At $34, buying it leaves $24, nearly preserving the $25 maximum-interest threshold while adding a durable benefit for Antes 6–8.

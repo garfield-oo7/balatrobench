@@ -1,0 +1,1 @@
+Play the three Tens as Three of a Kind using only three cards to activate Half Joker’s +20 Mult. This hand is not a Straight, so Runner gives only its Holographic +10 Mult, but the Steel Ace remains held to multiply the hand’s Mult by 1.5. The Arm reduces the hand level, yet this is still the strongest immediate scoring play; preserve the other cards for follow-up.

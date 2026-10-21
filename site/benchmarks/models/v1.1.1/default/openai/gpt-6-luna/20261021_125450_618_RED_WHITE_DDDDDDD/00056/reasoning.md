@@ -1,0 +1,1 @@
+Open the Celestial Pack for $4 and prioritize Jupiter if offered: Flush is our established, most-played hand and activates both Crafty and Droll, so another Flush level directly strengthens the full scoring engine. We have only $7, making the $10 voucher unavailable; preserve the remaining cash rather than spending $5 on a reroll.

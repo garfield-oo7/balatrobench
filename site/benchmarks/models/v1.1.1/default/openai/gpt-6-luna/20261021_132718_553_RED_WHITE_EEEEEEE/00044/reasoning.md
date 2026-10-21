@@ -1,0 +1,1 @@
+Take Uranus to upgrade the established Two Pair engine, which is already level 4 and supported by Jolly Joker, Supernova, and Even Steven. The +20 chips and +1 Mult permanently improve the hand type we play most often; Earth’s Full House upgrade is less aligned with our Joker synergies, while the other planets strengthen unsupported hands.

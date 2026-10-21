@@ -1,0 +1,1 @@
+Buy Rough Gem as an early economy joker: Splash makes every selected card score, so I can deliberately include Diamond cards in five-card plays and collect $1 per Diamond. Mars upgrades an unused Four of a Kind hand, while the Arcana pack is uncertain; Rough Gem can repay its cost over upcoming rounds without selling any of the current scoring/economy jokers.

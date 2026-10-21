@@ -1,0 +1,1 @@
+Keep all four Clubs (A, K, Q, 8) and discard the four off-suit cards to draw toward the Flush engine. A single Club among the replacements completes a Flush, activating both Crafty Joker's +80 Chips and Droll Joker's +10 Mult; with four discards available and four hands, this setup has much higher scoring potential than settling for the current Two Pair.

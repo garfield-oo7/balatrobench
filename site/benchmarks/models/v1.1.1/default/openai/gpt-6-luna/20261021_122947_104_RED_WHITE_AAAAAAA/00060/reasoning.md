@@ -1,0 +1,1 @@
+Keep the $7 rather than buy a random Standard Pack or the unscaled Flash Card, which would also require freeing a Joker slot and paying for rerolls to grow. Wasteful is unaffordable and redundant with Burglar removing discards. Advance with the current scoring lineup and retain cash for interest.

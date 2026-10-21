@@ -1,0 +1,1 @@
+Keep the $2 and preserve the full scoring lineup. Drunkard and Splash are not worth selling a core Joker to make room for; the Standard Pack and voucher are unaffordable, and buying them would require sacrificing scoring or consumables. Staying at $4 or less also keeps Vagabond active during the next blind, where its Tarot generation can help the run.

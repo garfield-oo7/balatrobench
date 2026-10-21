@@ -1,0 +1,1 @@
+Buy Jupiter for $2 to level the already dominant Flush hand again, gaining +15 chips and +2 Mult on every Flush. This is an unusually efficient permanent scoring upgrade; it leaves $33, preserving the maximum interest tier.

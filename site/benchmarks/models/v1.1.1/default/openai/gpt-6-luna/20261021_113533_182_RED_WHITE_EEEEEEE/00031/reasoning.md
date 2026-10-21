@@ -1,0 +1,1 @@
+Play the visible Full House of three 9s and two 6s. At Level 2 its base is 65 chips and 6 Mult; Jolly Joker adds +8 Mult, Supernova adds +1 for the prior Full House, and both scored even-rank 6s trigger Even Steven for +8 Mult total. The hand should score about (65 + 39) × (6 + 8 + 1 + 8) = 2,392, clearing the 1,184 points still needed. No need to risk the unknown cards.

@@ -1,0 +1,1 @@
+Open the discounted Jumbo Arcana Pack for $4 while preserving all five scoring Jokers and staying above the $25 interest threshold. Tarots can provide immediate money, deck enhancement, or selective thinning without forcing an uncertain Joker replacement; choose the best option from the revealed cards.

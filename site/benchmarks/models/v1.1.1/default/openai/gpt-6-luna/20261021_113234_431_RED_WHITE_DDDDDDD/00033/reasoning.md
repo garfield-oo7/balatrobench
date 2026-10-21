@@ -1,0 +1,1 @@
+Play the pair of Tens and include the three non-Spades as unscored cycling cards. This scores a solid pair while preserving the three Spades (9, 5, 2) as a flush seed, and draws five replacements to improve the chance of assembling a Flush that activates both Crafty Joker and Droll Joker.

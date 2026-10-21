@@ -1,0 +1,1 @@
+Open the $4 Buffoon Pack while two Joker slots remain. A new Joker can add substantial early scoring or strengthen the already successful Flush plan; Neptune's Straight Flush upgrade is too narrow, and the other options are unaffordable.

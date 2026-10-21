@@ -1,0 +1,1 @@
+Keep the three Hearts (J, T, 7) and discard the off-suit cards to draw four replacements, aiming to complete a Flush that activates Crafty Joker. This is the strongest established scoring synergy, and there are ample discards and hands remaining if the draw does not complete it.

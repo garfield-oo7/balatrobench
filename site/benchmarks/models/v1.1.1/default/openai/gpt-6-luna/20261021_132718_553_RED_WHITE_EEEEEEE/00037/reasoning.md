@@ -1,0 +1,1 @@
+Play the two pair of 9s and 2s, using the 6 as the fifth card. This triggers Jolly Joker and the established Two Pair Supernova bonus; both scored 2s also activate Even Steven for +8 Mult. The 6 is an unscored kicker, so it does not dilute the hand. This should comfortably clear the 2,000 target in one hand, while Vagabond also generates a Tarot at our $0 balance.

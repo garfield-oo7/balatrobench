@@ -1,0 +1,1 @@
+Play the Kings-and-Jacks Two Pair for a strong immediate score: the four scoring cards include two Spades, adding +6 Mult from Wrathful Joker, alongside Red Card's +3 Mult. Include the unrelated 5♥ as a fifth card to cycle it without sacrificing any additional scoring cards; the Idol's current target is 5♦, and To Do List does not trigger on Two Pair.

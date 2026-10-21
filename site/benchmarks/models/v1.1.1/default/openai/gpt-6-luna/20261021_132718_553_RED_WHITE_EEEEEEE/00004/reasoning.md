@@ -1,0 +1,1 @@
+Play the two pair of Sevens and Threes for a reliable 80 points, which leaves 8 points to reach the target. Include the low Two as an unscored fifth card to cycle it while preserving the King and other useful cards for the final hand.

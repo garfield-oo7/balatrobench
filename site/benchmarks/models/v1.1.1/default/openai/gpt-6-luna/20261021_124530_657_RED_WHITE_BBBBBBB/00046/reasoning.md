@@ -1,0 +1,1 @@
+Use Temperance before buying anything: its current $6 payout is immediate income without sacrificing any of the four useful Jokers, raising cash from $8 to $14. This also frees a consumable slot so High Priestess can generate Planet cards.

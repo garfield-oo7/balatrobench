@@ -1,0 +1,1 @@
+Buy Chariot for $3 as a reliable enhancement to a high-value card: its Steel effect can multiply a scoring Flush while that card is held in hand. Keep the existing Flush-focused Jokers; Swashbuckler is weaker than the current +15 Mult Abstract Joker, and Seed Money is not worthwhile at this balance.

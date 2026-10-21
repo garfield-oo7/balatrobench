@@ -1,0 +1,1 @@
+With $0, none of the shop options are affordable, and the Invisible Joker would take two rounds to mature before duplicating a random Joker. Keep the Tower for a useful card target during play, preserve all three scoring Jokers, and advance to the next blind to earn money and build on the Two Pair/Straight scoring support.

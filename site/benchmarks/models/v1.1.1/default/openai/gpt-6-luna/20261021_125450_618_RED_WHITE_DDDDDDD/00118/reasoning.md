@@ -1,0 +1,1 @@
+Use one setup hand on the two off-suit cards (Jack of Clubs and Ten of Diamonds), preserving the five-Spade Flush exactly and keeping the Steel King in hand for its held-card ×1.5 Mult. This leaves one hand, so the Flush will be played as the final hand to trigger Crafty, Droll, Abstract, and Acrobat’s ×3 Mult and clear the remaining target.

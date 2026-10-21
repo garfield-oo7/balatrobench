@@ -1,0 +1,1 @@
+The shop has no available cards, vouchers, or packs, and rerolling an empty shop would waste $5. Keep the World tarot for a future hand where it can convert useful cards toward Spades, preserve $44 for maximum interest, and advance to the next blind.

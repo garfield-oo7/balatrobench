@@ -1,0 +1,1 @@
+Play the five Hearts as a Level 5 Flush, triggering both Flush Jokers and scoring every card with the active-suit Ancient Joker if Hearts are currently its suit. This is the strongest hand available and has a chance to clear the 40,000 target immediately; playing now is preferable to risking the guaranteed flush to The Hook’s random post-hand discards.

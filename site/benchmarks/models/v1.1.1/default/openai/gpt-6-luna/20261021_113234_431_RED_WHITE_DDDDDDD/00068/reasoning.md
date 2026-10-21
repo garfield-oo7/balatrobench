@@ -1,0 +1,1 @@
+Keep D_T, D_8, and D_4 to pursue the established Flush strategy, which activates Crafty and Droll and benefits from the upgraded Flush level. Discard all five off-suit cards to maximize the chance of drawing the two additional Diamonds needed for a Flush; with four hands available, this setup is preferable to spending a hand on a weak pair.

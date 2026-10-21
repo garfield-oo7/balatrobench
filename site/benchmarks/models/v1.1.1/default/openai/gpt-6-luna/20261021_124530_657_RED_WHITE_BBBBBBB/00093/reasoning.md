@@ -1,0 +1,1 @@
+Use Judgement while one Joker slot is open to generate a free random Joker and strengthen the run without spending the $27 interest reserve. This preserves the consumable slot and may yield a useful scoring/economy Joker; retain The Moon until an available hand provides good cards to convert to Clubs.

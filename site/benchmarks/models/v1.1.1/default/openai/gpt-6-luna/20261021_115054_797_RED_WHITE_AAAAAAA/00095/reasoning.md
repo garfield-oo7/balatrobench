@@ -1,0 +1,1 @@
+The shop is empty and I have $0, so there is nothing useful to buy or reroll. Advance to the next blind and keep the established Level 6 Two Pair engine, with Burglar providing three extra hands and Seltzer's retriggers still active.

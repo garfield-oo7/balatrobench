@@ -1,0 +1,1 @@
+Play the three Kings for Three of a Kind, scoring about 180 points and bringing the total to roughly 348. Include the low 8 and 6 as unscored cards to cycle five cards, while keeping the Ace, Queen, and Ten as useful high-rank options for the final hand.

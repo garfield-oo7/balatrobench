@@ -1,0 +1,1 @@
+Keep the four Spades—including both Aces—and discard the two Hearts to draw toward the established Level-6 Flush engine. A single Spade draw completes a Flush, which activates Droll Joker and benefits from the high Flush count on Supernova; playing the Ace pair now would consume key suited cards and score substantially less.

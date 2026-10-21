@@ -1,0 +1,1 @@
+With only $3, the $4 Hallucination and Standard Pack are unaffordable, and the $10 voucher is out of reach. Rerolling is also unaffordable. Keep both useful scoring Jokers rather than selling one at a loss, preserve the cash, and advance to the next blind.

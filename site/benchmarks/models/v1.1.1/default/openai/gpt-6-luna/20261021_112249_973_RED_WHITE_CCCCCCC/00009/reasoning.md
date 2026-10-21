@@ -1,0 +1,1 @@
+Play the guaranteed Two Pair (Kings and sevens) with the Ace as an unscored fifth card. This yields roughly 108 points while cycling five cards, better than spending a discard with a strong scoring hand already available; four hands remain to reach 450.

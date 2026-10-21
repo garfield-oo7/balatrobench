@@ -1,0 +1,1 @@
+Take Mercury as a useful fallback upgrade. Pair already has support from Jolly Joker and Supernova, and the +15 chips/+1 Mult makes pair hands substantially more dependable if Two Pair is unavailable. Mars upgrades an unsupported, unplayed hand type, while Pluto offers little scoring value.

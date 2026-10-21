@@ -1,0 +1,1 @@
+Free a slot by selling Blue Joker. Its reliable +104 Chips is useful, but the Flush engine already has +80 Chips, while Ancient Joker can add potent card-by-card ×1.5 Mult on matching-suit Flushes—a much stronger late-Ante scaling opportunity. Keep the other four Jokers, including Acrobat for the final-hand multiplier.

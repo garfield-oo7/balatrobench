@@ -1,0 +1,1 @@
+Play D_3 alone as a low-scoring High Card and preserve the five strong Diamonds (A, K, Q, 8, 6) for a Flush. The hand should stay well below the blind target, letting me use Acrobat's ×3 Mult on a final-hand Flush after cycling the non-Diamond cards.

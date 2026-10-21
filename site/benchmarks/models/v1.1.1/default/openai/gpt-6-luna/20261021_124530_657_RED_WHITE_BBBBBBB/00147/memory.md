@@ -1,0 +1,43 @@
+# Memory & Previous Actions
+
+
+## Recent Decision History
+
+Here is a list of your recent decisions (from oldest to newest):
+
+
+**1.** `next_round({'reasoning': 'The established Level 6 Two Pair build already has a coherent scoring core: Clever adds chips, Mystic Summit supplies Mult while Burglar keeps discards at zero, and Photograph plus Ramen provide strong multipliers. Mercury upgrades Pair rather than the primary hand, Wee Joker would require giving up a useful Joker slot, and the Standard Pack is only an uncertain deck addition. Preserve the $16 and advance; keep Hierophant for use when a hand is available.'})` - 
+
+**2.** `play({'cards': [0, 1, 2, 3, 7], 'reasoning': "Play the three Nines as a Three of a Kind, including the Glass 9, and add the Stone card for its guaranteed +50 chips. Mystic Summit is active with zero discards, and Ramen's ×2 multiplier has not decayed; the Glass card adds another ×2. The Queen is an unscored fifth card, so it won't trigger Photograph, but including it maximizes card cycling without reducing this hand's score."})` - 
+
+**3.** `use({'consumable': 0, 'cards': [1, 2], 'reasoning': 'Enhance two cards in the available 4–8 straight with +30 Bonus chips each. They can score in this hand and remain useful in future hands; using the consumable now materially boosts the hand without sacrificing our Two Pair core.'})` - 
+
+**4.** `play({'cards': [1, 2, 3, 4, 5], 'reasoning': 'Play the available 4–8 straight (D_4, H_5, S_6, D_7, D_8). It scores substantially better than the lone pair of twos: the two Bonus cards add chips, Mystic Summit is active at zero discards, and Ramen doubles the mult. This also cycles five cards to look for another strong hand; keep the twos and Ten in hand for possible future combinations.'})` - 
+
+**5.** `play({'cards': [3, 4, 6, 7], 'reasoning': "Play the two Tens and two Twos for Level 6 Two Pair, activating Clever Joker's +80 chips and Mystic Summit's +15 Mult. With Ramen's ×2 Mult, this should comfortably clear the remaining 5,590 points in one hand. The King and Jack are not part of the scoring hand, so Photograph would not trigger on them; keep them rather than cycling away potentially useful face cards."})` - 
+
+**6.** `buy({'card': 1, 'reasoning': 'Buy Uranus for $2 to permanently upgrade the established Level 6 Two Pair engine by +20 chips and +1 mult. This is a guaranteed, focused scoring improvement that complements Clever Joker and the existing multiplier Jokers without requiring a risky Joker replacement or spending the remaining interest cushion.'})` - 
+
+**7.** `buy({'pack': 1, 'reasoning': 'Open the discounted Celestial Pack for $3. The run is built around Level 6 Two Pair, so Uranus would give a strong permanent upgrade, and even another useful planet can improve flexibility. Troubadour is a modest hand-size tradeoff that costs a Joker slot in an already full, synergistic lineup; the Buffoon Pack is uncertain and also competes for that full slot. Spending to develop the primary scoring hand is the best use of the shop.'})` - 
+
+**8.** `pack({'card': 0, 'reasoning': 'Take Venus: Three of a Kind is already a demonstrated secondary hand (played five times, including once this round), so its +20 chips and +2 mult provide a reliable fallback alongside the Level 6 Two Pair core. The other planets upgrade hand types used less often; this is a useful immediate scoring boost without changing the established strategy.'})` - 
+
+**9.** `use({'consumable': 0, 'reasoning': 'Use Uranus to upgrade the established Level 6 Two Pair engine to Level 7 for a permanent +20 chips and +1 Mult. The shop’s lone Joker would require sacrificing a valuable slot in a cohesive lineup, while the Buffoon Pack is uncertain; this guaranteed hand upgrade is the best investment.'})` - 
+
+**10.** `buy({'pack': 0, 'reasoning': 'The current five-Joker engine is cohesive and already scales Two Pair through Clever, Mystic Summit, and Ramen, with Photograph providing a valuable multiplier. I will not replace one with Troubadour without seeing a compelling upgrade; the discounted Buffoon Pack costs only $3 and offers a chance to find a stronger scoring or scaling Joker. I have $21, so this preserves a healthy cushion.'})` - 
+
+
+
+## Strategic Context
+
+Based on your recent actions, consider:
+- How your decisions are building towards a cohesive strategy
+- Whether your current approach is working or needs adjustment
+- Patterns in your play that might need to change
+
+
+
+
+
+**NOTE**: **Your last tool call failed**: BalatroError: [NOT_ALLOWED] Cannot select joker, joker slots are full. Current: 5, Limit: 5
+The tool call was formatted correctly but execution failed. Please try a different approach.

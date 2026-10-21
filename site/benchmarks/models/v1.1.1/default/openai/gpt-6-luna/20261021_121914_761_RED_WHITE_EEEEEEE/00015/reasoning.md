@@ -1,0 +1,1 @@
+Buy the Jumbo Celestial Pack for $6. Two Pair is currently the most-used hand and already has meaningful support from Jolly Joker, so a chance to level it further is more useful than the random Standard Pack. Avoid Hieroglyph: reducing the Ante is attractive, but permanently losing one hand per round is a steep cost this early.

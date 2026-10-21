@@ -1,0 +1,1 @@
+Use Wheel of Fortune before the shop ends: it has a 1-in-4 chance to improve a Joker with Foil, Holographic, or Polychrome, and using it frees a consumable slot. That leaves room for Vagabond to generate a Tarot next round while the $6 Celestial Pack remains affordable.

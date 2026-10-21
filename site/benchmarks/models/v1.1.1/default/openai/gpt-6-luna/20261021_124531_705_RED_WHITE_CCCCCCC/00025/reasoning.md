@@ -1,0 +1,1 @@
+Play the level-2 Pair of Fives with the three highest available kickers (King, Jack, and Nine). Splash makes all five selected cards score, and Foil Trading Card adds +50 chips, giving a strong first score while cycling five cards. Avoid discarding so Delayed Gratification can still pay at round end.

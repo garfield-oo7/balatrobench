@@ -1,0 +1,1 @@
+Play the available Two Pair (fours and threes) for a reliable 68-point hand while cycling five cards. Use the low Two as the unscored fifth card, preserving the Jack, Ten, and Five in hand for stronger follow-up possibilities.

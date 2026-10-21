@@ -1,0 +1,1 @@
+Save the $14 rather than buying the off-strategy Venus or an uncertain Standard Pack. Drunkard’s extra discard is largely negated by Burglar removing all discards when the blind starts. The current five-Joker engine is coherent around Level 6 Two Pair, Mad Joker, Swashbuckler, and Acrobat, so avoid selling a Joker or paying $5 to reroll; preserve cash and advance.

@@ -1,0 +1,1 @@
+Play the pair of fours with the highest-value kickers (King, Queen, and Nine). The Arm lowers the Level-2 Pair to Level 1, but Splash makes all five selected cards score, and the Foil Trading Card adds +50 chips. The two Diamonds also trigger Rough Gem for $2. This earns useful score while cycling five cards and leaves all four discards available.

@@ -1,0 +1,1 @@
+Open one $3 Arcana Pack for a chance at a high-value Tarot (especially Hermit for extra cash, Death for rank duplication, or a useful card enhancement) while keeping the established Two Pair scoring Jokers intact. The $7 Reroll Surplus voucher is not attractive without a need for repeated rerolls, and neither offered Joker is a clear upgrade over the current five-Joker lineup.

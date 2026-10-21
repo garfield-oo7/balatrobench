@@ -1,0 +1,1 @@
+Buy the $3 Spectral Pack for the unusually strong late-run upside: Black Hole can raise every hand, while card-enhancement or Joker spectral effects could improve the existing Flush/scoring engine. At $55, spending this keeps Bootstraps' money-based Mult high and preserves substantial Seed Money interest; the listed Jokers are not attractive enough to buy or replace anything.

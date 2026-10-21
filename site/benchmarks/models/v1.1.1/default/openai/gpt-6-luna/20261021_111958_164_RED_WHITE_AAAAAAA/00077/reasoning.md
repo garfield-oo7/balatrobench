@@ -1,0 +1,1 @@
+Play the Aces and Jacks as a Level-2 Two Pair, with the Six as an unscored fifth card to cycle as many cards as possible. Swashbuckler adds +11 Mult, giving about (40 base chips + 22 Ace chips + 20 Jack chips) × (3 + 11) = 1,148. This beats the three-card Ace pair line with Half Joker, while preserving the pair of Sevens for potential future hands.

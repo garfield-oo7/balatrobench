@@ -1,0 +1,1 @@
+Play the available Jacks-and-Nines Two Pair, the strongest option and the core of the Level 6 engine. Mad Joker adds +10 Mult, Swashbuckler adds +11, and Seltzer retriggers the scored pair cards. Use the fifth slot on the low Four to cycle it while keeping the King, Bonus Six, and Seven for future pair possibilities; save Acrobat's ×3 for the actual final hand.

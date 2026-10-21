@@ -1,0 +1,1 @@
+Buy the Mega Celestial Pack: our Pair and Two Pair hands are already leveled and supported by Jolly Joker, Supernova, and Even Steven, so further upgrades to those likely hands are more valuable than the unrelated flush Joker. Spending $8 leaves $8, and the Arcana Pack can then bring us to Vagabond's $4 threshold for the next blind.

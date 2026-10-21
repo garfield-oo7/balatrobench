@@ -1,0 +1,1 @@
+Play the pair of Tens while adding three non-Spades to cycle five cards: the hand scores the pair, but preserves the 9, 5, and 2 of Spades in hand as the best path toward a Flush. With no discards against The Water, this maximizes the draw toward the Flush engine without throwing away those remaining suited cards.

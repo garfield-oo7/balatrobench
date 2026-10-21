@@ -1,0 +1,1 @@
+Open the Jumbo Arcana Pack for $4: the current shop has no scoring Joker worth replacing a full, functional five-Joker setup, and the available Saturn is irrelevant to our Flush engine. Tarot choices can improve or thin the deck, while spending exactly down to $35 preserves Bootstraps' current +14 Mult tier and leaves a strong cash reserve.

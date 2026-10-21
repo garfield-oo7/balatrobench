@@ -1,0 +1,1 @@
+Use Temperance now: its current $9 payout is free income based on the four Jokers' sell values, without sacrificing any of the scoring lineup. This raises the shop budget enough to consider a lasting voucher or a scoring investment.

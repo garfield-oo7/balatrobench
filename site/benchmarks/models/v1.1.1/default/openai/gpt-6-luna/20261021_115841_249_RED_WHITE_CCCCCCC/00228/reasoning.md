@@ -1,0 +1,1 @@
+Play the Tens and Nines as Two Pair, including the Glass 9 for its ×2 Mult; Supernova, Bootstraps, and Mystic Summit provide +44 Mult. Keep both Club A and Club Q in hand as anchors and draw four cards, preserving the best chance to make a Flush with Four Fingers on the final hand.

@@ -1,0 +1,1 @@
+I need about 88 more chips with two hands left. Keep the four Hearts (K, 8, 7, 3) and discard the four off-suit cards, giving the best chance to draw a fifth Heart for a Flush while also fishing for pairs or a stronger hand.

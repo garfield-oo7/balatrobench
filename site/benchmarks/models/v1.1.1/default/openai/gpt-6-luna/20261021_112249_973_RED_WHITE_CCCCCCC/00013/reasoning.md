@@ -1,0 +1,1 @@
+Keep the pair of 9s as a scoring core and discard the unrelated K, J, 8, 6, and 3 to draw five fresh cards. This maximizes the chance to improve into trips, two pair, or a full house while retaining the current pair; the Heart is debuffed and has no reason to preserve it.

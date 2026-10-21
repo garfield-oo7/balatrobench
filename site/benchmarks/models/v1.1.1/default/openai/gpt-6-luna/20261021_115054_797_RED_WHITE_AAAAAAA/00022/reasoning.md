@@ -1,0 +1,1 @@
+Take Uranus to level Two Pair, our key scoring hand because it activates Mad Joker for +10 Mult and can also score multiple even cards for Even Steven. Its +20 Chips and +1 Mult strengthen the hand we should prioritize, complementing the Holographic Runner's +10 Mult. Pair is more frequent, but upgrading it would miss the strongest Joker synergy.

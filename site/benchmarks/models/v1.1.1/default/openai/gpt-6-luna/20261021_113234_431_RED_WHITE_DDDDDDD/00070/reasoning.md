@@ -1,0 +1,1 @@
+Move the additive Mult Joker ahead of Acrobat so any future final hand receives the +15 Mult before Acrobat's ×3 multiplier. Keep both Flush Jokers early and Blue Joker's chip bonus in the additive portion.

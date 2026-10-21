@@ -1,0 +1,1 @@
+Buy the Jumbo Celestial Pack for $6. Flush is the established scoring engine at Level 4, and a Flush planet would add +15 Chips and +2 Mult to the hand we repeatedly play, strengthening both Crafty and Droll synergies. At $30 afterward, I remain above the $25 interest cap threshold, and the Standard Pack's random deck addition is less valuable.

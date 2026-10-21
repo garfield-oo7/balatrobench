@@ -1,0 +1,1 @@
+Play the five highest-value Diamonds as a Flush to activate both Crafty (+80 Chips) and Droll (+10 Mult), while scoring the strongest available cards and adding Hiker growth. Keep the pair of Threes and Kings in reserve for later options; this is not the final hand, so preserve Acrobat’s ×3 bonus for the round’s last play.

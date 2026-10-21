@@ -1,0 +1,1 @@
+Skip both packs to trigger Red Card twice, increasing its permanent bonus by +6 Mult. At $33, preserving cash also maintains maximum interest, and the current Flush engine already has strong scoring from level 3 Flush, Wrathful Joker, The Idol, and Supernova; the Standard Pack's random single card is not worth the cash or foregoing Red Card growth.

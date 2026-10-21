@@ -1,0 +1,1 @@
+Play the guaranteed pair of Jacks with the Ace and both face-down cards. This preserves the connected Q-9-8 straight setup while cycling five cards, and the hidden cards have a chance to upgrade the hand to Two Pair or better, triggering Mad Joker’s +10 Mult alongside Swashbuckler. The Ace is the best known filler if it remains only a Pair.

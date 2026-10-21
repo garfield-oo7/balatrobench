@@ -1,0 +1,1 @@
+Preserve the pair of 3s as the best route to a Three of a Kind that activates Zany Joker, and keep the non-debuffed 2 in hand as a low card for Raised Fist. Discard the unrelated cards and the debuffed 2 to dig for another 3 or useful scoring cards; I'll use the remaining discards before scoring so Mystic Summit can activate.

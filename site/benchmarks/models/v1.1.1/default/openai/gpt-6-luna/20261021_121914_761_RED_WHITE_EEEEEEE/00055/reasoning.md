@@ -1,0 +1,1 @@
+Leave the shop without spending. At $0, neither Jupiter for the unsupported Flush plan nor the $6 Ride the Bus is attainable without selling a useful Joker, and selling would weaken the established Two Pair engine. Keep The Hanged Man for targeted deck thinning and preserve Vagabond, which will generate Tarots while money remains at $4 or less during the next blind.

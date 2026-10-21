@@ -1,0 +1,1 @@
+Sell The Tower to free a consumable slot and gain $1. Its Stone enhancement is less valuable than preserving The Hanged Man for targeted deck thinning; the proceeds make the Jumbo Arcana Pack affordable while keeping money at $4 afterward, which activates Vagabond next round.

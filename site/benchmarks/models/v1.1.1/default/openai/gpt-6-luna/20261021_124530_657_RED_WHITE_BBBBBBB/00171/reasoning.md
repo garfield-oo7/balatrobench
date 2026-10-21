@@ -1,0 +1,1 @@
+Put both additive Mult sources (Mystic Summit and the Two Pair bonus from Mad Joker) before Photograph and Ramen's XMult effects. Burglar is scoring-neutral, so place it between the additive and multiplicative Jokers.

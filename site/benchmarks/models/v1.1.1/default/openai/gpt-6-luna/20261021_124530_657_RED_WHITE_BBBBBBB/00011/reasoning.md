@@ -1,0 +1,1 @@
+With only one hand left and 284/450 scored, the current Two Pair is unlikely to finish the blind. Keep both pairs (the Queens and Fives) and cycle the Ace, 7, 6, and 2; drawing another Queen or Five could upgrade the hand to a Full House and give a realistic chance to reach the target.

@@ -1,0 +1,1 @@
+Move Ancient Joker to the far right so its Club-based ×1.5 Mult triggers after Mad Joker, Runner's +10 Mult, and Swashbuckler's +13 Mult. This maximizes the multiplicative benefit on any scored Clubs.

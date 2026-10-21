@@ -1,0 +1,1 @@
+Skip the $4 Arcana Pack: the Flush engine is already strong, and an uncertain Tarot is not worth exhausting the bankroll. Keep The Empress in the consumable slot for use when a hand is available, then advance; Golden Joker and unspent hands can rebuild cash.

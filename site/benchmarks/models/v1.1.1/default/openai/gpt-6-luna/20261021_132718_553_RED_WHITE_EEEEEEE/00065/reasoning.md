@@ -1,0 +1,1 @@
+Jolly Joker is the most replaceable scoring Joker: its fixed +8 Mult is useful for pairs but doesn't scale. Selling it frees a slot and raises money to $8, enough to buy Ride the Bus while keeping Vagabond, Supernova, Splash, and Even Steven. Ride the Bus can build permanent Mult across hands, especially if I avoid scoring face cards.

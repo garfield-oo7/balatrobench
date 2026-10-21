@@ -1,0 +1,1 @@
+Keep all four Diamonds (D_T, D_8, D_5, D_4) to pursue the established Flush build, while retaining S_8 as a fallback pair with D_8. Discard the three off-suit non-pair cards and draw three replacements; any Diamond completes a Flush that activates both Crafty and Droll.

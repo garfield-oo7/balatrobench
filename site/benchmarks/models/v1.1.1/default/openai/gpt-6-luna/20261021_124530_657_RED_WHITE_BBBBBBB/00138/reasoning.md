@@ -1,0 +1,1 @@
+Enhance two cards in the available 4–8 straight with +30 Bonus chips each. They can score in this hand and remain useful in future hands; using the consumable now materially boosts the hand without sacrificing our Two Pair core.

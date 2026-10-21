@@ -1,0 +1,1 @@
+Take Venus to level Three of a Kind, the strongest synergy with the current Joker lineup: it gains +2 Mult and +20 Chips, while a three-card trips hand activates both Zany Joker's +12 Mult and Half Joker's +20 Mult. This makes compact trips substantially stronger than a modest Pair or Two Pair upgrade, and is a durable scoring investment for future blinds.

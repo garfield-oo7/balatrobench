@@ -1,0 +1,1 @@
+Buy Crystal Ball for $7: the run is entering the final Antes with a useful World tarot already held, and the permanent extra consumable slot gives room to retain another Planet or Tarot without sacrificing it. The cost is affordable while preserving $44, comfortably above the interest threshold; no shop cards are available to justify a reroll.

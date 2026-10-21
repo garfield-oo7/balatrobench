@@ -1,0 +1,1 @@
+Open the Celestial Pack for $4 to seek Jupiter, which would directly improve the established Flush strategy supported by Crafty and Droll. This is a reliable avenue for hand-level scaling; keep the remaining $7 available for the Empress or savings after seeing the offered planets.

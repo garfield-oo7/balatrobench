@@ -1,0 +1,1 @@
+Use The Fool now to copy the last used Planet, Uranus. This gives another permanent Two Pair upgrade, reinforcing the current Jolly Joker pair-based scoring plan; no shop purchase or reroll is affordable with $1.

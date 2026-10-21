@@ -1,0 +1,1 @@
+Buy Jupiter for $2 to raise the established Flush from Level 6 to Level 7, adding +2 Mult and +15 Chips to the hand used most often and supported by Droll Joker. This leaves exactly $25, preserving maximum ordinary interest while skipping the low-impact Standard Pack and the unhelpful flat +4 Mult Joker.

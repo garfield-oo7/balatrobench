@@ -1,0 +1,1 @@
+Play the guaranteed Three of a Kind using all three 3s, plus A♥ and T♠. Splash makes all five selected cards score, maximizing card chips; T♠ also activates Wrathful Joker's +3 Mult, and 3♥ should trigger The Idol if its current target is still the 3 of Hearts. This spends a hand productively while clearing five cards for fresh draws.

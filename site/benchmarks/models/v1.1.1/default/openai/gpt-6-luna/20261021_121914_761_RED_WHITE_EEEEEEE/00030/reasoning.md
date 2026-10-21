@@ -1,0 +1,1 @@
+Advance without buying or selling. Fortune Teller and the voucher are unaffordable at $2, and neither $4 pack justifies selling a scoring Joker or the Tower to scrape together insufficient funds. Preserve the Two Pair/Supernova scaling, Jolly Joker, and Crazy Joker support, then earn money in the next blind.

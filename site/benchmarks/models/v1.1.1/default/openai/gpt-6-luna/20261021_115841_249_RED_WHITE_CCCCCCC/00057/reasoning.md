@@ -1,0 +1,1 @@
+Play the available Full House: pair of 9s plus three 5s. Splash ensures all five cards score; the 5 of Spades adds +3 Mult through Wrathful Joker, alongside Red Card's +3 Mult. This is substantially stronger than a Two Pair, and leaves one hand to finish the remaining score.

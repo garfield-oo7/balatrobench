@@ -1,0 +1,1 @@
+Buy Crystal Ball for a permanent third consumable slot. At $7, this leaves $26, preserving the $25 interest threshold while giving room for future Planet/Tarot generation and avoiding wasted consumables; the offered Smiley Face and Mime are not worth selling a full-slot core Joker for.

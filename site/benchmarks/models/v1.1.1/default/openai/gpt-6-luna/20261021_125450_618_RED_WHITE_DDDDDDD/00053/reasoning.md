@@ -1,0 +1,1 @@
+Free the slot occupied by Golden Joker, whose recurring $4 is useful but now less valuable than adding a powerful scoring Joker as the run enters Ante 3. Abstract Joker gives +15 Mult across all hands, compounding especially well with Droll's +10 Mult and the leveled Flush engine. Selling Golden returns $3, preserving a useful cash reserve.

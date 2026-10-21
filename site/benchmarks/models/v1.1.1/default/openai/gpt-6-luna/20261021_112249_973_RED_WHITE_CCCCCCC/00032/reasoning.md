@@ -1,0 +1,1 @@
+Play the two pair of Aces and Eights, scoring 464 chips from the Level 1 Two Pair base plus the two scored Spades triggering Wrathful Joker for +6 Mult. Use the fifth card, the unpaired 2 of Spades, as a free cycling card while preserving the pair of Fives for future hands.

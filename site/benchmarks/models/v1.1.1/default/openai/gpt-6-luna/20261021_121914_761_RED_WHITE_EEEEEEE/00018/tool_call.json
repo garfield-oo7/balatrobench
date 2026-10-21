@@ -1,0 +1,10 @@
+[
+  {
+    "id": "call_L8pUXVlxN07fsZLqy68E2vIZ",
+    "function": {
+      "arguments": "{\"consumable\": 0}",
+      "name": "use"
+    },
+    "type": "function"
+  }
+]

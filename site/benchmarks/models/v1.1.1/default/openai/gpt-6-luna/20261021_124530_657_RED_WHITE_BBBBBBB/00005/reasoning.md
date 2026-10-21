@@ -1,0 +1,1 @@
+An early scoring Joker is the highest priority, and the Buffoon Pack offers a choice between up to two Jokers for only $4. To Do List is useful economy but does not help defeat larger blinds; the pack has better potential to establish a scoring engine while preserving $3.

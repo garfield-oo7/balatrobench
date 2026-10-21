@@ -1,0 +1,1 @@
+Play the two pair (6s and 4s) as a non-final setup hand, keeping all four other Hearts—H_J, H_7, H_5, and H_2—in hand. This earns a useful score while drawing four replacements, giving a strong chance to find a fifth Heart for the Flush that should be saved for the final hand to activate Acrobat’s ×3 Mult.

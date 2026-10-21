@@ -1,0 +1,1 @@
+Enhance C_K into Steel, then keep it in hand while digging for a Diamond Flush. Since Steel contributes a ×1.5 Mult bonus while held and will not need to be played as part of the Flush, this uses the consumable without sacrificing a likely scoring Diamond.

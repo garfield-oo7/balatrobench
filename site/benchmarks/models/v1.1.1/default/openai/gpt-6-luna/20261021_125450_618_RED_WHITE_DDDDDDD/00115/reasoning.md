@@ -1,0 +1,1 @@
+Play the off-suit Mult Queen and Heart 4 as a small High Card to cycle them while preserving the already-complete five-Spade Flush (A, Q, 5, 3, 2) and the Steel King held in hand. Save the flush for the final hand so Crafty, Droll, and Acrobat all contribute, with the held Steel King multiplying its score.

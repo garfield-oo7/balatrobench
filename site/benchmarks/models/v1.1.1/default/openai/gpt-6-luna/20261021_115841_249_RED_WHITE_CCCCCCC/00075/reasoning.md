@@ -1,0 +1,1 @@
+Preserve the four Diamonds (Q, J, 8, 5) and discard the off-suit cards to draw four replacements, aiming to complete a Flush. Flush is my best leveled hand (Level 2), and with Splash all five selected cards will score; this is a higher-ceiling route than spending a hand on the available Two Pair.

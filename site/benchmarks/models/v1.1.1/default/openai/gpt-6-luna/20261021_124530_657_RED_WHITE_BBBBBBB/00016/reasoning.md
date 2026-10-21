@@ -1,0 +1,1 @@
+The shop has no individual cards, and with $0 the Standard Pack and $10 Hieroglyph are unavailable. Do not sell either Joker merely to fund an unnecessary purchase: Certificate supplies a sealed card each round, while Zany is our key scoring support for Three of a Kind and Full House. Advance to the next blind and rebuild cash from the round reward and unused hands.

@@ -1,0 +1,1 @@
+Play the Full House made from the three Nines and two Twos. The Three of a Kind component activates Zany Joker's +12 Mult, and the remaining held cards are K, 5, and 3, so Raised Fist adds +6 Mult from the lowest held rank. The Purple Seal on the Diamond Nine also gets discarded after scoring and can generate a Tarot. This should easily cover the 354 points still needed.

@@ -1,0 +1,1 @@
+Play the Two Pair made by the two 3s and two 2s, adding the Ace as an unscored fifth card to maximize card cycling. The scored 3s trigger Odd Todd, and this hand contains no scored face cards, building Ride the Bus. This should provide solid early chips while drawing five replacements; there are ample hands and discards left to pursue a Flush afterward.

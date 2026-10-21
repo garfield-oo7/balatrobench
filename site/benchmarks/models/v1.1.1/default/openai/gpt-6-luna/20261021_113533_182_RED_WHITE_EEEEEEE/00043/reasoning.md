@@ -1,0 +1,1 @@
+Skip the shop purchase. Hanged Man is affordable but would fill the last consumable slot alongside Justice, blocking Vagabond from generating Tarot cards during the blind until I can use one. Keeping $4 preserves Vagabond's trigger while leaving one slot open for generated Tarots; Burnt Joker, the voucher, and Mega Arcana Pack are unaffordable.

@@ -1,0 +1,1 @@
+Play the available five-heart Flush now: Flush is the established engine and receives Crafty’s +80 Chips, Droll’s +10 Mult, and Abstract’s +15 Mult. Keep the off-suit Steel King in hand for its held multiplier, and preserve Acrobat’s ×3 for the final hand of the round.

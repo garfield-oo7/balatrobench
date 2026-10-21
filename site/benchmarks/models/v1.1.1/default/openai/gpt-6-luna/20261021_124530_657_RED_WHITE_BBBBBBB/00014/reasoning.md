@@ -1,0 +1,1 @@
+Buy Venus for $3 because it directly strengthens Three of a Kind, the hand type supported by Zany Joker. A level-up adds +20 chips and +2 base Mult, and with Zany's +12 Mult it makes a trips hand a strong scoring option for the upcoming blinds; the current cash is too low to preserve meaningful interest.

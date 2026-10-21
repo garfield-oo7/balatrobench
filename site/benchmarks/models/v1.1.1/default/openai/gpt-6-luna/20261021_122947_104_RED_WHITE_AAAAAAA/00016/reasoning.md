@@ -1,0 +1,1 @@
+Buy the Holographic Runner. Its +10 Mult edition applies broadly, immediately strengthening every scoring hand, while its straight-triggered chip growth adds a second scaling route; we have already played a straight this round. This is a stronger, more flexible scoring upgrade than the Three-of-a-Kind-only Zany Joker, and a fourth Joker slot is available.

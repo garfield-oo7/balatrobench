@@ -1,0 +1,1 @@
+Buy Abstract Joker for $4: its +15 Mult after acquisition (there are five Jokers including itself) applies to every hand and greatly strengthens the established Flush engine alongside Droll's +10 Mult. The open fifth slot makes this a clean upgrade without selling anything.

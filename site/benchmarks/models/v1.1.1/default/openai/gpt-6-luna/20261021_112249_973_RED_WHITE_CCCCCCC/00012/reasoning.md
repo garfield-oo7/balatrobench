@@ -1,0 +1,1 @@
+Skip both booster packs to trigger Red Card twice, gaining +6 Mult for free—an excellent early scaling boost. Save the $9 instead of buying Trading Card, whose first-discard condition and flat chips are less valuable, or Mars, which upgrades an unused and less reliable Four of a Kind. Keeping cash also preserves interest and shop flexibility.

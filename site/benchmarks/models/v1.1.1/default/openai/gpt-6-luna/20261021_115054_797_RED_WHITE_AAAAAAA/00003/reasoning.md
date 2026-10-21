@@ -1,0 +1,1 @@
+Burglar is a strong early-round tempo joker: +3 hands can provide multiple additional scoring attempts and unused-hand payout, which is valuable for the upcoming 450-chip Big Blind. Although it removes discards, the extra hands provide a reliable fallback; buying it now also leaves exactly enough to take the affordable +10 Mult Mad Joker.

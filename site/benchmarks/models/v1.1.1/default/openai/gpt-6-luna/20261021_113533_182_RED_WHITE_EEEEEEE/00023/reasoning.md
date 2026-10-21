@@ -1,0 +1,1 @@
+Play the full house: three 9s plus the pair of 7s. Level 2 Full House gives 65 chips and 6 Mult; Jolly Joker adds +8 Mult because the hand contains a pair, so the scored rank chips (27+14) yield about (65+41)×14 = 1,484, enough to beat the 1,200 target in one hand. The scored ranks are odd, so Even Steven does not trigger, but the full-house/Jolly score is decisive.

@@ -1,0 +1,1 @@
+Buy one Standard Pack for a chance at an enhanced, sealed, or editioned card, spending down from $6 to $2. This keeps Vagabond active next round while preserving the existing scoring Jokers; the Straight planet is off-strategy and Reserved Parking would consume the last Joker slot without improving scoring.

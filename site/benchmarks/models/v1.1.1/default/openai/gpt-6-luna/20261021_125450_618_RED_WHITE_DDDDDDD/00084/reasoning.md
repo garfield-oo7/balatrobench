@@ -1,0 +1,1 @@
+The established Flush engine is the run's reliable scoring plan, so the Celestial Pack offers a chance to level Flush further and improve the hand that activates both Crafty and Droll. Its $4 cost still leaves $21, preserving strong interest; the Half Joker and Two Pair planet are less aligned with the five-card Flush strategy.

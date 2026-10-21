@@ -1,0 +1,1 @@
+Preserve the three Clubs (Q, 10, 9) as the core of a Flush enabled by Four Fingers, and cycle the three off-suit cards to draw toward a fourth Club. This high-card hand is only a small score, but it maintains the best route to close the 30,696-point gap with the leveled Flush engine; Mystic Summit is active with zero discards.

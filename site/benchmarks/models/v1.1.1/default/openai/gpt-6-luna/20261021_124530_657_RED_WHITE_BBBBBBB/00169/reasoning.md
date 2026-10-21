@@ -1,0 +1,1 @@
+Take Uranus to upgrade the run’s dominant Level 7 Two Pair hand to Level 8, adding +20 chips and +1 Mult. This directly compounds with Mad Joker’s Two Pair bonus and the Photograph/Ramen multipliers, making it substantially more valuable than further upgrades to less reliable backup hands.

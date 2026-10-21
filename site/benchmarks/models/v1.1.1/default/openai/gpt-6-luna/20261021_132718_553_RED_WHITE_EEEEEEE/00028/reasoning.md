@@ -1,0 +1,1 @@
+With $3, nothing in the shop is affordable: Fortune Teller and both packs cost at least $4, Hieroglyph costs $10, and rerolling costs $5. Selling a useful scoring Joker just to afford a weak or marginal purchase would lose value. Keep Even Steven, Jolly Joker, and Supernova supporting the pair/two-pair engine, and advance to the next blind.

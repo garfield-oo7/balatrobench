@@ -1,0 +1,1 @@
+Take Jupiter: Flush is the established main hand and synergizes directly with Crafty Joker's +80 Chips and Droll Joker's +10 Mult. Leveling it adds +15 base Chips and +2 Mult to every Flush, a substantial reliable upgrade; Earth and Saturn support less-used hand types.

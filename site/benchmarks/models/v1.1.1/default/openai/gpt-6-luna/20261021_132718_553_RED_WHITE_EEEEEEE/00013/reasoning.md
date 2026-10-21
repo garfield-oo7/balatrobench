@@ -1,0 +1,1 @@
+The Psychic requires exactly five cards. Play the two Queens and two Sevens for Two Pair, with the Five as the required unscored kicker. Jolly Joker adds +8 Mult for the pair, and Even Steven adds +4 Mult for each scored Queen, giving a strong 18 Mult; the hand should comfortably clear the 600-point blind.

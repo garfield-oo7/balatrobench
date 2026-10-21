@@ -1,0 +1,1 @@
+Play the strongest available hand, Two Pair with Kings and Tens, and include the Jack as the fifth card. Splash makes every played card score, so using all five maximizes card chips; this should add about 140 chips and leaves two hands to reach the target.

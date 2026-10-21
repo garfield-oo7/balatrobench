@@ -1,0 +1,1 @@
+The Psychic requires exactly five cards. Play the two Queens and two Sevens as Two Pair, with the Six as the required fifth card; Jolly Joker adds +8 Mult. This should score about 540, making substantial progress toward the 600 target, and the remaining hands can finish the blind.

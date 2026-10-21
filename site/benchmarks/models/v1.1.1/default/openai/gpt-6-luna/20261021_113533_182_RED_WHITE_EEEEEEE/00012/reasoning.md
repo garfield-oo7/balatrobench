@@ -1,0 +1,1 @@
+I have $3, so Hallucination and the Standard Pack each cost more than I can afford, and Wasteful is far out of reach. Rerolling costs $5. Keep both scoring Jokers and preserve the remaining cash rather than selling a Joker for a poor short-term gain; advance to the next blind.

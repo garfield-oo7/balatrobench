@@ -1,0 +1,1 @@
+Keep the four Spades, including the Bonus Ace, and discard the four off-suit cards to maximize the chance of drawing a fifth Spade for the Flush engine. Crafty and Droll both reward Flushes, and holding the completed Flush for the final hand can also trigger Acrobat’s ×3 Mult.

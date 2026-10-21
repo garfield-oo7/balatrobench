@@ -1,0 +1,1 @@
+Buy the Buffoon Pack for a chance to acquire an early scoring Joker, which is much more valuable for future blinds than the off-strategy Four of a Kind Planet or Reserved Parking. At $4 it leaves $3 saved, while the available alternatives do not provide dependable scoring for the Two Pair-heavy play so far.

@@ -1,0 +1,1 @@
+Keep the pair of Twos as a reliable fallback and retain the even Six and Four for Even Steven and possible two-pair/trips development. Discard the isolated Ten, Eight, Seven, and Three to draw four replacements; finding another pair alongside the Twos can unlock the much stronger Level 4 Two Pair engine, Jolly Joker, and Supernova.

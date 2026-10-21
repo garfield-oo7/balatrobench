@@ -1,0 +1,1 @@
+At $0, the $3 High Priestess and $10 Director's Cut are unaffordable, and rerolling is also impossible. Selling a useful Joker just to buy a random Planet generator would be a poor exchange; Vagabond is now a strong engine while we stay at $4 or less. Keep Justice for a suitable card during play and advance to blind selection.

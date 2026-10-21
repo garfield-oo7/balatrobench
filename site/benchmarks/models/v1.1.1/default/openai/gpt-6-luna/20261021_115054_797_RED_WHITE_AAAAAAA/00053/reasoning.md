@@ -1,0 +1,1 @@
+Play the pair of 4s as a compact two-card hand to activate Half Joker’s +20 Mult. The Arm lowers the Pair level, but it cannot fall below Level 1. Keep the Steel 3 in hand for its held ×1.5 Mult; the held 2 also gives Raised Fist +4 Mult. This should comfortably exceed the remaining 322 points without risking the scoring bonus by adding extra cards.

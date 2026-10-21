@@ -1,0 +1,1 @@
+The Joker lineup already has a focused, powerful Flush engine, so Greedy Joker is not worth replacing a core Joker and rerolling would be speculative. The Jumbo Arcana Pack offers a chance to improve the deck with a useful suit conversion or card enhancement; at $30, spending $6 is affordable while retaining substantial cash and flexibility.

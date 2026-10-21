@@ -1,0 +1,1 @@
+Free a slot and raise cash by selling Scary Face, the weakest scoring Joker in this lineup. Its +30 chips is conditional on scored face cards, whereas a replacement Half Joker can provide +20 Mult on the one-, two-, or three-card hands we frequently use, especially High Card and Pair, and still leave the Two Pair/Mad Joker route intact.

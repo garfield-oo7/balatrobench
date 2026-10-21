@@ -1,0 +1,1 @@
+Use the remaining discard to dig for a strong scoring hand while preserving the pair of 4s as a useful full-house/trips anchor. The Jack, 9, 8, 7, and 5 do not form a current scoring hand beyond that pair; replacing five cards gives the best chance to draw a full house, trips, or another much stronger hand needed to close the 1,376-point gap.

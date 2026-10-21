@@ -1,0 +1,1 @@
+Play the five Diamonds as a Flush, activating both Crafty Joker's +80 Chips and Droll Joker's +10 Mult. This is the strongest available hand and, with Odd Todd on the 3 plus Hiker's accumulated card-chip growth, should clear the 2,000 Small Blind target in one play while conserving the remaining hands.

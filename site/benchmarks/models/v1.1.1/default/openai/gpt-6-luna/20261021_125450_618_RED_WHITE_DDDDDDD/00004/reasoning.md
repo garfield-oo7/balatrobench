@@ -1,0 +1,1 @@
+An early Buffoon Pack is the best affordable route to add a second scoring or scaling Joker while I have ample Joker capacity. The $4 cost is worthwhile for a potential substantial power upgrade; Satellite is currently unaffordable and offers no immediate scoring, while the Spectral Pack has more downside risk.

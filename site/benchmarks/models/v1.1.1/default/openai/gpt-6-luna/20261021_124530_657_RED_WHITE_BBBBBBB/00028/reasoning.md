@@ -1,0 +1,1 @@
+Discard the five unrelated cards while preserving the pair of Fours and the Two. This maximizes the redraw toward Three of a Kind or another stronger pair-based hand; keeping the Two also offers a small Raised Fist bonus if it remains the lowest card held when scoring.

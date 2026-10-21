@@ -1,0 +1,1 @@
+Play a High Card with the 8 as the scoring card: Even Steven adds +4 Mult, yielding about 65 chips. Playing the lower 5, 3, and 2 cycles four cards while preserving the existing pair of threes and the high cards for stronger follow-up hands.

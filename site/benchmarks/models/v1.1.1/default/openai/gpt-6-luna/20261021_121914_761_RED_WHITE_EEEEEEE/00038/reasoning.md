@@ -1,0 +1,1 @@
+Buy the $4 Celestial Pack: it provides an immediate Planet upgrade without needing an open consumable slot, and a Two Pair Planet would directly strengthen the hand already supported by Jolly Joker and Supernova. Spending down to $4 also keeps Vagabond active next round while preserving its two scoring-support options.

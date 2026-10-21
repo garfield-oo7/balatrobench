@@ -1,0 +1,1 @@
+Take Earth to level Full House. It adds +25 Chips and +2 Mult to a hand that contains Three of a Kind, so Zany Joker contributes +12 Mult; the resulting full-house scoring is a powerful alternative when a compact three-card trips hand is unavailable. Uranus improves Two Pair, but that hand misses Half Joker and Zany, while Flush has no relevant Joker support.

@@ -1,0 +1,1 @@
+Free a Joker slot and raise enough cash to buy Droll Joker. Scary Face is the most expendable slot: its face-card chip bonus conflicts with building Ride the Bus through hands without scored face cards, while Crafty, Odd Todd, Ride the Bus, and Acrobat retain the stronger flush/scaling/final-hand effects.

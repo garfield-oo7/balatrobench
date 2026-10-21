@@ -1,0 +1,1 @@
+Play the pair of Nines for reliable points while cycling the three non-club side cards. Keep the King, Jack, and Six of Clubs together as a potential flush core; the Heart Two is debuffed and is only included as a disposable fifth card.

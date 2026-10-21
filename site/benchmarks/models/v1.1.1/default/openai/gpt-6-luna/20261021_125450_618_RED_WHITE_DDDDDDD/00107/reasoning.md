@@ -1,0 +1,1 @@
+Keep the five Diamonds intact for the decisive Flush and leave the Steel King held for its ×1.5 multiplier. Play the disposable Club Jack and Spade 9 together as a harmless High Card to cycle two cards; with Acrobat only active on the final hand, I will use the remaining hand for another setup/cycle and finish with the Flush.

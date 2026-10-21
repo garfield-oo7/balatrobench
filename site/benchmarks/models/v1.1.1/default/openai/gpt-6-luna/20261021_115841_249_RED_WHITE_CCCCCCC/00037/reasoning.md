@@ -1,0 +1,1 @@
+We need 891 points with only two hands, and the current pair of threes is far too weak to close the gap. Keep the three Spades (K, 8, 3) and discard the other five cards to maximize the chance of drawing into a Flush; a Flush is our strongest reliable scoring option and triggers To Do List. The Arm's level reduction cannot push these Level 1 hands below Level 1.

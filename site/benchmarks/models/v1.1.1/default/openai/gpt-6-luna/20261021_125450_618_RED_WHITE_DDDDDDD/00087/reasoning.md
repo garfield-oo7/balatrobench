@@ -1,0 +1,1 @@
+Preserve the six-card Diamond flush core for the final hand, where Acrobat's ×3 Mult can substantially amplify the Flush and trigger both Flush Jokers. Score this isolated Bonus Ten now as a High Card; Abstract, Blue Joker, and its +30 Bonus Chips still provide useful early-round points without sacrificing any Diamond.

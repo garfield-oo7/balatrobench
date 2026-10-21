@@ -1,0 +1,1 @@
+Skip Mime: it retriggers held playing-card abilities, and the deck has no known Steel, Gold, seal, or other held-card engine; it also does not retrigger Raised Fist. Rerolling would cost $5 with five occupied Joker slots and no compelling replacement target, dropping below the $25 interest threshold. Save the $26 and keep The Moon for a useful future hand.

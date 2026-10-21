@@ -1,0 +1,1 @@
+Play the five highest Hearts as a Flush: Hearts are not debuffed by The Goad, and this activates both Crafty (+80 Chips) and Droll (+10 Mult). Keep the Steel C_K in hand so its held-card ×1.5 Mult bonus applies; with Flush level 3, Abstract, and Blue Joker, this should exceed the 10,000 target in one hand.

@@ -1,0 +1,1 @@
+Play the Level 3 Two Pair using the 9s and 2s: this is the strongest made hand, activates Jolly Joker and the run's +7 Supernova, and the scored even 2s add +8 Mult from Even Steven. Ride the Bus also keeps scaling because no face card scores. Use the Ace as the fifth, unscored card to cycle one extra card while preserving the 8, 6, and 7 in hand.

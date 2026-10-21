@@ -1,0 +1,1 @@
+Buy the Jumbo Spectral Pack for a chance at a high-impact late-game effect such as Black Hole, Cryptid, or a useful card enhancement. The current five-Joker lineup already supports the Level 5 Flush plan, so I should avoid selling a scoring Joker for To the Moon; spending $6 leaves $29, still above the $25 interest threshold.

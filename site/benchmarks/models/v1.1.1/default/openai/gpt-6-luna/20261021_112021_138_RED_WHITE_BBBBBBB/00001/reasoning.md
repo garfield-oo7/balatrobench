@@ -1,0 +1,1 @@
+Keep the three Clubs plus the pair of Sixes as a flush draw with a pair fallback. Drawing four new cards gives a reasonable chance to complete a five-card Club flush, which can clear the Small Blind efficiently; discard the four unrelated cards.

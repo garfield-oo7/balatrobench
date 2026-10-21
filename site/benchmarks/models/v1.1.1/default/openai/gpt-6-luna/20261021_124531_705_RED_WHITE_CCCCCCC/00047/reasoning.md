@@ -1,0 +1,1 @@
+Keep the four Diamonds (A, J, 10, 7) as a flush draw, plus the other Ace to preserve a pair fallback. Discard the three non-Diamond Spades that do not support the flush; drawing three cards gives a useful chance to find a fifth Diamond while retaining high-value scoring options.

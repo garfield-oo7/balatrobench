@@ -1,0 +1,1 @@
+Popcorn is a temporary +Mult Joker that loses 4 Mult each round, so its contribution is fading as we enter the late Antes. Free the slot for Ride the Bus, which can scale across repeated non-face flush hands; retain the established Flush engine and keep enough cash to preserve Bootstraps' +18 Mult threshold.

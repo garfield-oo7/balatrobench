@@ -1,0 +1,1 @@
+Take Mercury to strengthen Pair as a useful fallback hand. It adds +15 Chips and +1 Mult to a hand already supported by Jolly Joker and Supernova, whereas the other offered planets upgrade hand types with little current synergy. Two Pair remains the primary scoring engine, but it is not offered here.

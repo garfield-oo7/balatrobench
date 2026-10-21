@@ -1,0 +1,1 @@
+Take The High Priestess: there is ample consumable capacity, and two random Planet cards offer immediate value—especially a chance to further level the run’s already dominant Level 7 Two Pair hand. The Hanged Man’s thinning is useful but less impactful this late, while a Gold Card is only incremental economy.

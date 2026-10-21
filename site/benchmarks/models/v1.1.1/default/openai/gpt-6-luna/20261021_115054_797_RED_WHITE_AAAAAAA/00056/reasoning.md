@@ -1,0 +1,1 @@
+Choose Uranus to upgrade the established Two Pair engine, which is already Level 3 and activates Mad Joker’s +10 Mult. Its +1 Mult and +20 chips permanently improve a reliable hand type. Jupiter’s Flush upgrade lacks relevant Joker synergy, while Earth’s Full House is not part of the current scoring plan.

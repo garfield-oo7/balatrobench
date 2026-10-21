@@ -1,0 +1,1 @@
+Buy Supernova for $5. Two Pair has been played five times, so it immediately contributes +5 Mult to the established Level 3 Two Pair plan, stacking with Jolly Joker's +8 Mult on every pair-containing hand. This is a much more reliable scoring improvement than Fortune Teller's current +1 Mult, and keeping the remaining $8 preserves some economy.

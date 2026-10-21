@@ -1,0 +1,1 @@
+Play the pair of Queens for a modest score while using the no-discard boss's play-to-cycle mechanic. Keep all three Spades (T, 9, 5) in hand as the strongest flush seed for Crafty and Droll, and cycle the two Queens plus the Ace, Club 8, and Heart 2. The pair scores better than a high-card play, while five fresh cards can complete a Spade flush.

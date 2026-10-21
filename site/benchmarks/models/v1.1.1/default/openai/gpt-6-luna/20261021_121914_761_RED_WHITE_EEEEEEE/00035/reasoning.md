@@ -1,0 +1,1 @@
+Take Saturn to level Straight from 2 to 3, adding +30 Chips and +3 Mult to a hand that is already strongly supported by Crazy Joker (+12 Mult). Venus upgrades Three of a Kind, which has little Joker support, while Pluto is a weak High Card upgrade. This makes Straight a strong complementary option alongside the established Two Pair/Full House scoring.

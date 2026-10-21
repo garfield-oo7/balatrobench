@@ -1,0 +1,1 @@
+I need 216 more points with two hands remaining, and the pair of Eights is the best made hand while also giving a path to trips or a full house. Discard the five unrelated cards to draw as many new cards as possible without triggering The Hook; preserve both Eights and use the final hand(s) to score the strongest improvement.

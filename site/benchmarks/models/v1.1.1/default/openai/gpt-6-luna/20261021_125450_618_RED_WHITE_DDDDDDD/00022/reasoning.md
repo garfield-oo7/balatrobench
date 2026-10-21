@@ -1,0 +1,1 @@
+Buy Droll Joker for $4: it directly synergizes with the established Flush plan and Crafty Joker, adding +10 Mult to every Flush while Crafty adds +80 Chips. This fills the open Joker slot with a high-impact scoring effect and leaves $4 for a possible pack or savings.

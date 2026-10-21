@@ -1,0 +1,1 @@
+Play the Kings and threes as Two Pair. This hand triggers Jolly Joker (+8 Mult) and Supernova’s established Two Pair bonus, so it should comfortably cover the remaining 624 chips. Add the off-suit 5 as an unscored fifth card to cycle it while preserving the Ace and all four Clubs for future options; the two scoring pairs stay intact.

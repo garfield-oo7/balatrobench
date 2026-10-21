@@ -1,0 +1,1 @@
+Play only the non-Diamond C_J as a High Card for the penultimate hand. This cycles one card while preserving all five Diamonds (D_Q, D_J, D_5, D_3, D_2) for a guaranteed Level 4 Flush on the final hand, where Crafty, Droll, Abstract, Blue Joker, and Acrobat’s ×3 will maximize the score.

@@ -1,0 +1,1 @@
+Play the five Diamonds (K, J, 8, 7, 6) as a Flush. The King and Jack trigger Scary Face for +60 chips, yielding roughly (35 base + 41 card chips + 60) × 4 = 544, close to the 600-chip boss target. Preserve the pair of Eights in hand for a possible Mad Joker Two Pair after the draw.

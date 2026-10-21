@@ -1,0 +1,1 @@
+Keep all four Clubs (C_A, C_7, C_6, C_4) and discard the four off-suit cards to maximize the chance of drawing a fifth Club for the established Level 5 Flush engine. A strong Flush is the best route to the remaining 12,007 points, and I still have three hands available to score it.

@@ -1,0 +1,1 @@
+Buy To Do List for $4: its current target is Flush, matching our reliable Flush strategy, so it can repay its cost quickly and fund later scaling. The existing Spade bonuses support scoring, and the Red Card/Delayed Gratification engines remain intact.

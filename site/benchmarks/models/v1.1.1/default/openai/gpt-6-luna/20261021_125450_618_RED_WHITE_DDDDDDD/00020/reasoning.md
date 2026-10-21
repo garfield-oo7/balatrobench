@@ -1,0 +1,1 @@
+Play the five-card Spade Flush (K, J, 8, 7, 6). Crafty Joker adds +80 Chips, Scary Face adds +30 for the scored Jack, and Odd Todd adds +31 for the scored Seven. This is comfortably stronger than the remaining target and should clear the blind immediately; preserve Acrobat since this need not be the round's final hand.

@@ -1,0 +1,1 @@
+Play the pair of Sevens, with the Ace, King, and Jack as the two extra high-value scored cards thanks to Splash. This gives the best immediate scoring pair hand while cycling five cards for fresh options toward the 450-chip target.

@@ -1,0 +1,10 @@
+[
+  {
+    "id": "call_peE9obo4g0NfLPQuw5dKiuZq",
+    "function": {
+      "arguments": "{\"consumable\": 0, \"cards\": [1, 2, 5]}",
+      "name": "use"
+    },
+    "type": "function"
+  }
+]

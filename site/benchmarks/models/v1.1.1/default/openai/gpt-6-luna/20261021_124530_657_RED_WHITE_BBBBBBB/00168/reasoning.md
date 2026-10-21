@@ -1,0 +1,1 @@
+Open the inexpensive Celestial Pack and prioritize Uranus if offered, since Two Pair is the established Level 7 scoring hand and a direct upgrade to it is more valuable than Mercury’s Pair level or unrelated backup hands. The $2 cost is modest and the pack applies its selected Planet immediately.

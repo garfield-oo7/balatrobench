@@ -1,0 +1,1 @@
+Play the Ace pair with the third card as a cycling card. It activates Half Joker at three cards, and the scored Club Ace triggers Ancient Joker’s ×1.5, for roughly (10 + 11 + 11) × (2 + 20) × 1.5 = 1,056 chips. Keep the existing pair of threes and the 7–8 run potential in hand while cycling out the Jack.

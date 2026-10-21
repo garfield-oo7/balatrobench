@@ -1,0 +1,1 @@
+Buy Even Steven as an inexpensive early scoring Joker: its +4 Mult triggers whenever even-rank cards score, which should contribute reliably in the standard deck and help establish scoring power. Keep the remaining $3 rather than spending the rest on a speculative pack or a Flush-dependent money Joker.

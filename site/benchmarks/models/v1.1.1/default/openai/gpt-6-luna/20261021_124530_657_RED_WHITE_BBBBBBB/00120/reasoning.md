@@ -1,0 +1,1 @@
+Take The Tower and convert the low-value 6 of Clubs into a Stone Card. It will provide +50 chips and always score when played, giving a reliable boost to the established Level 5 Two Pair engine without relying on a random Planet. Targeting the 6 preserves the more valuable ranks and pair-making flexibility. Judgement cannot create a Joker with all five slots occupied.

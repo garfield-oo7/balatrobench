@@ -1,0 +1,1 @@
+Buy Acrobat for $4 as a powerful fifth Joker: its ×3 Mult on the final hand can stack with Photograph’s ×2 on a scored face card, producing a major scoring boost when I reserve a strong face-card hand for the finish. Burglar’s +3 Hands makes it easier to plan a decisive final play, and the $22 remaining keeps the economy healthy.

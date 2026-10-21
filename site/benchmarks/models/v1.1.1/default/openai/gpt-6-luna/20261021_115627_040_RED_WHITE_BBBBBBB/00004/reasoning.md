@@ -1,0 +1,1 @@
+A Joker is the most important early-run upgrade, and the Buffoon Pack offers a choice of up to two Jokers for only $4. Preserve the remaining cash until I can judge the options and maintain some flexibility for upcoming shops.

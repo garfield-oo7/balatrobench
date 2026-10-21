@@ -1,0 +1,1 @@
+Play the pair of Kings for a modest score while using the other three played cards to cycle, preserving all three Spades (A♠, 6♠, 5♠) as the best seed for a possible Wrathful-Joker flush on the final hand. The Arm cannot lower the level-1 Pair further.

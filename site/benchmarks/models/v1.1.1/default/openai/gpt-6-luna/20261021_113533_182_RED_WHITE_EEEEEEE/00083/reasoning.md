@@ -1,0 +1,1 @@
+Take The Chariot and make the Ace of Diamonds a Steel Card. This adds another potential held-in-hand ×1.5 Mult source alongside the existing Steel King, supporting our Pair/Two Pair scoring plan; keep both high-value Steel cards held when practical rather than scoring them.

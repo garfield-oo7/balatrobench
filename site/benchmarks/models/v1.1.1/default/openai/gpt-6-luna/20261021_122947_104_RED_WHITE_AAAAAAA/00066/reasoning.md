@@ -1,0 +1,1 @@
+Buy Swashbuckler for $4: its current +13 Mult is a strong, immediate additive bonus that substantially improves the established Two Pair engine alongside Mad Joker, while also helping other hands. Keep the remaining Joker slot open for a better future pickup; Chaos offers only a modest reroll benefit, and Wasteful is redundant with Burglar removing discards.

@@ -1,0 +1,1 @@
+At $2, none of the shop items are affordable: the Tarot costs $3, the Arcana Pack $6, and the voucher $10. Selling a useful scoring Joker just to buy random Planet generation would be a poor exchange. Preserve our current Two Pair/Mad Joker synergy and the strong Holographic Runner, then advance to the next blind.

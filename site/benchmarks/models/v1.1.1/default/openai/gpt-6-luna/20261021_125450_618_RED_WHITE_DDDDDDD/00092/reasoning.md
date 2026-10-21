@@ -1,0 +1,1 @@
+Advance without buying. The Flush engine is cohesive and already has strong additive Chips/Mult plus Acrobat’s ×3 on a final hand; Scary Face is too small an upgrade to justify replacing a full Joker slot, and the Tower/Arcana packs are uncertain. Preserve $23 for interest and future shops, where a genuine scaling or multiplicative Joker upgrade is worth pursuing.

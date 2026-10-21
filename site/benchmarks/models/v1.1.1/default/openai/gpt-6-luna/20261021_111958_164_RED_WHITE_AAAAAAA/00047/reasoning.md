@@ -1,0 +1,1 @@
+Play the pair of 4s plus the unscored 7 as a three-card hand. The pair triggers Half Joker (+20 Mult), and both scored 4s trigger Even Steven (+8 Mult), giving roughly (10 base chips + 8 card chips) × (2 base Mult + 20 + 8) = 540—enough to cover the remaining 320 points in one hand while retaining four unused hands for payout.

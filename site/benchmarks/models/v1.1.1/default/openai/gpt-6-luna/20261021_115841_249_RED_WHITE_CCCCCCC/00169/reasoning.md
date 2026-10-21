@@ -1,0 +1,1 @@
+Keep A♠, T♠, and 8♠ intact as the core of a Level-6 Flush attempt, especially preserving A♠ for The Idol. Discard the off-suit 3♣ and pair of 2s to draw three cards toward a five-Spade Flush; this has far more scoring potential than cashing a small pair now.

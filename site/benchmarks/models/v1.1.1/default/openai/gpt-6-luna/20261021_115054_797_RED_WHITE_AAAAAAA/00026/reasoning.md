@@ -1,0 +1,1 @@
+Play the pair of Jacks, with the Ace, King, and Queen as unscored cycling cards. The Jacks score their rank values and trigger Scary Face for +60 Chips; Holographic Runner contributes +10 Mult. This should produce roughly 1,080 points, comfortably exceeding the 513 still needed, while cycling five cards.

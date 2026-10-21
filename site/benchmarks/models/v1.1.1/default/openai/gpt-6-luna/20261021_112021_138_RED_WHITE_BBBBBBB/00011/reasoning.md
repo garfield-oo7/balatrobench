@@ -1,0 +1,1 @@
+Play the Queen pair as a Pair to trigger To Do List's $4 payout, while cycling five cards for maximum draw. Keep the existing pair of Fives and Ace of Hearts in hand, preserving a strong base for the final hand; the Pair scores 60 chips, and the next hand needs to supply the remaining score.

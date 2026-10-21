@@ -1,0 +1,1 @@
+Buy The Idol for $6 as a potentially powerful multiplier for scoring the specifically named 5 of Spades, which fits the existing Spade/Flush direction and fills the final Joker slot without selling any established Jokers. Keep the remaining $10 rather than spend it on the situational Planet Merchant or a random pack; skip the boosters afterward to continue scaling Red Card.

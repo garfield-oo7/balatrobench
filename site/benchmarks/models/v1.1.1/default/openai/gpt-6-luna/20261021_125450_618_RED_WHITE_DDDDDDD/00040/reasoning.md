@@ -1,0 +1,1 @@
+Play the five Diamonds as a Flush to activate both Crafty (+80 Chips) and Droll (+10 Mult). The scored even ranks (both Tens, 8, and 2) also trigger Even Steven, and Hiker adds its permanent chip bonuses. This is a high-scoring hand that should clear the 2,000 target immediately while preserving hands for the round payout.

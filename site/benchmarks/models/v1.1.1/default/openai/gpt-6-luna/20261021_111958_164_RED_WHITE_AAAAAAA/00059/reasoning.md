@@ -1,0 +1,1 @@
+Advance without buying. With only $2, the $3 Chariot and $4 Standard Pack are unaffordable, while the $5 Raised Fist and $10 Blank are not worth selling a useful Joker to afford—especially with all five slots occupied and a strong scoring lineup. Preserve the existing engine and take the next blind.

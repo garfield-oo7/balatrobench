@@ -1,0 +1,1 @@
+Play the five Spades as a Flush. This activates Crafty Joker for +80 Chips, and the King and Jack also trigger Scary Face for +60 Chips; the resulting score should comfortably clear the 450-chip Big Blind in one hand.

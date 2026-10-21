@@ -1,0 +1,1 @@
+Play the five-Spade Flush, using the debuffed Jack only to complete the suit hand. The four live scored Spades trigger Wrathful Joker (+12 Mult), the 5♠ Mult enhancement, the Level-3 Flush base, Supernova’s accumulated Flush bonus, Red Card, and Hiker’s permanent chip growth. This is the strongest available hand and should cover the remaining 3,160 points.

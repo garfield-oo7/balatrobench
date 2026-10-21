@@ -1,0 +1,1 @@
+The Hearts are debuffed and no Flush is currently available. Play the two pairs (8s and 6s) with the debuffed Ace as a fifth cycling card: this scores a strong Two Pair from the +88 Chips and +15 Mult Jokers while refreshing five cards, and preserves the two Spades toward a possible flush. Save the final hand for a supported Flush to activate Acrobat’s ×3 Mult.

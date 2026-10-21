@@ -1,0 +1,1 @@
+Buy Wrathful Joker for $5 as a meaningful scoring upgrade: a Spade flush activates +15 Mult from its five scored cards, stacking with Red Card’s current +3 Mult. That is substantially more useful than Delayed Gratification or the off-focus Planet Merchant voucher. Preserve the remaining $5, then skip the expensive Arcana pack to grow Red Card further.

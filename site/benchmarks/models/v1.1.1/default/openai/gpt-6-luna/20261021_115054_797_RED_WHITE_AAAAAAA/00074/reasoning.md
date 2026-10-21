@@ -1,0 +1,1 @@
+Sell Half Joker to free the slot: its +20 Mult does not trigger on our main four-card Two Pair hands, and replacing it with To Do List is especially attractive while its current target is Pair. The To Do List can earn $4 from a Pair next round; its sell value should also roughly replace Half Joker's contribution to Swashbuckler.

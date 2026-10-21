@@ -1,0 +1,1 @@
+Take Certificate. Its guaranteed card with a random seal at the start of every round provides immediate recurring value—especially if it rolls Gold, Red, Blue, or Purple—and is reliable without needing to spend money on deck additions. Hologram starts at ×1 and needs repeated card additions to become a scoring Joker; we currently have no established way to fuel that scaling.

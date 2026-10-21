@@ -1,0 +1,1 @@
+Play the three 3s for Three of a Kind, including C_3 so Ancient Joker multiplies the scored Club. Add the otherwise unscored 7 to cycle one weak card, while keeping K-Q-T-9 together as the best straight draw for the final hand. This hand gives a useful score while preserving the strongest route to a high-scoring follow-up.

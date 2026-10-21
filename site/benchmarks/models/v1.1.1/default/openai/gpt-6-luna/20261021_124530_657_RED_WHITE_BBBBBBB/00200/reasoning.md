@@ -1,0 +1,1 @@
+Play a High Card led by the King while excluding both Aces, preserving the available pair for later. The King is the only scored card and triggers Photograph's ×2 Mult; Mystic Summit and Fortune Teller add +31 Mult, then Photograph and Ramen each double it. Play five cards to cycle the maximum number of non-Ace cards while scoring a strong hand.

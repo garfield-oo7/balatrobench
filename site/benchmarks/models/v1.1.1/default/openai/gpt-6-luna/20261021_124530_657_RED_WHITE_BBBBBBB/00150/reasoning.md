@@ -1,0 +1,1 @@
+The shop currently has no listed items, so there is nothing to buy. A single $3 reroll is worthwhile at Ante 5 to reveal a potential scoring upgrade or useful consumable, while leaving $12 and preserving the current full Joker engine unless a clearly superior option appears.

@@ -1,0 +1,1 @@
+Buy Jolly Joker for $3: its +8 Mult on hands containing a Pair is a strong early additive bonus and should apply to the pair-based hands already appearing in this run, complementing Even Steven. Skip the packs and voucher for now so I retain $7 rather than spending down for uncertain early value.

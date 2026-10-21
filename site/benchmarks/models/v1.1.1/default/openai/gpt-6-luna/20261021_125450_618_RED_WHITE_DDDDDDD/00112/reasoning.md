@@ -1,0 +1,1 @@
+Keep the three Spades (including the Bonus Ace) and discard all five off-suit cards to maximize the chance of completing a Spade Flush. Flush is the core of the Joker engine: Crafty adds +80 Chips and Droll adds +10 Mult, while Flush is already Level 4; save the eventual Flush for the final hand to trigger Acrobat’s ×3 Mult.

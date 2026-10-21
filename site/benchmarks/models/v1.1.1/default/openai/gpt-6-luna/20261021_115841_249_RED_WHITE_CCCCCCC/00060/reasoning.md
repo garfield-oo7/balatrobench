@@ -1,0 +1,1 @@
+Free a Joker slot for a much stronger scoring effect. To Do List only pays when I hit a Straight Flush, which is far less reliable than the +15 Mult from Gros Michel; its $1 sale value is a small but useful recovery.

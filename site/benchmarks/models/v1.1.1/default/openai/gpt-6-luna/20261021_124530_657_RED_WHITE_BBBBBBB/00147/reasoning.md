@@ -1,0 +1,1 @@
+Skip this Buffoon Pack: all five Joker slots are occupied, so neither Banner nor Card Sharp can be added. The attempted Joker selection is explicitly disallowed while slots are full. Keep the cohesive Two Pair engine intact rather than taking an unavailable Joker.

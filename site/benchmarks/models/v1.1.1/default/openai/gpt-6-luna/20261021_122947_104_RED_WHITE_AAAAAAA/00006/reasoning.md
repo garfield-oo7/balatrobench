@@ -1,0 +1,1 @@
+Play the two sevens and two sixes as Two Pair to trigger Mad Joker's +10 Mult; the hand scores about (20 base chips + 26 rank chips) × 12 = 552, clearing the 450 target in one hand. Add H_T as an unscored fifth card to cycle it while keeping the 9-5-3 cards in hand.

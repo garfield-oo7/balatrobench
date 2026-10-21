@@ -1,0 +1,1 @@
+I have $0, so none of the shop items are affordable. Selling a useful Joker for only $2–$4 would be a poor trade, and Zany Joker is narrowly focused on Three of a Kind, which is less aligned with Mad Joker's Two Pair scoring and Runner's developing Straight bonus. Keep the current scoring/economy setup and advance to the next blind.

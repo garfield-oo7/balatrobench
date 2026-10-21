@@ -1,0 +1,1 @@
+Open the first $2 Celestial Pack for a chance to level the dominant Level 9 Two Pair hand. The current five-joker lineup is strong and full, so a low-cost planet upgrade is a better use of the shop than buying a joker that would require replacing one.

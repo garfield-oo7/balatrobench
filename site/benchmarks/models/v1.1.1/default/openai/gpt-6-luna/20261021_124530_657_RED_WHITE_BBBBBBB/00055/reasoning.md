@@ -1,0 +1,1 @@
+Buy Uranus for $2 to strengthen the frequently played Two Pair hand that already triggers Clever Joker. Its level-2 upgrade gives an immediate +20 chips and +1 mult, an efficient improvement that preserves cash.

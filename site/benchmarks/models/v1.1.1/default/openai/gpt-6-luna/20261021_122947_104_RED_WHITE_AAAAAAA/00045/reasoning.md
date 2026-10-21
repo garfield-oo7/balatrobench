@@ -1,0 +1,1 @@
+Play the Bonus King alone as a High Card to maximize its scored chips while keeping the hand at one card for Half Joker's +20 Mult. Holographic Runner adds another +10 Mult, and Level 2 High Card contributes 15 chips and 2 Mult, so this should make a very strong opening score without wasting the Jack pair or the Club card that can benefit Ancient Joker.

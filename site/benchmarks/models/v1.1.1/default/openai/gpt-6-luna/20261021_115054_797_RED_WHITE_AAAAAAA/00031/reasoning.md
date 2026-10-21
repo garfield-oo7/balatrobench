@@ -1,0 +1,1 @@
+Save the $4 rather than buy a random Joker from the Buffoon Pack with all five slots occupied or add a minimally useful Standard card. The $10 voucher and $5 reroll are unaffordable, and preserving cash supports future interest and a more targeted upgrade. Our existing Burglar, Mad Joker, Runner, Even Steven, and Half Joker provide workable scoring with several hand types.

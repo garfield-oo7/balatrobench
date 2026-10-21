@@ -1,0 +1,1 @@
+Choose Uranus to level up Two Pair again, the strongest established scoring hand in this build: it is already Level 2 and activates Mad Joker’s +10 Mult. The additional +1 Mult and +20 chips permanently strengthen that reliable hand. Earth, Venus, and Mercury upgrade hand types without comparable Joker synergy, while Pluto is even less relevant.

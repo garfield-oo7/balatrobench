@@ -1,0 +1,1 @@
+Keep all four Hearts, including the Steel Queen, and cycle the four off-suit cards to maximize the chance of finding a fifth Heart for the established Flush engine. A Flush receives the strong Crafty, Droll, and Abstract bonuses; playing the current two-pair would score far less and spend a hand before pursuing the target.

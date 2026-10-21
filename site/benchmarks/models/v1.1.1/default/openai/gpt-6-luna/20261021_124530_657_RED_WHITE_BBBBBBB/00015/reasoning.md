@@ -1,0 +1,1 @@
+Use Venus now to level Three of a Kind, directly improving the hand supported by Zany Joker (+12 Mult). It costs nothing, strengthens our scoring plan, and frees the consumable slot before the next blind.

@@ -1,0 +1,1 @@
+Play the five Clubs as a Flush. This activates Crafty Joker (+80 Chips) and Droll Joker (+10 Mult); the Ace also triggers Odd Todd, and the King and Queen trigger Scary Face. The resulting score should comfortably clear the 1,200 target in one hand, preserving the remaining hands for end-of-round money.

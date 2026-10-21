@@ -1,0 +1,1 @@
+Play the Level 8 Two Pair using the two Sevens and two Fives, with the Bonus-enhanced D_7 scored for its extra chips. Mystic Summit and Mad Joker add +25 Mult, and Ramen then doubles the result. Use the low-value S_2 as the fifth played card for cycling, while retaining H_Q so Photograph can trigger if a later hand scores it.

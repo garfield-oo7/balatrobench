@@ -1,0 +1,1 @@
+Buy Green Joker for $3 as the highest-value upgrade: Burglar gives three extra hands and removes discards, so Green’s +1 Mult per hand will scale quickly without any discard penalties. It directly strengthens the existing Two Pair engine alongside Clever Joker’s chips and Mystic Summit’s Mult, while leaving ample money for later shops.

@@ -1,0 +1,1 @@
+Buy Ride the Bus as a scalable fifth Joker. I can build its +Mult by scoring flushes without face cards, while retaining the option to use face cards when Scary Face's chips matter; 8 Ball is inconsistent, and spending $6 on a random Planet pack is less reliable than a guaranteed scoring engine.

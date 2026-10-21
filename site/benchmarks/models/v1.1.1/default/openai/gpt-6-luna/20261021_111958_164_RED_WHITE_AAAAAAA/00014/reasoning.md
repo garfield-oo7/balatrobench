@@ -1,0 +1,1 @@
+Play the pair of 7s for the best made hand available, while including the Ten, 9, and 3 as cycling cards. Keep the King and Queen in hand: they can score +30 Chips each from Scary Face if selected in a later hand, and preserving them leaves face-card scoring options while drawing three fresh cards.

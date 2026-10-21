@@ -1,0 +1,1 @@
+The blind needs only 56 more chips. Playing the pair of Tens scores about (10 base chips + 20 rank chips) × 2 = 60, enough to cross the 600 target. Keep the Jack out of the pair so it does not dilute scoring; no discard action is needed.

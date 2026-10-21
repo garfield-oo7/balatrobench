@@ -1,0 +1,1 @@
+Buy the Mega Celestial Pack for two immediate hand upgrades, prioritizing Uranus if offered to strengthen the established Level 4 Two Pair engine. Spending $8 leaves $1, ensuring Vagabond generates Tarots throughout the next blind, while the pack's planets are used immediately and do not require free consumable slots.

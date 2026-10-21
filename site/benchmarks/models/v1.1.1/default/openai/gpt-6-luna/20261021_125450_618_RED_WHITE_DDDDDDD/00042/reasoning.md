@@ -1,0 +1,1 @@
+Buy Golden Joker for $6 as an early Ante 3 economy investment. Its recurring $4 end-of-round payout should repay its cost quickly and help rebuild toward the $25 interest threshold, while leaving $12 and preserving the four-Joker Flush scoring engine. Mercury boosts Pair, which is off-strategy, and the packs/voucher are less certain or less efficient for the current lineup.

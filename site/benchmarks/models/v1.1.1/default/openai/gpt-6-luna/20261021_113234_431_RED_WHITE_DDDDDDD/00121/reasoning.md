@@ -1,0 +1,1 @@
+The hand already contains a complete five-card Diamond Flush, the strongest available play and the core of the build. It activates Crafty (+80 Chips), Droll (+10 Mult), and Abstract (+15 Mult); Ancient may also multiply the scored cards if its current suit matches Diamonds. Save Acrobat's ×3 for the final hand of the round.

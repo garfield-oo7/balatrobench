@@ -1,0 +1,1 @@
+Leave the shop without buying. Drunkard and the Standard Pack are both unaffordable at $2, and selling a scoring Joker just to fund the extra discard would weaken the engine. Most importantly, keeping Vagabond at $4 or less should generate Tarots as we play hands next round, so preserve it and the current cash.

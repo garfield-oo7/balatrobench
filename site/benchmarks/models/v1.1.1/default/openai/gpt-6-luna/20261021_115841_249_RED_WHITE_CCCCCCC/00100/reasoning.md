@@ -1,0 +1,1 @@
+Buy the Foil Bootstraps: at $51 it gives +20 Mult plus +50 Chips, a major boost to the established Flush engine, and I can afford it without jeopardizing the run. Its Mult is additive, so I will place it before Idol's ×Mult effect.

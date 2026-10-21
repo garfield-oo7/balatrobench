@@ -1,0 +1,1 @@
+Play the strongest available hand, Two Pair (4s and 2s), with the King as the fifth card. Splash makes the King score as well, adding more card chips; the Foil Trading Card adds another 50 chips. The Idol's target is 4 of Diamonds, which is not in hand, and there are no Diamonds for Rough Gem. This should score about 184 and draw five fresh cards for the final hand.

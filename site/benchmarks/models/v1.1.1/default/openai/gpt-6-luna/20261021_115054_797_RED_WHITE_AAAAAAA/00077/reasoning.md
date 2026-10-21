@@ -1,0 +1,1 @@
+Buy the Wheel of Fortune for $3: with all Joker slots occupied, a random edition upgrade is one of the few ways to improve the build without replacing a Joker. Holographic or Polychrome would meaningfully strengthen the Two Pair scoring engine or Acrobat’s finisher, and the cost is affordable at $13.

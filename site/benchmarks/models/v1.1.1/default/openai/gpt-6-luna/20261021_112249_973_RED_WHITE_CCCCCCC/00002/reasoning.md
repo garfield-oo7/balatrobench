@@ -1,0 +1,1 @@
+Keep both pairs (4s and 3s) as a reliable Two Pair, and discard the four unrelated cards to draw toward a third 3 or 4 for a Full House. Discarding first preserves the remaining hands while seeking a much stronger score than playing the current Two Pair immediately.

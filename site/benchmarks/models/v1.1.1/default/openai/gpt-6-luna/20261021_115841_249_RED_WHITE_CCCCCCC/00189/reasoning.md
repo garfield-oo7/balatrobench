@@ -1,0 +1,1 @@
+Keep the two Spades and discard the four off-suit cards to dig for the established Level-6 Flush engine. A Flush receives strong scoring from Bootstraps, Flush-specific Droll Joker, and Supernova's high Flush play count, and is much more likely to close the remaining 17,960 points than a low-level Three of a Kind.

@@ -1,0 +1,1 @@
+Play the five Diamonds as a Flush. Their rank chips total 44, so the Level 1 Flush scores (35 + 44) × 4 = 316, enough to clear the 300-chip Small Blind in one hand and preserve the remaining hands for payout.

@@ -1,0 +1,1 @@
+Sell Walkie Talkie for $2 to free a Joker slot and fund Ancient Joker. Walkie Talkie only pays on scored 10s and 4s, while Ancient's repeated ×1.5 Mult triggers on each scored card of its active suit and can provide much stronger multiplicative scaling; Burglar, Zany, Even Steven, and Half Joker retain the current hand engine.

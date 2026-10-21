@@ -1,0 +1,1 @@
+Buy The Hermit for $3: at $24, it should add the maximum $20 when used, turning a small purchase into a strong net economy gain. This funds future scoring upgrades while keeping the established Flush Joker engine intact; the Joker and pack options are not compelling enough to justify replacing a full, cohesive lineup.

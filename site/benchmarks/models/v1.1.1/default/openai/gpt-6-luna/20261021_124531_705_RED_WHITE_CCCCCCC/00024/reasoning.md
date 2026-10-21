@@ -1,0 +1,1 @@
+I have $0 and cannot afford the $5 Spade Joker, $8 pack, or $10 voucher, and rerolling is also unaffordable. Selling a Joker would sacrifice useful scoring or recurring economy for too little value, so preserve the current lineup and advance.

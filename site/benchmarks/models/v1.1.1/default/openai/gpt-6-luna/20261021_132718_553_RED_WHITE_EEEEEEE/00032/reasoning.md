@@ -1,0 +1,1 @@
+Take Venus for the strongest useful fallback upgrade: Three of a Kind has already been played once and Venus adds +2 Mult and +20 Chips, whereas Straight and High Card are unplayed and unsupported. Two Pair remains the main engine, but Venus gives a solid secondary hand option without sacrificing anything by skipping.

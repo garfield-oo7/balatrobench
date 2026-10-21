@@ -1,0 +1,1 @@
+Half Joker is the weakest fit for the established Level 5 Two Pair strategy: it only gives +20 Mult on hands of three cards or fewer, while a normal Two Pair requires four scoring cards. Selling it frees the slot and provides $2 toward Swashbuckler; replacing it trades a mostly inactive bonus for +15 Mult on Two Pair and other hands based on the remaining Jokers' sell values.

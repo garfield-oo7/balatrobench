@@ -1,0 +1,1 @@
+Preserve the three non-debuffed Spades as a Flush core; The Window makes the Diamond 10 worthless for scoring, and the Heart 7 and Club 2 do not support the Flush plan. With four hands still available, discard these three now to seek a fourth Spade and exploit Four Fingers for the highly upgraded Level-7 Flush, rather than spending a hand on the weaker pair of Aces.

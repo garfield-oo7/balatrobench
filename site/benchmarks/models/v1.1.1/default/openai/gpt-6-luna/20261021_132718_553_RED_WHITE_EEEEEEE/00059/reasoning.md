@@ -1,0 +1,1 @@
+Keep the $3 rather than spend it on an off-strategy Straight planet: the Level 5 Two Pair engine already has strong scaling from Supernova, Jolly Joker, and Splash, while Saturn would upgrade a hand we rarely play. Staying at $4 or less preserves Vagabond's Tarot generation during the next blind, which is more valuable than the modest immediate upgrade.

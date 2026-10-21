@@ -1,0 +1,1 @@
+The Mega Arcana Pack is the only purchase that can improve the run without first selling a Joker: the Joker slots are full, so the Buffoon Pack is awkward, while Credit Card adds little immediate scoring. Spending $8 leaves $3, but two selected Tarot effects can strengthen or thin the deck, generate resources, or create useful enhancements before the next blind.

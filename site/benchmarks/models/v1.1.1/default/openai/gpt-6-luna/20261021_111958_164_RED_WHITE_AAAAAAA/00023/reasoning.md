@@ -1,0 +1,1 @@
+Play the Aces and sixes as Two Pair to activate Mad Joker’s +10 Mult. The base Two Pair score plus that bonus is the strongest available hand and should add about 648 points. Include the deuce as an unscored fifth card to cycle five cards, while preserving the Ten, five, and three for the next hand.

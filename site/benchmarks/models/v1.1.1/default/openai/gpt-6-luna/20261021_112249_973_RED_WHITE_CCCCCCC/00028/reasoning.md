@@ -1,0 +1,1 @@
+Take Earth to raise Full House from Level 2 to Level 3, adding +25 chips and +2 Mult to an already strengthened, high-scoring hand. Two Pair has been played more often, but its Uranus upgrade is smaller; Earth provides the larger permanent boost and gives us a strong alternative to the Spade-heavy Flush plan.

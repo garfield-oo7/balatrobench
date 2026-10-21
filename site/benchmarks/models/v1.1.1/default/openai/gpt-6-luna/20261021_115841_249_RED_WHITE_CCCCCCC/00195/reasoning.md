@@ -1,0 +1,1 @@
+Buy the Jumbo Arcana Pack for $4: at Ante 7, a useful Tarot can improve the deck or generate money, and the pack's immediate-use selection gives a better expected upgrade than an expensive speculative reroll. This leaves $55, preserving the $50 threshold for the Seed Money voucher's $10 interest cap while keeping all six established scoring Jokers.

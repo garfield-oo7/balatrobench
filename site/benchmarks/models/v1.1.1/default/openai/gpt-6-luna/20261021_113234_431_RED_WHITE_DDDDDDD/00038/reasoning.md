@@ -1,0 +1,1 @@
+Free the full Joker slot for Golden Joker by selling Hiker. Hiker has useful long-term chip scaling, but the core Flush engine (Crafty Joker and Droll Joker), Odd Todd, and Acrobat's ×3 final-hand multiplier are more important for reliable scoring; Golden Joker's $4 each round is a strong Ante 3 investment that will fund later upgrades.

@@ -1,0 +1,1 @@
+Open the Celestial Pack for $4 and prioritize Uranus if offered, since Two Pair is currently the most-played hand and synergizes with Jolly Joker's pair bonus. The permanent hand-level upgrade is more reliable than buying Hallucination without enough cash left to open a pack, while retaining $3.

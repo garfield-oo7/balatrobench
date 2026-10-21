@@ -1,0 +1,1 @@
+Play the pair of sixes to score while qualifying for To Do List's $4 reward. Include the three non-pair cards to cycle the maximum five cards, while keeping the pair of twos in hand as a follow-up scoring option.

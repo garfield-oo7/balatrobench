@@ -1,0 +1,1 @@
+Play the three Tens as Three of a Kind. Their 30 card chips plus the hand's 30 base chips, with Even Steven adding +12 Mult to the base 3, yields about 900 points—comfortably above the 450 target in one hand. Keep the Jack, Nine, and Seven in hand rather than cycling potential straight components; preserving hands also earns the round-end hand bonus.

@@ -1,0 +1,1 @@
+The shop has no individual cards, and the $4 packs and $10 voucher are unaffordable with $3. Rerolling is also unaffordable. Selling a useful Joker just to raise a little cash would weaken the scoring and hand-count support without enabling a worthwhile purchase, so preserve the lineup and advance.

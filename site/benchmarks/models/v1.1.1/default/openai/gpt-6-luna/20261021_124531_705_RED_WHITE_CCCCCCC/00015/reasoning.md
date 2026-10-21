@@ -1,0 +1,1 @@
+I have $0, so none of the shop items are affordable and rerolling also costs money. Mars only upgrades Four of a Kind, which is not our established strategy, while the packs and voucher are out of reach. Keep Splash for broad scoring and Foil Trading Card for its round-start discard economy, then advance without spending.

@@ -1,0 +1,1 @@
+Play the guaranteed Level 5 Two Pair with the two 8s and two 7s, adding the Ace as an unscored fifth card to cycle it without risking the face-down card changing the hand into a Full House. Clever Joker adds +80 Chips and Mystic Summit adds +15 Mult, yielding roughly 4,410 points—enough to cover the 3,667 remaining and defeat the blind in one hand.

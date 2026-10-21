@@ -1,0 +1,1 @@
+Advance without spending: with only $2, the $5 Flash Card, $10 Wasteful voucher, and $4 Standard Pack are unaffordable. Preserve the five-Joker scoring lineup and the Devil for use during the next playing phase; the additive Mult Jokers already precede Ancient Joker's multiplicative effect.

@@ -1,0 +1,1 @@
+Keep the four Clubs (A, K, Q, 8) intact and discard all four off-suit cards to draw toward a Flush. A fifth Club activates both Crafty Joker’s +80 Chips and Droll Joker’s +10 Mult, making it far stronger than the available Queen pair; we also retain every possible club in hand.

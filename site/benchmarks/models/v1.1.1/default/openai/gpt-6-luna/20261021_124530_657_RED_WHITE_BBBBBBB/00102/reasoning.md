@@ -1,0 +1,1 @@
+Reroll once to look for a stronger scoring or scaling Joker. The current offers do not support the established Two Pair engine: Drunkard conflicts with Burglar's discard removal, and Runner only helps Straights. At $41, the $5 reroll still leaves ample reserve and preserves maximum interest.

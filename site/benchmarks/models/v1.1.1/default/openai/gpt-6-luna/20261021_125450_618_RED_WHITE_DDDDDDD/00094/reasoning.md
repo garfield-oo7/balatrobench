@@ -1,0 +1,1 @@
+Pursue the established Flush engine: retain the three Spades, including the Bonus Ten, and discard all five off-suit cards to maximize the chance of drawing two more Spades. A Flush activates Crafty and Droll, unlike the currently available Two Pair.

@@ -1,0 +1,1 @@
+Play the five Diamonds as a Flush, activating Crafty (+80 Chips) and Droll (+10 Mult). The Level 3 Flush base plus the five card values, Blue Joker’s +60 Chips, and Abstract Joker’s +15 Mult should score about (65 + 29 + 80 + 60) × (8 + 10 + 15) = 7,722, enough to clear the 7,500 target in one hand.

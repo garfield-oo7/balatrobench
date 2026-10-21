@@ -1,0 +1,1 @@
+Play the full house of three Jacks and two Sevens. The Jacks trigger Scary Face for +90 Chips, the Sevens trigger Even Steven for +8 Mult, and the triple activates Zany Joker for +12 Mult. The resulting score should comfortably exceed the remaining blind target in one hand.

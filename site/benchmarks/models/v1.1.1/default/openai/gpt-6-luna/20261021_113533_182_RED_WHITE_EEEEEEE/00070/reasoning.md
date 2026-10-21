@@ -1,0 +1,1 @@
+Take the 9 of Spades. The current engine is focused on Pair/Two Pair with Jolly Joker and Supernova, and we have already seen 9s contribute to a strong Two Pair. Adding another 9 improves rank-pair consistency without risking Ride the Bus, since it is not a face card. The 3 offers no clear synergy, while the King could interrupt Ride the Bus if scored.

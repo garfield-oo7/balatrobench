@@ -1,0 +1,1 @@
+Move Green Joker's additive +Mult ahead of Photograph's ×2 multiplier. This improves this hand and future scoring; Clever's chips and Mystic Summit's additive Mult remain before the multiplier.

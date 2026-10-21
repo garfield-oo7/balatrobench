@@ -1,0 +1,1 @@
+Popcorn is an excellent immediate boost at Ante 6: its +20 Mult is substantially stronger than Fortune Teller's +4, and it will still contribute +16 after the next round. I have an open Joker slot and $52, so the $4 purchase leaves plenty of cash and preserves most of the enhanced interest income.

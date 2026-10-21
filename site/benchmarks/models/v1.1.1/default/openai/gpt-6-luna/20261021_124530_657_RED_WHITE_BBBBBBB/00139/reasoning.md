@@ -1,0 +1,1 @@
+Play the available 4–8 straight (D_4, H_5, S_6, D_7, D_8). It scores substantially better than the lone pair of twos: the two Bonus cards add chips, Mystic Summit is active at zero discards, and Ramen doubles the mult. This also cycles five cards to look for another strong hand; keep the twos and Ten in hand for possible future combinations.

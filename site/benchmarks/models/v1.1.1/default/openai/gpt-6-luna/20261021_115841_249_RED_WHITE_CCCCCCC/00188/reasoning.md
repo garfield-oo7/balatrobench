@@ -1,0 +1,1 @@
+Play the five Spades as the Level-6 Flush, our strongest and most-played hand type. This activates Droll Joker's +10 Mult, Supernova's +26 Mult from 26 Flushes played, and the $-based Bootstraps bonus; scoring all five also advances Hiker, while the off-suit D2 is not needed.

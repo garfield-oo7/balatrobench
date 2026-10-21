@@ -1,0 +1,1 @@
+Play the two pair of Aces and Twos for a stronger immediate score than a Pair, while including the Jack as an unscored fifth card to cycle one extra card. This adds about 92 chips toward the 450 target and refreshes five cards; To Do List's Pair payout is less valuable than maximizing this hand's score.

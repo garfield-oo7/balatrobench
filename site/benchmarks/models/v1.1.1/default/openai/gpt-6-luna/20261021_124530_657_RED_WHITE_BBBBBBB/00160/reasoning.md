@@ -1,0 +1,1 @@
+Use Venus to push the Level 3 Three of a Kind backup to Level 4 (+20 chips and +2 Mult). Two Pair remains the main scoring hand, so save the other planets for a better strategic opportunity rather than investing in High Card or Four of a Kind.

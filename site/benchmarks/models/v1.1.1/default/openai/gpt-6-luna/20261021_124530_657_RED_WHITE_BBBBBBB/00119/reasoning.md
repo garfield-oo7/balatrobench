@@ -1,0 +1,1 @@
+Buy the $3 Arcana Pack: with Crystal Ball there is room for consumables, and a useful Tarot can improve the deck or provide money without disrupting the cohesive Two Pair/Joker engine. Keep all five Jokers; Raised Fist is not compelling enough to justify selling a current scorer, and the reroll voucher has limited value with a full lineup.

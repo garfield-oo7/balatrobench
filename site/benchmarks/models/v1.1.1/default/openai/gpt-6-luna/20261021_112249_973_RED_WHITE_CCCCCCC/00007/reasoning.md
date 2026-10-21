@@ -1,0 +1,1 @@
+Save the $4 rather than spend $3 on Mars, which only upgrades Four of a Kind—a hand we have not used and are unlikely to make consistently—or buy an unaffordable pack. Keeping cash supports interest and gives us more purchasing power in the next shop; leave the booster pack unopened.

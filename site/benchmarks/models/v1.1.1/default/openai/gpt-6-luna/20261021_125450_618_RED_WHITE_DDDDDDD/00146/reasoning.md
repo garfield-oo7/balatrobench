@@ -1,0 +1,1 @@
+Keep all four Hearts and discard the four off-suit cards to pursue the established Level 5 Flush engine. Drawing four cards gives the best chance to complete a Flush, which activates Droll and Lusty; a weak Two Pair is less valuable and can still be played if the draw does not complete the Flush.

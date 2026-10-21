@@ -1,0 +1,1 @@
+Use Saturn now to level Straight from its modest baseline to a substantially stronger 60-chip, 7-Mult hand. This also synergizes with Holographic Runner: playing a Straight grows its chip bonus, giving us a viable alternate scoring line alongside Two Pair and compact Half Joker hands. Keeping an unused planet would provide no benefit because we do not own Observatory.

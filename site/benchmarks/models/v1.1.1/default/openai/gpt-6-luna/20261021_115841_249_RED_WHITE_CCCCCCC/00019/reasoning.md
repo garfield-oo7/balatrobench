@@ -1,0 +1,1 @@
+Skip this booster pack to activate Red Card's scaling, gaining +3 Mult globally. That is more valuable and broadly applicable than leveling Pair by +1 Mult/+15 Chips, especially since Flush has been the established scoring hand and the pack offers no Flush planet.

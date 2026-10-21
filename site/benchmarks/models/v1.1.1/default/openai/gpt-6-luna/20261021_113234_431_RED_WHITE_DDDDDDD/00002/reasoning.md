@@ -1,0 +1,1 @@
+Play the available five-card straight (9-8-7-6-5). It will comfortably exceed the remaining 12 chips needed to clear the Small Blind, preserving hands for the shop reward.

@@ -1,0 +1,1 @@
+Play exactly three face-down cards to preserve Half Joker’s +20 Mult while giving a chance at a pair or trips; any even-ranked scored cards also trigger Even Steven, and trips would stack with Zany Joker. With six hands still available and 660/1600 already scored, the compact play also cycles cards without risking the entire hand on an unknown five-card combination.

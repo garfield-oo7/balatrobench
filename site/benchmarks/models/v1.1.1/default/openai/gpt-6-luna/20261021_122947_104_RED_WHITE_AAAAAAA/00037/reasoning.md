@@ -1,0 +1,1 @@
+Buy Ancient Joker for the open fifth slot. Its per-scored-Spade ×1.5 Mult provides the multiplicative scaling this lineup lacks, synergizing with the existing flat Mult from Holographic Runner and conditional bonuses; the suit changes each round, but even a few matching cards can multiply the hand's Mult substantially.

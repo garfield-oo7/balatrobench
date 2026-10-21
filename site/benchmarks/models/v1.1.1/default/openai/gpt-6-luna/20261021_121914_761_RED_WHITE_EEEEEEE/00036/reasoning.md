@@ -1,0 +1,1 @@
+Advance without buying or rerolling: both shop Tarots cost $3 and the voucher costs $10, while rerolling is also unaffordable at $2. Keep cash at Vagabond's $4-or-less threshold so it can generate Tarots during the blind, and retain The Tower for a useful card target. Selling a scoring Joker just to afford a minor Tarot would weaken the build.

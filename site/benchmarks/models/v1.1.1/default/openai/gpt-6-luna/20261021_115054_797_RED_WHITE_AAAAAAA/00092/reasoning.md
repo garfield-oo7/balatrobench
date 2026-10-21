@@ -1,0 +1,1 @@
+Open the Arcana Pack for $4, leaving $10 and preserving some interest while gaining an immediate Tarot effect. The shop has no Jokers to improve the current strong Level 6 Two Pair engine, and the Tarot Merchant voucher would consume nearly all cash without helping score immediately. Select the most useful Tarot offered, prioritizing money or beneficial card enhancements.

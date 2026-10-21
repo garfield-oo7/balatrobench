@@ -1,0 +1,1 @@
+I have $3, so I cannot afford the $4 Joker or Buffoon pack, and the $10 voucher is out of reach. Rerolling costs $5 and is also unaffordable. Keep Even Steven and move on to the next blind.

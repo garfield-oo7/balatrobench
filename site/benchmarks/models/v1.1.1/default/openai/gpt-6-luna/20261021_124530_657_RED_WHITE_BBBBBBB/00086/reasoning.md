@@ -1,0 +1,1 @@
+Play the pair of Sixes and pair of Threes as a Level 4 Two Pair, with the Two as an unscored fifth card. This triggers Clever Joker's +80 Chips and leaves the Jack, Eight, and Seven held, making Seven the lowest held card for Raised Fist's +14 Mult. Mystic Summit adds +15 Mult with zero discards, making this the strongest scoring play and likely enough to finish the blind.

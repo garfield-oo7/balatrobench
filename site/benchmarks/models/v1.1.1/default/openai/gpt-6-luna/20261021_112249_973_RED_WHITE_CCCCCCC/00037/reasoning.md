@@ -1,0 +1,1 @@
+Buy To Do List for $4: Flush has already been a frequent hand type, so this should generate $4 whenever I play one while also supporting the run’s cash economy. The $4 Celestial Pack offers a less predictable hand upgrade, and the $10 voucher and $5 reroll are unaffordable.

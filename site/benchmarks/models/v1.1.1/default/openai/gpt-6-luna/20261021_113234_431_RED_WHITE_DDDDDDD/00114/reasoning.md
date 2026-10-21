@@ -1,0 +1,1 @@
+Play the off-suit Queen pair first, leaving all five Hearts intact for a later Flush. The Mult Queen scores as part of the pair, while both Steel cards remain held and provide their ×1.5 multipliers; this should bank a useful score without sacrificing the Flush engine. I’ll preserve a strong final hand for Acrobat’s ×3 bonus if the remaining draws allow it.

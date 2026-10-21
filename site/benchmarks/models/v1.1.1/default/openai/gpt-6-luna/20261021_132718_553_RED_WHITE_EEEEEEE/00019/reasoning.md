@@ -1,0 +1,1 @@
+Use Uranus now for a guaranteed permanent upgrade to Two Pair, our most-played hand and the hand type that reliably triggers Jolly Joker. Holding a Planet has no passive benefit without Observatory, and our $1 cannot buy or reroll anything in this shop.

@@ -1,0 +1,1 @@
+Use Uranus for a guaranteed permanent Two Pair upgrade, strengthening the current most-played hand and Jolly Joker's +8 Mult trigger. It has no passive value to hold, and the shop's useful items are unaffordable with $1.

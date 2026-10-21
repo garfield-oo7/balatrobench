@@ -1,0 +1,1 @@
+Play the full house: Q♥, Q♣, Q? Actually the hand has three Queens at indices 1–3 and a pair of Fives at 5–6. Use the three Queens plus both Fives; this scores about 320 chips, enough to raise the current 208 above the 450 target. Avoid including the unrelated King or 9.

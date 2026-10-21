@@ -1,0 +1,1 @@
+Take Earth as the most practical off-strategy upgrade. Flush is still the core hand and neither available planet supports it, but Full House is much more achievable as a fallback than Straight Flush, while Pluto would improve only weak High Card plays. The +25 Chips and +2 Mult give useful backup scoring flexibility without disrupting the Flush engine.

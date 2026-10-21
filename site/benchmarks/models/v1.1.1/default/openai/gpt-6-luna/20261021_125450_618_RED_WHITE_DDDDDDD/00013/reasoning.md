@@ -1,0 +1,1 @@
+Keep the two sevens as a reliable scoring fallback and retain the three Hearts (J, T, 7) toward Crafty Joker's strong Flush bonus. Discard the off-suit 9, 6, and 2 to draw three replacements; this preserves the pair while giving a chance to complete a Heart Flush.

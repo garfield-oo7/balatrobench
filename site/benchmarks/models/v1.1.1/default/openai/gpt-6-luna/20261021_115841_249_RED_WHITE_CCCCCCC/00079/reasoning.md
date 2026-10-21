@@ -1,0 +1,1 @@
+Play the five-Spade Flush (A♠, K♠, J♠, 9♠, 4♠). Flush is our strongest leveled hand, and Wrathful Joker adds +3 Mult for each of the five scored Spades; Splash ensures every selected card scores. This should yield roughly 2,256 chips, after which the remaining hand can finish the 2,467-point gap.

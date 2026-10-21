@@ -1,0 +1,1 @@
+Preserve the four-Spade flush core—especially A♠ for The Idol—and discard the off-suit Q♦ and 4♥ to draw two cards toward the Level-6 Flush engine. A Flush scores far more than the Queens pair, and there are still two discards available if this draw does not complete it.

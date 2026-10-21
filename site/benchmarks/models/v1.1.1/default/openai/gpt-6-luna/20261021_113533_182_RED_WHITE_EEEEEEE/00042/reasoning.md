@@ -1,0 +1,1 @@
+Sell The Emperor to free a consumable slot. Both slots are occupied and Emperor cannot generate cards without room; Justice remains a useful Glass enhancement, and the $1 sale helps fund Hanged Man for valuable early deck thinning.

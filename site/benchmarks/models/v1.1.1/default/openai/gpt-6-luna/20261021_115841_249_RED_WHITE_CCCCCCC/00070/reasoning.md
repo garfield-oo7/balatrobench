@@ -1,0 +1,1 @@
+Buy The Empress for $2: its two Mult enhancements pair especially well with Splash, which makes every selected card score, and can add substantial recurring Mult to cards used in Flushes. Preserve the established Flush/Spade plan rather than spend on an off-plan Full House planet; then skip both Standard packs to grow Red Card by +6 Mult.

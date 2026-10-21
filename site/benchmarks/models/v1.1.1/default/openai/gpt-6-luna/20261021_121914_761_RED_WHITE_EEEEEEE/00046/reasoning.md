@@ -1,0 +1,1 @@
+Take Uranus to level up Two Pair, the established primary hand: it has already been played eight times and is directly supported by Jolly Joker, Supernova, and Even Steven. The additional +20 Chips and +1 Mult compounds with the current hand engine every time we can make Two Pair; Earth improves Full House but is less consistent and not as tightly supported.

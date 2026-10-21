@@ -1,0 +1,1 @@
+Buy The Star for $3 as the only affordable upgrade. Turning up to three cards into Diamonds can improve flush consistency, a hand we have already demonstrated we can make, and it preserves the option to apply the suit conversion during the next blind when the hand is available.

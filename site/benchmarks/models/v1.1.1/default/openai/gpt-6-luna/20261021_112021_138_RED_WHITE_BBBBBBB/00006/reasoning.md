@@ -1,0 +1,1 @@
+To Do List is an early economy Joker that can generate $4 by playing a Pair, a hand type that will occur naturally while building a flush-oriented strategy. It is more useful than the off-strategy Straight Flush Planet or a random Standard Pack. Although it reduces current cash below the interest threshold, its repeated payouts can fund stronger scoring Jokers in later shops.

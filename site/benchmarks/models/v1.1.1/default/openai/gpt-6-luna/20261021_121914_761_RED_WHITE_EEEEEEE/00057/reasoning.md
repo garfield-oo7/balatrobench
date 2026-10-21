@@ -1,0 +1,1 @@
+Play the pair of Nines for a reliable Pair hand, activating Jolly Joker and the current Pair Supernova bonus. Include the Ace, Six, and Two as unscored cards to cycle five cards, while keeping the connected King-Jack-Ten as a possible straight setup for the next hand.

@@ -1,0 +1,1 @@
+Play the Queens and Sevens as Two Pair. At Level 3 this scores (60 base chips + 34 card chips) × (4 base Mult + 8 from Jolly Joker) = 1,128, enough to clear the 800 target in one hand. Even Steven does not trigger for Queens or Sevens, but the Jolly Joker bonus makes this the strongest reliable play.

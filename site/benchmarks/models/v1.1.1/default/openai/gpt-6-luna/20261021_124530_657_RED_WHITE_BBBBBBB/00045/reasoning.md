@@ -1,0 +1,1 @@
+Use The Fool to recreate the previously used Temperance. The duplicated Temperance can convert the current four Jokers' sell value into money, providing valuable early-ante economy without selling any scoring pieces; this also frees a consumable slot afterward for the High Priestess.

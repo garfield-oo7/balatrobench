@@ -1,0 +1,1 @@
+Play the three 3s and pair of 2s as a Full House. Splash makes all five cards score, and Foil Trading Card adds 50 chips; the hand should score well over the remaining 104 points and finish the blind without using a discard.

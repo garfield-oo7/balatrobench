@@ -1,0 +1,1 @@
+Cycle the three off-suit cards while preserving the five-card Diamond Flush, which currently scores with the D_Q Mult enhancement and triggers both Flush jokers. I need to spend two hands before the final Flush so Acrobat’s ×3 Mult activates; these draws may also improve the eventual flush cards.

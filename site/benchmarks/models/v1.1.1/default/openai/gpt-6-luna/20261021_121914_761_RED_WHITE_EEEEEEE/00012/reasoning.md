@@ -1,0 +1,1 @@
+With only $3, the Hallucination and Standard Pack cost $4 and Wasteful costs $10; rerolling is also unaffordable. Save the remaining cash and advance. The current Even Steven and Jolly Joker provide strong early scoring, and the Full House level upgrade adds flexibility.

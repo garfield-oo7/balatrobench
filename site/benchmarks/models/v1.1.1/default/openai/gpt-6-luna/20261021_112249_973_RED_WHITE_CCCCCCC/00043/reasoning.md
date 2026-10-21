@@ -1,0 +1,1 @@
+Play the five Diamonds as a Flush, which is the strongest made hand currently available and triggers To Do List for $4. Even with The Arm lowering the Flush level, this should add a useful chunk toward the 1,168 points still needed; preserve the pair of Fives and remaining cards for the replacement draw and follow-up hands.

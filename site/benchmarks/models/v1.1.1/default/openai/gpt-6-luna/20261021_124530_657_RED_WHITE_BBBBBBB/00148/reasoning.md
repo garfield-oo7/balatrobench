@@ -1,0 +1,1 @@
+Free the slot by selling Clever Joker. Two Pair remains the focus, but Mystic Summit is guaranteed active alongside Burglar, and Ramen plus Photograph provide multiplicative scoring; Troubadour's +2 hand size and, with Burglar, a net +2 hands per round should substantially improve consistency and scoring opportunities at Ante 5.

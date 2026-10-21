@@ -1,0 +1,1 @@
+With only $1, the Tower, Standard Pack, and Hieroglyph are unaffordable, and there is no value in selling a scoring Joker just to buy a weak upgrade. Advance with the strong Two Pair level (Level 3) and the Even Steven/Jolly Joker bonuses; preserve both Jokers and build money from the next blind's unused hands.

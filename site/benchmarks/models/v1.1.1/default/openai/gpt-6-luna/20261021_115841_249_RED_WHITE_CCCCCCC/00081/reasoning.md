@@ -1,0 +1,1 @@
+Buy Supernova for $4: Flush has already been played 12 times this run, so it immediately adds +12 Mult to the established, leveled Flush strategy. This is a major scoring upgrade and leaves ample money for interest.

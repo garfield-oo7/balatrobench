@@ -1,0 +1,1 @@
+Play the five Hearts as a Flush for the strongest available hand. It scores about 288 chips, nearly clearing the 300-chip Small Blind, and cycles these cards so the remaining hand can finish the blind efficiently.

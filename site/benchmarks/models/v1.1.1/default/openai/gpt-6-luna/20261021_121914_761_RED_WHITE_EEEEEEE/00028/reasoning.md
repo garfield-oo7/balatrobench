@@ -1,0 +1,1 @@
+Play the 9s full of 7s to clear the 1,200 target in one hand. Level 2 Full House scores 65 base chips plus 41 from the scoring cards, and Jolly Joker adds +8 Mult, for roughly 106 × 14 = 1,484. This beats a Two Pair play and preserves three hands for end-of-round money.

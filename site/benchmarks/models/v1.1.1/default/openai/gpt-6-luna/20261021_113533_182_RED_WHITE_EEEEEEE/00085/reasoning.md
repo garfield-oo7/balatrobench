@@ -1,0 +1,1 @@
+The Needle allows only one played hand, so preserve the pair of 5s as the scoring core and retain the even Ten and Four as useful pair targets. Discard the Queen, 9, 3, and 2 to draw four replacements; this keeps Ride the Bus safe and gives a chance to make Two Pair or better, which is strongly boosted by Jolly Joker and the +11 Two Pair Supernova bonus.

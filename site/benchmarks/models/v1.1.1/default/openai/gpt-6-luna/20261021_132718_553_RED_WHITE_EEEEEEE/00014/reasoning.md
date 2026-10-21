@@ -1,0 +1,1 @@
+The Psychic requires exactly five cards. Play the three Sixes and two Fours for a Full House. All five scored cards are even, activating Even Steven for +20 Mult, and the hand contains a pair, activating Jolly Joker for +8 Mult; the Level 2 Full House base makes this easily enough to clear the remaining 60 points.

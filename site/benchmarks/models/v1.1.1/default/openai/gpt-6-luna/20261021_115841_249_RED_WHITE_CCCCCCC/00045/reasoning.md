@@ -1,0 +1,1 @@
+Keep the three Spades (A, 9, 7) and discard the five off-suit cards to maximize the chance of drawing into a Flush. With only two hands left and 1,120 points still needed, the Spade Flush is the best route because it can trigger Wrathful Joker repeatedly, while the current pair of sevens is not enough to score the blind.

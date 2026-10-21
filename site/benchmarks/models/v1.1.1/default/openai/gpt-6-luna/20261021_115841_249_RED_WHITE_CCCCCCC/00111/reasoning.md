@@ -1,0 +1,1 @@
+Buy Justice for $2 as a targeted, high-impact upgrade for the Flush engine: apply Glass to a high-rank card when it appears in hand, adding ×2 Mult to a scoring flush. This is inexpensive, preserves nearly all of the $41 balance that fuels Bootstraps and Seed Money interest, and is more relevant than Saturn's Straight level-up.

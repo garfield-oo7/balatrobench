@@ -1,0 +1,1 @@
+Use the final discard to keep the pair of 2s and all three Spades, preserving both the made Pair and the best route to a high-scoring Spade Flush with Wrathful Joker. Replace the off-suit King, Ten, Six, and Three; with 824 points still needed, the current hand cannot finish the blind, so improving it before the last hand is essential.

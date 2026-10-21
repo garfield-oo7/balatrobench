@@ -1,0 +1,1 @@
+Free a slot for Four Fingers, which directly improves the consistency of the established Level-7 Flush strategy by allowing four-card Flushes. Walkie Talkie offers useful bonuses only when a scored card is a 10 or 4, making it the least central of the current scoring jokers; Hiker, Bootstraps, Supernova, Mystic Summit, and Droll all provide more reliable engine support.

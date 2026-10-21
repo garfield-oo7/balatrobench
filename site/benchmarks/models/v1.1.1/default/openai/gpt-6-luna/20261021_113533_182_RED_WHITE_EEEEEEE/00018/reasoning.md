@@ -1,0 +1,1 @@
+The Fool can recreate the last Planet used, Uranus, for free. Two Pair has been our most-played hand and synergizes with Jolly Joker, so generating another Two Pair level is a useful upgrade with no affordable shop purchase available.

@@ -1,0 +1,1 @@
+Buy The Fool for $3. The last consumable used was Uranus, so The Fool should copy it and provide another permanent Two Pair level, strengthening the most-played hand and Jolly Joker's pair-trigger build. This is more targeted value than an uncertain Standard Pack or a Stone card; retain the remaining $1.

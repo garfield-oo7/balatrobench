@@ -1,0 +1,1 @@
+At $0, Drunkard and the Standard Pack are both unaffordable, as are the voucher and reroll. Selling one of the scoring Jokers or Vagabond would sacrifice a strong Two Pair/Vagabond engine for too little value, and the consumables cannot be productively used without a hand. Keep money low to activate Vagabond next round and advance.

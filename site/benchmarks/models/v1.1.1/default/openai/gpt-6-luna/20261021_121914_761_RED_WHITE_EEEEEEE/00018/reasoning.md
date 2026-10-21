@@ -1,0 +1,1 @@
+Use The Fool to duplicate the last Planet card used, Uranus, then apply the free Two Pair level-up before the next blind. Two Pair is already our most-used hand and synergizes with Jolly Joker, so this is more valuable than saving an otherwise unused Fool; the generated Planet should fit in the open consumable slot.

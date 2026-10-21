@@ -1,0 +1,1 @@
+Play the available five-card Hearts flush for a strong opening score (about 288). It falls just short of 300, but leaves the other Ace and enough hands to finish the blind; avoid discarding a guaranteed scoring hand.

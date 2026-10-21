@@ -1,0 +1,1 @@
+Play the ace-high straight (10-J-Q-K-A), the strongest guaranteed hand available. It scores the Mult-enhanced Ten, activates Mystic Summit because discards are at zero, and triggers Photograph on the first face card before Ramen's ×2 Mult. This should make a substantial contribution toward the remaining 14,384 chips while preserving the other cards for subsequent hands.

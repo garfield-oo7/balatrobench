@@ -1,0 +1,1 @@
+Move Ride the Bus's additive Mult ahead of Acrobat's ×3 Mult so its accumulated bonus is multiplied on the final hand. Keep the chip bonuses first, then additive Mult, then the multiplier.

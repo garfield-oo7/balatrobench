@@ -1,0 +1,1 @@
+Take Earth to strengthen Full House as the most practical backup to the heavily developed Two Pair strategy: it can often be assembled from the same duplicated-rank draws. Saturn and especially Neptune support less reliable hand types that have little synergy with the current build; Earth gives the best useful fallback improvement.

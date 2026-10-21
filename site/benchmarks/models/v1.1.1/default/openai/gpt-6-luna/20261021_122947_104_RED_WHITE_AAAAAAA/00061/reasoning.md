@@ -1,0 +1,1 @@
+Play the three Kings as Three of a Kind, using exactly three cards to trigger Half Joker’s +20 Mult. Runner’s Holographic edition also supplies +10 Mult even without a Straight. The Steel Ace remains held, giving its 1.5× Mult bonus, so this is much stronger than playing only a pair or a Two Pair that the hand cannot form.

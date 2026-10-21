@@ -1,0 +1,1 @@
+Keep the three Spades (7, 6, 4) and discard all off-suit cards to draw toward a Flush. A Flush activates Crafty Joker’s +80 Chips, scores the odd 7 for Odd Todd, and avoids scoring a face card so Ride the Bus can scale; the potential Flush is much stronger than playing the current Two Pair.

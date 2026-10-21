@@ -1,0 +1,1 @@
+Buy Venus for $3: it gives a permanent Level 3 Three of a Kind fallback without dropping below the $25 interest threshold. The Flush engine remains primary, but a useful backup hand is worth this small cost; Delayed Gratification is unlikely to pay off because the Flush plan may require discards.

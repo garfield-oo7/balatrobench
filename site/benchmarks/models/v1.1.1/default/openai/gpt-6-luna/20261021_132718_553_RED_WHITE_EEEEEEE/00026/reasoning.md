@@ -1,0 +1,1 @@
+Play the full house using the three 9s and two 7s. At Level 2 it scores roughly (65 base chips + 41 card chips) × (6 base Mult + 8 from Jolly Joker) = 1,484, enough to beat the 1,200 target in one hand. The even-rank Joker does not trigger on these odd cards, but the upgraded Full House and Jolly Joker synergy are decisive.

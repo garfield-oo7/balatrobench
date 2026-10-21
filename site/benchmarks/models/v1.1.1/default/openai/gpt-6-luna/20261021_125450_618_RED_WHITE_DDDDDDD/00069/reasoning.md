@@ -1,0 +1,1 @@
+Buy the guaranteed Jupiter to further level the established Flush strategy, adding +2 Mult and +15 Chips to the hand played most often and supported by both Flush Jokers. It costs only $3 and leaves $10, while Mail-In Rebate is conditional and would require replacing a productive scoring Joker; the $10 Seed Money voucher is not a better immediate investment.

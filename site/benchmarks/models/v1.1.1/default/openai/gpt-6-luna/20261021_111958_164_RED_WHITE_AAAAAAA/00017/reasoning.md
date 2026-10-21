@@ -1,0 +1,1 @@
+Play the Ace high-card hand using the three off-suit cards, scoring a little while cycling them and preserving all four Spades (Q, 7, 6, 4). With only two hands left and 259 points still needed, drawing a single Spade would enable a high-scoring Flush that can plausibly finish the blind; including any Spades now would weaken that draw.

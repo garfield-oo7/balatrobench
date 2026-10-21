@@ -1,0 +1,1 @@
+Play the pair of Jacks while cycling the five non-Spade cards. Only the Jacks score, but this adds a little toward the blind and preserves S_Q, S_4, and S_3 in hand as a flush foundation. Drawing five cards gives the best chance to find two more Spades for a high-scoring Flush boosted by Wrathful Joker, while avoiding discards keeps Delayed Gratification eligible for its payout.

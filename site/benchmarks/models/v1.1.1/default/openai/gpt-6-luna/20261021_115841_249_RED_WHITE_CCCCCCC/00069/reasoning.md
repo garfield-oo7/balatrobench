@@ -1,0 +1,1 @@
+Grabber permanently adds an extra hand each round, improving both scoring flexibility and end-of-round money. At $7 I will remain above $25, preserving maximum interest, and the extra hand is a stronger long-term investment than the off-strategy Full House Planet or standard-card packs.

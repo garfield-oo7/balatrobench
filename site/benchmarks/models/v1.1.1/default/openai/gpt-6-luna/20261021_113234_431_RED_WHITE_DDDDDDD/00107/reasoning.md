@@ -1,0 +1,1 @@
+The lineup is full and built around Flushes, so Wily Joker is off-strategy and The Sun has uncertain value without a hand/deck target. A single $6 reroll is affordable while preserving $26 for maximum interest, and could reveal a scoring Joker with multiplicative or Flush synergy before the late Antes. Skip the unfocused Standard Pack.

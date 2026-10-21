@@ -1,0 +1,1 @@
+Play the strongest available five-card Diamond Flush now: A, K, Q, J, and 9. Flush is level 2, and this should score strongly with the current +Mult from Red Card and Gros Michel; using the five highest-value Diamonds maximizes Splash’s card scoring. Keep the 7 and 3 of Diamonds for the next draw/hand, and the face-down card need not be risked.

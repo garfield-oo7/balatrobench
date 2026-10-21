@@ -1,0 +1,1 @@
+Use Trading Card's first-discard bonus by discarding exactly one expendable non-Diamond card, the Jack of Clubs. This preserves the five-card Diamond flush including the Idol-targeted 4 of Diamonds, while earning $3 and replacing the weakly synergistic card.

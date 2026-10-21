@@ -1,0 +1,1 @@
+Ride the Bus is currently at +0 Mult and competes with scoring face cards, while the flush engine is already strong with Crafty and Droll. Sell this lowest-impact Joker to open a slot and fund Hiker, whose permanent +5 Chips per scored card compounds across the remaining run.

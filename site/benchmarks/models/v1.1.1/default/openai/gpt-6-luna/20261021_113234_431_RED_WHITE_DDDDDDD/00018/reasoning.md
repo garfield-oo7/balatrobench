@@ -1,0 +1,1 @@
+Play the Two Pair of 3s and 2s, with the 8 as an unscored fifth card to cycle more of the deck. The scored 3s activate Odd Todd, and since no face card scores Ride the Bus gains +1 Mult; this should produce a useful score while building the Bus bonus.

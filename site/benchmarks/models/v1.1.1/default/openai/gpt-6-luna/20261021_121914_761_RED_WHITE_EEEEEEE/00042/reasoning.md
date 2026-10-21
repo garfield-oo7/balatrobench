@@ -1,0 +1,1 @@
+Advance without spending. The only Joker costs $8 and would require selling scoring Jokers from a full lineup; the $8 pack and $10 voucher are unaffordable. Keep the current scoring engine intact and stay at $4 or less so Vagabond can generate Tarots during the next blind.

@@ -1,0 +1,1 @@
+Free the last Joker slot by selling Walkie Talkie. Its +10 Chips/+4 Mult applies only to scored 10s and 4s, while the Level-6 Flush engine already has strong chips from Hiker and robust Mult from Bootstraps and Supernova. Mystic Summit offers a larger +15 Mult on the decisive hand once discards are exhausted.

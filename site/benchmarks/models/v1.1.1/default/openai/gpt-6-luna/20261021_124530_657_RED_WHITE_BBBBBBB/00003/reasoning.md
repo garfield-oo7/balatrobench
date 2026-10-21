@@ -1,0 +1,1 @@
+Play the available Two Pair (Jacks and Sevens) for a solid 108 points, bringing the blind score to about 204. Include the low 3 as an unscored fifth card to cycle it, while keeping K-T-9 in hand as useful straight connectors for the final hand.

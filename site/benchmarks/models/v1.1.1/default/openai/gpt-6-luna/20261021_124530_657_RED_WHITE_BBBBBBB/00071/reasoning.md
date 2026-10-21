@@ -1,0 +1,1 @@
+Dig for a scoring pair/trips while retaining the existing nines as a potential pair and the 3 as a low held card for Raised Fist. The diamond 9 is debuffed and won't score, but can still help define the hand; discard the unrelated face cards, ten, five, and four to see five new cards, then use the final discard to activate Mystic Summit before scoring.

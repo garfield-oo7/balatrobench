@@ -1,0 +1,1 @@
+Buy Wrathful Joker for a low-cost scoring boost: every scored Spade adds +3 Mult, which can contribute repeatedly on flushes and other hands. Delayed Gratification is unreliable because its payout requires ending the round without using discards. Keep the remaining cash and skip both packs when leaving to build Red Card's Mult.

@@ -1,0 +1,1 @@
+Play the Queens pair now while preserving all five remaining Diamonds (K, J, 5, 3, 2) for a guaranteed non-debuffed Flush on the final hand. The Mult-enhanced Queen scores with the pair, and the Steel King remains held for its ×1.5 Mult. The final Flush will trigger Crafty and Droll and, as the last hand, Acrobat’s ×3 Mult, which should clear the remaining deficit comfortably.

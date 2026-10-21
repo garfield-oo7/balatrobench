@@ -1,0 +1,1 @@
+Play Two Pair using the sevens and threes, adding the King as an unscored fifth card to cycle it out. This is the strongest scoring hand available and the target is only 136 chips away; the four scoring cards also gain Hiker chips. Keep Acrobat for the actual final hand if needed, since this is not the last hand of the round.

@@ -1,0 +1,1 @@
+Free the slot by replacing Smiley Face's flat +5 per scored face with Acrobat's ×3 Mult on the final hand. Photograph already supplies ×2 on the first scored face, so a face card played on the final hand can stack both multipliers; Burglar's extra hands make it practical to reserve a strong hand for the finish. Keep Clever's Two Pair chips and Mystic Summit's reliable +15 Mult.

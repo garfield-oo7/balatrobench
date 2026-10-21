@@ -1,0 +1,1 @@
+Move the additive Chip and Mult Jokers ahead of Acrobat so its ×3 multiplier is applied after Droll Joker’s +10 Mult on the final hand. This improves final-hand scoring at no cost while retaining the Flush-focused setup.

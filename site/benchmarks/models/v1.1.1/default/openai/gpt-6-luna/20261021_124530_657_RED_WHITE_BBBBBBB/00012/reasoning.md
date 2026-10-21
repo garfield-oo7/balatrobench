@@ -1,0 +1,1 @@
+Play the full house made from the three Queens and pair of Fives. It scores substantially better than the available two-pair hand and should comfortably clear the remaining 166 points needed, winning the blind in the final hand.

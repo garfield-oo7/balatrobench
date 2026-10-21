@@ -1,0 +1,1 @@
+Take Vagabond. It can generate a Tarot on every scored hand while we're at $4 or less, creating repeated deck-enhancement, money, or thinning opportunities that fit our open consumable slot and existing engine. Hologram is currently only ×1 and needs playing cards added to the deck to scale; we have no established card-generation source, so it offers little immediate value.

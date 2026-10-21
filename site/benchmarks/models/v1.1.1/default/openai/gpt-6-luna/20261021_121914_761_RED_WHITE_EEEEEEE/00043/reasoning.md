@@ -1,0 +1,1 @@
+Play the Queens and Fours as a Level 3 Two Pair, which triggers Jolly Joker, Supernova, and Even Steven from the two scored even-rank Fours. Include the low 3 as an unscored fifth card to cycle it while retaining the 8 and 5 for future scoring possibilities. The hand should score about 2,288 chips, making substantial progress toward the 3,000 target while leaving hands available.

@@ -1,0 +1,1 @@
+Buy Saturn for $3: it gives a substantial +30 Chips and +3 Mult to Straight as a flexible backup hand, while leaving $3 so Vagabond is active throughout the next blind and can generate Tarot cards. Avoid the standard packs and Reserved Parking, and keep the current scoring jokers intact.

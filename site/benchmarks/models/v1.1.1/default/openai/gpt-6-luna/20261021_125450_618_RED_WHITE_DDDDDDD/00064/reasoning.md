@@ -1,0 +1,1 @@
+Buy The Chariot for $3 as a reliable way to add a Steel enhancement to a high-rank card next round. Keeping it in the empty consumable slot lets me choose a card to hold outside the Flush for ×1.5 Mult, while preserving $5 for interest; the $6 Arcana pack is less predictable and the $10 voucher is unaffordable.

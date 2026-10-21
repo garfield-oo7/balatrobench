@@ -1,0 +1,1 @@
+Play the T pair and 7 pair as a Level 5 Two Pair. This activates Mad Joker (+10 Mult), Holographic Runner (+10 Mult), and Swashbuckler (+11 Mult), for 37 Mult with the hand's base 100 chips plus the scored cards. The resulting score should comfortably exceed the 2,246 points still needed. Keep the D_3 Gold card unplayed so it remains held for its end-of-round payout.

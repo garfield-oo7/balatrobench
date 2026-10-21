@@ -1,0 +1,1 @@
+Buy The Empress for $3 as a guaranteed, permanent scoring upgrade for the established Flush engine. Once a hand is available, enhance two high-rank cards likely to be scored in Flushes; the +4 Mult on each will complement the Flush bonuses and preserve $4 rather than spending on a less predictable Arcana Pack.

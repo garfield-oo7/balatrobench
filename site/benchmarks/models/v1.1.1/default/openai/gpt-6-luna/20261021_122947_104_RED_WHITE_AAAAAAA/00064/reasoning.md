@@ -1,0 +1,1 @@
+Take Uranus to further scale the established Two Pair engine. Two Pair is already Level 4 and reliably activates Mad Joker’s +10 Mult, so its additional +20 Chips and +1 base Mult are immediately valuable; the other planets upgrade less central hand types.

@@ -1,0 +1,1 @@
+Apply Justice's Glass enhancement to the 9 of Spades, which is guaranteed to score in the available Flush. Keep the Wild 9 of Diamonds to complete a five-card Flush and trigger The Idol's 9-of-Hearts multiplier; Glass on the scored spade adds another ×2, creating excellent multiplicative synergy for this hand.

@@ -1,0 +1,1 @@
+Buy the Celestial Pack for $4 to seek a Flush planet, the hand type supported by Crafty and Droll and already played most often. This preserves $9 toward interest and future shops; Mercury only upgrades Pair, while the $10 Tarot Merchant is not worth most of the current bankroll without an immediate payoff.

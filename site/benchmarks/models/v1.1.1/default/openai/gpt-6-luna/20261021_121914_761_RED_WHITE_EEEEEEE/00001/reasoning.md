@@ -1,0 +1,1 @@
+Play the two pair of Queens and Fives for a solid 100-point hand, while including the low Two as an unscored fifth card to cycle it and draw five replacements. This uses a hand productively and keeps the 4 and 6 available.

@@ -1,0 +1,1 @@
+Play the made pair of Sixes for reliable points toward the remaining 118-chip target, while using the three low unmatched cards as a free cycle. Keep the Ace, Queen, and Seven in hand as the strongest cards for later scoring or potential draws; Burglar has supplied plenty of hands despite zero discards.

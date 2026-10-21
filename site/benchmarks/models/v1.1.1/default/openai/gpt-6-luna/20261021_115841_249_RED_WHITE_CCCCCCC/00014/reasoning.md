@@ -1,0 +1,1 @@
+Keep the four Clubs together as a strong flush draw; Hearts are debuffed, and the four Diamonds are the least useful cards for this plan. Drawing four cards gives a good chance to find a fifth Club while also improving into pairs or trips if the flush misses.

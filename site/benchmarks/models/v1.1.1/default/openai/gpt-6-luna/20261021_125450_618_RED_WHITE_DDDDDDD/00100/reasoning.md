@@ -1,0 +1,1 @@
+Play the three Kings and both Fives as a Full House. This is the final hand, so Acrobat’s ×3 applies; Abstract adds +15 Mult and Blue Joker adds +46 Chips. Although the Steel King loses its held-card benefit by being played, the level-2 Full House with these Joker bonuses decisively exceeds the remaining 1,647-point deficit.

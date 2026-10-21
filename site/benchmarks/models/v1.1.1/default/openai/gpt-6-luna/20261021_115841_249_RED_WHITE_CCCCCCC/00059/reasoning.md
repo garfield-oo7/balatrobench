@@ -1,0 +1,1 @@
+Play the five Spades as a Flush. Splash makes all selected cards score, so the five Spades each trigger Wrathful Joker for +15 Mult total; Red Card adds another +3 Mult. The resulting Flush should comfortably exceed the 824 points still needed, whereas adding the off-suit cards would break the Flush.

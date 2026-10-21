@@ -1,0 +1,1 @@
+Buy the Jumbo Celestial Pack: at $6, it leaves $26, preserving the maximum $5 interest threshold. Select Jupiter if offered to strengthen the established Level 3 Flush engine; otherwise use the strongest relevant hand upgrade among the five choices. The current Flush Jokers are cohesive, so don't risk a reroll or replace one for Splash or the Pair-only Duo.

@@ -1,0 +1,1 @@
+Choose Jupiter to level up the established Flush engine from Level 4 to Level 5. Flush is the run's most-played hand and directly activates Crafty (+80 Chips) and Droll (+10 Mult), while the added +15 Chips and +2 Mult improve every future Flush. The alternatives upgrade hand types that are not central to this build.

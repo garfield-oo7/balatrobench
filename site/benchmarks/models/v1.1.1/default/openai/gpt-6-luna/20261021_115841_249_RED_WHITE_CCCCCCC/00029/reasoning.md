@@ -1,0 +1,1 @@
+Play the five Clubs (Q, T, 7, 6, 5) as a Flush. Their rank chips total 38, plus the Flush base 35 gives 73 chips; the Flush's 4 Mult plus Red Card's +3 yields about 511 points. This is the strongest current hand and should bring the total close enough that the remaining hands can finish the blind.

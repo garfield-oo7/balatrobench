@@ -1,0 +1,1 @@
+Play the two highest pairs (9s and 6s) for a solid Two Pair score, and include the Ace as an unscored fifth card to cycle the maximum five cards. This preserves the pair of 4s and the Jack for follow-up options while drawing toward stronger hands.

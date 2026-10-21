@@ -1,0 +1,1 @@
+Nothing in the shop is affordable at $2: the Three-of-a-Kind Joker and Celestial Pack each cost $4, the Spectral Pack costs $8, and the voucher costs $10. Avoid selling a useful Joker just to buy a marginal item; keep the strong Holographic Runner, Mad Joker, Scary Face, and Burglar, then advance and earn money from the next blind.

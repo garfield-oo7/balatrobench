@@ -1,0 +1,1 @@
+Take Mercury for a useful fallback upgrade to Pair, a hand already played three times and likely to arise when the Flush engine cannot be completed. It adds +15 Chips and +1 Mult; the more powerful Venus and Mars upgrades target hand types with no demonstrated role in this run, while no Flush Planet is offered.

@@ -1,0 +1,1 @@
+Use Judgement while there are three open Joker slots. A free random Joker can add meaningful scoring or economy without spending our $3; Two Pair remains the supported core, and there is no reason to buy the off-strategy Saturn or save the consumable slot.

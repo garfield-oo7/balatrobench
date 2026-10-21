@@ -1,0 +1,1 @@
+Use Uranus to further level Two Pair, the hand type directly supported by Clever Joker and already played most often this round. The permanent +20 chips and +1 Mult improve a reliable scoring line and free a consumable slot; Pluto's High Card upgrade is much less aligned with the current build.

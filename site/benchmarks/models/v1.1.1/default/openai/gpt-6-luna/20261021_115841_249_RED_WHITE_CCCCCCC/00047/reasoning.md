@@ -1,0 +1,1 @@
+We need 1,120 more points with two hands left. Preserve the four Spades (A, 9, 7, 3) and use the final discard on all four off-suit cards to seek a fifth Spade. A five-Spade Flush triggers Wrathful Joker for +15 Mult alongside Red Card's +3, making it our best chance to clear the blind in one hand.

@@ -1,0 +1,1 @@
+With only one hand left, two pair scores far below the 242 chips still needed. Preserve both pairs and discard the four unpaired cards to draw toward a Queen or Five, which could turn the hand into a Full House and provide a realistic chance to clear the blind.

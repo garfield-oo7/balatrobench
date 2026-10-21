@@ -1,0 +1,1 @@
+Play the two pair of 8s and 7s to trigger Mad Joker’s +10 Mult; this is the strongest scoring hand available and should score about 600 points, bringing the blind close to its 800 target. Include the Jack as a fifth cycling card; it does not score in Two Pair, but playing it refreshes an extra card without sacrificing the made hand.

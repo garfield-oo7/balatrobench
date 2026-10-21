@@ -1,0 +1,1 @@
+Play the five Clubs as a Flush. Crafty Joker adds +80 Chips and Droll adds +10 Mult; the scored Ace also triggers Odd Todd for +31 Chips. This is far more than enough to clear the 1,200 target in one hand, preserving unused hands for round-end income and avoiding a needless risk of further draws.

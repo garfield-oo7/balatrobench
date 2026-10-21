@@ -1,0 +1,1 @@
+Play the known Ace, Queen, and 4 as a guaranteed High Card while keeping the play to three cards so Half Joker adds +20 Mult. The Ace scores 11 rank chips, giving about (5 + 11) × (1 + 20 + 10) = 496, comfortably clearing the remaining 175 points. Using known distinct ranks avoids any uncertainty from the face-down cards.

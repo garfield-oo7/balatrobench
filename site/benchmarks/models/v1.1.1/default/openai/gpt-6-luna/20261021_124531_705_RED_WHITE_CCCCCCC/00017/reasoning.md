@@ -1,0 +1,1 @@
+Play the pair of 9s and fill the five-card hand with the highest remaining ranks, King, Jack, and 8. Splash makes all five played cards score, while Foil Trading Card adds +50 chips; the heart debuff is irrelevant because none of these are Hearts. This maximizes the immediate pair score and cycles five cards toward further strong hands.

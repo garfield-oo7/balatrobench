@@ -1,0 +1,1 @@
+Buy Uranus for $2 to permanently upgrade the established Level 6 Two Pair engine by +20 chips and +1 mult. This is a guaranteed, focused scoring improvement that complements Clever Joker and the existing multiplier Jokers without requiring a risky Joker replacement or spending the remaining interest cushion.

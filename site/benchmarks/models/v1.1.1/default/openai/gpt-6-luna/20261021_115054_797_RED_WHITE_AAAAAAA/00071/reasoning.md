@@ -1,0 +1,1 @@
+Choose Uranus to further upgrade the established Level 5 Two Pair engine. It adds +20 chips and +1 Mult to the hand that triggers Mad Joker and benefits from the existing high additive Mult stack, while Earth and Saturn improve hand types that are not central to the current build.

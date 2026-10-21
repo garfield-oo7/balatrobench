@@ -1,0 +1,1 @@
+Buy the $6 Jumbo Celestial Pack for a strong chance to upgrade Two Pair, our established and most-played scoring engine. Spending down to $3 will also put Vagabond under its $4 threshold; after resolving the pack, sell the currently unusable Emperor if needed to free a consumable slot so Vagabond can generate Tarots during the next blind.

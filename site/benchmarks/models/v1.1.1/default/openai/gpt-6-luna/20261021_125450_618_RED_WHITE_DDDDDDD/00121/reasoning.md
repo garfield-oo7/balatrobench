@@ -1,0 +1,1 @@
+Take Jupiter to level Flush from 4 to 5. Flush is the established engine and this adds +15 Chips and +2 Mult to the hand that repeatedly triggers Crafty (+80 Chips) and Droll (+10 Mult); the other planets improve hands we are not building around.

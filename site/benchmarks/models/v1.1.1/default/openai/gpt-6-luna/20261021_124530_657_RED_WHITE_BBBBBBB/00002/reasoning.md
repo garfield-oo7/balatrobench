@@ -1,0 +1,1 @@
+Play the pair of eights for a reliable scored hand while cycling five cards total. Keep the J, T, and 7 in hand as useful straight connectors; the Ace, 5, 2, and pair are the cards to refresh.

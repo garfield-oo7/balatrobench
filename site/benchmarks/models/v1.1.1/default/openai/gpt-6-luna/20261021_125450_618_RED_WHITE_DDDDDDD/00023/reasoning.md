@@ -1,0 +1,1 @@
+At $4, the Arcana Pack is the only affordable option with meaningful upside: a useful Tarot can enhance a scored card, improve the deck, or generate money, whereas adding one random playing card from the Standard Pack is unlikely to materially help. Keep the established Flush synergy and avoid selling a scoring Joker just to afford Ancient Joker.

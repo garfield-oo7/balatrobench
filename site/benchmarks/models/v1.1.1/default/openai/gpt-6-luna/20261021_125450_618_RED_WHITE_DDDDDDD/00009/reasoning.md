@@ -1,0 +1,1 @@
+Buy Odd Todd for a reliable +31 Chips on scored odd-rank cards, which complements the existing Flush-focused Crafty Joker and Scary Face. It is a guaranteed scoring upgrade for just $4; Neptune supports a rare Straight Flush and the packs are less certain. Keeping the remaining $4 is preferable to spending on a low-impact card or reroll.

@@ -1,0 +1,1 @@
+Play the five Clubs as a Flush, the established high-level hand that activates Crafty (+80 Chips), Droll (+10 Mult), and Abstract (+15 Mult). All five scored cards match Ancient Joker’s current Club suit, stacking its ×1.5 Mult effect and should comfortably clear the remaining blind target. Leave the Mult-enhanced Diamond Ten unplayed.

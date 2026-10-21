@@ -1,0 +1,1 @@
+Take Jupiter to further strengthen the established Flush build, which already has dedicated chip and mult Jokers and is the primary scoring hand. Leveling Flush from 3 to 4 adds +2 Mult and +15 Chips directly to the hand we play most often; the other planets would divert scaling to less reliable hand types.

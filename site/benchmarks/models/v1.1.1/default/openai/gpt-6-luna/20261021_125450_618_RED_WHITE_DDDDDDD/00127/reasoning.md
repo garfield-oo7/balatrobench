@@ -1,0 +1,1 @@
+Play the pair of 2s as a setup hand while preserving the flush engine. This removes the nonessential 2♦ but keeps five Diamonds including the Mult-enhanced Q♦, enough for a strong Flush on the final hand. Avoid spending that enhanced Queen before Acrobat's ×3 bonus.

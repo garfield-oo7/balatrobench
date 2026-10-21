@@ -1,0 +1,1 @@
+Play the two Queens and two Sevens as a Level 3 Two Pair. Its base is 60 chips and 4 Mult; Jolly Joker adds +8 Mult because the hand contains pairs. Even Steven does not trigger on these odd-rank cards, but this is still the strongest reliable hand and should clear the 800-point Small Blind in one play. Preserve the remaining hands for the end-of-round reward.

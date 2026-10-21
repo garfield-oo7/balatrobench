@@ -1,0 +1,1 @@
+Play the Two Pair of Aces and Threes, keeping the Steel C_K in hand for its ×1.5 Mult bonus. Abstract's +15 Mult and Blue Joker's +78 Chips make this comfortably exceed the remaining 1,436 points; no need to risk a discard or spend extra hands.

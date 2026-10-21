@@ -1,0 +1,1 @@
+With $0, none of the shop items are affordable, and selling a useful Joker just to buy Smeared Joker or a Standard Pack would be a poor exchange. Keep Certificate for its recurring sealed-card generation, Zany Joker for the Three of a Kind scoring plan, and Raised Fist for a reliable Mult boost, then advance and rebuild money from the blind reward and unused hands.

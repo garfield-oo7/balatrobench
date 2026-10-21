@@ -1,0 +1,1 @@
+Take Certificate. It provides an extra random sealed card at the start of every round, giving immediate recurring value and potential Gold/Blue/Purple/Red Seal benefits. Hologram is only ×1 Mult now and needs repeated deck additions to scale; without a card-generation strategy that payoff is less reliable.

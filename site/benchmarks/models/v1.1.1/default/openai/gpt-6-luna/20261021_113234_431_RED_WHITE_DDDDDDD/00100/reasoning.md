@@ -1,0 +1,1 @@
+Play the five Diamonds as the final-hand Flush. Hearts are debuffed by The Head, but this all-Diamond Flush receives both Flush Jokers (+80 Chips and +10 Mult), Abstract's +15 Mult, Blue Joker's +62 Chips, and Acrobat's ×3 Mult. The Mult-enhanced D_Q also adds +4 Mult when scored. This should comfortably exceed the 16,220 points still needed.

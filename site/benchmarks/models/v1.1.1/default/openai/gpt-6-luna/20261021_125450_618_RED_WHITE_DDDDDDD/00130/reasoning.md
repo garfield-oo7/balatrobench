@@ -1,0 +1,1 @@
+Use the first of the two remaining hands on a small High Card, scoring the Ace while cycling the 3♦. This preserves six Diamonds—including both Mult-enhanced cards and several strong ranks—so a Diamond Flush is guaranteed for the final hand, where Acrobat’s ×3 Mult combines with the Flush jokers to clear the remaining target.

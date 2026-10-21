@@ -1,0 +1,1 @@
+Showman has little immediate scoring or economy value, while Smiley Face offers a reliable +5 Mult for each scored face card and can support the existing Two Pair engine. Sell Showman to make room without disturbing Raised Fist, Clever Joker, Mystic Summit, or Burglar.

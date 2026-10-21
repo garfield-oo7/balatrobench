@@ -1,0 +1,1 @@
+Buy Saturn for $3 and use it to develop Straight as a second strong hand type. Crazy Joker gives +12 Mult to Straights, so the +3 Mult and +30 Chips make a powerful alternative to our Jolly Joker-supported Two Pair build, improving flexibility for upcoming blinds.

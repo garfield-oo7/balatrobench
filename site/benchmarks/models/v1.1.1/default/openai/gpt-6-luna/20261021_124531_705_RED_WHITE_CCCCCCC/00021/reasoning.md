@@ -1,0 +1,1 @@
+Buy Delayed Gratification for $4. It pairs well with Trading Card: trigger Trading Card with a single first discard, then preserve the remaining discards to earn money at round end (and it can pay even more if no discard is needed). The extra recurring economy is more valuable this early than the narrow +3 Mult from Spades, while retaining $4 preserves some interest progress.

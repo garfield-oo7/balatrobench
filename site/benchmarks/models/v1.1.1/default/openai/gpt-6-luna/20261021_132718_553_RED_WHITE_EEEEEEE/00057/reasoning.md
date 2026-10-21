@@ -1,0 +1,1 @@
+Take the King of Clubs: the pack offers no enhancements or seals, so the highest-rank card gives the most chips when scored under Splash and can also improve pair/Two Pair/Full House opportunities. None of the choices triggers Even Steven, making the King the strongest plain addition.

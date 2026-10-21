@@ -1,0 +1,1 @@
+We need at least 52 more points with the final hand. Preserve the four Hearts for a flush draw and keep the matching 7♣ with 7♥ as a backup pair; discard the three low off-suit cards to draw replacements. A fifth Heart makes an easy flush that clears the target, and new pairs/two-pairs may also score enough.

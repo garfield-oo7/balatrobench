@@ -1,0 +1,10 @@
+[
+  {
+    "id": "call_KESNEbm7MwKUh2RWcs6h9czo",
+    "function": {
+      "arguments": "{\"consumable\": 0}",
+      "name": "use"
+    },
+    "type": "function"
+  }
+]

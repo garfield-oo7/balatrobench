@@ -1,0 +1,1 @@
+Use the held Jupiter now to further strengthen the established Flush engine (+2 Mult and +15 Chips). It is the run's most-played hand and both Crafty and Droll reward Flushes, so this focused upgrade is more valuable than keeping the Planet in reserve.

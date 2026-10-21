@@ -1,0 +1,1 @@
+Odd Todd provides situational chips on odd cards, while Abstract Joker's +15 Mult applies reliably to every hand and dramatically strengthens the Flush engine. Sell Odd Todd to free the full Joker row without sacrificing the core Flush Jokers, Acrobat, or Golden Joker's recurring income.

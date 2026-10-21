@@ -1,0 +1,1 @@
+Pursue the established Flush engine: keep the three non-debuffed Hearts (Q, 7, 2) and discard the two debuffed Spades plus the three Diamonds to draw five replacements. A completed Flush triggers both Crafty and Droll, and the Hearts also retain the strongest current ranks for scoring.

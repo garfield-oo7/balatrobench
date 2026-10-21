@@ -1,0 +1,1 @@
+The blind needs only 64 more points, but the current hand has no strong scored combination. Preserve the pair of threes and the Ten while cycling five unrelated/debuffed cards; this keeps a guaranteed scoring option and gives a chance to draw a stronger pair, trips, or better hand before using either remaining hand.

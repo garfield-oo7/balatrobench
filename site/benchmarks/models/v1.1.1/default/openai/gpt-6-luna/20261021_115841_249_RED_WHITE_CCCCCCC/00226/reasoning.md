@@ -1,0 +1,1 @@
+The Window debuffs all three Diamonds, and the remaining Club Jack and Spade 4 do not form a scoring path with the Heart Ace. Preserve the Ace as a possible Heart-flush anchor and discard the other five to dig aggressively for four Hearts (Four Fingers makes a four-card Flush legal). This uses the final discard, activating Mystic Summit for the remaining hands.

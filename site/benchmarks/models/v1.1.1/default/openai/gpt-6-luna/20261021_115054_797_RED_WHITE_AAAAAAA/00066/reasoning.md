@@ -1,0 +1,1 @@
+Enhance the low-value D_3 into a Gold Card, then keep it unplayed in hand while the Two Pair finishes the blind; this should earn $3 at round end without compromising the scoring hand.

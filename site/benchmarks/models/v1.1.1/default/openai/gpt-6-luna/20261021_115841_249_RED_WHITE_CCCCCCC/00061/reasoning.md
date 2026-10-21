@@ -1,0 +1,1 @@
+Gros Michel provides a strong immediate +15 Mult, substantially improving the current scoring engine alongside Red Card and the Spade bonus. The 1-in-6 destruction risk is acceptable for a $4 Ante 3 scoring upgrade, and an open Joker slot means no sale is needed.

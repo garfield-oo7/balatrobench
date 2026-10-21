@@ -1,0 +1,1 @@
+Advance without spending. Hologram costs $7 and only scales when playing cards are added, so it is both unaffordable and unsupported by the current shop; the voucher and packs are also out of reach. A $5 reroll would consume all available cash without guaranteeing an affordable upgrade. Preserve the $5 and keep the established Flush-focused Joker lineup for the next blind.

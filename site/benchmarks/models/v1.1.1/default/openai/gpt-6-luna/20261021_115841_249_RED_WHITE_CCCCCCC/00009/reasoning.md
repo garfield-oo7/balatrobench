@@ -1,0 +1,1 @@
+Play Two Pair using the Jacks and Tens, with the low 3 as an unscored fifth card to cycle it. This yields about 120 points and preserves the King pair plus Ace in hand for follow-up possibilities.

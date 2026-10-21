@@ -1,0 +1,1 @@
+Even Steven is a strong early scoring Joker at only $4: roughly half the deck has even ranks, so it adds reliable +4 Mult on scored cards and should meaningfully improve the next blinds. To Do List is less dependable because its payout requires a Flush, while the Buffoon pack is a gamble and would leave little cash.

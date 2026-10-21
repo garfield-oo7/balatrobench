@@ -1,0 +1,1 @@
+Keep all four Spades, including the Glass Ace, and discard the two off-suit cards to draw toward the established Level-7 Flush build. A fifth Spade can produce a high-scoring Flush, while playing an unpaired high card now would waste a hand and score poorly against the 52,500 target.

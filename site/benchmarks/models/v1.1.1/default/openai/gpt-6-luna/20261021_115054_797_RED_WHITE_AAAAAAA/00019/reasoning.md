@@ -1,0 +1,1 @@
+Play the two Tens and two Sixes as Two Pair to activate Mad Joker’s +10 Mult; Runner’s Holographic edition adds another +10 Mult. The hand should score well over the remaining 416 chips needed. Include the King as an unscored fifth card for extra cycling; it does not score as a kicker, but playing it is harmless and refreshes the maximum number of cards.

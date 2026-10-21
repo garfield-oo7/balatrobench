@@ -1,0 +1,1 @@
+Buy the $4 Buffoon Pack while there is one open Joker slot. A new scoring or scaling Joker can substantially improve this Ante 3 build, whereas the direct Tarot options offer only modest utility and a reroll would consume half our cash. Keep the remaining $6 for interest and future shop flexibility.

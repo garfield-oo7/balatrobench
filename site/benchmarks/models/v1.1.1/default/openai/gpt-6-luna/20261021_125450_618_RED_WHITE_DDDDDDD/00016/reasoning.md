@@ -1,0 +1,1 @@
+Ride the Bus is an early scaling Joker that can add permanent mult across consecutive hands, and we can adapt our Flush/odd-rank scoring to use non-face cards. It is a much stronger long-term investment than 8 Ball's conditional Tarot generation; keep the remaining dollar and fill the last Joker slot.

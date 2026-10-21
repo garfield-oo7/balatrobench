@@ -1,0 +1,1 @@
+I have $0, so Neptune, Wasteful, and the Jumbo Standard Pack are unaffordable. Neptune only levels the rarely played Straight Flush, whereas the current Flush-focused Joker lineup is already effective. Keep all four Jokers and advance to the next blind.

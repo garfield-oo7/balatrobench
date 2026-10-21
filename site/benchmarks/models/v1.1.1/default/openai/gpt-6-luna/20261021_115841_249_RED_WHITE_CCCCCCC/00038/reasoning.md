@@ -1,0 +1,1 @@
+We need 891 more points with only two hands. Keep the four Spades (K, 8, 5, 3) and discard all four off-suit cards to maximize the chance of completing a Spade Flush; a five-Spade Flush gets strong Mult from Wrathful Joker and should be capable of clearing the blind in one hand. This is a better route than settling for the current Two Pair, which would leave a large score gap.

@@ -1,0 +1,1 @@
+Play the pair of Threes with the Jack, Six, and Two as the three Splash-scored extras. This maximizes the Pair score while scoring both even cards for +8 Mult from Even Steven; Jolly Joker adds +8 and Supernova contributes the four prior Pair plays. It should score roughly 1,100 points, cycle five cards, and trigger Vagabond while money is $3.

@@ -1,0 +1,1 @@
+Sell Even Steven to free a Joker slot and add $2. Its +4 Mult per scored even card is useful but situational; replacing it with Ancient Joker gives a genuine multiplicative scaling engine, while preserving Mad Joker, Half Joker, Holographic Runner, and Burglar's extra hands. The current $11 plus the sale proceeds will cover Ancient Joker and leave some reserve.

@@ -1,0 +1,1 @@
+Keep all four Hearts as a strong seed for the established Level-4 Flush engine, including the Glass 9 and face card for potential Smiley Face value. Both Clubs are debuffed by The Club, so cycling them is strictly preferable; drawing two cards gives a chance to complete a Flush without spending a hand.

@@ -1,0 +1,1 @@
+Buy the Celestial Pack for $4 to secure a permanent hand upgrade while keeping $4 in reserve. Flush and Full House are both proven scoring hands, so one of the offered planets should improve a viable line; skip the Arcana Pack afterward to preserve cash and potentially grow Red Card.

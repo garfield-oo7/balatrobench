@@ -1,0 +1,1 @@
+Take Uranus to level up Two Pair, the hand type already supported by Mad Joker's +10 Mult. The added +20 chips and +1 base Mult scale every future Two Pair and synergize with the reliable scoring plan more directly than Jupiter's unsupported Flush upgrade.

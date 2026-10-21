@@ -1,0 +1,1 @@
+Keep the guaranteed five-card Diamond Flush intact while cycling the three off-suit cards for a chance to draw higher Diamonds. Flush is our scoring engine, and saving it for the final hand lets Acrobat’s ×3 Mult combine with Crafty, Droll, Blue Joker, and Abstract to clear the remaining target.

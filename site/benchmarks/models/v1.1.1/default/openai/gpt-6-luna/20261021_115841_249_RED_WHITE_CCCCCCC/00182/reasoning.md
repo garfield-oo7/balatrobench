@@ -1,0 +1,1 @@
+Take The Emperor. With both consumable slots empty, it can generate up to two Tarot cards to hold for future use, giving more value and flexibility than making a single Steel card or modestly modifying this hand. The flush engine is already strong; preserving future suit-conversion, enhancement, or economy options is more useful than forcing a small change now.

@@ -1,0 +1,1 @@
+Play the five Diamonds as a Flush, activating both Crafty (+80 Chips) and Droll (+10 Mult). With Flush level 3, Abstract’s +15 Mult and Blue Joker’s +62 Chips, this should score about (65 + 29 + 80 + 62) × (8 + 10 + 15) = 7,788, enough to clear the 7,500 target immediately. Save the off-suit cards; Acrobat is unnecessary if this hand clears the blind.

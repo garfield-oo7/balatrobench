@@ -1,0 +1,1 @@
+Take Certificate for reliable value starting immediately: it adds a random sealed card to the hand each round, providing useful seal triggers and a modest deck-growth engine. Hologram is excellent with frequent card creation, but there is no current source of added cards, so its XMult would start at 1 and scale too slowly without further support.

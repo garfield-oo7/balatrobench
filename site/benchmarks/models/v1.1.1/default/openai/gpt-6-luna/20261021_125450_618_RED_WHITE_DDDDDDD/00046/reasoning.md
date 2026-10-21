@@ -1,0 +1,1 @@
+Take Jupiter to directly strengthen the established Flush build. Flush is our most-played hand and activates both Crafty (+80 Chips) and Droll (+10 Mult), so its +15 Chips and +2 Mult upgrade will improve the hand we reliably score rather than investing in Full House or Straight.

@@ -1,0 +1,1 @@
+Buy Delayed Gratification for $4: it can return up to $6 if I finish the next round without discarding, giving an early economic payoff while leaving $5. I will skip the booster packs when leaving to build Red Card's Mult; the extra joker slot is available, and this low-cost economy joker can be sold later if its no-discard condition proves too restrictive.

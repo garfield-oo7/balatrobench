@@ -1,0 +1,1 @@
+No pair or scoring combination is currently available, so use a full five-card redraw rather than spending a hand on a weak high card. Keep the Red Seal Ace, plus the 3 and 2 as possible straight connectors; retaining the 2 also preserves a useful low held card for Raised Fist if the next scoring play leaves it in hand.

@@ -1,0 +1,1 @@
+Take Earth as a free, useful fallback upgrade: it adds +25 Chips and +2 Mult to Full Houses, which can provide a strong alternative when a Flush is unavailable. The Flush engine remains the priority, but this pack offers no Flush Planet, and the Full House upgrade is more broadly practical than investing in the rarer Four of a Kind.

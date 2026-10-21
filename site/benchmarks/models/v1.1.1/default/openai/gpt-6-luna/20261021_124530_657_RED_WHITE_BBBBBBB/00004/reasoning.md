@@ -1,0 +1,1 @@
+Play the available Two Pair of Kings and Tens. Its base 20 chips plus the four scored card values (40) at 2 Mult gives about 120 points, enough to raise the current 204 above the 300 Small Blind target with the final hand.

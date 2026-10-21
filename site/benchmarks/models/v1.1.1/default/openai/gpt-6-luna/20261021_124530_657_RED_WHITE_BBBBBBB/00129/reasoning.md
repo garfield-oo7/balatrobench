@@ -1,0 +1,1 @@
+Buy the Jumbo Celestial Pack for a chance to take Uranus and further upgrade the established Level 5 Two Pair engine. The other direct offers are an off-strategy High Card planet and a Fool with no compelling immediate value; the pack costs only $4 and leaves plenty of money for interest.

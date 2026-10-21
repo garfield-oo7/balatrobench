@@ -1,0 +1,1 @@
+Keep all four Diamonds (D_Q, D_T, D_6, D_3) and discard the four off-suit cards to draw toward a fifth Diamond. A Flush is the established scoring engine, activates both Flush Jokers, and the Club boss does not debuff any of the retained cards.

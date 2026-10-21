@@ -1,0 +1,1 @@
+Free the slot occupied by Mad Joker. The build is no longer strictly dependent on Two Pair: Fortune Teller offers a permanent +16 Mult on every hand, improving on Mad Joker’s +10 only when a Two Pair is played and providing value on the High Card hands used frequently this round. Keep the stronger utility jokers (Burglar, Photograph, Ramen, and Mystic Summit).

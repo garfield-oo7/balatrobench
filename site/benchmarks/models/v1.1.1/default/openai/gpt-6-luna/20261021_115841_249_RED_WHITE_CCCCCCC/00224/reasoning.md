@@ -1,0 +1,1 @@
+Preserve the three non-debuffed Spades (both Aces and the Queen) and discard the Club Ace, debuffed Diamond Queen, and Club 3. With four hands left but a large score gap, dig for a fourth Spade to exploit Four Fingers and the Level-7 Flush engine rather than spend a hand on a weaker three-Ace hand.

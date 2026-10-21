@@ -1,0 +1,1 @@
+Buy the Jumbo Celestial Pack to seek a Jupiter and further scale the established Level 4 Flush engine. A Flush Planet adds both chips and mult, directly improving the hand used most often; the pack offers up to five choices, making it preferable to the unrelated Venus or the low-impact Standard Pack. Preserve the full, well-synergized Joker lineup and avoid an unnecessary reroll.

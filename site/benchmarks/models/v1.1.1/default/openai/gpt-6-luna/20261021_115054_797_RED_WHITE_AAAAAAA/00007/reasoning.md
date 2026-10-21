@@ -1,0 +1,1 @@
+Play the made 9-through-K straight for a strong immediate score. It scores all five cards and should yield roughly 316 chips, bringing the blind close to its 450 target; preserve the remaining hands for follow-up scoring.

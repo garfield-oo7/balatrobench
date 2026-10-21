@@ -1,0 +1,1 @@
+Buy The Empress for $3: its two Mult enhancements directly support the Flush strategy, and the cards will retain the +4 Mult bonus when scored alongside Crafty and Droll. This is a known, targeted upgrade with far better value than spending $4 on a random Arcana pack; preserve the remaining $7 rather than buying an off-strategy voucher or rerolling.

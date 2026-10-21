@@ -1,0 +1,1 @@
+The Mouth has locked this blind to High Card, so avoid both sevens and play five distinct ranks with the Ace as the scoring high card. This maximizes the current hand's score from the +15 Mystic Summit, +16 Fortune Teller, and Ramen ×2 stack while cycling five cards for a chance at a face card that can trigger Photograph on a later hand.

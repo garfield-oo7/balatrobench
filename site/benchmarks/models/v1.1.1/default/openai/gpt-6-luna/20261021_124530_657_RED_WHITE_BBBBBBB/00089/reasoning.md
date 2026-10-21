@@ -1,0 +1,1 @@
+Open the discounted Arcana Pack for $3 while keeping cash above the $25 interest threshold. The five Joker slots are full, and the offered Smiley Face or Mime would require replacing a core scoring or hand-economy Joker; a Tarot offers useful immediate money, card enhancement, or deck manipulation without sacrificing the established Two Pair/Three of a Kind engine.

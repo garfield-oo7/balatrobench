@@ -1,0 +1,1 @@
+Keep the three Diamonds, including the Mult-enhanced Queen, as the strongest route to the established Flush engine (Crafty and Droll both trigger on Flushes). Discard the two Spades, two Clubs, and debuffed Heart to maximize the chance of drawing two more Diamonds; playing the Queens pair now would be far weaker than finding a Flush toward this 22,000-point blind.

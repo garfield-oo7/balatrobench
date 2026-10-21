@@ -1,0 +1,1 @@
+Use Mercury for a permanent Pair upgrade: Pair is a useful fallback if the dominant Level 10 Two Pair cannot be made, and there is no Observatory voucher that rewards holding planets. This improves the fallback while freeing a consumable slot; Mars would only upgrade an unused Four of a Kind.

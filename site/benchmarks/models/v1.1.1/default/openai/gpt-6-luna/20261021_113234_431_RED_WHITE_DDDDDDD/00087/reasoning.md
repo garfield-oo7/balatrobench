@@ -1,0 +1,1 @@
+Keep the established five-Joker Flush engine intact and preserve $24, just below the $25 maximum-interest threshold. Scary Face is not worth replacing any of the current Jokers, and Tower would risk turning a Flush card into a non-suit Stone card. The Arcana packs and reroll are too uncertain to justify spending when saving the cash for interest is best.

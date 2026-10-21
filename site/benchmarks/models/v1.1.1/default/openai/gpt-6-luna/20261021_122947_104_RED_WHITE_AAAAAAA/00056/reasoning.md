@@ -1,0 +1,1 @@
+Play the five Spades as a Level 2 Flush. The Arm drops it one level to the Level 1 base of 35 chips and 4 Mult; the scored cards add 33 chips, and Runner’s Holographic edition adds +10 Mult. That yields about 68 × 14 = 952 chips, enough to cover the 906-point deficit and clear the blind in one hand.

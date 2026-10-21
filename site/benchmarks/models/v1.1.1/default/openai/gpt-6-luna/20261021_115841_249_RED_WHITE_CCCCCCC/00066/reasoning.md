@@ -1,0 +1,1 @@
+Keep the three visible Diamonds (K, J, 9) as the core of a Flush draw, along with the face-down card in case it is also a Diamond and the 6♠ as a fallback for Wrathful Joker. Discard the four known off-suit cards to maximize the chance of drawing the one or two Diamonds needed for a Flush, my best leveled hand.

@@ -1,0 +1,1 @@
+Keep all four Spades (A, 7, 5, 3) and discard the four off-suit cards to draw toward a five-Spade Flush. With 2,482 points still needed and three hands left, a Flush benefiting from Wrathful Joker (+3 Mult per scored Spade), Red Card, and Splash offers the best scoring ceiling; a small pair would waste a hand without advancing the strongest route.

@@ -1,0 +1,1 @@
+Play the 5–9 Straight using 9C, 8D, 7D, 6D, and 5D. The Arm cannot lower this Level-1 hand below Level 1, and the Straight's 4 Mult makes it substantially stronger than the available Two Pair. The Foil Trading Card adds chips, and all three Diamonds trigger Rough Gem for $3. This scores efficiently without spending a discard, preserving Delayed Gratification.

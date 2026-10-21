@@ -1,0 +1,1 @@
+Take Uranus to level up Two Pair, our best supported scoring route: it activates Mad Joker’s +10 Mult and has already been played this round. The upgrade adds +1 base Mult and +20 Chips, while Pair’s modest +15 Chips/+1 Mult lacks the large Mad Joker synergy; High Card is weaker still despite being frequently played.

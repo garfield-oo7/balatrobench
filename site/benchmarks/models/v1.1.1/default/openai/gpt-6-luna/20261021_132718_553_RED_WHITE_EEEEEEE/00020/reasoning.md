@@ -1,0 +1,1 @@
+With only $1, none of the available shop items are affordable, and rerolling costs $5. The Tower and Standard Pack offer too little value to justify selling a useful scoring Joker at a loss, while Hieroglyph is inaccessible. Preserve both Jokers and advance to the next blind.
