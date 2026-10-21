@@ -1,0 +1,4 @@
+With 600 as the target over 4 hands and 4 discards, I'm looking at my hand of King and Jack of clubs, 9 of spades, 9 and 8 of diamonds, 6 of clubs, 3 of spades, and a debuffed 2 of hearts. I'm trying to figure out how Raised Fist interacts with that debuffed low card, since it normally doubles the rank of the lowest card held as mult, but I'm unsure whether a debuffed card gets skipped in that calculation.
+
+I'm weighing a pair of 9s play with the 3 held as my lowest card for Raised Fist value, versus fishing for a straight using the 9-8-6 combo and hoping to draw a 7 plus a 5 or 10. Three hands of a 9-pair play with decent held mult could clear roughly 672 points, which should be enough, so I'm planning to discard the King, Jack, and the debuffed 2 while keeping the low 3 held for Raised Fist bonus and searching for straight-completing cards.
+

@@ -1,0 +1,4 @@
+I still need 9504 more points with one hand and three discards left, looking at a hand with a gold Ace of diamonds, a bonus King of hearts, Queen of hearts, 8 and 6 of clubs, 5 of diamonds, a steel 3 of spades, and 3 of diamonds. With jokers like Spare Trousers, The Duo, Odd Todd, and Ancient Joker in play, and recalling that previous Two Pair hands scored around 30k, I'm eyeing the pair of 3s (diamonds and spades) as a potential pairing option.
+
+Estimating the pair of 3s alone with Odd Todd's bonus chips, Trousers' mult boost, and Duo's x2 gives roughly 11k, which might be enough, but Two Pair would be safer and could hit 20k+ even accounting for steel bonus loss on the played 3. I'm leaning toward discarding the Queen, 8, 6, and 5 to try drawing a second pair alongside the Ace or King, since even a modest pair should clear the score requirement.
+

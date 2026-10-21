@@ -1,0 +1,4 @@
+I'm looking at The Plant blind where face cards get debuffed, needing to hit 10000 with 5 hands and 4 discards. With C_A, H_K, C_K, H_Q, C_9, C_6, D_3, H_2 in hand and jokers like Red Card, Raised Fist, and Cavendish boosting multiplier, I'm considering a clubs flush using C_A, C_K, C_9, C_6 since I have four clubs available.
+
+Even though the king is debuffed, it still counts toward a flush, giving roughly 61 chips and a multiplier near 38 after jokers, times 3 from Cavendish, landing around 6954 — not quite enough solo but workable across two hands. A two pair hand, though, could hit around 10260 in one shot if I pair up nines and sixes with the chip and mult bonuses stacking. Since I currently have no pairs, I'm leaning toward discarding the debuffed face cards (K, K, Q) plus the 3, keeping the ace, 9, 6, and 2 since the 2 helps Raised Fist's lowest-held-card bonus, giving me better odds to draw into pairs or improve the flush.
+

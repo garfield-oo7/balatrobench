@@ -1,0 +1,1 @@
+Two Pair is my main hand (played 11 times) and works with Jolly Joker, so Uranus is the best pick. Mars and Pluto would level hands I rarely play.

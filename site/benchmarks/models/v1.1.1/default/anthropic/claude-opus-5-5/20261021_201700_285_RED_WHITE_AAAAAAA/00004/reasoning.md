@@ -1,0 +1,1 @@
+Spare Trousers pairs with Mad Joker because both trigger on Two Pair (Full House also counts). It gains +2 Mult every time I play a Two Pair, so it keeps growing and gives a clear plan to build around.

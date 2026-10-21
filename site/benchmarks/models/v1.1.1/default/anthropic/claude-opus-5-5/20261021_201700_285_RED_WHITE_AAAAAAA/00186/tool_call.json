@@ -1,0 +1,10 @@
+[
+  {
+    "id": "toolu_01GhECN2wueovngPJ4rsLaEY",
+    "function": {
+      "arguments": "{\"hand\": [4, 2, 3, 5, 7, 0, 1, 6]}",
+      "name": "rearrange"
+    },
+    "type": "function"
+  }
+]

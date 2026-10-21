@@ -1,0 +1,2 @@
+Uranus is available, so I should grab it per my earlier plan. Comparing options: Uranus gives +20 chips and +1 mult specifically on two pair, while Red Card adds +3 mult to everything. Given the current two pair's chip and mult totals, Uranus looks like roughly a 15% chip boost versus Red Card's smaller mult boost, though Red Card's universal applicability across hands like flush is worth weighing too—but two pair is still my primary hand.
+

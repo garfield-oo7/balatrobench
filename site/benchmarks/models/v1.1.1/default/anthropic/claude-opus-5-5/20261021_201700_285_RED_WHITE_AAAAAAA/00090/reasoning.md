@@ -1,0 +1,1 @@
+Uranus levels up Two Pair, which is my main hand. Mad Joker, Spare Trousers and Acrobat all work with it.

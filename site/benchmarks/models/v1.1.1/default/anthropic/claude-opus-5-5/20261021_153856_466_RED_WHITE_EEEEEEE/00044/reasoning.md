@@ -1,0 +1,1 @@
+Two Pair is the hand I play most (6 times this run), and it works with Jolly Joker, Even Steven, Smiley Face and Supernova. Burnt Joker also levels it up when I discard a Two Pair. Uranus takes Two Pair from level 2 to level 3.

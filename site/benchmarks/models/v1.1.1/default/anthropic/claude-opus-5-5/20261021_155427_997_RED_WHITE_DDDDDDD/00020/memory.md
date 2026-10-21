@@ -1,0 +1,40 @@
+# Memory & Previous Actions
+
+
+## Recent Decision History
+
+Here is a list of your recent decisions (from oldest to newest):
+
+
+**1.** `pack({'card': 0, 'reasoning': "Acrobat gives X3 Mult on the final hand of each round. That's a real multiplier, and my current jokers only add chips (Scary Face) and a little mult (Wrathful). It can win tough blinds on the last hand. Splash does little without supporting jokers. I have joker slots free."})` - 
+
+**2.** `next_round({'reasoning': "I'm skipping everything here. Neptune levels Straight Flush, which I don't play. Odd Todd only adds chips, and Scary Face already covers that. My current jokers (Scary Face, Wrathful and Acrobat for X3) should easily beat the 600-chip Ante 1 boss. Keeping the $4 helps me reach the interest thresholds and save for a better mult joker or a voucher."})` - 
+
+**3.** `discard({'cards': [4, 5, 6], 'reasoning': "I'm keeping J-T-9-7 because any 8 makes the straight J-T-9-8-7. The 6 doesn't add any outs, so I'm discarding it with the spare 7 and the 2 to draw 3 new cards."})` - 
+
+**4.** `discard({'cards': [0, 2], 'reasoning': "I'm keeping H_Q, H_J, H_T, C_9 and H_7 so I can draw to two hands at once. A K or an 8 completes the straight (Q-J-T-9 plus K, or J-T-9-8-7). Any heart completes a heart flush with Q, J, T and 7. That's a lot of outs. D_A and C_Q don't help either draw."})` - 
+
+**5.** `play({'cards': [0, 1, 2, 3, 6], 'reasoning': 'Two pair QQJJ with 4 face cards scores (20+40+120)×2 = 360, more than half the 600 target. H_7 goes along as a free discard, and I keep T and 9 for a possible straight. Acrobat gives X3 on the final hand, so I can easily make up the remaining 240 over the next 3 hands.'})` - 
+
+**6.** `play({'cards': [2, 3, 4], 'reasoning': "Three 9s: chips are 30 + 27 = 57, and mult is 3 base + 3 from Wrathful for S_9 = 6. That's 342, which covers the 240 I still need. It wins now and saves 2 hands for extra money."})` - 
+
+**7.** `next_round({'reasoning': "Nothing here is worth the money. Ride the Bus resets on face cards, which clashes with Scary Face. 8 Ball is weak. I don't have a dominant hand type yet, so a Celestial Pack would be wasted, and an Arcana Pack would drop me below $10. Keeping $11 gives me $2 interest, and my current jokers, with Acrobat's X3 on the final hand, should handle Ante 2. I'll save for a strong mult joker."})` - 
+
+**8.** `discard({'cards': [1, 2, 4, 6], 'reasoning': "I'm keeping H_A, D_4, D_3 and D_2. Any 5 makes the A-2-3-4-5 straight, and there's also a diamond flush draw. The spare 3 and 2 are duplicates, and the 8 and 7 don't help, so I'm discarding all four to draw toward the straight, the flush or face cards for Scary Face."})` - 
+
+**9.** `play({'cards': [2, 3, 4, 5, 7], 'reasoning': "Two pair, 6s and 4s. Chips are 20 base + 20 from the cards = 40. Mult is 2 base + 6 from Wrathful (S_6 and S_4) = 8, so 320 total. D_2 goes along as a free discard. I'm keeping the Ace and Queen for face-card scoring later, and Acrobat's X3 on the final hand makes the remaining 480 easy."})` - 
+
+**10.** `discard({'cards': [5, 6, 7], 'reasoning': "I'm keeping A, K, Q, J, J. A Ten completes a Broadway straight (about 1700 points). Pairing the K, Q or A gives a face-card two pair (about 1400). Either one clears the 480 I still need in a single hand. If neither comes, I can still play the JJ pair for 450 and have hands left to finish, so this discard costs nothing."})` - 
+
+
+
+## Strategic Context
+
+Based on your recent actions, consider:
+- How your decisions are building towards a cohesive strategy
+- Whether your current approach is working or needs adjustment
+- Patterns in your play that might need to change
+
+
+
+

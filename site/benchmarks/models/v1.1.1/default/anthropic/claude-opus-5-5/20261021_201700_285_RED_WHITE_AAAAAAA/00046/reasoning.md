@@ -1,0 +1,4 @@
+The Arm reduces the played hand's level by 1, so Two Pair drops from level 2 to level 1 after the first play and stays there. Looking at the current hand, I note the cards present and see no diamonds, which matters since the Ancient Joker's suit changes each round and is currently set to diamonds.
+
+Checking my options, I only have three tens for a Three of a Kind, which doesn't trigger Mad Jack or Spare Trousers since it lacks two pairs — scoring comes out modest even with steel multiplier. I'd do better discarding to chase a Full House by pairing the tens with a king or queen, since Full House contains two pair and would hit much higher scoring with Scary Face and steel bonuses stacking the mult way up. I'm leaning toward discarding just the 5 of clubs to keep both the queen and king as pairing targets while holding the three tens.
+

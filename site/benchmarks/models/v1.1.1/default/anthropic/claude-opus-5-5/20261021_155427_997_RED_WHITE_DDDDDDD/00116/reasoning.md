@@ -1,0 +1,1 @@
+My build is Spade flush with Wrathful, and Flush is my main hand at Level 4, so Jupiter's level-up (+2 Mult, +15 Chips) goes to the hand I actually play.

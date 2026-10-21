@@ -1,0 +1,4 @@
+I need 12882 more on this final hand, and I've got Acrobat x3 in play. Checking the pair of Aces option: chips come to 48 with multiplier around 36, and with the x3 that's only 108, giving 5184 total—not nearly enough unless the Ancient joker triggers on the right suit to boost things further.
+
+No flush, straight, or stronger hand available—spades only hit 3 cards and the straight is missing a King. Two pair isn't possible either, so the pair of Aces really is the best I can do. Working through the ordering of effects, if Ancient applies its multiplier before the Swashbuckler and abstract joker add their flat bonuses, I'm looking at base mult 2 scaling to 3 on the ace, then adding 18+16=37, times 3 for Acrobat gives 111 total chips-equivalent—nowhere close to the target. This hand is essentially unwinnable, but I'll play the Aces anyway since there's no better option.
+

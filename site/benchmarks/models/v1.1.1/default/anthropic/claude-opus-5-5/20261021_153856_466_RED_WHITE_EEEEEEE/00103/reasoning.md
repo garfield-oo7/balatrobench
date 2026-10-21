@@ -1,0 +1,4 @@
+With my remaining discard and four hands left, I'm checking the Two Pair option of K-K-J-J: base chips 180, multiplier boosted by Jolly and Smiley jokers to 36, then ×1.5 from the held steel card, giving roughly 9720 total.
+
+Two plays at that rate still fall short of 22000, so I need a stronger line or more plays. Options like a full house with the two 3s aren't better than the kings-and-jacks pair, since the 3s pair is weaker and face-down cards wouldn't contribute properly to two pair. Rather than playing immediately, I'm leaning toward using the last discard to fish for another king or jack to upgrade into a full house (×3 multiplier), tossing the T, 8, and non-steel 3 while keeping the steel diamond 3 intact, since the discard costs nothing extra this round and could meaningfully boost my score.
+

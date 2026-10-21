@@ -1,0 +1,4 @@
+Looking at my hand, I've got two pair: 9s and 5s. I'm considering playing the 9s and 5s together, and checking whether the Ancient Joker's suit bonus applies to diamonds, which would boost the Ace in the mix.
+
+Working through the math: base chips come to 312 with mult around 61, and the diamond card gets a ×1.5 bonus from Ancient, landing near 28,548 — short of the 40,000 target but fine since this isn't the final hand. With three discards and four hands remaining, I don't need to maximize everything now; I can hold back the Ace, 7, and 3 for future pairs and still clear the next hand easily. I'm settling on playing five cards in a specific order so the diamond's ×1.5 multiplier applies after the 9's additive mult bonus, since card effects resolve before joker effects like Mad Joker and Spare Trousers kick in.
+

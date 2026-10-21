@@ -1,0 +1,1 @@
+Flush is my main hand, and my build leans on Spade flushes through Wrathful and Ancient. Jupiter levels Flush up to level 4.

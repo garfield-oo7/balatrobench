@@ -1,0 +1,1 @@
+Two Pair is my main hand (played 7 times), and Mad Joker and Spare Trousers trigger on it. Uranus takes it to Level 4, adding +20 Chips and +1 Mult.

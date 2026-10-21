@@ -1,0 +1,1 @@
+Uranus levels up Two Pair, the hand my whole build plays, from level 6 to 7. That adds +20 chips and +1 Mult. Saturn and Pluto level up hands I don't play.

@@ -1,0 +1,10 @@
+[
+  {
+    "id": "toolu_01959g1jLXZ4gcUytP2iK6QZ",
+    "function": {
+      "arguments": "{\"cards\": [6]}",
+      "name": "discard"
+    },
+    "type": "function"
+  }
+]

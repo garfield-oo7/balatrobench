@@ -1,0 +1,1 @@
+Uranus raises Two Pair, my main scoring hand, from level 7 to 8 (+20 chips, +1 Mult). Mars and Pluto would level hands I don't play.
